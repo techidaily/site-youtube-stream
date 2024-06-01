@@ -1,6 +1,6 @@
-# TechiDaily
+# Youtube Stream Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://youtube-stream.techidaily.com](https://youtube-stream.techidaily.com)
 
 ## Publish
 

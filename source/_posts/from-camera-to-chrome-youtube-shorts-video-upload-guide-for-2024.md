@@ -1,0 +1,844 @@
+---
+title: "\"From Camera to Chrome  YouTube Shorts Video Upload Guide for 2024\""
+date: 2024-05-26 18:54:17
+updated: 2024-05-27 11:19:45
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes From Camera to Chrome: YouTube Shorts Video Upload Guide for 2024\""
+excerpt: "\"This Article Describes From Camera to Chrome: YouTube Shorts Video Upload Guide for 2024\""
+keywords: "YouTubShortUploadGuide,YouTubeChromeGuide,ShortVideoCreation,YouTubeShortsUploading,ChromeToCameraUpload,VideoUploadYouTube,ShortFilmOnChrome"
+thumbnail: https://www.lifewire.com/thmb/ZBqFoENbbRmDTcsnIlj_6leL_Bg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/screenburnin01-5bdc37e9c9e77c00269c4545.jpg
+---
+
+## From Camera to Chrome: YouTube Shorts Video Upload Guide
+
+# How to Upload Shorts Video on YouTube? \[2024\]
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of this writing, the users in India have access to the fully functional version of the app. Although YouTube Shorts is available for both Android and iOS platforms, its functions are limited as the application is still in its Beta phase for the remaining part of the globe.
+
+With that said, the following sections explain the step-by-step process on **how to upload a short video on YouTube** Shorts both from your smartphone and a PC.
+
+## Part 1: How to Upload Short Video on YouTube from PC?
+
+The fact is, if you are using a computer to upload short videos to YouTube, the process is identical to publishing your other, regular footage. However, there are a few guidelines that your clips must comply with so that the streaming platform could specifically identify them as YouTube Shorts. These norms include:
+
+* Your videos must not be more than 60 seconds long in duration
+* They must be shot in portrait orientation, ideally in the 9:16 aspect ratio
+* The title or the description must contain ‘#Shorts’ (without quotes) in it
+
+Once you have a video recorded using the first two guidelines from the above list, you can use the instructions given below to upload the media on YouTube:
+
+#### Step 1: Select a Short Video to Upload
+
+![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
+
+Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
+
+![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
+
+#### Step 2: Mark the Video as Short
+
+On the **Details** window that appears, add **#Shorts** in the **Title** or **Description** field, optionally pick a thumbnail from the suggested images present under the **Thumbnail** section (or upload a custom picture from your PC), select your preferred radio button from under the **Audience** section, make the other necessary changes if need be, and click **NEXT**. When the **Video elements** window comes up, choose your preferred options and elements, click **NEXT**.
+
+![Mark YouTube Shorts Video in title and description](https://images.wondershare.com/filmora/article-images/mark-shorts-videos-on-youtube-pc.jpg)
+
+#### Step 3: Publish the Short Video
+
+On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
+
+![post YouTube Shorts Video  ](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+
+To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+---
+
+## Part 2: How to Upload Short Video on YouTube Mobile App?
+
+The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
+
+**Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
+
+### Method 1: Upload an Existing Short Video
+
+**Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
+
+#### Step 1: Select a Video to Upload
+
+![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
+
+On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
+
+#### Step 2: Add Details
+
+![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
+
+On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
+
+#### Step 3: Upload the Video
+
+Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+### Method 2: Record a Short Video and Upload
+
+**Step 1:** Record Shorts Video
+
+Previously, I have introduced [how to record and upload YouTube Shorts videos](https://tools.techidaily.com/wondershare/filmora/download/), so I will keep the content concise here.
+
+Please note you will not see the **Create a Short** option if you are outsides of India.
+
+![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
+
+Next, use the **Speed** and **Timer** icons to set the speed of the video and the countdown timer duration before the app starts recording the video when you press the **Record** button respectively.
+
+Now tap the **Record** button from the bottom to start recording a video and stop to stop the recording. Make sure to shoot the footage in the portrait mode (ideally in the 9:16 aspect ratio). Tap **NEXT** from the bottom-right corner to proceed to the next step.
+
+**Step 2: Add Text and Music to the Short Video**
+
+On the next window, use the **Music** and **Text** buttons from the bottom-left corner to add a background music and caption to the video, and tap **NEXT** from the top-right corner.
+
+**Step 3:** **Upload and Post the Short Video**
+
+On the **Add details** window, enter a name for the video along with the **#Shorts** tag in the **Create a title** field, tap **Select audience** to select the target audience, and tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+**[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
+
+**Conclusion**
+
+Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of this writing, the users in India have access to the fully functional version of the app. Although YouTube Shorts is available for both Android and iOS platforms, its functions are limited as the application is still in its Beta phase for the remaining part of the globe.
+
+With that said, the following sections explain the step-by-step process on **how to upload a short video on YouTube** Shorts both from your smartphone and a PC.
+
+## Part 1: How to Upload Short Video on YouTube from PC?
+
+The fact is, if you are using a computer to upload short videos to YouTube, the process is identical to publishing your other, regular footage. However, there are a few guidelines that your clips must comply with so that the streaming platform could specifically identify them as YouTube Shorts. These norms include:
+
+* Your videos must not be more than 60 seconds long in duration
+* They must be shot in portrait orientation, ideally in the 9:16 aspect ratio
+* The title or the description must contain ‘#Shorts’ (without quotes) in it
+
+Once you have a video recorded using the first two guidelines from the above list, you can use the instructions given below to upload the media on YouTube:
+
+#### Step 1: Select a Short Video to Upload
+
+![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
+
+Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
+
+![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
+
+#### Step 2: Mark the Video as Short
+
+On the **Details** window that appears, add **#Shorts** in the **Title** or **Description** field, optionally pick a thumbnail from the suggested images present under the **Thumbnail** section (or upload a custom picture from your PC), select your preferred radio button from under the **Audience** section, make the other necessary changes if need be, and click **NEXT**. When the **Video elements** window comes up, choose your preferred options and elements, click **NEXT**.
+
+![Mark YouTube Shorts Video in title and description](https://images.wondershare.com/filmora/article-images/mark-shorts-videos-on-youtube-pc.jpg)
+
+#### Step 3: Publish the Short Video
+
+On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
+
+![post YouTube Shorts Video  ](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+
+To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+---
+
+## Part 2: How to Upload Short Video on YouTube Mobile App?
+
+The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
+
+**Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
+
+### Method 1: Upload an Existing Short Video
+
+**Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
+
+#### Step 1: Select a Video to Upload
+
+![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
+
+On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
+
+#### Step 2: Add Details
+
+![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
+
+On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
+
+#### Step 3: Upload the Video
+
+Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+### Method 2: Record a Short Video and Upload
+
+**Step 1:** Record Shorts Video
+
+Previously, I have introduced [how to record and upload YouTube Shorts videos](https://tools.techidaily.com/wondershare/filmora/download/), so I will keep the content concise here.
+
+Please note you will not see the **Create a Short** option if you are outsides of India.
+
+![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
+
+Next, use the **Speed** and **Timer** icons to set the speed of the video and the countdown timer duration before the app starts recording the video when you press the **Record** button respectively.
+
+Now tap the **Record** button from the bottom to start recording a video and stop to stop the recording. Make sure to shoot the footage in the portrait mode (ideally in the 9:16 aspect ratio). Tap **NEXT** from the bottom-right corner to proceed to the next step.
+
+**Step 2: Add Text and Music to the Short Video**
+
+On the next window, use the **Music** and **Text** buttons from the bottom-left corner to add a background music and caption to the video, and tap **NEXT** from the top-right corner.
+
+**Step 3:** **Upload and Post the Short Video**
+
+On the **Add details** window, enter a name for the video along with the **#Shorts** tag in the **Create a title** field, tap **Select audience** to select the target audience, and tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+**[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
+
+**Conclusion**
+
+Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of this writing, the users in India have access to the fully functional version of the app. Although YouTube Shorts is available for both Android and iOS platforms, its functions are limited as the application is still in its Beta phase for the remaining part of the globe.
+
+With that said, the following sections explain the step-by-step process on **how to upload a short video on YouTube** Shorts both from your smartphone and a PC.
+
+## Part 1: How to Upload Short Video on YouTube from PC?
+
+The fact is, if you are using a computer to upload short videos to YouTube, the process is identical to publishing your other, regular footage. However, there are a few guidelines that your clips must comply with so that the streaming platform could specifically identify them as YouTube Shorts. These norms include:
+
+* Your videos must not be more than 60 seconds long in duration
+* They must be shot in portrait orientation, ideally in the 9:16 aspect ratio
+* The title or the description must contain ‘#Shorts’ (without quotes) in it
+
+Once you have a video recorded using the first two guidelines from the above list, you can use the instructions given below to upload the media on YouTube:
+
+#### Step 1: Select a Short Video to Upload
+
+![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
+
+Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
+
+![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
+
+#### Step 2: Mark the Video as Short
+
+On the **Details** window that appears, add **#Shorts** in the **Title** or **Description** field, optionally pick a thumbnail from the suggested images present under the **Thumbnail** section (or upload a custom picture from your PC), select your preferred radio button from under the **Audience** section, make the other necessary changes if need be, and click **NEXT**. When the **Video elements** window comes up, choose your preferred options and elements, click **NEXT**.
+
+![Mark YouTube Shorts Video in title and description](https://images.wondershare.com/filmora/article-images/mark-shorts-videos-on-youtube-pc.jpg)
+
+#### Step 3: Publish the Short Video
+
+On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
+
+![post YouTube Shorts Video  ](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+
+To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+---
+
+## Part 2: How to Upload Short Video on YouTube Mobile App?
+
+The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
+
+**Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
+
+### Method 1: Upload an Existing Short Video
+
+**Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
+
+#### Step 1: Select a Video to Upload
+
+![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
+
+On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
+
+#### Step 2: Add Details
+
+![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
+
+On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
+
+#### Step 3: Upload the Video
+
+Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+### Method 2: Record a Short Video and Upload
+
+**Step 1:** Record Shorts Video
+
+Previously, I have introduced [how to record and upload YouTube Shorts videos](https://tools.techidaily.com/wondershare/filmora/download/), so I will keep the content concise here.
+
+Please note you will not see the **Create a Short** option if you are outsides of India.
+
+![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
+
+Next, use the **Speed** and **Timer** icons to set the speed of the video and the countdown timer duration before the app starts recording the video when you press the **Record** button respectively.
+
+Now tap the **Record** button from the bottom to start recording a video and stop to stop the recording. Make sure to shoot the footage in the portrait mode (ideally in the 9:16 aspect ratio). Tap **NEXT** from the bottom-right corner to proceed to the next step.
+
+**Step 2: Add Text and Music to the Short Video**
+
+On the next window, use the **Music** and **Text** buttons from the bottom-left corner to add a background music and caption to the video, and tap **NEXT** from the top-right corner.
+
+**Step 3:** **Upload and Post the Short Video**
+
+On the **Add details** window, enter a name for the video along with the **#Shorts** tag in the **Create a title** field, tap **Select audience** to select the target audience, and tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+**[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
+
+**Conclusion**
+
+Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of this writing, the users in India have access to the fully functional version of the app. Although YouTube Shorts is available for both Android and iOS platforms, its functions are limited as the application is still in its Beta phase for the remaining part of the globe.
+
+With that said, the following sections explain the step-by-step process on **how to upload a short video on YouTube** Shorts both from your smartphone and a PC.
+
+## Part 1: How to Upload Short Video on YouTube from PC?
+
+The fact is, if you are using a computer to upload short videos to YouTube, the process is identical to publishing your other, regular footage. However, there are a few guidelines that your clips must comply with so that the streaming platform could specifically identify them as YouTube Shorts. These norms include:
+
+* Your videos must not be more than 60 seconds long in duration
+* They must be shot in portrait orientation, ideally in the 9:16 aspect ratio
+* The title or the description must contain ‘#Shorts’ (without quotes) in it
+
+Once you have a video recorded using the first two guidelines from the above list, you can use the instructions given below to upload the media on YouTube:
+
+#### Step 1: Select a Short Video to Upload
+
+![Upload YouTube Shorts Video to desktop](https://images.wondershare.com/filmora/article-images/upload-short-videos-on-youtube-pc.jpg)
+
+Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
+
+![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
+
+#### Step 2: Mark the Video as Short
+
+On the **Details** window that appears, add **#Shorts** in the **Title** or **Description** field, optionally pick a thumbnail from the suggested images present under the **Thumbnail** section (or upload a custom picture from your PC), select your preferred radio button from under the **Audience** section, make the other necessary changes if need be, and click **NEXT**. When the **Video elements** window comes up, choose your preferred options and elements, click **NEXT**.
+
+![Mark YouTube Shorts Video in title and description](https://images.wondershare.com/filmora/article-images/mark-shorts-videos-on-youtube-pc.jpg)
+
+#### Step 3: Publish the Short Video
+
+On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
+
+![post YouTube Shorts Video  ](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
+
+To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+---
+
+## Part 2: How to Upload Short Video on YouTube Mobile App?
+
+The process of **uploading YouTube Shorts** from the mobile app is fairly simple compared to the method used on a computer. While using the app, you can either upload an existing video or shoot a new one from within the program itself then and there, add music and text, and upload it right away. Both these methods are explained below in detail:
+
+**Note:** The guidelines for creating and uploading short videos to YouTube remain the same, regardless of the platform or device you use.
+
+### Method 1: Upload an Existing Short Video
+
+**Note:** Make sure to have the target video on the smartphone and that you have downloaded, installed, and signed in to the YouTube app before proceeding.
+
+#### Step 1: Select a Video to Upload
+
+![Select a Video to Upload as Shorts](https://images.wondershare.com/filmora/article-images/select-shorts-videos-to-upload-on-youtube.jpg)
+
+On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Create**) icon from the bottom, tap **Create a Short** from the **Create** box that pops up from the bottom, tap **Upload** from the bottom-right corner of the next screen, and select and upload a short, 60 seconds video recorded in portrait orientation from your device’s storage to the app.
+
+#### Step 2: Add Details
+
+![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
+
+On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
+
+#### Step 3: Upload the Video
+
+Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+### Method 2: Record a Short Video and Upload
+
+**Step 1:** Record Shorts Video
+
+Previously, I have introduced [how to record and upload YouTube Shorts videos](https://tools.techidaily.com/wondershare/filmora/download/), so I will keep the content concise here.
+
+Please note you will not see the **Create a Short** option if you are outsides of India.
+
+![ Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
+
+Next, use the **Speed** and **Timer** icons to set the speed of the video and the countdown timer duration before the app starts recording the video when you press the **Record** button respectively.
+
+Now tap the **Record** button from the bottom to start recording a video and stop to stop the recording. Make sure to shoot the footage in the portrait mode (ideally in the 9:16 aspect ratio). Tap **NEXT** from the bottom-right corner to proceed to the next step.
+
+**Step 2: Add Text and Music to the Short Video**
+
+On the next window, use the **Music** and **Text** buttons from the bottom-left corner to add a background music and caption to the video, and tap **NEXT** from the top-right corner.
+
+**Step 3:** **Upload and Post the Short Video**
+
+On the **Add details** window, enter a name for the video along with the **#Shorts** tag in the **Create a title** field, tap **Select audience** to select the target audience, and tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
+
+**[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
+
+**Conclusion**
+
+Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## Transforming Viewers Into Fans with Top YT Video Reacts
+
+# Best YouTube Video Reaction Ideas
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Finding ways to engage your YouTube audience and attract new followers requires a lot of dedication and hard work. Even though there are only a handful of channels built entirely around **reaction videos**, this genre of videos can help you make your channel more diverse.
+
+However, copyright restrictions prevent you from commenting on any video you find interesting, which is the reason why you have to get creative while choosing the next idea for a reaction video. So, in this article we are going to take you through some of the **best YouTube video reaction ideas** you can use to comment on different types of YouTube videos.
+
+Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## 10 Best YouTube Video Reaction Ideas You Should Try in 2021
+
+The process of [making a YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) starts with an idea and the idea you choose often determines how good that video is going to be. The fact that reaction videos are so popular on YouTube right now, makes the idea selection even more important because just one good idea may boost your number of followers significantly. Here are some of the best video reaction ideas you can use to comment on different topics.
+
+### 1\. React to music videos
+
+Music videos are among the most popular genres of videos on YouTube, which makes them perfect to react to. You can share your opinion about the musician, their latest work or the video’s visual aspects. Obtaining the copyrights to the music video you would like to comment on is very important, because you may be forced to delete your reaction video if you don’t.
+
+### 2\. Video game reactions
+
+Video games like Minecraft, Fortnite or Grand Theft Auto attract a lot of attention on YouTube, and if you are a fan of any of them you can easily react to the gameplay. Reacting to video games is only a good idea if your channel is dedicated to gaming, because otherwise, this reaction video idea may seem off-topic.
+
+### 3\. React to video’s comments
+
+YouTubers that already have thousands of followers need to keep coming up with new ways to engage their audience. Encouraging the viewers of your videos to comment on them can be a valuable source of ideas for reaction videos. You can comment on the topics that were discussed in the comments and address particular questions your followers have asked you.
+
+### 4\. Make a ‘Kids React To’ videos
+
+Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
+
+### 5\. React to ‘React To’ Videos
+
+Even though reacting to a reaction video sounds silly, it is anything but because by doing so you will open up space for a dialogue with other YouTubers. Besides being funny, this is also an opportunity to give your two cents on topics that are most relevant for your channel. In addition, the YouTube audience loves collaborations between YouTubers, which will give you and your associates the opportunity to increase the size of your audience.
+
+### 6\. Comment on your old videos
+
+Producing new content for your YouTube channel regularly is important for so many reasons, but recycling old material from time to time can allow you to reflect on the topics you already covered. In addition, you’ll remind your viewers of your old videos and give them the reason to watch them again. Opting to comment on the videos you made in the past can also help you avoid potential copyright complications.
+
+### 7\. Record reactions of elderly people
+
+It becomes increasingly difficult to keep up with the latest pop culture trends as we get older. That’s why elderly people often have trouble understanding the taste of younger generations. Recording their reactions to fashion choices young people make or the music they listen to can be hilarious, which makes it an excellent reaction video idea.
+
+### 8\. React to different challenges
+
+Over the course of the last decade, we’ve seen so many challenges go viral, as even the world’s most famous politicians took part in some of them. Challenge videos are not as popular as they used to be a few years ago, but they still amass thousands of views. Making funny reaction videos to different challenge videos may help you boost your number of followers, especially if you come up with witty remarks for each video you comment on.
+
+### 9\. React to TV shows
+
+We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
+
+### 10\. Comment on [movie trailers](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you are running a movie channel on YouTube, your followers are expecting your comment on the latest releases. Sharing your opinion about trailers of movies you like or dislike with your audience is going to help you start a conversation about that movie. This idea is only worth considering if you are a movie buff, since analyzing a movie trailer or reacting to it is anything but easy.
+
+Interested in Movie Trailer? You can now make it with some [best movie trailer makers](https://tools.techidaily.com/wondershare/filmora/download/) easily.
+
+With these reaction video ideas in mind, you can practise it on YouTube, or TikTok. Check this article to find out [how to make a reaction video for TikTok](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Conclusion**
+
+Coming up with a unique idea for a reaction video isn’t necessarily a simple process, because there are so many reaction videos on YouTube. That is why the YouTube video reaction ideas you choose to have to fit perfectly into your channel’s theme. What is your favorite YouTube video reaction idea? Share your opinions in the comments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Finding ways to engage your YouTube audience and attract new followers requires a lot of dedication and hard work. Even though there are only a handful of channels built entirely around **reaction videos**, this genre of videos can help you make your channel more diverse.
+
+However, copyright restrictions prevent you from commenting on any video you find interesting, which is the reason why you have to get creative while choosing the next idea for a reaction video. So, in this article we are going to take you through some of the **best YouTube video reaction ideas** you can use to comment on different types of YouTube videos.
+
+Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## 10 Best YouTube Video Reaction Ideas You Should Try in 2021
+
+The process of [making a YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) starts with an idea and the idea you choose often determines how good that video is going to be. The fact that reaction videos are so popular on YouTube right now, makes the idea selection even more important because just one good idea may boost your number of followers significantly. Here are some of the best video reaction ideas you can use to comment on different topics.
+
+### 1\. React to music videos
+
+Music videos are among the most popular genres of videos on YouTube, which makes them perfect to react to. You can share your opinion about the musician, their latest work or the video’s visual aspects. Obtaining the copyrights to the music video you would like to comment on is very important, because you may be forced to delete your reaction video if you don’t.
+
+### 2\. Video game reactions
+
+Video games like Minecraft, Fortnite or Grand Theft Auto attract a lot of attention on YouTube, and if you are a fan of any of them you can easily react to the gameplay. Reacting to video games is only a good idea if your channel is dedicated to gaming, because otherwise, this reaction video idea may seem off-topic.
+
+### 3\. React to video’s comments
+
+YouTubers that already have thousands of followers need to keep coming up with new ways to engage their audience. Encouraging the viewers of your videos to comment on them can be a valuable source of ideas for reaction videos. You can comment on the topics that were discussed in the comments and address particular questions your followers have asked you.
+
+### 4\. Make a ‘Kids React To’ videos
+
+Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
+
+### 5\. React to ‘React To’ Videos
+
+Even though reacting to a reaction video sounds silly, it is anything but because by doing so you will open up space for a dialogue with other YouTubers. Besides being funny, this is also an opportunity to give your two cents on topics that are most relevant for your channel. In addition, the YouTube audience loves collaborations between YouTubers, which will give you and your associates the opportunity to increase the size of your audience.
+
+### 6\. Comment on your old videos
+
+Producing new content for your YouTube channel regularly is important for so many reasons, but recycling old material from time to time can allow you to reflect on the topics you already covered. In addition, you’ll remind your viewers of your old videos and give them the reason to watch them again. Opting to comment on the videos you made in the past can also help you avoid potential copyright complications.
+
+### 7\. Record reactions of elderly people
+
+It becomes increasingly difficult to keep up with the latest pop culture trends as we get older. That’s why elderly people often have trouble understanding the taste of younger generations. Recording their reactions to fashion choices young people make or the music they listen to can be hilarious, which makes it an excellent reaction video idea.
+
+### 8\. React to different challenges
+
+Over the course of the last decade, we’ve seen so many challenges go viral, as even the world’s most famous politicians took part in some of them. Challenge videos are not as popular as they used to be a few years ago, but they still amass thousands of views. Making funny reaction videos to different challenge videos may help you boost your number of followers, especially if you come up with witty remarks for each video you comment on.
+
+### 9\. React to TV shows
+
+We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
+
+### 10\. Comment on [movie trailers](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you are running a movie channel on YouTube, your followers are expecting your comment on the latest releases. Sharing your opinion about trailers of movies you like or dislike with your audience is going to help you start a conversation about that movie. This idea is only worth considering if you are a movie buff, since analyzing a movie trailer or reacting to it is anything but easy.
+
+Interested in Movie Trailer? You can now make it with some [best movie trailer makers](https://tools.techidaily.com/wondershare/filmora/download/) easily.
+
+With these reaction video ideas in mind, you can practise it on YouTube, or TikTok. Check this article to find out [how to make a reaction video for TikTok](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Conclusion**
+
+Coming up with a unique idea for a reaction video isn’t necessarily a simple process, because there are so many reaction videos on YouTube. That is why the YouTube video reaction ideas you choose to have to fit perfectly into your channel’s theme. What is your favorite YouTube video reaction idea? Share your opinions in the comments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Finding ways to engage your YouTube audience and attract new followers requires a lot of dedication and hard work. Even though there are only a handful of channels built entirely around **reaction videos**, this genre of videos can help you make your channel more diverse.
+
+However, copyright restrictions prevent you from commenting on any video you find interesting, which is the reason why you have to get creative while choosing the next idea for a reaction video. So, in this article we are going to take you through some of the **best YouTube video reaction ideas** you can use to comment on different types of YouTube videos.
+
+Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## 10 Best YouTube Video Reaction Ideas You Should Try in 2021
+
+The process of [making a YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) starts with an idea and the idea you choose often determines how good that video is going to be. The fact that reaction videos are so popular on YouTube right now, makes the idea selection even more important because just one good idea may boost your number of followers significantly. Here are some of the best video reaction ideas you can use to comment on different topics.
+
+### 1\. React to music videos
+
+Music videos are among the most popular genres of videos on YouTube, which makes them perfect to react to. You can share your opinion about the musician, their latest work or the video’s visual aspects. Obtaining the copyrights to the music video you would like to comment on is very important, because you may be forced to delete your reaction video if you don’t.
+
+### 2\. Video game reactions
+
+Video games like Minecraft, Fortnite or Grand Theft Auto attract a lot of attention on YouTube, and if you are a fan of any of them you can easily react to the gameplay. Reacting to video games is only a good idea if your channel is dedicated to gaming, because otherwise, this reaction video idea may seem off-topic.
+
+### 3\. React to video’s comments
+
+YouTubers that already have thousands of followers need to keep coming up with new ways to engage their audience. Encouraging the viewers of your videos to comment on them can be a valuable source of ideas for reaction videos. You can comment on the topics that were discussed in the comments and address particular questions your followers have asked you.
+
+### 4\. Make a ‘Kids React To’ videos
+
+Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
+
+### 5\. React to ‘React To’ Videos
+
+Even though reacting to a reaction video sounds silly, it is anything but because by doing so you will open up space for a dialogue with other YouTubers. Besides being funny, this is also an opportunity to give your two cents on topics that are most relevant for your channel. In addition, the YouTube audience loves collaborations between YouTubers, which will give you and your associates the opportunity to increase the size of your audience.
+
+### 6\. Comment on your old videos
+
+Producing new content for your YouTube channel regularly is important for so many reasons, but recycling old material from time to time can allow you to reflect on the topics you already covered. In addition, you’ll remind your viewers of your old videos and give them the reason to watch them again. Opting to comment on the videos you made in the past can also help you avoid potential copyright complications.
+
+### 7\. Record reactions of elderly people
+
+It becomes increasingly difficult to keep up with the latest pop culture trends as we get older. That’s why elderly people often have trouble understanding the taste of younger generations. Recording their reactions to fashion choices young people make or the music they listen to can be hilarious, which makes it an excellent reaction video idea.
+
+### 8\. React to different challenges
+
+Over the course of the last decade, we’ve seen so many challenges go viral, as even the world’s most famous politicians took part in some of them. Challenge videos are not as popular as they used to be a few years ago, but they still amass thousands of views. Making funny reaction videos to different challenge videos may help you boost your number of followers, especially if you come up with witty remarks for each video you comment on.
+
+### 9\. React to TV shows
+
+We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
+
+### 10\. Comment on [movie trailers](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you are running a movie channel on YouTube, your followers are expecting your comment on the latest releases. Sharing your opinion about trailers of movies you like or dislike with your audience is going to help you start a conversation about that movie. This idea is only worth considering if you are a movie buff, since analyzing a movie trailer or reacting to it is anything but easy.
+
+Interested in Movie Trailer? You can now make it with some [best movie trailer makers](https://tools.techidaily.com/wondershare/filmora/download/) easily.
+
+With these reaction video ideas in mind, you can practise it on YouTube, or TikTok. Check this article to find out [how to make a reaction video for TikTok](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Conclusion**
+
+Coming up with a unique idea for a reaction video isn’t necessarily a simple process, because there are so many reaction videos on YouTube. That is why the YouTube video reaction ideas you choose to have to fit perfectly into your channel’s theme. What is your favorite YouTube video reaction idea? Share your opinions in the comments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Finding ways to engage your YouTube audience and attract new followers requires a lot of dedication and hard work. Even though there are only a handful of channels built entirely around **reaction videos**, this genre of videos can help you make your channel more diverse.
+
+However, copyright restrictions prevent you from commenting on any video you find interesting, which is the reason why you have to get creative while choosing the next idea for a reaction video. So, in this article we are going to take you through some of the **best YouTube video reaction ideas** you can use to comment on different types of YouTube videos.
+
+Previously we have demonstrated [how to create a YouTube reaction video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/), check it to get some inspiration.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## 10 Best YouTube Video Reaction Ideas You Should Try in 2021
+
+The process of [making a YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) starts with an idea and the idea you choose often determines how good that video is going to be. The fact that reaction videos are so popular on YouTube right now, makes the idea selection even more important because just one good idea may boost your number of followers significantly. Here are some of the best video reaction ideas you can use to comment on different topics.
+
+### 1\. React to music videos
+
+Music videos are among the most popular genres of videos on YouTube, which makes them perfect to react to. You can share your opinion about the musician, their latest work or the video’s visual aspects. Obtaining the copyrights to the music video you would like to comment on is very important, because you may be forced to delete your reaction video if you don’t.
+
+### 2\. Video game reactions
+
+Video games like Minecraft, Fortnite or Grand Theft Auto attract a lot of attention on YouTube, and if you are a fan of any of them you can easily react to the gameplay. Reacting to video games is only a good idea if your channel is dedicated to gaming, because otherwise, this reaction video idea may seem off-topic.
+
+### 3\. React to video’s comments
+
+YouTubers that already have thousands of followers need to keep coming up with new ways to engage their audience. Encouraging the viewers of your videos to comment on them can be a valuable source of ideas for reaction videos. You can comment on the topics that were discussed in the comments and address particular questions your followers have asked you.
+
+### 4\. Make a ‘Kids React To’ videos
+
+Videos of children reacting to different genres of music are already getting thousands of views every day. So, if you like working with children you should consider making a variation of this type of video. There are so many different things children can react to, you just have to find a few that fit perfectly into your channel’s topic.
+
+### 5\. React to ‘React To’ Videos
+
+Even though reacting to a reaction video sounds silly, it is anything but because by doing so you will open up space for a dialogue with other YouTubers. Besides being funny, this is also an opportunity to give your two cents on topics that are most relevant for your channel. In addition, the YouTube audience loves collaborations between YouTubers, which will give you and your associates the opportunity to increase the size of your audience.
+
+### 6\. Comment on your old videos
+
+Producing new content for your YouTube channel regularly is important for so many reasons, but recycling old material from time to time can allow you to reflect on the topics you already covered. In addition, you’ll remind your viewers of your old videos and give them the reason to watch them again. Opting to comment on the videos you made in the past can also help you avoid potential copyright complications.
+
+### 7\. Record reactions of elderly people
+
+It becomes increasingly difficult to keep up with the latest pop culture trends as we get older. That’s why elderly people often have trouble understanding the taste of younger generations. Recording their reactions to fashion choices young people make or the music they listen to can be hilarious, which makes it an excellent reaction video idea.
+
+### 8\. React to different challenges
+
+Over the course of the last decade, we’ve seen so many challenges go viral, as even the world’s most famous politicians took part in some of them. Challenge videos are not as popular as they used to be a few years ago, but they still amass thousands of views. Making funny reaction videos to different challenge videos may help you boost your number of followers, especially if you come up with witty remarks for each video you comment on.
+
+### 9\. React to TV shows
+
+We all love watching a good TV show, whether it is a TV series or a reality show. So, if you are looking for a reaction video idea that can hardly fail, commenting on a TV show may be the right choice for you. However, getting the right to use the footage you would like to comment on may be difficult, as making the reaction video without permission from the copyright owner may have legal implications.
+
+### 10\. Comment on [movie trailers](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you are running a movie channel on YouTube, your followers are expecting your comment on the latest releases. Sharing your opinion about trailers of movies you like or dislike with your audience is going to help you start a conversation about that movie. This idea is only worth considering if you are a movie buff, since analyzing a movie trailer or reacting to it is anything but easy.
+
+Interested in Movie Trailer? You can now make it with some [best movie trailer makers](https://tools.techidaily.com/wondershare/filmora/download/) easily.
+
+With these reaction video ideas in mind, you can practise it on YouTube, or TikTok. Check this article to find out [how to make a reaction video for TikTok](https://tools.techidaily.com/wondershare/filmora/download/) .
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Conclusion**
+
+Coming up with a unique idea for a reaction video isn’t necessarily a simple process, because there are so many reaction videos on YouTube. That is why the YouTube video reaction ideas you choose to have to fit perfectly into your channel’s theme. What is your favorite YouTube video reaction idea? Share your opinions in the comments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>

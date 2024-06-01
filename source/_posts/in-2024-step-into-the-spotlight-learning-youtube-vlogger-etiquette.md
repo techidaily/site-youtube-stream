@@ -1,0 +1,1860 @@
+---
+title: "\"In 2024, Step Into the Spotlight  Learning YouTube Vlogger Etiquette\""
+date: 2024-05-27 23:48:33
+updated: 2024-05-30 12:59:55
+tags:
+  - ai video
+  - ai youtube
+categories:
+  - ai
+  - youtube
+description: "\"This Article Describes In 2024, Step Into the Spotlight: Learning YouTube Vlogger Etiquette\""
+excerpt: "\"This Article Describes In 2024, Step Into the Spotlight: Learning YouTube Vlogger Etiquette\""
+keywords: "YouTubE Vloggers Code,SpotLight Techniques,Video Vlogger Manners,YouTube Star Guidelines,Etiquette for Content Makers,Vlogging Best Practices,Online Media Ethics"
+thumbnail: https://www.lifewire.com/thmb/6z0a8cFMVaZA_GXCSlvB66vbixE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Recycling-Center-GettyImages-184843198-5946db965f9b58d58a547958.jpg
+---
+
+## Step Into the Spotlight: Learning YouTube Vlogger Etiquette
+
+# 8 Tips on How to Vlog Confidently Like Popular YouTubers
+
+![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+For most people, vlogging is not something that comes naturally. Like any skill, it takes practice to improve. When someone is good at vlogging, they make it look easy.
+
+When we watch the most popular YouTubers, the traits that make them successful are often invisible, because we are so consumed by their vlog. In this article, I’ll highlight 8 tips from the most accomplished vloggers on the Internet, so that you can vlog confidently and make the best YouTube videos.
+
+## **1\. Be Authentic**
+
+People opt to watch vlogs because they want to see something real.
+
+Vlogging is about honesty, telling a story that is truthful and showing your personality. The most popular vloggers are likable because they don’t deceive the audience, they befriend them. Vloggers treat their audience with respect and that comes from being honest.
+
+There will be an urge for you to mimic other vloggers, talking and acting the way they do, but savvy YouTube viewers will be able to see your faux personality pretty quickly.
+
+Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
+
+## **2\. Tell A Story**
+
+A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
+
+When you are casually telling a story to a friend, you are not thinking about the structure or the plot. You are focused on what happened and you want to communicate it as accurately as you can. While vlogging, you should approach it much the same way. Ad-libbing is fine. Stumbling is fine. Going back and repeating a part of the story is fine. By simply getting your story on camera, you now have all the pieces.
+
+Once all the pieces of the story are captured — including your storytelling, b-roll, and other supportive footage — you must now cut out all the irrelevant or repetitive parts and edit it so it can be enjoyed as one cohesive tale.
+
+Take a look at this example from [Tiffany Alvord](https://www.youtube.com/user/TiffanyAlvord) and notice how there are jump cuts both to skip information that can be assumed by the audience and add the tension to the story she’s telling.
+
+## **3\. Surprise and Delight Your Audience**
+
+There is a saying that a great ending to a story is that it is [surprising, yet inevitable](https://www.huffingtonpost.com/david-kudler/writing-the-inevitable-bu%5Fb%5F1630419.html).
+
+The ending needs to be justified even if there is a twist. Everything before that had worked to build up the tension and when it concludes it needs to be logical. However, the ending cannot be something that the audience can guess. Remember those mystery movies where you know who the murderer is after the first few scenes? Yeah… those aren’t satisfying. A good story ends with a surprise, and with everything prior leading up to it.
+
+The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
+
+## **4\. Be Inviting**
+
+A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
+
+Unlike being invited to a party, there is no obligation when it comes to YouTube. Your viewers can continue to live vicariously through you or they may be inspired by your experience and dare to try it themselves.
+
+The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
+
+## **5\. Compose the Shot**
+
+Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
+
+In a way, every vlogger needs to have a director’s eye for cinematography. I’m not saying that you need to be Wes Anderson to be an awesome vlogger, but knowing what is in the frame with you, the angle of the shot, the movement of the camera, and the quality of light will help the product look better.
+
+The great thing about vlogging is that you will get a lot of practice framing shots, so I encourage you to learn [the basics of video editing](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UCjwmbv6NE4mOh8Z8VhPUx1Q), where she gives a tour of her bedroom.
+
+ The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
+
+## **6\. Be Prepared**
+
+While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
+
+Additionally, knowing what to say makes you a better host for your vlog. Watch your favorite vlogger, I bet when they are speaking on camera, their speech is not littered with umms and ahhs…
+
+Good preparation includes having all your gear ready for filming when you need it. There is nothing worse than being set to shoot and running out of battery or memory.
+
+Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
+
+## **7\. Be Expressive**
+
+Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
+
+If you speak on camera in a monotone voice, you are not being expressive. Your facial and body language will match your lackluster performance. Even if you are talking about something you are excited about, if your demeanor doesn’t match that, then the video is going to be lifeless. Vlogging is a presentation, a performance. There needs to be energy.
+
+Consider your audience: they are coming home from school or work, where there were classes and meetings, and the last thing they want to watch is a video of your speaking without energy.
+
+Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
+
+## **8\. Stay Organized**
+
+The same way you should prepare before filming, it’s also important to be organized comes the editing phase. Editing is arguably the most time-consuming part of the vlogging process, so have a system for categorizing and finding your footages.
+
+This is especially important when you have multiple video and audio files and if you are capturing footage over a number of days or in different locations.
+
+Additionally, while filming your vlog, you are going to mess up. It’s also helpful to add a cue after you messed up, this can be a sound cue that causes the levels to spike (clapping or snapping your fingers work) or a video cue such as a dramatic gesture to the camera. When skipping through your footage to find the part where you messed up, later on, it’s easier to have a mark to help you locate it.
+
+Vlogging is hard, so don’t make more work for yourself. Learn little tricks to make life easier for yourself at every step.
+
+The more organized you are the more attention you can put into the creative aspect of vlogging, and less time finding a video file or syncing audio to video.
+  
+There you have it, 8 tips to help you vlog like the pros. Anyone can vlog. But only until you point a camera at yourself in public for the first time, do you realize how uncomfortable vlogging can be.
+
+Even filming yourself in your room with the door closed — and nobody is in the house with you — can be a challenge for beginning vloggers. If you find watching your first few videos to be cringy, don’t be discouraged. There are [fears of vlogging, but you can overcome them](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Take a look at some of the [first videos from popular YouTubers](http://tubularinsights.com/throwback-thursday-first-videos-from-youtubes-top-stars/)and you can see that everyone had a starting point.
+
+Do you have any vlogging tricks of your own? Leave a comment below.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**, which will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+For most people, vlogging is not something that comes naturally. Like any skill, it takes practice to improve. When someone is good at vlogging, they make it look easy.
+
+When we watch the most popular YouTubers, the traits that make them successful are often invisible, because we are so consumed by their vlog. In this article, I’ll highlight 8 tips from the most accomplished vloggers on the Internet, so that you can vlog confidently and make the best YouTube videos.
+
+## **1\. Be Authentic**
+
+People opt to watch vlogs because they want to see something real.
+
+Vlogging is about honesty, telling a story that is truthful and showing your personality. The most popular vloggers are likable because they don’t deceive the audience, they befriend them. Vloggers treat their audience with respect and that comes from being honest.
+
+There will be an urge for you to mimic other vloggers, talking and acting the way they do, but savvy YouTube viewers will be able to see your faux personality pretty quickly.
+
+Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
+
+## **2\. Tell A Story**
+
+A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
+
+When you are casually telling a story to a friend, you are not thinking about the structure or the plot. You are focused on what happened and you want to communicate it as accurately as you can. While vlogging, you should approach it much the same way. Ad-libbing is fine. Stumbling is fine. Going back and repeating a part of the story is fine. By simply getting your story on camera, you now have all the pieces.
+
+Once all the pieces of the story are captured — including your storytelling, b-roll, and other supportive footage — you must now cut out all the irrelevant or repetitive parts and edit it so it can be enjoyed as one cohesive tale.
+
+Take a look at this example from [Tiffany Alvord](https://www.youtube.com/user/TiffanyAlvord) and notice how there are jump cuts both to skip information that can be assumed by the audience and add the tension to the story she’s telling.
+
+## **3\. Surprise and Delight Your Audience**
+
+There is a saying that a great ending to a story is that it is [surprising, yet inevitable](https://www.huffingtonpost.com/david-kudler/writing-the-inevitable-bu%5Fb%5F1630419.html).
+
+The ending needs to be justified even if there is a twist. Everything before that had worked to build up the tension and when it concludes it needs to be logical. However, the ending cannot be something that the audience can guess. Remember those mystery movies where you know who the murderer is after the first few scenes? Yeah… those aren’t satisfying. A good story ends with a surprise, and with everything prior leading up to it.
+
+The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
+
+## **4\. Be Inviting**
+
+A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
+
+Unlike being invited to a party, there is no obligation when it comes to YouTube. Your viewers can continue to live vicariously through you or they may be inspired by your experience and dare to try it themselves.
+
+The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
+
+## **5\. Compose the Shot**
+
+Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
+
+In a way, every vlogger needs to have a director’s eye for cinematography. I’m not saying that you need to be Wes Anderson to be an awesome vlogger, but knowing what is in the frame with you, the angle of the shot, the movement of the camera, and the quality of light will help the product look better.
+
+The great thing about vlogging is that you will get a lot of practice framing shots, so I encourage you to learn [the basics of video editing](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UCjwmbv6NE4mOh8Z8VhPUx1Q), where she gives a tour of her bedroom.
+
+ The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
+
+## **6\. Be Prepared**
+
+While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
+
+Additionally, knowing what to say makes you a better host for your vlog. Watch your favorite vlogger, I bet when they are speaking on camera, their speech is not littered with umms and ahhs…
+
+Good preparation includes having all your gear ready for filming when you need it. There is nothing worse than being set to shoot and running out of battery or memory.
+
+Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
+
+## **7\. Be Expressive**
+
+Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
+
+If you speak on camera in a monotone voice, you are not being expressive. Your facial and body language will match your lackluster performance. Even if you are talking about something you are excited about, if your demeanor doesn’t match that, then the video is going to be lifeless. Vlogging is a presentation, a performance. There needs to be energy.
+
+Consider your audience: they are coming home from school or work, where there were classes and meetings, and the last thing they want to watch is a video of your speaking without energy.
+
+Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
+
+## **8\. Stay Organized**
+
+The same way you should prepare before filming, it’s also important to be organized comes the editing phase. Editing is arguably the most time-consuming part of the vlogging process, so have a system for categorizing and finding your footages.
+
+This is especially important when you have multiple video and audio files and if you are capturing footage over a number of days or in different locations.
+
+Additionally, while filming your vlog, you are going to mess up. It’s also helpful to add a cue after you messed up, this can be a sound cue that causes the levels to spike (clapping or snapping your fingers work) or a video cue such as a dramatic gesture to the camera. When skipping through your footage to find the part where you messed up, later on, it’s easier to have a mark to help you locate it.
+
+Vlogging is hard, so don’t make more work for yourself. Learn little tricks to make life easier for yourself at every step.
+
+The more organized you are the more attention you can put into the creative aspect of vlogging, and less time finding a video file or syncing audio to video.
+  
+There you have it, 8 tips to help you vlog like the pros. Anyone can vlog. But only until you point a camera at yourself in public for the first time, do you realize how uncomfortable vlogging can be.
+
+Even filming yourself in your room with the door closed — and nobody is in the house with you — can be a challenge for beginning vloggers. If you find watching your first few videos to be cringy, don’t be discouraged. There are [fears of vlogging, but you can overcome them](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Take a look at some of the [first videos from popular YouTubers](http://tubularinsights.com/throwback-thursday-first-videos-from-youtubes-top-stars/)and you can see that everyone had a starting point.
+
+Do you have any vlogging tricks of your own? Leave a comment below.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**, which will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+For most people, vlogging is not something that comes naturally. Like any skill, it takes practice to improve. When someone is good at vlogging, they make it look easy.
+
+When we watch the most popular YouTubers, the traits that make them successful are often invisible, because we are so consumed by their vlog. In this article, I’ll highlight 8 tips from the most accomplished vloggers on the Internet, so that you can vlog confidently and make the best YouTube videos.
+
+## **1\. Be Authentic**
+
+People opt to watch vlogs because they want to see something real.
+
+Vlogging is about honesty, telling a story that is truthful and showing your personality. The most popular vloggers are likable because they don’t deceive the audience, they befriend them. Vloggers treat their audience with respect and that comes from being honest.
+
+There will be an urge for you to mimic other vloggers, talking and acting the way they do, but savvy YouTube viewers will be able to see your faux personality pretty quickly.
+
+Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
+
+## **2\. Tell A Story**
+
+A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
+
+When you are casually telling a story to a friend, you are not thinking about the structure or the plot. You are focused on what happened and you want to communicate it as accurately as you can. While vlogging, you should approach it much the same way. Ad-libbing is fine. Stumbling is fine. Going back and repeating a part of the story is fine. By simply getting your story on camera, you now have all the pieces.
+
+Once all the pieces of the story are captured — including your storytelling, b-roll, and other supportive footage — you must now cut out all the irrelevant or repetitive parts and edit it so it can be enjoyed as one cohesive tale.
+
+Take a look at this example from [Tiffany Alvord](https://www.youtube.com/user/TiffanyAlvord) and notice how there are jump cuts both to skip information that can be assumed by the audience and add the tension to the story she’s telling.
+
+## **3\. Surprise and Delight Your Audience**
+
+There is a saying that a great ending to a story is that it is [surprising, yet inevitable](https://www.huffingtonpost.com/david-kudler/writing-the-inevitable-bu%5Fb%5F1630419.html).
+
+The ending needs to be justified even if there is a twist. Everything before that had worked to build up the tension and when it concludes it needs to be logical. However, the ending cannot be something that the audience can guess. Remember those mystery movies where you know who the murderer is after the first few scenes? Yeah… those aren’t satisfying. A good story ends with a surprise, and with everything prior leading up to it.
+
+The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
+
+## **4\. Be Inviting**
+
+A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
+
+Unlike being invited to a party, there is no obligation when it comes to YouTube. Your viewers can continue to live vicariously through you or they may be inspired by your experience and dare to try it themselves.
+
+The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
+
+## **5\. Compose the Shot**
+
+Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
+
+In a way, every vlogger needs to have a director’s eye for cinematography. I’m not saying that you need to be Wes Anderson to be an awesome vlogger, but knowing what is in the frame with you, the angle of the shot, the movement of the camera, and the quality of light will help the product look better.
+
+The great thing about vlogging is that you will get a lot of practice framing shots, so I encourage you to learn [the basics of video editing](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UCjwmbv6NE4mOh8Z8VhPUx1Q), where she gives a tour of her bedroom.
+
+ The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
+
+## **6\. Be Prepared**
+
+While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
+
+Additionally, knowing what to say makes you a better host for your vlog. Watch your favorite vlogger, I bet when they are speaking on camera, their speech is not littered with umms and ahhs…
+
+Good preparation includes having all your gear ready for filming when you need it. There is nothing worse than being set to shoot and running out of battery or memory.
+
+Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
+
+## **7\. Be Expressive**
+
+Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
+
+If you speak on camera in a monotone voice, you are not being expressive. Your facial and body language will match your lackluster performance. Even if you are talking about something you are excited about, if your demeanor doesn’t match that, then the video is going to be lifeless. Vlogging is a presentation, a performance. There needs to be energy.
+
+Consider your audience: they are coming home from school or work, where there were classes and meetings, and the last thing they want to watch is a video of your speaking without energy.
+
+Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
+
+## **8\. Stay Organized**
+
+The same way you should prepare before filming, it’s also important to be organized comes the editing phase. Editing is arguably the most time-consuming part of the vlogging process, so have a system for categorizing and finding your footages.
+
+This is especially important when you have multiple video and audio files and if you are capturing footage over a number of days or in different locations.
+
+Additionally, while filming your vlog, you are going to mess up. It’s also helpful to add a cue after you messed up, this can be a sound cue that causes the levels to spike (clapping or snapping your fingers work) or a video cue such as a dramatic gesture to the camera. When skipping through your footage to find the part where you messed up, later on, it’s easier to have a mark to help you locate it.
+
+Vlogging is hard, so don’t make more work for yourself. Learn little tricks to make life easier for yourself at every step.
+
+The more organized you are the more attention you can put into the creative aspect of vlogging, and less time finding a video file or syncing audio to video.
+  
+There you have it, 8 tips to help you vlog like the pros. Anyone can vlog. But only until you point a camera at yourself in public for the first time, do you realize how uncomfortable vlogging can be.
+
+Even filming yourself in your room with the door closed — and nobody is in the house with you — can be a challenge for beginning vloggers. If you find watching your first few videos to be cringy, don’t be discouraged. There are [fears of vlogging, but you can overcome them](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Take a look at some of the [first videos from popular YouTubers](http://tubularinsights.com/throwback-thursday-first-videos-from-youtubes-top-stars/)and you can see that everyone had a starting point.
+
+Do you have any vlogging tricks of your own? Leave a comment below.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**, which will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+For most people, vlogging is not something that comes naturally. Like any skill, it takes practice to improve. When someone is good at vlogging, they make it look easy.
+
+When we watch the most popular YouTubers, the traits that make them successful are often invisible, because we are so consumed by their vlog. In this article, I’ll highlight 8 tips from the most accomplished vloggers on the Internet, so that you can vlog confidently and make the best YouTube videos.
+
+## **1\. Be Authentic**
+
+People opt to watch vlogs because they want to see something real.
+
+Vlogging is about honesty, telling a story that is truthful and showing your personality. The most popular vloggers are likable because they don’t deceive the audience, they befriend them. Vloggers treat their audience with respect and that comes from being honest.
+
+There will be an urge for you to mimic other vloggers, talking and acting the way they do, but savvy YouTube viewers will be able to see your faux personality pretty quickly.
+
+Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
+
+## **2\. Tell A Story**
+
+A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
+
+When you are casually telling a story to a friend, you are not thinking about the structure or the plot. You are focused on what happened and you want to communicate it as accurately as you can. While vlogging, you should approach it much the same way. Ad-libbing is fine. Stumbling is fine. Going back and repeating a part of the story is fine. By simply getting your story on camera, you now have all the pieces.
+
+Once all the pieces of the story are captured — including your storytelling, b-roll, and other supportive footage — you must now cut out all the irrelevant or repetitive parts and edit it so it can be enjoyed as one cohesive tale.
+
+Take a look at this example from [Tiffany Alvord](https://www.youtube.com/user/TiffanyAlvord) and notice how there are jump cuts both to skip information that can be assumed by the audience and add the tension to the story she’s telling.
+
+## **3\. Surprise and Delight Your Audience**
+
+There is a saying that a great ending to a story is that it is [surprising, yet inevitable](https://www.huffingtonpost.com/david-kudler/writing-the-inevitable-bu%5Fb%5F1630419.html).
+
+The ending needs to be justified even if there is a twist. Everything before that had worked to build up the tension and when it concludes it needs to be logical. However, the ending cannot be something that the audience can guess. Remember those mystery movies where you know who the murderer is after the first few scenes? Yeah… those aren’t satisfying. A good story ends with a surprise, and with everything prior leading up to it.
+
+The gold standard example of a surprising, yet inevitable end is Casey Neistat's bike lane video. Everything in the video is leading up to the end, but when you watch it the first time it’s unexpected, and that’s why it’s so good.
+
+## **4\. Be Inviting**
+
+A common trait of successful vloggers is that they are welcoming. They share their passion and encourage others to join in. Vlogging is about being a guide. It doesn’t matter if you are leading a tour of your home or showing your viewer an interesting new skill, it is important for you to approach the whole process with open arms.
+
+Unlike being invited to a party, there is no obligation when it comes to YouTube. Your viewers can continue to live vicariously through you or they may be inspired by your experience and dare to try it themselves.
+
+The opposite of inviting is rejecting, and when you are a vlogger, you don’t want to reject anyone from enjoying your videos.
+
+## **5\. Compose the Shot**
+
+Vlogging is a visual medium, and while the story is important, what is captured in the frame will play an impactful role in the video as well.
+
+In a way, every vlogger needs to have a director’s eye for cinematography. I’m not saying that you need to be Wes Anderson to be an awesome vlogger, but knowing what is in the frame with you, the angle of the shot, the movement of the camera, and the quality of light will help the product look better.
+
+The great thing about vlogging is that you will get a lot of practice framing shots, so I encourage you to learn [the basics of video editing](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UCjwmbv6NE4mOh8Z8VhPUx1Q), where she gives a tour of her bedroom.
+
+ The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
+
+## **6\. Be Prepared**
+
+While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
+
+Additionally, knowing what to say makes you a better host for your vlog. Watch your favorite vlogger, I bet when they are speaking on camera, their speech is not littered with umms and ahhs…
+
+Good preparation includes having all your gear ready for filming when you need it. There is nothing worse than being set to shoot and running out of battery or memory.
+
+Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
+
+## **7\. Be Expressive**
+
+Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
+
+If you speak on camera in a monotone voice, you are not being expressive. Your facial and body language will match your lackluster performance. Even if you are talking about something you are excited about, if your demeanor doesn’t match that, then the video is going to be lifeless. Vlogging is a presentation, a performance. There needs to be energy.
+
+Consider your audience: they are coming home from school or work, where there were classes and meetings, and the last thing they want to watch is a video of your speaking without energy.
+
+Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
+
+## **8\. Stay Organized**
+
+The same way you should prepare before filming, it’s also important to be organized comes the editing phase. Editing is arguably the most time-consuming part of the vlogging process, so have a system for categorizing and finding your footages.
+
+This is especially important when you have multiple video and audio files and if you are capturing footage over a number of days or in different locations.
+
+Additionally, while filming your vlog, you are going to mess up. It’s also helpful to add a cue after you messed up, this can be a sound cue that causes the levels to spike (clapping or snapping your fingers work) or a video cue such as a dramatic gesture to the camera. When skipping through your footage to find the part where you messed up, later on, it’s easier to have a mark to help you locate it.
+
+Vlogging is hard, so don’t make more work for yourself. Learn little tricks to make life easier for yourself at every step.
+
+The more organized you are the more attention you can put into the creative aspect of vlogging, and less time finding a video file or syncing audio to video.
+  
+There you have it, 8 tips to help you vlog like the pros. Anyone can vlog. But only until you point a camera at yourself in public for the first time, do you realize how uncomfortable vlogging can be.
+
+Even filming yourself in your room with the door closed — and nobody is in the house with you — can be a challenge for beginning vloggers. If you find watching your first few videos to be cringy, don’t be discouraged. There are [fears of vlogging, but you can overcome them](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Take a look at some of the [first videos from popular YouTubers](http://tubularinsights.com/throwback-thursday-first-videos-from-youtubes-top-stars/)and you can see that everyone had a starting point.
+
+Do you have any vlogging tricks of your own? Leave a comment below.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**, which will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+## Charting the Course: Establishing a Powerful Gaming Channel
+
+# The Guide to Starting a Successful YouTube Gaming Channel
+
+![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Now is the best and easiest time in history for you to start a YouTube gaming channel. Yet a profitable channel? That’s another story. In this article, I am going to highlight the key elements you need to become the best YouTube gamer you can be.
+
+**Table of Content:**
+
+1. [Have a Greater Purpose](#purpose)
+2. [Create an Identity](#identity)
+3. [Type of Gaming Videos](#type)
+4. [Have a Budget](#budget)
+5. [Optimization Matter](#optimization)
+6. [Be Cautious of Content Strike and Demonetization](#strike)
+
+Starting a gaming channel today will mean that you will be a small fish in a big ocean. The amount of content on YouTube is massive, and in order to stand out, you will need three intangibles:
+
+\- Patience
+
+\- Consistency
+
+\- Creativity
+
+If you are willing to commit to this long term, then it’s the best time in history for you to start a YouTube gaming channel.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+It’s the best time because you will have so many pioneers and successful creators to draw inspiration and knowledge from. You’ll be standing on the shoulders of giants like PewDiePie, Markiplier, Jacksepticeye, and CinnamonToastKen.
+
+The trail has been blazed and you’re in the new frontier. Now, here’s what you need to know about starting a YouTube gaming channel.
+
+## 1\. Have a Greater Purpose
+
+According to [Tubular Insights](http://tubularinsights.com/15-per-cent-youtube-gaming-videos/), 15% of all content on YouTube is related to video games. That’s a lot.
+
+Additionally, as of 2018, YouTube has a new monetization requirement. To enable monetization, you will need **1,000 subscribers** and **4,000 hours** of watch time in the last 12 months.
+
+If you think you can make a few videos and start making money, I’m sorry, but I’ll have to disappoint you. YouTube is fun and a wonderful way to increase the social aspect of gaming and enhance your enjoyment. Approach it the same way you’ve approached gaming all along, as a fun way to spend your time.
+
+Enjoy the journey… and what a journey it can be. Do it for the love of playing games and making videos, and not about getting subscribers or views. If you don’t change your attitude, it’s a grueling climb if all you want is to reach the finish line (which is nowhere in sight).
+
+Why am I telling you this? Well, if you don’t have a greater purpose than simply growing subscribers and making money off YouTube, then you are going to get discouraged and give up. It’s not a get-rich-fast plan.
+
+Here is how you find your greater purpose:
+
+#### 1. Give Value
+
+You want to make good YouTube gaming content like those popular YouTubers that came before you.
+
+But… what makes good YouTube content?
+
+Simply put, good content should exhibit these factors:
+
+**Entertaining**: Tell a story and sensationalize the emotions that come out of you when you play games.
+
+**Educational**: Find hidden stages, new tricks, and talk about the lore and history that brought this game to life.
+
+**Inspiring**: Encourage viewers to try new games and play along. Help people discover their next pastime and thank viewers for spending their time with you.
+
+ This is what gives your content value, and creating content with value should be your ultimate purpose. Making your viewers feel good is, in a way, better than money, no?
+
+#### 2. Make YouTube a Part of Your Daily/Weekly Ritual
+
+YouTube should be a part of your regular schedule.
+
+At first, it’ll be easy. Like anything new, your YouTube channel will have a novelty to it. It’s this exciting new project that you have.
+
+But after the first month, that excitement will dampen. By the third month, it’ll become familiar. Here’s where you have to fight the urge to stop. This is where author, Seth Godin calls [The Dip](https://www.amazon.ca/dip-Seth-Godin/dp/1591841666).
+
+It’s now working. And like all work, you’ll have to schedule it into your daily life. You’ll have to prioritize YouTube above hanging out with friends, watching another movie, or playing video games without the strain of recording it and being entertaining/educating/inspiring.
+
+However, if you are getting fulfillment from YouTube, you won’t stop even when the going gets hard. Like being a parent, it’s not always fun, but it should always be fulfilling.
+
+**Pro Tip**: Mark when you are going to be working on YouTube in a calendar, so when someone asks you to hang out or go for dinner, you can check it and let them know you already have plans.
+
+#### 3. Have a Passion to Get Better At Every Step
+
+There are many stages to producing a YouTube video, from pre-production to production to post-production. And within those stages are countless steps.
+
+If YouTube is what you want to do, perhaps the greatest purpose you can have is improving on each of those skill sets along the way.
+
+In the beginning, you will have a surplus of ideas, but once your initial stock of video ideas run dry, you will need to [practice coming up with more ideas](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You’ll get better at recording your gameplay, at speaking on camera, at editing your footage, at optimizing your content, and at sharing your videos.
+
+You will enjoy certain steps more than others, but if you are passionate, you will find comfort in striving to improve in each one, little by little.
+
+**Pro Tip**:[Focus on telling a great story](https://tools.techidaily.com/wondershare/filmora/download/). In every video, you should have an objective you want to accomplish. You want to beat a stage, you want to learn a new skill, etc. Once you nail that, all the other elements (screen recording, editing, and your commentary) will fall into place to guide your story from beginning to end.
+
+## 2\. Create an Identity
+
+Your personality and your channel will need to go through a little[branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
+
+#### 1. Be Original
+
+Take inspiration from other YouTubers and adjust it so that it’s unique. You cannot copy the ideas of popular YouTubers, because the public can see that. They can tell the difference between originality and imitation.
+
+Being original doesn’t mean doing something that has never been done before.
+
+Take a look at Jacksepticeye and Markiplier, both are popular YouTubers recognized for their colorful hair, mass use of profanity, and their Let’s Play style of gaming videos. But if you watch their videos, you can see that they are not copying each other but rather adjusting what has proven to be effective to suit their personality.
+
+If something inspires you and you want to make an original version yourself, don’t think that you need to do something completely different, rather ask, how can I make that awesome thing better?
+
+#### 2. Focus on a Specific Aspect of Game
+
+Odds are, you’ll end up playing the same game as other YouTubers. If you’re playing a popular game, then it’s going to be hard for you to establish an audience if your videos are broad.
+
+Consider how your viewers will discover your videos. Are they going to find you through search? If so, what are they searching? There are many aspects to a video game: characters, glitches, stages, etc.
+
+Find a specific aspect of the game to focus on.
+
+Take YouTuber, NoughtPointFourLive, who instead of playing the game via a linear campaign, finds ridiculous situations, odd tricks, and easter eggs in Grand Theft Auto:
+
+#### 3. Hook Audience With Something Funny Or Interesting — And Lead Up To It
+
+Every video you make should tell a story. It doesn’t matter if the storyline is the one in the video game or if it’s happening to you in real life. What matters is that you are aware of where the climax is.
+
+The climax is what your story hinges on: it’s when Mario confronts Bowser.
+
+This is what your audience is watching for. They want to know who wins.
+
+To hook your audience right away, open with the most exciting part. The bit leading up to the climax. But don’t give away the ending. You want to hook them. Give a promise that this video is worth watching and that eventually, it will deliver.
+
+Check out this example from YouTuber, Lachlan playing Fortnite and landing back at Spawn Island, an artillery-filled waiting area for players before the game starts.
+
+This structure can be applied with humor as well as climatic events. If you open with something funny, it gets the viewer engaged immediately. They want to know what led up to that humorous moment.
+
+Take a look at this example from YouTuber, Jelly. He does a great job at injecting humor into his first few seconds of video.
+
+## 3\. Type of Gaming Videos
+
+There are no rules to making gaming videos. As long as it’s worth watching and you aren’t stealing content, that is all that matters. Nevertheless, there are a few standard types of gaming videos that have been established over the years.
+
+#### 1. Let’s Plays
+
+Turn the game on and start playing. Let’s Plays give you a lot of freedom to explore the game and let your personality show in the commentary. You don’t need to play with a strategy, but do have a particular goal in mind (Finishing a level, for example).
+
+Let’s Plays are more about watching you experience the game. A demographic of people watching Let’s Plays are those that don’t have the game themselves, but still want to experience it. Let them live vicariously through you.
+
+#### 2. Reviews
+
+When you’re deciding whether or not to buy a new product where do you go to research? Google and YouTube. If you have a lot of interesting insights after playing a game, making reviews videos might just be your calling. There are many games on the market, and for consumers, it can get overwhelming. Reviews help others decide whether they should invest their money and their time into that specific game or continue searching.
+
+#### 3. Walkthrough
+
+Unlike Let’s Plays and reviews, walkthrough videos are mapped out and structured to help the viewers pass the game while experiencing events, side quests, and characters they would otherwise have missed.
+
+#### 4. Reactions
+
+Misery or excitement, when you genuinely react to an event in a game, the audience gets to experience it along your side. Give the moment a bit of lead up, let people know what you are expecting, and then surprise yourself. Reaction videos are great because they are spontaneous and a wonderful form of presenting your personality.
+
+#### 5. Skills
+
+Video games are hard to master. But if you think you are proficient in an aspect of the game, show off your moves. Is there a particular trick that you can do? Is there a stage you can beat quickly? Are you able to take down your enemy with ease? Prove it.
+
+## 4\. Have a Budget
+
+When you begin your YouTube gaming journey, you are going to see a lot of established YouTubers showing off their gear. It’s easy to get carried away with equipment, but we recommend setting a budget and staying within it to start.
+
+What’s a good budget for YouTubers? Some might say you can do it for $600 and others say $3000\. That’s a big range.
+
+What you need to ask yourself is what do you currently have.
+
+Are you starting with nothing? Or do you have some essentials? If you have a computer, which can play the game of your choice, you don’t need to spend $2000 on a new one. Look at what you currently have before buying new stuff.
+
+Here is what you will need to get the best results:
+
+\- Microphone (Average cost: $100)
+
+\- Webcam (Average cost: $100)
+
+\- Editing Software (Average cost: $300)
+
+\- PC that can handle recording, editing, rendering, uploading, etc. (Average cost: $2,000)
+
+If you are starting out, all you need is a computer with a capable CPU and GPU, a webcam, a microphone, and a free encoding software, such as [OBS](https://obsproject.com/), and you will be able to stream.
+
+Even PewDiePie started with a basic gaming setup.
+
+I don’t recommend blowing your life savings on all the equipment you want. Don’t have a powerful computer? There are games such as Minecraft and Roblox that are less taxing to your computer, if you don’t have a powerful one.
+
+There are ways to work around it, if you don’t currently have the funds. Being a YouTuber is all about being resourceful and creative.
+
+You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)that have all the capabilities.
+
+#### 1. Many Games Are Free
+
+Here’s the great thing about starting as a video game YouTuber, you don’t need to pay for any games. I’m not only talking about the crappy Flash games on the Internet, but massively popular games such as Fortnite and DOTA are also free to start playing as well.
+
+If you’re strapped for cash. Start your channel playing free games and work your way towards more expensive games.
+
+#### 2. Some Software Are Free As Well
+
+**OBS**: This streaming software allows you to capture your game in top quality and broadcast it directly to YouTube. [It’s a simple setup](https://tools.techidaily.com/wondershare/filmora/download/), and it’s completely free.
+
+**Audacity**: This audio recording and editing software is great if you want to improve the quality of your audio by removing background noise or combining clips.
+
+**GIMP**: Probably the closest free product to Photoshop you can find. GIMP will help you perform basic image manipulation. It’s not as user friendly as Photoshop, but you can learn the fundamentals here as you save up for the Creative Cloud subscription plan.
+
+## 5\. Optimization Matters
+
+Gaming is arguably the most popular genre on YouTube. So, how is your little video going to be discovered in this vast sea of gaming content?
+
+The answer: with a good optimization strategy.
+
+#### 1. Tags and Title
+
+When conceptualizing your next video, consider what your viewers are going to search to find it. This will help you focus your gameplay to meet the demand of this untapped (or more specific) audience.
+
+You can use a plugin called [VidIQ](https://vidiq.com/)to see the keyword score by simply searching for the content you think your viewers are interested in watching.
+
+If you’re playing Fortnite, and your keyword is simply “Fortnite” you’re using a highly searched term, but the competition is very high as well. The odds of your ranking is incredibly tough as the overall keyword score is 61/100.
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
+
+However, if you focus on a more specific aspect of the game to make a video around, such as a character, you can heighten your chance at being discovered.
+
+Take the example below, where I added the keyword “Striker” to the search. Its overall keyword score is 87/100, that’s 26 points better in the keyword score, compared to just “Fortnite.”
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
+
+This will help you identify the content you should be making and then use that keyword knowledge to write a good title and a list of 5-15 tags.
+
+ Few more tips to improving your titles include:
+
+\- Avoid uninspiring words like “Fun,” “Exciting,” or “Great.”
+
+\- Once you have a title do a quick search to see if it already exists. Common titles make it harder for yours to rank.
+
+\- Have the title relate to the game. If there are certain words or phrases that players are familiar with, go ahead and use it.
+
+\- Make it click-worthy by promising something unique, but don’t mislead viewers.
+
+#### 2. Create Awesome Thumbnails
+
+It doesn’t matter how awesome your video is, if the thumbnail image is boring, nobody will want to click into it. And if nobody clicks into it, you won’t get any views. Simple.
+
+What makes a good thumbnail image?
+
+1. Don’t use the random images YouTube picks for you
+2. Have an expressive picture of a human face (preferably of yours, because it’s your gaming channel and you’re the star)
+
+Take a look at The Syndicate Project’s thumbnails and how it evokes an intensity that makes you want to click — or scream with excitement. Both good things.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-1.jpg)
+
+1. Don’t want to use your face? Create a character for yourself or to represent your channel. Or used the characters from the actual game.
+
+Check out the colorful thumbnails from VanossGaming, where the owl is the mascot of their channel.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-2.jpg)
+
+1. Use readable text or emojis
+
+If you don’t have Photoshop or don’t have strong design skills, check out [Wondershare Pixstudio](https://tools.techidaily.com/wondershare/fotophire/download/), a drag-and-drop design tool that makes creating thumbnails easy.
+
+#### 3. Engage with Other Gamers
+
+Don’t forget that YouTube is a social media platform.
+
+It’s all about being a part of a YouTube community, and while you can’t interact with every creator on the platform, you can find those within your niche or specific game and chat with them. Leave a comment if you like their video or have constructive feedback.
+
+Additionally, viewer engagements such as likes and comments have shown to have an indirect effect on your video ranking. That is why you should encourage your viewers to “smash” the like button or join in a conversation by asking them a question in your video.
+
+## 6\. Be Cautious of Content Strike and Demonetization
+
+#### 1. Cause for Demonetization
+
+The YouTube monetization landscape has changed a lot for creators in the past few years. The guidelines are always being adjusted to serve both creators and advertisers. If you’re thinking of making money from YouTube ads, you have to be aware that there are types of content that turn advertisers off, and YouTube knows it. Here are some reasons that YouTube will choose to demonetize your videos:
+
+\- Excessive or gratuitous violence
+
+\- Hateful content: promotes discrimination or disparages or humiliates and individual or group of people (race, ethnicity, nationality, religion, disability, age, veteran status, sexual orientation, gender identity, etc.)
+
+\- Inappropriate use of family entertainment characters
+
+\- Incendiary and demeaning content: disrespectful languages that shame or insult an individual or group
+
+#### 2. Avoiding Copyright Strike
+
+Thanks to the fair use doctrine, you’re allowed to take video game content and make videos from it without acquiring permission from the people who made the game.
+
+However, if you step across the fair use line, you can be penalized for violating copyright infringement.
+
+If you get three strikes from YouTube in 90 days, your account and videos will be removed and you won’t be allowed to create a new channel.
+
+Before you publish your video ask yourself these questions, if you answer yes to any of them then you have met fair use standards:
+
+\- Is your content creative or educational?
+
+\- Is there more original content than copyrighted content?
+
+\- Is your video benefiting the original content?
+
+I recommend that you [learn more about YouTube copyright](https://tools.techidaily.com/wondershare/filmora/download/), and how to build your content so that it doesn’t get flagged.
+
+Beyond all that, it’s about playing games, having a good time, and meeting awesome people like yourself. Enjoy the journey and take pleasure in every little achievement, be it in the game or on YouTube.
+
+## Key Takeaways
+
+1. Don’t go into YouTube gaming for the money, but rather to improve your skills and other people’s lives.
+2. Find something special about your channel that people can’t find anywhere else.
+3. YouTube gaming can be as cheap and as expensive as you want, create a budget to stay within your limits.
+4. Understand optimization to improve your chances of viewers finding your content.
+5. Don’t be hateful or advertisers will avoid you, and don’t steal other people’s content without crediting the original creator.
+6. Give yourself a [unique YouTube gaming channel name](https://tools.techidaily.com/wondershare/filmora/download/).
+
+_What’s stopping you from starting your YouTube gaming channel? Let us know in the comment box below!_
+
+## Best Screen Recorder & Video Editor for Gamers
+
+If you want to record the gameplay and edit it with some text and titles, or creative transitions and effects, I highly recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough with its editing tools and effects templates. Download the free trial version and get started now.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Now is the best and easiest time in history for you to start a YouTube gaming channel. Yet a profitable channel? That’s another story. In this article, I am going to highlight the key elements you need to become the best YouTube gamer you can be.
+
+**Table of Content:**
+
+1. [Have a Greater Purpose](#purpose)
+2. [Create an Identity](#identity)
+3. [Type of Gaming Videos](#type)
+4. [Have a Budget](#budget)
+5. [Optimization Matter](#optimization)
+6. [Be Cautious of Content Strike and Demonetization](#strike)
+
+Starting a gaming channel today will mean that you will be a small fish in a big ocean. The amount of content on YouTube is massive, and in order to stand out, you will need three intangibles:
+
+\- Patience
+
+\- Consistency
+
+\- Creativity
+
+If you are willing to commit to this long term, then it’s the best time in history for you to start a YouTube gaming channel.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+It’s the best time because you will have so many pioneers and successful creators to draw inspiration and knowledge from. You’ll be standing on the shoulders of giants like PewDiePie, Markiplier, Jacksepticeye, and CinnamonToastKen.
+
+The trail has been blazed and you’re in the new frontier. Now, here’s what you need to know about starting a YouTube gaming channel.
+
+## 1\. Have a Greater Purpose
+
+According to [Tubular Insights](http://tubularinsights.com/15-per-cent-youtube-gaming-videos/), 15% of all content on YouTube is related to video games. That’s a lot.
+
+Additionally, as of 2018, YouTube has a new monetization requirement. To enable monetization, you will need **1,000 subscribers** and **4,000 hours** of watch time in the last 12 months.
+
+If you think you can make a few videos and start making money, I’m sorry, but I’ll have to disappoint you. YouTube is fun and a wonderful way to increase the social aspect of gaming and enhance your enjoyment. Approach it the same way you’ve approached gaming all along, as a fun way to spend your time.
+
+Enjoy the journey… and what a journey it can be. Do it for the love of playing games and making videos, and not about getting subscribers or views. If you don’t change your attitude, it’s a grueling climb if all you want is to reach the finish line (which is nowhere in sight).
+
+Why am I telling you this? Well, if you don’t have a greater purpose than simply growing subscribers and making money off YouTube, then you are going to get discouraged and give up. It’s not a get-rich-fast plan.
+
+Here is how you find your greater purpose:
+
+#### 1. Give Value
+
+You want to make good YouTube gaming content like those popular YouTubers that came before you.
+
+But… what makes good YouTube content?
+
+Simply put, good content should exhibit these factors:
+
+**Entertaining**: Tell a story and sensationalize the emotions that come out of you when you play games.
+
+**Educational**: Find hidden stages, new tricks, and talk about the lore and history that brought this game to life.
+
+**Inspiring**: Encourage viewers to try new games and play along. Help people discover their next pastime and thank viewers for spending their time with you.
+
+ This is what gives your content value, and creating content with value should be your ultimate purpose. Making your viewers feel good is, in a way, better than money, no?
+
+#### 2. Make YouTube a Part of Your Daily/Weekly Ritual
+
+YouTube should be a part of your regular schedule.
+
+At first, it’ll be easy. Like anything new, your YouTube channel will have a novelty to it. It’s this exciting new project that you have.
+
+But after the first month, that excitement will dampen. By the third month, it’ll become familiar. Here’s where you have to fight the urge to stop. This is where author, Seth Godin calls [The Dip](https://www.amazon.ca/dip-Seth-Godin/dp/1591841666).
+
+It’s now working. And like all work, you’ll have to schedule it into your daily life. You’ll have to prioritize YouTube above hanging out with friends, watching another movie, or playing video games without the strain of recording it and being entertaining/educating/inspiring.
+
+However, if you are getting fulfillment from YouTube, you won’t stop even when the going gets hard. Like being a parent, it’s not always fun, but it should always be fulfilling.
+
+**Pro Tip**: Mark when you are going to be working on YouTube in a calendar, so when someone asks you to hang out or go for dinner, you can check it and let them know you already have plans.
+
+#### 3. Have a Passion to Get Better At Every Step
+
+There are many stages to producing a YouTube video, from pre-production to production to post-production. And within those stages are countless steps.
+
+If YouTube is what you want to do, perhaps the greatest purpose you can have is improving on each of those skill sets along the way.
+
+In the beginning, you will have a surplus of ideas, but once your initial stock of video ideas run dry, you will need to [practice coming up with more ideas](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You’ll get better at recording your gameplay, at speaking on camera, at editing your footage, at optimizing your content, and at sharing your videos.
+
+You will enjoy certain steps more than others, but if you are passionate, you will find comfort in striving to improve in each one, little by little.
+
+**Pro Tip**:[Focus on telling a great story](https://tools.techidaily.com/wondershare/filmora/download/). In every video, you should have an objective you want to accomplish. You want to beat a stage, you want to learn a new skill, etc. Once you nail that, all the other elements (screen recording, editing, and your commentary) will fall into place to guide your story from beginning to end.
+
+## 2\. Create an Identity
+
+Your personality and your channel will need to go through a little[branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
+
+#### 1. Be Original
+
+Take inspiration from other YouTubers and adjust it so that it’s unique. You cannot copy the ideas of popular YouTubers, because the public can see that. They can tell the difference between originality and imitation.
+
+Being original doesn’t mean doing something that has never been done before.
+
+Take a look at Jacksepticeye and Markiplier, both are popular YouTubers recognized for their colorful hair, mass use of profanity, and their Let’s Play style of gaming videos. But if you watch their videos, you can see that they are not copying each other but rather adjusting what has proven to be effective to suit their personality.
+
+If something inspires you and you want to make an original version yourself, don’t think that you need to do something completely different, rather ask, how can I make that awesome thing better?
+
+#### 2. Focus on a Specific Aspect of Game
+
+Odds are, you’ll end up playing the same game as other YouTubers. If you’re playing a popular game, then it’s going to be hard for you to establish an audience if your videos are broad.
+
+Consider how your viewers will discover your videos. Are they going to find you through search? If so, what are they searching? There are many aspects to a video game: characters, glitches, stages, etc.
+
+Find a specific aspect of the game to focus on.
+
+Take YouTuber, NoughtPointFourLive, who instead of playing the game via a linear campaign, finds ridiculous situations, odd tricks, and easter eggs in Grand Theft Auto:
+
+#### 3. Hook Audience With Something Funny Or Interesting — And Lead Up To It
+
+Every video you make should tell a story. It doesn’t matter if the storyline is the one in the video game or if it’s happening to you in real life. What matters is that you are aware of where the climax is.
+
+The climax is what your story hinges on: it’s when Mario confronts Bowser.
+
+This is what your audience is watching for. They want to know who wins.
+
+To hook your audience right away, open with the most exciting part. The bit leading up to the climax. But don’t give away the ending. You want to hook them. Give a promise that this video is worth watching and that eventually, it will deliver.
+
+Check out this example from YouTuber, Lachlan playing Fortnite and landing back at Spawn Island, an artillery-filled waiting area for players before the game starts.
+
+This structure can be applied with humor as well as climatic events. If you open with something funny, it gets the viewer engaged immediately. They want to know what led up to that humorous moment.
+
+Take a look at this example from YouTuber, Jelly. He does a great job at injecting humor into his first few seconds of video.
+
+## 3\. Type of Gaming Videos
+
+There are no rules to making gaming videos. As long as it’s worth watching and you aren’t stealing content, that is all that matters. Nevertheless, there are a few standard types of gaming videos that have been established over the years.
+
+#### 1. Let’s Plays
+
+Turn the game on and start playing. Let’s Plays give you a lot of freedom to explore the game and let your personality show in the commentary. You don’t need to play with a strategy, but do have a particular goal in mind (Finishing a level, for example).
+
+Let’s Plays are more about watching you experience the game. A demographic of people watching Let’s Plays are those that don’t have the game themselves, but still want to experience it. Let them live vicariously through you.
+
+#### 2. Reviews
+
+When you’re deciding whether or not to buy a new product where do you go to research? Google and YouTube. If you have a lot of interesting insights after playing a game, making reviews videos might just be your calling. There are many games on the market, and for consumers, it can get overwhelming. Reviews help others decide whether they should invest their money and their time into that specific game or continue searching.
+
+#### 3. Walkthrough
+
+Unlike Let’s Plays and reviews, walkthrough videos are mapped out and structured to help the viewers pass the game while experiencing events, side quests, and characters they would otherwise have missed.
+
+#### 4. Reactions
+
+Misery or excitement, when you genuinely react to an event in a game, the audience gets to experience it along your side. Give the moment a bit of lead up, let people know what you are expecting, and then surprise yourself. Reaction videos are great because they are spontaneous and a wonderful form of presenting your personality.
+
+#### 5. Skills
+
+Video games are hard to master. But if you think you are proficient in an aspect of the game, show off your moves. Is there a particular trick that you can do? Is there a stage you can beat quickly? Are you able to take down your enemy with ease? Prove it.
+
+## 4\. Have a Budget
+
+When you begin your YouTube gaming journey, you are going to see a lot of established YouTubers showing off their gear. It’s easy to get carried away with equipment, but we recommend setting a budget and staying within it to start.
+
+What’s a good budget for YouTubers? Some might say you can do it for $600 and others say $3000\. That’s a big range.
+
+What you need to ask yourself is what do you currently have.
+
+Are you starting with nothing? Or do you have some essentials? If you have a computer, which can play the game of your choice, you don’t need to spend $2000 on a new one. Look at what you currently have before buying new stuff.
+
+Here is what you will need to get the best results:
+
+\- Microphone (Average cost: $100)
+
+\- Webcam (Average cost: $100)
+
+\- Editing Software (Average cost: $300)
+
+\- PC that can handle recording, editing, rendering, uploading, etc. (Average cost: $2,000)
+
+If you are starting out, all you need is a computer with a capable CPU and GPU, a webcam, a microphone, and a free encoding software, such as [OBS](https://obsproject.com/), and you will be able to stream.
+
+Even PewDiePie started with a basic gaming setup.
+
+I don’t recommend blowing your life savings on all the equipment you want. Don’t have a powerful computer? There are games such as Minecraft and Roblox that are less taxing to your computer, if you don’t have a powerful one.
+
+There are ways to work around it, if you don’t currently have the funds. Being a YouTuber is all about being resourceful and creative.
+
+You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)that have all the capabilities.
+
+#### 1. Many Games Are Free
+
+Here’s the great thing about starting as a video game YouTuber, you don’t need to pay for any games. I’m not only talking about the crappy Flash games on the Internet, but massively popular games such as Fortnite and DOTA are also free to start playing as well.
+
+If you’re strapped for cash. Start your channel playing free games and work your way towards more expensive games.
+
+#### 2. Some Software Are Free As Well
+
+**OBS**: This streaming software allows you to capture your game in top quality and broadcast it directly to YouTube. [It’s a simple setup](https://tools.techidaily.com/wondershare/filmora/download/), and it’s completely free.
+
+**Audacity**: This audio recording and editing software is great if you want to improve the quality of your audio by removing background noise or combining clips.
+
+**GIMP**: Probably the closest free product to Photoshop you can find. GIMP will help you perform basic image manipulation. It’s not as user friendly as Photoshop, but you can learn the fundamentals here as you save up for the Creative Cloud subscription plan.
+
+## 5\. Optimization Matters
+
+Gaming is arguably the most popular genre on YouTube. So, how is your little video going to be discovered in this vast sea of gaming content?
+
+The answer: with a good optimization strategy.
+
+#### 1. Tags and Title
+
+When conceptualizing your next video, consider what your viewers are going to search to find it. This will help you focus your gameplay to meet the demand of this untapped (or more specific) audience.
+
+You can use a plugin called [VidIQ](https://vidiq.com/)to see the keyword score by simply searching for the content you think your viewers are interested in watching.
+
+If you’re playing Fortnite, and your keyword is simply “Fortnite” you’re using a highly searched term, but the competition is very high as well. The odds of your ranking is incredibly tough as the overall keyword score is 61/100.
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
+
+However, if you focus on a more specific aspect of the game to make a video around, such as a character, you can heighten your chance at being discovered.
+
+Take the example below, where I added the keyword “Striker” to the search. Its overall keyword score is 87/100, that’s 26 points better in the keyword score, compared to just “Fortnite.”
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
+
+This will help you identify the content you should be making and then use that keyword knowledge to write a good title and a list of 5-15 tags.
+
+ Few more tips to improving your titles include:
+
+\- Avoid uninspiring words like “Fun,” “Exciting,” or “Great.”
+
+\- Once you have a title do a quick search to see if it already exists. Common titles make it harder for yours to rank.
+
+\- Have the title relate to the game. If there are certain words or phrases that players are familiar with, go ahead and use it.
+
+\- Make it click-worthy by promising something unique, but don’t mislead viewers.
+
+#### 2. Create Awesome Thumbnails
+
+It doesn’t matter how awesome your video is, if the thumbnail image is boring, nobody will want to click into it. And if nobody clicks into it, you won’t get any views. Simple.
+
+What makes a good thumbnail image?
+
+1. Don’t use the random images YouTube picks for you
+2. Have an expressive picture of a human face (preferably of yours, because it’s your gaming channel and you’re the star)
+
+Take a look at The Syndicate Project’s thumbnails and how it evokes an intensity that makes you want to click — or scream with excitement. Both good things.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-1.jpg)
+
+1. Don’t want to use your face? Create a character for yourself or to represent your channel. Or used the characters from the actual game.
+
+Check out the colorful thumbnails from VanossGaming, where the owl is the mascot of their channel.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-2.jpg)
+
+1. Use readable text or emojis
+
+If you don’t have Photoshop or don’t have strong design skills, check out [Wondershare Pixstudio](https://tools.techidaily.com/wondershare/fotophire/download/), a drag-and-drop design tool that makes creating thumbnails easy.
+
+#### 3. Engage with Other Gamers
+
+Don’t forget that YouTube is a social media platform.
+
+It’s all about being a part of a YouTube community, and while you can’t interact with every creator on the platform, you can find those within your niche or specific game and chat with them. Leave a comment if you like their video or have constructive feedback.
+
+Additionally, viewer engagements such as likes and comments have shown to have an indirect effect on your video ranking. That is why you should encourage your viewers to “smash” the like button or join in a conversation by asking them a question in your video.
+
+## 6\. Be Cautious of Content Strike and Demonetization
+
+#### 1. Cause for Demonetization
+
+The YouTube monetization landscape has changed a lot for creators in the past few years. The guidelines are always being adjusted to serve both creators and advertisers. If you’re thinking of making money from YouTube ads, you have to be aware that there are types of content that turn advertisers off, and YouTube knows it. Here are some reasons that YouTube will choose to demonetize your videos:
+
+\- Excessive or gratuitous violence
+
+\- Hateful content: promotes discrimination or disparages or humiliates and individual or group of people (race, ethnicity, nationality, religion, disability, age, veteran status, sexual orientation, gender identity, etc.)
+
+\- Inappropriate use of family entertainment characters
+
+\- Incendiary and demeaning content: disrespectful languages that shame or insult an individual or group
+
+#### 2. Avoiding Copyright Strike
+
+Thanks to the fair use doctrine, you’re allowed to take video game content and make videos from it without acquiring permission from the people who made the game.
+
+However, if you step across the fair use line, you can be penalized for violating copyright infringement.
+
+If you get three strikes from YouTube in 90 days, your account and videos will be removed and you won’t be allowed to create a new channel.
+
+Before you publish your video ask yourself these questions, if you answer yes to any of them then you have met fair use standards:
+
+\- Is your content creative or educational?
+
+\- Is there more original content than copyrighted content?
+
+\- Is your video benefiting the original content?
+
+I recommend that you [learn more about YouTube copyright](https://tools.techidaily.com/wondershare/filmora/download/), and how to build your content so that it doesn’t get flagged.
+
+Beyond all that, it’s about playing games, having a good time, and meeting awesome people like yourself. Enjoy the journey and take pleasure in every little achievement, be it in the game or on YouTube.
+
+## Key Takeaways
+
+1. Don’t go into YouTube gaming for the money, but rather to improve your skills and other people’s lives.
+2. Find something special about your channel that people can’t find anywhere else.
+3. YouTube gaming can be as cheap and as expensive as you want, create a budget to stay within your limits.
+4. Understand optimization to improve your chances of viewers finding your content.
+5. Don’t be hateful or advertisers will avoid you, and don’t steal other people’s content without crediting the original creator.
+6. Give yourself a [unique YouTube gaming channel name](https://tools.techidaily.com/wondershare/filmora/download/).
+
+_What’s stopping you from starting your YouTube gaming channel? Let us know in the comment box below!_
+
+## Best Screen Recorder & Video Editor for Gamers
+
+If you want to record the gameplay and edit it with some text and titles, or creative transitions and effects, I highly recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough with its editing tools and effects templates. Download the free trial version and get started now.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Now is the best and easiest time in history for you to start a YouTube gaming channel. Yet a profitable channel? That’s another story. In this article, I am going to highlight the key elements you need to become the best YouTube gamer you can be.
+
+**Table of Content:**
+
+1. [Have a Greater Purpose](#purpose)
+2. [Create an Identity](#identity)
+3. [Type of Gaming Videos](#type)
+4. [Have a Budget](#budget)
+5. [Optimization Matter](#optimization)
+6. [Be Cautious of Content Strike and Demonetization](#strike)
+
+Starting a gaming channel today will mean that you will be a small fish in a big ocean. The amount of content on YouTube is massive, and in order to stand out, you will need three intangibles:
+
+\- Patience
+
+\- Consistency
+
+\- Creativity
+
+If you are willing to commit to this long term, then it’s the best time in history for you to start a YouTube gaming channel.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+It’s the best time because you will have so many pioneers and successful creators to draw inspiration and knowledge from. You’ll be standing on the shoulders of giants like PewDiePie, Markiplier, Jacksepticeye, and CinnamonToastKen.
+
+The trail has been blazed and you’re in the new frontier. Now, here’s what you need to know about starting a YouTube gaming channel.
+
+## 1\. Have a Greater Purpose
+
+According to [Tubular Insights](http://tubularinsights.com/15-per-cent-youtube-gaming-videos/), 15% of all content on YouTube is related to video games. That’s a lot.
+
+Additionally, as of 2018, YouTube has a new monetization requirement. To enable monetization, you will need **1,000 subscribers** and **4,000 hours** of watch time in the last 12 months.
+
+If you think you can make a few videos and start making money, I’m sorry, but I’ll have to disappoint you. YouTube is fun and a wonderful way to increase the social aspect of gaming and enhance your enjoyment. Approach it the same way you’ve approached gaming all along, as a fun way to spend your time.
+
+Enjoy the journey… and what a journey it can be. Do it for the love of playing games and making videos, and not about getting subscribers or views. If you don’t change your attitude, it’s a grueling climb if all you want is to reach the finish line (which is nowhere in sight).
+
+Why am I telling you this? Well, if you don’t have a greater purpose than simply growing subscribers and making money off YouTube, then you are going to get discouraged and give up. It’s not a get-rich-fast plan.
+
+Here is how you find your greater purpose:
+
+#### 1. Give Value
+
+You want to make good YouTube gaming content like those popular YouTubers that came before you.
+
+But… what makes good YouTube content?
+
+Simply put, good content should exhibit these factors:
+
+**Entertaining**: Tell a story and sensationalize the emotions that come out of you when you play games.
+
+**Educational**: Find hidden stages, new tricks, and talk about the lore and history that brought this game to life.
+
+**Inspiring**: Encourage viewers to try new games and play along. Help people discover their next pastime and thank viewers for spending their time with you.
+
+ This is what gives your content value, and creating content with value should be your ultimate purpose. Making your viewers feel good is, in a way, better than money, no?
+
+#### 2. Make YouTube a Part of Your Daily/Weekly Ritual
+
+YouTube should be a part of your regular schedule.
+
+At first, it’ll be easy. Like anything new, your YouTube channel will have a novelty to it. It’s this exciting new project that you have.
+
+But after the first month, that excitement will dampen. By the third month, it’ll become familiar. Here’s where you have to fight the urge to stop. This is where author, Seth Godin calls [The Dip](https://www.amazon.ca/dip-Seth-Godin/dp/1591841666).
+
+It’s now working. And like all work, you’ll have to schedule it into your daily life. You’ll have to prioritize YouTube above hanging out with friends, watching another movie, or playing video games without the strain of recording it and being entertaining/educating/inspiring.
+
+However, if you are getting fulfillment from YouTube, you won’t stop even when the going gets hard. Like being a parent, it’s not always fun, but it should always be fulfilling.
+
+**Pro Tip**: Mark when you are going to be working on YouTube in a calendar, so when someone asks you to hang out or go for dinner, you can check it and let them know you already have plans.
+
+#### 3. Have a Passion to Get Better At Every Step
+
+There are many stages to producing a YouTube video, from pre-production to production to post-production. And within those stages are countless steps.
+
+If YouTube is what you want to do, perhaps the greatest purpose you can have is improving on each of those skill sets along the way.
+
+In the beginning, you will have a surplus of ideas, but once your initial stock of video ideas run dry, you will need to [practice coming up with more ideas](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You’ll get better at recording your gameplay, at speaking on camera, at editing your footage, at optimizing your content, and at sharing your videos.
+
+You will enjoy certain steps more than others, but if you are passionate, you will find comfort in striving to improve in each one, little by little.
+
+**Pro Tip**:[Focus on telling a great story](https://tools.techidaily.com/wondershare/filmora/download/). In every video, you should have an objective you want to accomplish. You want to beat a stage, you want to learn a new skill, etc. Once you nail that, all the other elements (screen recording, editing, and your commentary) will fall into place to guide your story from beginning to end.
+
+## 2\. Create an Identity
+
+Your personality and your channel will need to go through a little[branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
+
+#### 1. Be Original
+
+Take inspiration from other YouTubers and adjust it so that it’s unique. You cannot copy the ideas of popular YouTubers, because the public can see that. They can tell the difference between originality and imitation.
+
+Being original doesn’t mean doing something that has never been done before.
+
+Take a look at Jacksepticeye and Markiplier, both are popular YouTubers recognized for their colorful hair, mass use of profanity, and their Let’s Play style of gaming videos. But if you watch their videos, you can see that they are not copying each other but rather adjusting what has proven to be effective to suit their personality.
+
+If something inspires you and you want to make an original version yourself, don’t think that you need to do something completely different, rather ask, how can I make that awesome thing better?
+
+#### 2. Focus on a Specific Aspect of Game
+
+Odds are, you’ll end up playing the same game as other YouTubers. If you’re playing a popular game, then it’s going to be hard for you to establish an audience if your videos are broad.
+
+Consider how your viewers will discover your videos. Are they going to find you through search? If so, what are they searching? There are many aspects to a video game: characters, glitches, stages, etc.
+
+Find a specific aspect of the game to focus on.
+
+Take YouTuber, NoughtPointFourLive, who instead of playing the game via a linear campaign, finds ridiculous situations, odd tricks, and easter eggs in Grand Theft Auto:
+
+#### 3. Hook Audience With Something Funny Or Interesting — And Lead Up To It
+
+Every video you make should tell a story. It doesn’t matter if the storyline is the one in the video game or if it’s happening to you in real life. What matters is that you are aware of where the climax is.
+
+The climax is what your story hinges on: it’s when Mario confronts Bowser.
+
+This is what your audience is watching for. They want to know who wins.
+
+To hook your audience right away, open with the most exciting part. The bit leading up to the climax. But don’t give away the ending. You want to hook them. Give a promise that this video is worth watching and that eventually, it will deliver.
+
+Check out this example from YouTuber, Lachlan playing Fortnite and landing back at Spawn Island, an artillery-filled waiting area for players before the game starts.
+
+This structure can be applied with humor as well as climatic events. If you open with something funny, it gets the viewer engaged immediately. They want to know what led up to that humorous moment.
+
+Take a look at this example from YouTuber, Jelly. He does a great job at injecting humor into his first few seconds of video.
+
+## 3\. Type of Gaming Videos
+
+There are no rules to making gaming videos. As long as it’s worth watching and you aren’t stealing content, that is all that matters. Nevertheless, there are a few standard types of gaming videos that have been established over the years.
+
+#### 1. Let’s Plays
+
+Turn the game on and start playing. Let’s Plays give you a lot of freedom to explore the game and let your personality show in the commentary. You don’t need to play with a strategy, but do have a particular goal in mind (Finishing a level, for example).
+
+Let’s Plays are more about watching you experience the game. A demographic of people watching Let’s Plays are those that don’t have the game themselves, but still want to experience it. Let them live vicariously through you.
+
+#### 2. Reviews
+
+When you’re deciding whether or not to buy a new product where do you go to research? Google and YouTube. If you have a lot of interesting insights after playing a game, making reviews videos might just be your calling. There are many games on the market, and for consumers, it can get overwhelming. Reviews help others decide whether they should invest their money and their time into that specific game or continue searching.
+
+#### 3. Walkthrough
+
+Unlike Let’s Plays and reviews, walkthrough videos are mapped out and structured to help the viewers pass the game while experiencing events, side quests, and characters they would otherwise have missed.
+
+#### 4. Reactions
+
+Misery or excitement, when you genuinely react to an event in a game, the audience gets to experience it along your side. Give the moment a bit of lead up, let people know what you are expecting, and then surprise yourself. Reaction videos are great because they are spontaneous and a wonderful form of presenting your personality.
+
+#### 5. Skills
+
+Video games are hard to master. But if you think you are proficient in an aspect of the game, show off your moves. Is there a particular trick that you can do? Is there a stage you can beat quickly? Are you able to take down your enemy with ease? Prove it.
+
+## 4\. Have a Budget
+
+When you begin your YouTube gaming journey, you are going to see a lot of established YouTubers showing off their gear. It’s easy to get carried away with equipment, but we recommend setting a budget and staying within it to start.
+
+What’s a good budget for YouTubers? Some might say you can do it for $600 and others say $3000\. That’s a big range.
+
+What you need to ask yourself is what do you currently have.
+
+Are you starting with nothing? Or do you have some essentials? If you have a computer, which can play the game of your choice, you don’t need to spend $2000 on a new one. Look at what you currently have before buying new stuff.
+
+Here is what you will need to get the best results:
+
+\- Microphone (Average cost: $100)
+
+\- Webcam (Average cost: $100)
+
+\- Editing Software (Average cost: $300)
+
+\- PC that can handle recording, editing, rendering, uploading, etc. (Average cost: $2,000)
+
+If you are starting out, all you need is a computer with a capable CPU and GPU, a webcam, a microphone, and a free encoding software, such as [OBS](https://obsproject.com/), and you will be able to stream.
+
+Even PewDiePie started with a basic gaming setup.
+
+I don’t recommend blowing your life savings on all the equipment you want. Don’t have a powerful computer? There are games such as Minecraft and Roblox that are less taxing to your computer, if you don’t have a powerful one.
+
+There are ways to work around it, if you don’t currently have the funds. Being a YouTuber is all about being resourceful and creative.
+
+You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)that have all the capabilities.
+
+#### 1. Many Games Are Free
+
+Here’s the great thing about starting as a video game YouTuber, you don’t need to pay for any games. I’m not only talking about the crappy Flash games on the Internet, but massively popular games such as Fortnite and DOTA are also free to start playing as well.
+
+If you’re strapped for cash. Start your channel playing free games and work your way towards more expensive games.
+
+#### 2. Some Software Are Free As Well
+
+**OBS**: This streaming software allows you to capture your game in top quality and broadcast it directly to YouTube. [It’s a simple setup](https://tools.techidaily.com/wondershare/filmora/download/), and it’s completely free.
+
+**Audacity**: This audio recording and editing software is great if you want to improve the quality of your audio by removing background noise or combining clips.
+
+**GIMP**: Probably the closest free product to Photoshop you can find. GIMP will help you perform basic image manipulation. It’s not as user friendly as Photoshop, but you can learn the fundamentals here as you save up for the Creative Cloud subscription plan.
+
+## 5\. Optimization Matters
+
+Gaming is arguably the most popular genre on YouTube. So, how is your little video going to be discovered in this vast sea of gaming content?
+
+The answer: with a good optimization strategy.
+
+#### 1. Tags and Title
+
+When conceptualizing your next video, consider what your viewers are going to search to find it. This will help you focus your gameplay to meet the demand of this untapped (or more specific) audience.
+
+You can use a plugin called [VidIQ](https://vidiq.com/)to see the keyword score by simply searching for the content you think your viewers are interested in watching.
+
+If you’re playing Fortnite, and your keyword is simply “Fortnite” you’re using a highly searched term, but the competition is very high as well. The odds of your ranking is incredibly tough as the overall keyword score is 61/100.
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
+
+However, if you focus on a more specific aspect of the game to make a video around, such as a character, you can heighten your chance at being discovered.
+
+Take the example below, where I added the keyword “Striker” to the search. Its overall keyword score is 87/100, that’s 26 points better in the keyword score, compared to just “Fortnite.”
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
+
+This will help you identify the content you should be making and then use that keyword knowledge to write a good title and a list of 5-15 tags.
+
+ Few more tips to improving your titles include:
+
+\- Avoid uninspiring words like “Fun,” “Exciting,” or “Great.”
+
+\- Once you have a title do a quick search to see if it already exists. Common titles make it harder for yours to rank.
+
+\- Have the title relate to the game. If there are certain words or phrases that players are familiar with, go ahead and use it.
+
+\- Make it click-worthy by promising something unique, but don’t mislead viewers.
+
+#### 2. Create Awesome Thumbnails
+
+It doesn’t matter how awesome your video is, if the thumbnail image is boring, nobody will want to click into it. And if nobody clicks into it, you won’t get any views. Simple.
+
+What makes a good thumbnail image?
+
+1. Don’t use the random images YouTube picks for you
+2. Have an expressive picture of a human face (preferably of yours, because it’s your gaming channel and you’re the star)
+
+Take a look at The Syndicate Project’s thumbnails and how it evokes an intensity that makes you want to click — or scream with excitement. Both good things.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-1.jpg)
+
+1. Don’t want to use your face? Create a character for yourself or to represent your channel. Or used the characters from the actual game.
+
+Check out the colorful thumbnails from VanossGaming, where the owl is the mascot of their channel.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-2.jpg)
+
+1. Use readable text or emojis
+
+If you don’t have Photoshop or don’t have strong design skills, check out [Wondershare Pixstudio](https://tools.techidaily.com/wondershare/fotophire/download/), a drag-and-drop design tool that makes creating thumbnails easy.
+
+#### 3. Engage with Other Gamers
+
+Don’t forget that YouTube is a social media platform.
+
+It’s all about being a part of a YouTube community, and while you can’t interact with every creator on the platform, you can find those within your niche or specific game and chat with them. Leave a comment if you like their video or have constructive feedback.
+
+Additionally, viewer engagements such as likes and comments have shown to have an indirect effect on your video ranking. That is why you should encourage your viewers to “smash” the like button or join in a conversation by asking them a question in your video.
+
+## 6\. Be Cautious of Content Strike and Demonetization
+
+#### 1. Cause for Demonetization
+
+The YouTube monetization landscape has changed a lot for creators in the past few years. The guidelines are always being adjusted to serve both creators and advertisers. If you’re thinking of making money from YouTube ads, you have to be aware that there are types of content that turn advertisers off, and YouTube knows it. Here are some reasons that YouTube will choose to demonetize your videos:
+
+\- Excessive or gratuitous violence
+
+\- Hateful content: promotes discrimination or disparages or humiliates and individual or group of people (race, ethnicity, nationality, religion, disability, age, veteran status, sexual orientation, gender identity, etc.)
+
+\- Inappropriate use of family entertainment characters
+
+\- Incendiary and demeaning content: disrespectful languages that shame or insult an individual or group
+
+#### 2. Avoiding Copyright Strike
+
+Thanks to the fair use doctrine, you’re allowed to take video game content and make videos from it without acquiring permission from the people who made the game.
+
+However, if you step across the fair use line, you can be penalized for violating copyright infringement.
+
+If you get three strikes from YouTube in 90 days, your account and videos will be removed and you won’t be allowed to create a new channel.
+
+Before you publish your video ask yourself these questions, if you answer yes to any of them then you have met fair use standards:
+
+\- Is your content creative or educational?
+
+\- Is there more original content than copyrighted content?
+
+\- Is your video benefiting the original content?
+
+I recommend that you [learn more about YouTube copyright](https://tools.techidaily.com/wondershare/filmora/download/), and how to build your content so that it doesn’t get flagged.
+
+Beyond all that, it’s about playing games, having a good time, and meeting awesome people like yourself. Enjoy the journey and take pleasure in every little achievement, be it in the game or on YouTube.
+
+## Key Takeaways
+
+1. Don’t go into YouTube gaming for the money, but rather to improve your skills and other people’s lives.
+2. Find something special about your channel that people can’t find anywhere else.
+3. YouTube gaming can be as cheap and as expensive as you want, create a budget to stay within your limits.
+4. Understand optimization to improve your chances of viewers finding your content.
+5. Don’t be hateful or advertisers will avoid you, and don’t steal other people’s content without crediting the original creator.
+6. Give yourself a [unique YouTube gaming channel name](https://tools.techidaily.com/wondershare/filmora/download/).
+
+_What’s stopping you from starting your YouTube gaming channel? Let us know in the comment box below!_
+
+## Best Screen Recorder & Video Editor for Gamers
+
+If you want to record the gameplay and edit it with some text and titles, or creative transitions and effects, I highly recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough with its editing tools and effects templates. Download the free trial version and get started now.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Now is the best and easiest time in history for you to start a YouTube gaming channel. Yet a profitable channel? That’s another story. In this article, I am going to highlight the key elements you need to become the best YouTube gamer you can be.
+
+**Table of Content:**
+
+1. [Have a Greater Purpose](#purpose)
+2. [Create an Identity](#identity)
+3. [Type of Gaming Videos](#type)
+4. [Have a Budget](#budget)
+5. [Optimization Matter](#optimization)
+6. [Be Cautious of Content Strike and Demonetization](#strike)
+
+Starting a gaming channel today will mean that you will be a small fish in a big ocean. The amount of content on YouTube is massive, and in order to stand out, you will need three intangibles:
+
+\- Patience
+
+\- Consistency
+
+\- Creativity
+
+If you are willing to commit to this long term, then it’s the best time in history for you to start a YouTube gaming channel.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+It’s the best time because you will have so many pioneers and successful creators to draw inspiration and knowledge from. You’ll be standing on the shoulders of giants like PewDiePie, Markiplier, Jacksepticeye, and CinnamonToastKen.
+
+The trail has been blazed and you’re in the new frontier. Now, here’s what you need to know about starting a YouTube gaming channel.
+
+## 1\. Have a Greater Purpose
+
+According to [Tubular Insights](http://tubularinsights.com/15-per-cent-youtube-gaming-videos/), 15% of all content on YouTube is related to video games. That’s a lot.
+
+Additionally, as of 2018, YouTube has a new monetization requirement. To enable monetization, you will need **1,000 subscribers** and **4,000 hours** of watch time in the last 12 months.
+
+If you think you can make a few videos and start making money, I’m sorry, but I’ll have to disappoint you. YouTube is fun and a wonderful way to increase the social aspect of gaming and enhance your enjoyment. Approach it the same way you’ve approached gaming all along, as a fun way to spend your time.
+
+Enjoy the journey… and what a journey it can be. Do it for the love of playing games and making videos, and not about getting subscribers or views. If you don’t change your attitude, it’s a grueling climb if all you want is to reach the finish line (which is nowhere in sight).
+
+Why am I telling you this? Well, if you don’t have a greater purpose than simply growing subscribers and making money off YouTube, then you are going to get discouraged and give up. It’s not a get-rich-fast plan.
+
+Here is how you find your greater purpose:
+
+#### 1. Give Value
+
+You want to make good YouTube gaming content like those popular YouTubers that came before you.
+
+But… what makes good YouTube content?
+
+Simply put, good content should exhibit these factors:
+
+**Entertaining**: Tell a story and sensationalize the emotions that come out of you when you play games.
+
+**Educational**: Find hidden stages, new tricks, and talk about the lore and history that brought this game to life.
+
+**Inspiring**: Encourage viewers to try new games and play along. Help people discover their next pastime and thank viewers for spending their time with you.
+
+ This is what gives your content value, and creating content with value should be your ultimate purpose. Making your viewers feel good is, in a way, better than money, no?
+
+#### 2. Make YouTube a Part of Your Daily/Weekly Ritual
+
+YouTube should be a part of your regular schedule.
+
+At first, it’ll be easy. Like anything new, your YouTube channel will have a novelty to it. It’s this exciting new project that you have.
+
+But after the first month, that excitement will dampen. By the third month, it’ll become familiar. Here’s where you have to fight the urge to stop. This is where author, Seth Godin calls [The Dip](https://www.amazon.ca/dip-Seth-Godin/dp/1591841666).
+
+It’s now working. And like all work, you’ll have to schedule it into your daily life. You’ll have to prioritize YouTube above hanging out with friends, watching another movie, or playing video games without the strain of recording it and being entertaining/educating/inspiring.
+
+However, if you are getting fulfillment from YouTube, you won’t stop even when the going gets hard. Like being a parent, it’s not always fun, but it should always be fulfilling.
+
+**Pro Tip**: Mark when you are going to be working on YouTube in a calendar, so when someone asks you to hang out or go for dinner, you can check it and let them know you already have plans.
+
+#### 3. Have a Passion to Get Better At Every Step
+
+There are many stages to producing a YouTube video, from pre-production to production to post-production. And within those stages are countless steps.
+
+If YouTube is what you want to do, perhaps the greatest purpose you can have is improving on each of those skill sets along the way.
+
+In the beginning, you will have a surplus of ideas, but once your initial stock of video ideas run dry, you will need to [practice coming up with more ideas](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You’ll get better at recording your gameplay, at speaking on camera, at editing your footage, at optimizing your content, and at sharing your videos.
+
+You will enjoy certain steps more than others, but if you are passionate, you will find comfort in striving to improve in each one, little by little.
+
+**Pro Tip**:[Focus on telling a great story](https://tools.techidaily.com/wondershare/filmora/download/). In every video, you should have an objective you want to accomplish. You want to beat a stage, you want to learn a new skill, etc. Once you nail that, all the other elements (screen recording, editing, and your commentary) will fall into place to guide your story from beginning to end.
+
+## 2\. Create an Identity
+
+Your personality and your channel will need to go through a little[branding exercise](https://tools.techidaily.com/wondershare/filmora/download/). You need to find what sets yourself apart from all the other gaming channels on the Internet. Ask yourself, and be honest with the answer: Why should anyone care about my channel?
+
+#### 1. Be Original
+
+Take inspiration from other YouTubers and adjust it so that it’s unique. You cannot copy the ideas of popular YouTubers, because the public can see that. They can tell the difference between originality and imitation.
+
+Being original doesn’t mean doing something that has never been done before.
+
+Take a look at Jacksepticeye and Markiplier, both are popular YouTubers recognized for their colorful hair, mass use of profanity, and their Let’s Play style of gaming videos. But if you watch their videos, you can see that they are not copying each other but rather adjusting what has proven to be effective to suit their personality.
+
+If something inspires you and you want to make an original version yourself, don’t think that you need to do something completely different, rather ask, how can I make that awesome thing better?
+
+#### 2. Focus on a Specific Aspect of Game
+
+Odds are, you’ll end up playing the same game as other YouTubers. If you’re playing a popular game, then it’s going to be hard for you to establish an audience if your videos are broad.
+
+Consider how your viewers will discover your videos. Are they going to find you through search? If so, what are they searching? There are many aspects to a video game: characters, glitches, stages, etc.
+
+Find a specific aspect of the game to focus on.
+
+Take YouTuber, NoughtPointFourLive, who instead of playing the game via a linear campaign, finds ridiculous situations, odd tricks, and easter eggs in Grand Theft Auto:
+
+#### 3. Hook Audience With Something Funny Or Interesting — And Lead Up To It
+
+Every video you make should tell a story. It doesn’t matter if the storyline is the one in the video game or if it’s happening to you in real life. What matters is that you are aware of where the climax is.
+
+The climax is what your story hinges on: it’s when Mario confronts Bowser.
+
+This is what your audience is watching for. They want to know who wins.
+
+To hook your audience right away, open with the most exciting part. The bit leading up to the climax. But don’t give away the ending. You want to hook them. Give a promise that this video is worth watching and that eventually, it will deliver.
+
+Check out this example from YouTuber, Lachlan playing Fortnite and landing back at Spawn Island, an artillery-filled waiting area for players before the game starts.
+
+This structure can be applied with humor as well as climatic events. If you open with something funny, it gets the viewer engaged immediately. They want to know what led up to that humorous moment.
+
+Take a look at this example from YouTuber, Jelly. He does a great job at injecting humor into his first few seconds of video.
+
+## 3\. Type of Gaming Videos
+
+There are no rules to making gaming videos. As long as it’s worth watching and you aren’t stealing content, that is all that matters. Nevertheless, there are a few standard types of gaming videos that have been established over the years.
+
+#### 1. Let’s Plays
+
+Turn the game on and start playing. Let’s Plays give you a lot of freedom to explore the game and let your personality show in the commentary. You don’t need to play with a strategy, but do have a particular goal in mind (Finishing a level, for example).
+
+Let’s Plays are more about watching you experience the game. A demographic of people watching Let’s Plays are those that don’t have the game themselves, but still want to experience it. Let them live vicariously through you.
+
+#### 2. Reviews
+
+When you’re deciding whether or not to buy a new product where do you go to research? Google and YouTube. If you have a lot of interesting insights after playing a game, making reviews videos might just be your calling. There are many games on the market, and for consumers, it can get overwhelming. Reviews help others decide whether they should invest their money and their time into that specific game or continue searching.
+
+#### 3. Walkthrough
+
+Unlike Let’s Plays and reviews, walkthrough videos are mapped out and structured to help the viewers pass the game while experiencing events, side quests, and characters they would otherwise have missed.
+
+#### 4. Reactions
+
+Misery or excitement, when you genuinely react to an event in a game, the audience gets to experience it along your side. Give the moment a bit of lead up, let people know what you are expecting, and then surprise yourself. Reaction videos are great because they are spontaneous and a wonderful form of presenting your personality.
+
+#### 5. Skills
+
+Video games are hard to master. But if you think you are proficient in an aspect of the game, show off your moves. Is there a particular trick that you can do? Is there a stage you can beat quickly? Are you able to take down your enemy with ease? Prove it.
+
+## 4\. Have a Budget
+
+When you begin your YouTube gaming journey, you are going to see a lot of established YouTubers showing off their gear. It’s easy to get carried away with equipment, but we recommend setting a budget and staying within it to start.
+
+What’s a good budget for YouTubers? Some might say you can do it for $600 and others say $3000\. That’s a big range.
+
+What you need to ask yourself is what do you currently have.
+
+Are you starting with nothing? Or do you have some essentials? If you have a computer, which can play the game of your choice, you don’t need to spend $2000 on a new one. Look at what you currently have before buying new stuff.
+
+Here is what you will need to get the best results:
+
+\- Microphone (Average cost: $100)
+
+\- Webcam (Average cost: $100)
+
+\- Editing Software (Average cost: $300)
+
+\- PC that can handle recording, editing, rendering, uploading, etc. (Average cost: $2,000)
+
+If you are starting out, all you need is a computer with a capable CPU and GPU, a webcam, a microphone, and a free encoding software, such as [OBS](https://obsproject.com/), and you will be able to stream.
+
+Even PewDiePie started with a basic gaming setup.
+
+I don’t recommend blowing your life savings on all the equipment you want. Don’t have a powerful computer? There are games such as Minecraft and Roblox that are less taxing to your computer, if you don’t have a powerful one.
+
+There are ways to work around it, if you don’t currently have the funds. Being a YouTuber is all about being resourceful and creative.
+
+You don’t need professional editing software, there are affordable ones such as [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)that have all the capabilities.
+
+#### 1. Many Games Are Free
+
+Here’s the great thing about starting as a video game YouTuber, you don’t need to pay for any games. I’m not only talking about the crappy Flash games on the Internet, but massively popular games such as Fortnite and DOTA are also free to start playing as well.
+
+If you’re strapped for cash. Start your channel playing free games and work your way towards more expensive games.
+
+#### 2. Some Software Are Free As Well
+
+**OBS**: This streaming software allows you to capture your game in top quality and broadcast it directly to YouTube. [It’s a simple setup](https://tools.techidaily.com/wondershare/filmora/download/), and it’s completely free.
+
+**Audacity**: This audio recording and editing software is great if you want to improve the quality of your audio by removing background noise or combining clips.
+
+**GIMP**: Probably the closest free product to Photoshop you can find. GIMP will help you perform basic image manipulation. It’s not as user friendly as Photoshop, but you can learn the fundamentals here as you save up for the Creative Cloud subscription plan.
+
+## 5\. Optimization Matters
+
+Gaming is arguably the most popular genre on YouTube. So, how is your little video going to be discovered in this vast sea of gaming content?
+
+The answer: with a good optimization strategy.
+
+#### 1. Tags and Title
+
+When conceptualizing your next video, consider what your viewers are going to search to find it. This will help you focus your gameplay to meet the demand of this untapped (or more specific) audience.
+
+You can use a plugin called [VidIQ](https://vidiq.com/)to see the keyword score by simply searching for the content you think your viewers are interested in watching.
+
+If you’re playing Fortnite, and your keyword is simply “Fortnite” you’re using a highly searched term, but the competition is very high as well. The odds of your ranking is incredibly tough as the overall keyword score is 61/100.
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-1.jpg)
+
+However, if you focus on a more specific aspect of the game to make a video around, such as a character, you can heighten your chance at being discovered.
+
+Take the example below, where I added the keyword “Striker” to the search. Its overall keyword score is 87/100, that’s 26 points better in the keyword score, compared to just “Fortnite.”
+
+![ Optimize Gaming Channel with VidIQ](https://images.wondershare.com/filmora/article-images/optimize-youtube-gaming-seo-with-vidiq-2.jpg)
+
+This will help you identify the content you should be making and then use that keyword knowledge to write a good title and a list of 5-15 tags.
+
+ Few more tips to improving your titles include:
+
+\- Avoid uninspiring words like “Fun,” “Exciting,” or “Great.”
+
+\- Once you have a title do a quick search to see if it already exists. Common titles make it harder for yours to rank.
+
+\- Have the title relate to the game. If there are certain words or phrases that players are familiar with, go ahead and use it.
+
+\- Make it click-worthy by promising something unique, but don’t mislead viewers.
+
+#### 2. Create Awesome Thumbnails
+
+It doesn’t matter how awesome your video is, if the thumbnail image is boring, nobody will want to click into it. And if nobody clicks into it, you won’t get any views. Simple.
+
+What makes a good thumbnail image?
+
+1. Don’t use the random images YouTube picks for you
+2. Have an expressive picture of a human face (preferably of yours, because it’s your gaming channel and you’re the star)
+
+Take a look at The Syndicate Project’s thumbnails and how it evokes an intensity that makes you want to click — or scream with excitement. Both good things.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-1.jpg)
+
+1. Don’t want to use your face? Create a character for yourself or to represent your channel. Or used the characters from the actual game.
+
+Check out the colorful thumbnails from VanossGaming, where the owl is the mascot of their channel.
+
+![Create Thumbnail for YouTube Channel](https://images.wondershare.com/filmora/article-images/create-awesome-thumbnail-youtube-gaming-2.jpg)
+
+1. Use readable text or emojis
+
+If you don’t have Photoshop or don’t have strong design skills, check out [Wondershare Pixstudio](https://tools.techidaily.com/wondershare/fotophire/download/), a drag-and-drop design tool that makes creating thumbnails easy.
+
+#### 3. Engage with Other Gamers
+
+Don’t forget that YouTube is a social media platform.
+
+It’s all about being a part of a YouTube community, and while you can’t interact with every creator on the platform, you can find those within your niche or specific game and chat with them. Leave a comment if you like their video or have constructive feedback.
+
+Additionally, viewer engagements such as likes and comments have shown to have an indirect effect on your video ranking. That is why you should encourage your viewers to “smash” the like button or join in a conversation by asking them a question in your video.
+
+## 6\. Be Cautious of Content Strike and Demonetization
+
+#### 1. Cause for Demonetization
+
+The YouTube monetization landscape has changed a lot for creators in the past few years. The guidelines are always being adjusted to serve both creators and advertisers. If you’re thinking of making money from YouTube ads, you have to be aware that there are types of content that turn advertisers off, and YouTube knows it. Here are some reasons that YouTube will choose to demonetize your videos:
+
+\- Excessive or gratuitous violence
+
+\- Hateful content: promotes discrimination or disparages or humiliates and individual or group of people (race, ethnicity, nationality, religion, disability, age, veteran status, sexual orientation, gender identity, etc.)
+
+\- Inappropriate use of family entertainment characters
+
+\- Incendiary and demeaning content: disrespectful languages that shame or insult an individual or group
+
+#### 2. Avoiding Copyright Strike
+
+Thanks to the fair use doctrine, you’re allowed to take video game content and make videos from it without acquiring permission from the people who made the game.
+
+However, if you step across the fair use line, you can be penalized for violating copyright infringement.
+
+If you get three strikes from YouTube in 90 days, your account and videos will be removed and you won’t be allowed to create a new channel.
+
+Before you publish your video ask yourself these questions, if you answer yes to any of them then you have met fair use standards:
+
+\- Is your content creative or educational?
+
+\- Is there more original content than copyrighted content?
+
+\- Is your video benefiting the original content?
+
+I recommend that you [learn more about YouTube copyright](https://tools.techidaily.com/wondershare/filmora/download/), and how to build your content so that it doesn’t get flagged.
+
+Beyond all that, it’s about playing games, having a good time, and meeting awesome people like yourself. Enjoy the journey and take pleasure in every little achievement, be it in the game or on YouTube.
+
+## Key Takeaways
+
+1. Don’t go into YouTube gaming for the money, but rather to improve your skills and other people’s lives.
+2. Find something special about your channel that people can’t find anywhere else.
+3. YouTube gaming can be as cheap and as expensive as you want, create a budget to stay within your limits.
+4. Understand optimization to improve your chances of viewers finding your content.
+5. Don’t be hateful or advertisers will avoid you, and don’t steal other people’s content without crediting the original creator.
+6. Give yourself a [unique YouTube gaming channel name](https://tools.techidaily.com/wondershare/filmora/download/).
+
+_What’s stopping you from starting your YouTube gaming channel? Let us know in the comment box below!_
+
+## Best Screen Recorder & Video Editor for Gamers
+
+If you want to record the gameplay and edit it with some text and titles, or creative transitions and effects, I highly recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is easy to use yet powerful enough with its editing tools and effects templates. Download the free trial version and get started now.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
