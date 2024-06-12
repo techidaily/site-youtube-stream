@@ -1,7 +1,7 @@
 ---
 title: "In 2024, From Zero to Hero in YouTube Traffic"
-date: 2024-05-25 17:32:38
-updated: 2024-05-27 11:55:45
+date: 2024-05-31T13:44:34.474Z
+updated: 2024-06-01T13:44:34.474Z
 tags:
   - ai video
   - ai youtube
@@ -1068,3 +1068,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] First-Timer's Manual for Cool, Mac-Crafted YouTube Clips\""
-date: 2024-05-24 21:38:30
-updated: 2024-05-27 11:22:36
+date: 2024-05-31T13:51:23.487Z
+updated: 2024-06-01T13:51:23.487Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

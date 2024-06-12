@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Complete Thumbnail Playbook  From Creation to Analysis\""
-date: 2024-05-29 16:36:44
-updated: 2024-05-31 12:39:28
+date: 2024-05-31T13:48:36.799Z
+updated: 2024-06-01T13:48:36.799Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

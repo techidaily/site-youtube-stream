@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrate YouTube Content for Dynamic Google Slides"
-date: 2024-05-26 23:57:41
-updated: 2024-05-28 10:13:35
+date: 2024-05-31T13:51:27.513Z
+updated: 2024-06-01T13:51:27.513Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

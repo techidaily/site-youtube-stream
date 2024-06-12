@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate List  15 Anime-Focused YouTube Binge Spots\""
-date: 2024-05-31 12:41:22
-updated: 2024-06-01 12:11:41
+date: 2024-05-31T13:48:41.237Z
+updated: 2024-06-01T13:48:41.237Z
 tags:
   - ai video
   - ai youtube
@@ -1290,3 +1290,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

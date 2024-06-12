@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Draft to Edit  Essential Film Techniques via YouTube\""
-date: 2024-05-25 11:25:43
-updated: 2024-05-27 11:43:12
+date: 2024-05-31T13:49:13.986Z
+updated: 2024-06-01T13:49:13.986Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ There are many ways for an investor to get information on stocks and the stock m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

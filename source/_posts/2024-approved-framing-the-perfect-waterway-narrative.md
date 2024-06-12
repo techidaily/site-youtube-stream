@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Framing the Perfect Waterway Narrative\""
-date: 2024-05-25 15:34:45
-updated: 2024-05-27 11:54:29
+date: 2024-05-31T13:44:59.371Z
+updated: 2024-06-01T13:44:59.371Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

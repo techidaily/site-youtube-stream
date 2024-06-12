@@ -1,7 +1,7 @@
 ---
 title: "[New] Formatting a Subscription Link on YouTube"
-date: 2024-05-24 21:39:31
-updated: 2024-05-27 10:47:46
+date: 2024-05-31T13:50:06.172Z
+updated: 2024-06-01T13:50:06.172Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

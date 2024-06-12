@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Simple Way to Control Comment Functionality in YouTube"
-date: 2024-05-28 16:16:21
-updated: 2024-05-31 11:44:28
+date: 2024-05-31T13:48:03.643Z
+updated: 2024-06-01T13:48:03.643Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Font Powerhouses for Captivating YouTube Thumbnails\""
-date: 2024-05-24 15:42:41
-updated: 2024-05-27 11:12:44
+date: 2024-05-31T13:42:54.904Z
+updated: 2024-06-01T13:42:54.904Z
 tags:
   - ai video
   - ai youtube
@@ -909,3 +909,4 @@ If you are making a video from your photos, you can use an online video maker wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

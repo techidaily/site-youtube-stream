@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mirrorless Challenge to DSLR  Who Wins in Video?\""
-date: 2024-05-25 18:58:18
-updated: 2024-05-28 11:28:32
+date: 2024-05-31T13:42:55.433Z
+updated: 2024-06-01T13:42:55.433Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

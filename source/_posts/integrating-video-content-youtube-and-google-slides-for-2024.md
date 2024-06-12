@@ -1,7 +1,7 @@
 ---
 title: "\"Integrating Video Content  YouTube & Google Slides for 2024\""
-date: 2024-05-27 16:53:44
-updated: 2024-05-28 11:36:12
+date: 2024-05-31T13:45:12.532Z
+updated: 2024-06-01T13:45:12.532Z
 tags:
   - ai video
   - ai youtube
@@ -1124,3 +1124,4 @@ Your content must be unique so your viewers will want to stick around and engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

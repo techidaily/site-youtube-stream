@@ -1,7 +1,7 @@
 ---
 title: "\"Leading Video Ad Design  The Crème De La Crème of Youtubers for 2024\""
-date: 2024-05-25 17:45:51
-updated: 2024-05-28 12:44:26
+date: 2024-05-31T13:43:34.694Z
+updated: 2024-06-01T13:43:34.694Z
 tags:
   - ai video
   - ai youtube
@@ -1360,3 +1360,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

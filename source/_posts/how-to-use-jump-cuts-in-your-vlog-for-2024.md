@@ -1,7 +1,7 @@
 ---
 title: "How To Use Jump Cuts in Your Vlog for 2024"
-date: 2024-05-24 19:16:32
-updated: 2024-05-27 10:57:37
+date: 2024-05-31T13:43:09.772Z
+updated: 2024-06-01T13:43:09.772Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

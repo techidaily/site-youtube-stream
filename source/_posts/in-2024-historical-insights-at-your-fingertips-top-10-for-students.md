@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Historical Insights at Your Fingertips – Top 10 for Students"
-date: 2024-05-24 10:49:44
-updated: 2024-05-27 10:17:13
+date: 2024-05-31T13:46:39.887Z
+updated: 2024-06-01T13:46:39.887Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock High-Quality Video Playback with AV1 on YouTube\""
-date: 2024-05-30 19:45:36
-updated: 2024-06-01 10:37:48
+date: 2024-05-31T13:43:36.562Z
+updated: 2024-06-01T13:43:36.562Z
 tags:
   - ai video
   - ai youtube
@@ -461,3 +461,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

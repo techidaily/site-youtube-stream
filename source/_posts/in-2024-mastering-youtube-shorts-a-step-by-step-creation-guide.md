@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering YouTube Shorts  A Step-by-Step Creation Guide\""
-date: 2024-05-25 10:39:52
-updated: 2024-05-28 12:18:43
+date: 2024-05-31T13:45:16.582Z
+updated: 2024-06-01T13:45:16.582Z
 tags:
   - ai video
   - ai youtube
@@ -1406,3 +1406,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

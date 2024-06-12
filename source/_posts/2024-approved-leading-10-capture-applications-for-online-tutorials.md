@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading 10 Capture Applications for Online Tutorials\""
-date: 2024-05-25 13:18:36
-updated: 2024-05-28 10:30:43
+date: 2024-05-31T13:43:39.435Z
+updated: 2024-06-01T13:43:39.435Z
 tags:
   - ai video
   - ai youtube
@@ -1710,3 +1710,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

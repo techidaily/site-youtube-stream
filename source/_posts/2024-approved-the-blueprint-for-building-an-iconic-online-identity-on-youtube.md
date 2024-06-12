@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Blueprint for Building an Iconic Online Identity on YouTube\""
-date: 2024-05-28 20:45:23
-updated: 2024-05-31 12:20:55
+date: 2024-05-31T13:44:26.359Z
+updated: 2024-06-01T13:44:26.359Z
 tags:
   - ai video
   - ai youtube
@@ -1238,3 +1238,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

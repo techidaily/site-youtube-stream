@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IMovie Masterclass  Drawing Viewers Into Your Content Quickly\""
-date: 2024-05-25 20:36:14
-updated: 2024-05-27 10:31:36
+date: 2024-05-31T13:45:14.776Z
+updated: 2024-06-01T13:45:14.776Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

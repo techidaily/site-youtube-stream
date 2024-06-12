@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Harnessing Technology  The Art of Capturing iOS Devices in Media\""
-date: 2024-05-24 16:18:35
-updated: 2024-05-27 10:25:58
+date: 2024-05-31T13:41:29.093Z
+updated: 2024-06-01T13:41:29.093Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Profiling Excellence  A Guide to Refined YouTube Summaries\""
-date: 2024-05-28 20:27:21
-updated: 2024-05-29 10:16:54
+date: 2024-05-31T13:45:59.571Z
+updated: 2024-06-01T13:45:59.571Z
 tags:
   - ai video
   - ai youtube
@@ -1570,3 +1570,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

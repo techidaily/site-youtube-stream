@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Pair  Merging Your YouTube Video Library\""
-date: 2024-05-27 23:16:52
-updated: 2024-05-29 10:30:33
+date: 2024-05-31T13:47:37.385Z
+updated: 2024-06-01T13:47:37.385Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

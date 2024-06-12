@@ -1,7 +1,7 @@
 ---
 title: "How to Get Just the Essentials From YouTube Videos for 2024"
-date: 2024-05-25 15:15:11
-updated: 2024-05-27 10:49:59
+date: 2024-05-31T13:42:08.726Z
+updated: 2024-06-01T13:42:08.726Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

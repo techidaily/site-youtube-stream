@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Talking Head Techniques  DIY Filming Made Simple\""
-date: 2024-05-27 17:33:15
-updated: 2024-05-30 10:10:23
+date: 2024-05-31T13:46:08.950Z
+updated: 2024-06-01T13:46:08.950Z
 tags:
   - ai video
   - ai youtube
@@ -636,3 +636,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

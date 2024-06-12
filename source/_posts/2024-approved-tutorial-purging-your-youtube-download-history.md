@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tutorial  Purging Your YouTube Download History\""
-date: 2024-05-31 13:13:34
-updated: 2024-06-01 10:43:41
+date: 2024-05-31T13:46:48.678Z
+updated: 2024-06-01T13:46:48.678Z
 tags:
   - ai video
   - ai youtube
@@ -1098,3 +1098,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

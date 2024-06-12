@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Cinematography Mastery  Designing Impactful YouTube Thumbnails\""
-date: 2024-05-28 10:37:46
-updated: 2024-05-30 11:54:20
+date: 2024-05-31T13:45:33.448Z
+updated: 2024-06-01T13:45:33.448Z
 tags:
   - ai video
   - ai youtube
@@ -1327,3 +1327,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

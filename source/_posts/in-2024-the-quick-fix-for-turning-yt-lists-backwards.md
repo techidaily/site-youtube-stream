@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Quick Fix for Turning YT Lists Backwards"
-date: 2024-05-30 19:22:34
-updated: 2024-05-31 10:32:39
+date: 2024-05-31T13:47:43.623Z
+updated: 2024-06-01T13:47:43.623Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

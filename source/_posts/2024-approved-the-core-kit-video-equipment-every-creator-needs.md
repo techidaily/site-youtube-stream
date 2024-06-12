@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Core Kit  Video Equipment Every Creator Needs\""
-date: 2024-05-29 15:19:22
-updated: 2024-05-31 11:12:23
+date: 2024-05-31T13:50:29.858Z
+updated: 2024-06-01T13:50:29.858Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

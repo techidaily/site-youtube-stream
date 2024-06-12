@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Fix YouTube Video Black Screen"
-date: 2024-05-25 19:31:24
-updated: 2024-05-27 11:55:19
+date: 2024-05-31T13:41:27.694Z
+updated: 2024-06-01T13:41:27.694Z
 tags:
   - ai video
   - ai youtube
@@ -1005,3 +1005,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

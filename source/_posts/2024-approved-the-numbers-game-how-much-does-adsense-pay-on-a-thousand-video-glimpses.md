@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Numbers Game  How Much Does AdSense Pay on a Thousand Video Glimpses?\""
-date: 2024-05-29 23:36:43
-updated: 2024-05-31 10:48:52
+date: 2024-05-31T13:41:16.086Z
+updated: 2024-06-01T13:41:16.086Z
 tags:
   - ai video
   - ai youtube
@@ -753,3 +753,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

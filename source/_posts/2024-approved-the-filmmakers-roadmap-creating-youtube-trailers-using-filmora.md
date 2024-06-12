@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Filmmaker's Roadmap  Creating YouTube Trailers Using Filmora\""
-date: 2024-05-30 17:16:17
-updated: 2024-05-31 11:36:49
+date: 2024-05-31T13:42:35.979Z
+updated: 2024-06-01T13:42:35.979Z
 tags:
   - ai video
   - ai youtube
@@ -464,3 +464,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

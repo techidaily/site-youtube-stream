@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Revenue  How to Profit From YouTube Short Videos\""
-date: 2024-05-29 16:28:51
-updated: 2024-06-01 12:53:42
+date: 2024-05-31T13:46:39.152Z
+updated: 2024-06-01T13:46:39.152Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

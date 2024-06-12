@@ -1,7 +1,7 @@
 ---
 title: "[New] Say Goodbye to Vertical and Horizontal Bars in YouTube Movies"
-date: 2024-05-28 23:26:41
-updated: 2024-05-29 11:49:31
+date: 2024-05-31T13:51:12.358Z
+updated: 2024-06-01T13:51:12.358Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

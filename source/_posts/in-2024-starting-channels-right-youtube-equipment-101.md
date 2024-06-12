@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Starting Channels Right  YouTube Equipment 101\""
-date: 2024-05-27 13:56:24
-updated: 2024-05-30 10:51:25
+date: 2024-05-31T13:44:04.625Z
+updated: 2024-06-01T13:44:04.625Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

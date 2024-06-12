@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategies for Adequate Lighting in YouTube Videos\""
-date: 2024-05-28 10:54:45
-updated: 2024-05-30 12:57:30
+date: 2024-05-31T13:48:53.981Z
+updated: 2024-06-01T13:48:53.981Z
 tags:
   - ai video
   - ai youtube
@@ -1470,3 +1470,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

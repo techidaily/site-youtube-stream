@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Steps to Record iPhone/iPad Screens for Online Videos"
-date: 2024-05-28 17:56:58
-updated: 2024-05-29 12:29:26
+date: 2024-05-31T13:51:13.457Z
+updated: 2024-06-01T13:51:13.457Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

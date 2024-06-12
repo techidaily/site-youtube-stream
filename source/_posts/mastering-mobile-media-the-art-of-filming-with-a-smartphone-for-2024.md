@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mobile Media  The Art of Filming with a Smartphone for 2024\""
-date: 2024-05-27 12:42:42
-updated: 2024-05-28 12:17:53
+date: 2024-05-31T13:48:31.262Z
+updated: 2024-06-01T13:48:31.262Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

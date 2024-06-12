@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hourly Hitlist  The Leading YouTube Videos by Watch Time\""
-date: 2024-05-24 21:14:21
-updated: 2024-05-27 10:40:28
+date: 2024-05-31T13:42:58.239Z
+updated: 2024-06-01T13:42:58.239Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

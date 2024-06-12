@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating Jobs & Passion Projects Effectively"
-date: 2024-05-26 21:53:51
-updated: 2024-05-28 12:51:48
+date: 2024-05-31T13:41:02.662Z
+updated: 2024-06-01T13:41:02.662Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

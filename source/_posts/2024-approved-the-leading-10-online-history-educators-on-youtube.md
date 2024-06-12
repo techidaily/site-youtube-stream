@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Leading 10 Online History Educators on Youtube\""
-date: 2024-05-29 20:44:52
-updated: 2024-05-31 12:11:54
+date: 2024-05-31T13:50:47.847Z
+updated: 2024-06-01T13:50:47.847Z
 tags:
   - ai video
   - ai youtube
@@ -492,3 +492,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

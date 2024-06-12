@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets\""
-date: 2024-05-24 21:23:49
-updated: 2024-05-27 10:10:19
+date: 2024-05-31T13:44:32.134Z
+updated: 2024-06-01T13:44:32.134Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Greening the Grid  Paving the Way for Sustainable Metropolises\""
-date: 2024-05-24 11:36:41
-updated: 2024-05-27 11:30:57
+date: 2024-05-31T13:48:49.435Z
+updated: 2024-06-01T13:48:49.435Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

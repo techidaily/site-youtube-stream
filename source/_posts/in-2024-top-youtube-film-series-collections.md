@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top YouTube Film Series Collections"
-date: 2024-05-29 15:43:48
-updated: 2024-05-31 11:25:35
+date: 2024-05-31T13:44:36.589Z
+updated: 2024-06-01T13:44:36.589Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 6 Free, Online Tools for Downloading YouTube Shorts\""
-date: 2024-05-29 11:49:50
-updated: 2024-05-31 12:14:46
+date: 2024-05-31T13:45:24.165Z
+updated: 2024-06-01T13:45:24.165Z
 tags:
   - ai video
   - ai youtube
@@ -868,3 +868,4 @@ YT SEO tools can help you optimize your videos to increase views and grow your f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Peak Performers in the World of Web Videos\""
-date: 2024-05-27 18:59:58
-updated: 2024-05-29 11:40:59
+date: 2024-05-31T13:47:37.818Z
+updated: 2024-06-01T13:47:37.818Z
 tags:
   - ai video
   - ai youtube
@@ -864,3 +864,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

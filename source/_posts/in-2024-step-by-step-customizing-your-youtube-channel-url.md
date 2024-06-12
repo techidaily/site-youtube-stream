@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Customizing Your YouTube Channel URL\""
-date: 2024-05-29 10:18:30
-updated: 2024-05-30 12:41:23
+date: 2024-05-31T13:40:58.243Z
+updated: 2024-06-01T13:40:58.243Z
 tags:
   - ai video
   - ai youtube
@@ -414,3 +414,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

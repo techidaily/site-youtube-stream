@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Internet Idols Index  10 Most Subscribed Global Creators\""
-date: 2024-05-27 12:31:49
-updated: 2024-05-28 12:42:38
+date: 2024-05-31T13:48:49.477Z
+updated: 2024-06-01T13:48:49.477Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

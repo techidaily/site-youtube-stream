@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Beauty Brows to Perfect Portraits  Crafting Your Cosmetic Chanel\""
-date: 2024-05-24 20:38:16
-updated: 2024-05-27 12:31:11
+date: 2024-05-31T13:41:05.528Z
+updated: 2024-06-01T13:41:05.528Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

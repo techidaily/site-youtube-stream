@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Setting the Scene  Ideal Video Aspect Ratios & Widths for YouTube\""
-date: 2024-05-28 18:53:26
-updated: 2024-05-30 10:23:58
+date: 2024-05-31T13:48:02.985Z
+updated: 2024-06-01T13:48:02.985Z
 tags:
   - ai video
   - ai youtube
@@ -1387,3 +1387,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

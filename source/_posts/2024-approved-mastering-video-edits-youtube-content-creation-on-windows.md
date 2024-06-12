@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Video Edits  YouTube Content Creation on Windows\""
-date: 2024-05-27 15:52:48
-updated: 2024-05-28 11:26:14
+date: 2024-05-31T13:50:48.790Z
+updated: 2024-06-01T13:50:48.790Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

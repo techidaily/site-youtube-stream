@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turn On/Off YouTube Feedback Settings With This Guide\""
-date: 2024-05-30 12:47:21
-updated: 2024-06-01 10:54:29
+date: 2024-05-31T13:51:03.895Z
+updated: 2024-06-01T13:51:03.895Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

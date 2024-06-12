@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Non-Negotiables of Beginning a YouTube Channel\""
-date: 2024-05-29 19:33:15
-updated: 2024-05-31 11:30:15
+date: 2024-05-31T13:43:58.787Z
+updated: 2024-06-01T13:43:58.787Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

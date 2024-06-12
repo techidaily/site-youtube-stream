@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Allocation Mastery  Work & YouTube Synergy\""
-date: 2024-05-29 18:30:52
-updated: 2024-05-31 12:51:40
+date: 2024-05-31T13:50:51.084Z
+updated: 2024-06-01T13:50:51.084Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

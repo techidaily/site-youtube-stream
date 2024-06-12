@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Fixes  How to Shorten YouTube Videos Easily\""
-date: 2024-05-27 20:23:24
-updated: 2024-05-29 10:45:42
+date: 2024-05-31T13:51:34.687Z
+updated: 2024-06-01T13:51:34.687Z
 tags:
   - ai video
   - ai youtube
@@ -570,3 +570,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

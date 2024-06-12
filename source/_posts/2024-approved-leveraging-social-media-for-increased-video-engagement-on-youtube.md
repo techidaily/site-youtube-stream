@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Social Media for Increased Video Engagement on YouTube\""
-date: 2024-05-25 10:46:26
-updated: 2024-05-28 11:31:59
+date: 2024-05-31T13:42:52.842Z
+updated: 2024-06-01T13:42:52.842Z
 tags:
   - ai video
   - ai youtube
@@ -494,3 +494,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The 10 Truths About Your YouTube Videos Having No Viewers\""
-date: 2024-05-28 10:36:57
-updated: 2024-05-30 10:17:16
+date: 2024-05-31T13:42:21.621Z
+updated: 2024-06-01T13:42:21.621Z
 tags:
   - ai video
   - ai youtube
@@ -1162,3 +1162,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

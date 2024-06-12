@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unpacking YouTube's Social Media Code of Conduct"
-date: 2024-05-31 13:34:53
-updated: 2024-06-01 11:10:12
+date: 2024-05-31T13:42:43.532Z
+updated: 2024-06-01T13:42:43.532Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Scratch to Screen  Video Editing with YouTube & Others\""
-date: 2024-05-26 20:40:37
-updated: 2024-05-27 10:12:14
+date: 2024-05-31T13:47:59.667Z
+updated: 2024-06-01T13:47:59.667Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

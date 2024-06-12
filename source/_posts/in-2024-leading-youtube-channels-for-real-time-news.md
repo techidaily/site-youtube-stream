@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leading YouTube Channels for Real-Time News\""
-date: 2024-05-25 20:30:32
-updated: 2024-05-28 11:31:20
+date: 2024-05-31T13:48:27.818Z
+updated: 2024-06-01T13:48:27.818Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

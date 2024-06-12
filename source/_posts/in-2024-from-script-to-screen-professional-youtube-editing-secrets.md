@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Script to Screen  Professional YouTube Editing Secrets\""
-date: 2024-05-26 10:27:39
-updated: 2024-05-27 12:36:28
+date: 2024-05-31T13:43:14.210Z
+updated: 2024-06-01T13:43:14.210Z
 tags:
   - ai video
   - ai youtube
@@ -960,3 +960,4 @@ Whether you're a budding YouTubеr or a sеasonеd crеator, we hope this articl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

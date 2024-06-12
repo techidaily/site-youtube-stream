@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Optimize YouTube Submissions for Extended Films\""
-date: 2024-05-25 11:28:49
-updated: 2024-05-27 12:44:42
+date: 2024-05-31T13:49:00.492Z
+updated: 2024-06-01T13:49:00.492Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

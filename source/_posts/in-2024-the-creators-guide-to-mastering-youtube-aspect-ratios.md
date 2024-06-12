@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Creator's Guide to Mastering YOUTUBE Aspect Ratios"
-date: 2024-05-30 15:43:36
-updated: 2024-05-31 11:19:26
+date: 2024-05-31T13:45:31.348Z
+updated: 2024-06-01T13:45:31.348Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ For creating YouTube thumbnails, you can use Wondershare Filmora. It's a video e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

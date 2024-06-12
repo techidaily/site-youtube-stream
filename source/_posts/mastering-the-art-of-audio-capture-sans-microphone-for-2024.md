@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Audio Capture Sans Microphone for 2024"
-date: 2024-05-25 20:50:17
-updated: 2024-05-28 10:24:51
+date: 2024-05-31T13:48:32.544Z
+updated: 2024-06-01T13:48:32.544Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

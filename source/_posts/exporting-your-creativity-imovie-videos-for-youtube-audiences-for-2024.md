@@ -1,7 +1,7 @@
 ---
 title: "\"Exporting Your Creativity  IMovie Videos for YouTube Audiences for 2024\""
-date: 2024-05-25 11:39:58
-updated: 2024-05-26 10:14:29
+date: 2024-05-31T13:50:17.934Z
+updated: 2024-06-01T13:50:17.934Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of Crafting Compelling Content in 60-Second Videos for 2024\""
-date: 2024-05-26 15:23:39
-updated: 2024-05-28 10:23:45
+date: 2024-05-31T13:45:45.876Z
+updated: 2024-06-01T13:45:45.876Z
 tags:
   - ai video
   - ai youtube
@@ -1048,3 +1048,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

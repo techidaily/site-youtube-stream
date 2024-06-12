@@ -1,7 +1,7 @@
 ---
 title: "How to Animate and Make Your Own Effects for 2024"
-date: 2024-05-25 21:10:56
-updated: 2024-05-27 12:44:52
+date: 2024-05-31T13:43:29.757Z
+updated: 2024-06-01T13:43:29.757Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

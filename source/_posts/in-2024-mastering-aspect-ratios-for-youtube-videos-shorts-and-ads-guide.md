@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Aspect Ratios for YouTube Videos, Shorts & Ads Guide"
-date: 2024-05-27 20:53:31
-updated: 2024-05-28 10:21:32
+date: 2024-05-31T13:44:26.678Z
+updated: 2024-06-01T13:44:26.678Z
 tags:
   - ai video
   - ai youtube
@@ -896,3 +896,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

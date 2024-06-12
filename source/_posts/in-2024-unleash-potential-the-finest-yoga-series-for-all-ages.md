@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash Potential  The Finest Yoga Series for All Ages\""
-date: 2024-05-29 16:58:43
-updated: 2024-06-01 12:42:54
+date: 2024-05-31T13:46:50.231Z
+updated: 2024-06-01T13:46:50.231Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

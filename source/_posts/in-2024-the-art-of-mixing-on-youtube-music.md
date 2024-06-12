@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Mixing on YouTube Music"
-date: 2024-05-29 17:13:27
-updated: 2024-05-30 11:11:23
+date: 2024-05-31T13:41:14.140Z
+updated: 2024-06-01T13:41:14.140Z
 tags:
   - ai video
   - ai youtube
@@ -430,3 +430,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jest Journeys  Charting 7 Comedic Paths to Viral Videos\""
-date: 2024-05-27 16:18:46
-updated: 2024-05-28 11:35:25
+date: 2024-05-31T13:47:51.031Z
+updated: 2024-06-01T13:47:51.031Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

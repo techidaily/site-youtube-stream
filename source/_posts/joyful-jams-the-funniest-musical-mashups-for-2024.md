@@ -1,7 +1,7 @@
 ---
 title: "\"Joyful Jams  The Funniest Musical Mashups for 2024\""
-date: 2024-05-25 15:37:36
-updated: 2024-05-28 11:22:34
+date: 2024-05-31T13:44:58.030Z
+updated: 2024-06-01T13:44:58.030Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

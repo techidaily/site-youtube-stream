@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Short Form Video Popularity on YouTube for 2024"
-date: 2024-05-27 11:50:50
-updated: 2024-05-28 10:43:31
+date: 2024-05-31T13:48:11.800Z
+updated: 2024-06-01T13:48:11.800Z
 tags:
   - ai video
   - ai youtube
@@ -1426,3 +1426,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

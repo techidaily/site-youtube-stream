@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transferring Tracks  A Guide to Offline YouTube for iOS Users\""
-date: 2024-05-29 20:50:16
-updated: 2024-06-01 11:46:56
+date: 2024-05-31T13:48:35.442Z
+updated: 2024-06-01T13:48:35.442Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

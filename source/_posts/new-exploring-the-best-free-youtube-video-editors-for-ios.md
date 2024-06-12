@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Best Free YouTube Video Editors for iOS"
-date: 2024-05-23 21:32:32
-updated: 2024-05-26 10:36:22
+date: 2024-05-31T13:41:36.721Z
+updated: 2024-06-01T13:41:36.721Z
 tags:
   - ai video
   - ai youtube
@@ -1574,3 +1574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

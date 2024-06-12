@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn the Art of Crafting Short YouTube Videos\""
-date: 2024-05-27 12:51:42
-updated: 2024-05-28 10:46:19
+date: 2024-05-31T13:49:40.745Z
+updated: 2024-06-01T13:49:40.745Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ We have covered key steps for meeting YouTube's requirements and monetizing vide
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

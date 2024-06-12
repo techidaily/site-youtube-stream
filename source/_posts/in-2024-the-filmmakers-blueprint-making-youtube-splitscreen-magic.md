@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Filmmaker's Blueprint  Making YouTube Splitscreen Magic\""
-date: 2024-05-30 13:50:43
-updated: 2024-05-31 10:19:55
+date: 2024-05-31T13:49:36.861Z
+updated: 2024-06-01T13:49:36.861Z
 tags:
   - ai video
   - ai youtube
@@ -696,3 +696,4 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

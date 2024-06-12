@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Make Video Previews Stand Out with Neon Borders\""
-date: 2024-05-27 17:17:37
-updated: 2024-05-28 10:10:54
+date: 2024-05-31T13:41:05.666Z
+updated: 2024-06-01T13:41:05.666Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Frame by Frame  Building a Filmmaking Foundation on YouTube\""
-date: 2024-05-24 15:15:42
-updated: 2024-05-27 12:47:48
+date: 2024-05-31T13:44:27.157Z
+updated: 2024-06-01T13:44:27.157Z
 tags:
   - ai video
   - ai youtube
@@ -552,3 +552,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fast Fixes for Chaotic YouTube List Ordering"
-date: 2024-05-25 21:22:52
-updated: 2024-05-26 12:39:12
+date: 2024-05-31T13:46:28.572Z
+updated: 2024-06-01T13:46:28.572Z
 tags:
   - ai video
   - ai youtube
@@ -1258,3 +1258,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

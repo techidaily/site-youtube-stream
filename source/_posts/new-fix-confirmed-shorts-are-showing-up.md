@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fix Confirmed  Shorts Are Showing Up\""
-date: 2024-05-26 16:32:54
-updated: 2024-05-27 12:13:54
+date: 2024-05-31T13:46:14.707Z
+updated: 2024-06-01T13:46:14.707Z
 tags:
   - ai video
   - ai youtube
@@ -1378,3 +1378,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

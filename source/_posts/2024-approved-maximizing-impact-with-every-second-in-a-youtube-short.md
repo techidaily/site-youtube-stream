@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Impact with Every Second in a YouTube Short\""
-date: 2024-05-26 20:23:20
-updated: 2024-05-28 10:50:34
+date: 2024-05-31T13:42:24.768Z
+updated: 2024-06-01T13:42:24.768Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

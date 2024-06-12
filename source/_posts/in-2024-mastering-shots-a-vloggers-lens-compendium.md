@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Shots  A Vlogger’s Lens Compendium\""
-date: 2024-05-25 23:39:42
-updated: 2024-05-28 12:58:44
+date: 2024-05-31T13:50:17.071Z
+updated: 2024-06-01T13:50:17.071Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

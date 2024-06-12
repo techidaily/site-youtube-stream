@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity  Top 8 Sites Offering Free Green Screen Footage & Backgrounds\""
-date: 2024-05-31 19:20:31
-updated: 2024-06-01 12:34:53
+date: 2024-05-31T13:50:58.269Z
+updated: 2024-06-01T13:50:58.269Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs for 2024"
-date: 2024-05-25 12:43:51
-updated: 2024-05-26 11:26:50
+date: 2024-05-31T13:50:01.246Z
+updated: 2024-06-01T13:50:01.246Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Green screen photography produces excellent results, and its ease of use makes i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

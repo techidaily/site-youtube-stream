@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering YouTube List Mix  A Step-by-Step Guide for 2024\""
-date: 2024-05-26 16:45:47
-updated: 2024-05-28 12:29:38
+date: 2024-05-31T13:46:07.990Z
+updated: 2024-06-01T13:46:07.990Z
 tags:
   - ai video
   - ai youtube
@@ -656,3 +656,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

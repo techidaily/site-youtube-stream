@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Future of Cosmetics  YouTube Gurus on the Rise\""
-date: 2024-05-25 17:57:13
-updated: 2024-05-27 10:31:58
+date: 2024-05-31T13:51:39.114Z
+updated: 2024-06-01T13:51:39.114Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

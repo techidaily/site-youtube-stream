@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Creativity in YouTube Production  An Intro to WMM\""
-date: 2024-05-31 15:38:31
-updated: 2024-06-01 10:46:54
+date: 2024-05-31T13:45:39.151Z
+updated: 2024-06-01T13:45:39.151Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

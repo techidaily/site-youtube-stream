@@ -1,7 +1,7 @@
 ---
 title: "[New] MiniMovie Magician"
-date: 2024-05-27 22:15:59
-updated: 2024-05-28 10:17:54
+date: 2024-05-31T13:49:45.992Z
+updated: 2024-06-01T13:49:45.992Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ This comprehensive guide recommends the 5 best tools to help you **convert Spoti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

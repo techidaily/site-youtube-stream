@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Thumbnail Tips for YouTube Success"
-date: 2024-05-27 11:34:44
-updated: 2024-05-29 12:17:26
+date: 2024-05-31T13:47:34.919Z
+updated: 2024-06-01T13:47:34.919Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

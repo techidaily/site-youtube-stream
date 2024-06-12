@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Framework for Seamless Video Storytelling"
-date: 2024-05-29 18:13:59
-updated: 2024-05-31 12:28:47
+date: 2024-05-31T13:41:01.648Z
+updated: 2024-06-01T13:41:01.648Z
 tags:
   - ai video
   - ai youtube
@@ -726,3 +726,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

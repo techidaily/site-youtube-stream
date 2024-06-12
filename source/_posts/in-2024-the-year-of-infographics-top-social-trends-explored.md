@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Year of Infographics  Top Social Trends Explored\""
-date: 2024-05-29 13:12:19
-updated: 2024-05-31 12:39:12
+date: 2024-05-31T13:49:25.754Z
+updated: 2024-06-01T13:49:25.754Z
 tags:
   - ai video
   - ai youtube
@@ -2452,3 +2452,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

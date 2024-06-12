@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Insider's Guide to YouTube Editing Mastery Using Sony Vegas Software\""
-date: 2024-05-30 15:19:41
-updated: 2024-05-31 10:43:33
+date: 2024-05-31T13:50:03.177Z
+updated: 2024-06-01T13:50:03.177Z
 tags:
   - ai video
   - ai youtube
@@ -614,3 +614,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

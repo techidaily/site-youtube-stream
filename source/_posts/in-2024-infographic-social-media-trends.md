@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infographic - Social Media Trends\""
-date: 2024-05-24 15:23:37
-updated: 2024-05-27 11:20:12
+date: 2024-05-31T13:50:52.646Z
+updated: 2024-06-01T13:50:52.646Z
 tags:
   - ai video
   - ai youtube
@@ -418,3 +418,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

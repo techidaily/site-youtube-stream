@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Create Animated Bouncing Text"
-date: 2024-05-25 12:37:44
-updated: 2024-05-27 12:32:28
+date: 2024-05-31T13:50:26.166Z
+updated: 2024-06-01T13:50:26.166Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

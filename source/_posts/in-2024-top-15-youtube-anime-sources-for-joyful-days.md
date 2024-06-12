@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 15 YouTube Anime Sources for Joyful Days"
-date: 2024-05-30 14:39:19
-updated: 2024-05-31 11:29:30
+date: 2024-05-31T13:51:07.675Z
+updated: 2024-06-01T13:51:07.675Z
 tags:
   - ai video
   - ai youtube
@@ -1526,3 +1526,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

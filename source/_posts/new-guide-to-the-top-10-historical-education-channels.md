@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to the Top 10 Historical Education Channels"
-date: 2024-05-26 15:35:35
-updated: 2024-05-27 10:10:34
+date: 2024-05-31T13:41:46.685Z
+updated: 2024-06-01T13:41:46.685Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

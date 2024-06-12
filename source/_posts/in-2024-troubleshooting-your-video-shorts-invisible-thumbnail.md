@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Troubleshooting  Your Video Short's Invisible Thumbnail\""
-date: 2024-05-29 11:52:45
-updated: 2024-06-01 11:38:22
+date: 2024-05-31T13:46:33.583Z
+updated: 2024-06-01T13:46:33.583Z
 tags:
   - ai video
   - ai youtube
@@ -2275,3 +2275,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

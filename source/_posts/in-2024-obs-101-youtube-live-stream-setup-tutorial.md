@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS 101  Youtube Live Stream Setup Tutorial\""
-date: 2024-05-26 11:42:32
-updated: 2024-05-29 10:10:24
+date: 2024-05-31T13:49:17.911Z
+updated: 2024-06-01T13:49:17.911Z
 tags:
   - ai video
   - ai youtube
@@ -951,3 +951,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

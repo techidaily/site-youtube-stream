@@ -1,7 +1,7 @@
 ---
 title: "\"Investigating the Economics of T-Series on YouTube for 2024\""
-date: 2024-05-27 19:50:14
-updated: 2024-05-28 12:46:34
+date: 2024-05-31T13:48:12.827Z
+updated: 2024-06-01T13:48:12.827Z
 tags:
   - ai video
   - ai youtube
@@ -768,3 +768,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "How to Remove Pending Videos From Your YouTube History for 2024"
-date: 2024-05-24 18:13:54
-updated: 2024-05-27 10:56:43
+date: 2024-05-31T13:51:39.554Z
+updated: 2024-06-01T13:51:39.554Z
 tags:
   - ai video
   - ai youtube
@@ -800,3 +800,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

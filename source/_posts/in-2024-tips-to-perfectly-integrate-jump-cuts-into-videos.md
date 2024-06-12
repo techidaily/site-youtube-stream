@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tips to Perfectly Integrate Jump Cuts Into Videos"
-date: 2024-05-30 14:29:26
-updated: 2024-05-31 10:56:59
+date: 2024-05-31T13:44:49.045Z
+updated: 2024-06-01T13:44:49.045Z
 tags:
   - ai video
   - ai youtube
@@ -420,3 +420,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

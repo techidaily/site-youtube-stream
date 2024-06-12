@@ -1,7 +1,7 @@
 ---
 title: "[New] Multimedia Annotator"
-date: 2024-05-26 23:50:38
-updated: 2024-05-28 12:53:56
+date: 2024-05-31T13:42:53.654Z
+updated: 2024-06-01T13:42:53.654Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

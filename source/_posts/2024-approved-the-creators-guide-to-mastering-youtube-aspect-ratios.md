@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Creator's Guide to Mastering YOUTUBE Aspect Ratios\""
-date: 2024-05-30 14:42:43
-updated: 2024-05-31 10:21:42
+date: 2024-05-31T13:41:46.175Z
+updated: 2024-06-01T13:41:46.175Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nirvana of Movement – YouTube’s Top 10 Yoga Creators\""
-date: 2024-05-28 19:42:20
-updated: 2024-05-29 11:39:50
+date: 2024-05-31T13:45:41.832Z
+updated: 2024-06-01T13:45:41.832Z
 tags:
   - ai video
   - ai youtube
@@ -739,3 +739,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

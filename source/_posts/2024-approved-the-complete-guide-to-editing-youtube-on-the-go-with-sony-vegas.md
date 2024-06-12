@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Guide to Editing YouTube on the Go With Sony Vegas\""
-date: 2024-05-30 21:45:30
-updated: 2024-05-31 10:40:55
+date: 2024-05-31T13:50:04.385Z
+updated: 2024-06-01T13:50:04.385Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

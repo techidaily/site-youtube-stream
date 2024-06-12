@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Guide to Rapid or Slowdown  YouTube's Playback Adjustments\""
-date: 2024-05-25 16:52:52
-updated: 2024-05-27 11:21:20
+date: 2024-05-31T13:40:59.417Z
+updated: 2024-06-01T13:40:59.417Z
 tags:
   - ai video
   - ai youtube
@@ -792,3 +792,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

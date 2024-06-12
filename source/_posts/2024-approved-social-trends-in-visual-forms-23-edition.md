@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Trends in Visual Forms, '23 Edition\""
-date: 2024-05-28 17:28:54
-updated: 2024-05-30 11:13:37
+date: 2024-05-31T13:47:28.696Z
+updated: 2024-06-01T13:47:28.696Z
 tags:
   - ai video
   - ai youtube
@@ -458,3 +458,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Harmonious Histories  Exploring Musical Legends with These 15 Video Documentaries\""
-date: 2024-05-24 12:57:26
-updated: 2024-05-27 12:15:29
+date: 2024-05-31T13:44:22.497Z
+updated: 2024-06-01T13:44:22.497Z
 tags:
   - ai video
   - ai youtube
@@ -684,3 +684,4 @@ With **Wondershare Filmora**'s user-friendly tools, your videos will stand out o
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Innovating Sustainable Communities Within the Concrete Jungle\""
-date: 2024-05-25 20:50:40
-updated: 2024-05-27 11:42:51
+date: 2024-05-31T13:42:08.294Z
+updated: 2024-06-01T13:42:08.294Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

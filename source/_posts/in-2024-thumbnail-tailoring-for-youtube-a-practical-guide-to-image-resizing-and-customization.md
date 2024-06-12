@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Thumbnail Tailoring for YouTube  A Practical Guide to Image Resizing and Customization\""
-date: 2024-05-30 16:21:37
-updated: 2024-05-31 12:47:50
+date: 2024-05-31T13:42:51.213Z
+updated: 2024-06-01T13:42:51.213Z
 tags:
   - ai video
   - ai youtube
@@ -1360,3 +1360,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

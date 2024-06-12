@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Knowledge Currents  Best YT for Academic Growth\""
-date: 2024-05-26 10:50:43
-updated: 2024-05-28 10:20:37
+date: 2024-05-31T13:45:50.977Z
+updated: 2024-06-01T13:45:50.977Z
 tags:
   - ai video
   - ai youtube
@@ -1822,3 +1822,4 @@ Wanted to make YouTube videos by yourself and share them with your audiences? Ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

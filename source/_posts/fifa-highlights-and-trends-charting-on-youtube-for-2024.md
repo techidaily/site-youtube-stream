@@ -1,7 +1,7 @@
 ---
 title: "\"FIFA Highlights & Trends  Charting on YouTube for 2024\""
-date: 2024-05-23 17:48:40
-updated: 2024-05-26 12:18:29
+date: 2024-05-31T13:48:26.322Z
+updated: 2024-06-01T13:48:26.322Z
 tags:
   - ai video
   - ai youtube
@@ -510,3 +510,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

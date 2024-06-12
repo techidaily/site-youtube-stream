@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Real Effects of Inflated YouTube Metrics on Engagement\""
-date: 2024-05-30 11:30:53
-updated: 2024-05-31 10:21:21
+date: 2024-05-31T13:49:40.874Z
+updated: 2024-06-01T13:49:40.874Z
 tags:
   - ai video
   - ai youtube
@@ -873,3 +873,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

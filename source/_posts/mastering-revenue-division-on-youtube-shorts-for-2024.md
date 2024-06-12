@@ -1,7 +1,7 @@
 ---
 title: "Mastering Revenue Division on YouTube Shorts for 2024"
-date: 2024-05-26 13:26:20
-updated: 2024-05-28 12:47:21
+date: 2024-05-31T13:41:10.874Z
+updated: 2024-06-01T13:41:10.874Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

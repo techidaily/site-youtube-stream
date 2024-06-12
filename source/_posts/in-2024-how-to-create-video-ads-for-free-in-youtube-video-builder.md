@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Create Video Ads for Free in YouTube Video Builder"
-date: 2024-05-24 18:36:53
-updated: 2024-05-27 12:33:51
+date: 2024-05-31T13:51:14.104Z
+updated: 2024-06-01T13:51:14.104Z
 tags:
   - ai video
   - ai youtube
@@ -880,3 +880,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

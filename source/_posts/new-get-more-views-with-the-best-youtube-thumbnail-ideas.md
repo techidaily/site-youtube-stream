@@ -1,7 +1,7 @@
 ---
 title: "[New] Get More Views with the Best YouTube Thumbnail Ideas"
-date: 2024-05-25 17:26:49
-updated: 2024-05-27 11:41:26
+date: 2024-05-31T13:49:22.554Z
+updated: 2024-06-01T13:49:22.554Z
 tags:
   - ai video
   - ai youtube
@@ -804,3 +804,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

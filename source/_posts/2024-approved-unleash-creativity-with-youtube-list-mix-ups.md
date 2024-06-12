@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity with YouTube List Mix-Ups\""
-date: 2024-05-30 10:40:17
-updated: 2024-06-01 10:13:43
+date: 2024-05-31T13:50:45.629Z
+updated: 2024-06-01T13:50:45.629Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

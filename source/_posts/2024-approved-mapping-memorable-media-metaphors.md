@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mapping Memorable Media Metaphors\""
-date: 2024-05-26 19:16:31
-updated: 2024-05-28 10:25:58
+date: 2024-05-31T13:45:48.500Z
+updated: 2024-06-01T13:45:48.500Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

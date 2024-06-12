@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essence of YouTube's New Shorts Investment Scheme"
-date: 2024-05-30 23:57:26
-updated: 2024-05-31 12:37:10
+date: 2024-05-31T13:40:57.235Z
+updated: 2024-06-01T13:40:57.235Z
 tags:
   - ai video
   - ai youtube
@@ -560,3 +560,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash Creativity  Filming & Editing on the Go with a Phone\""
-date: 2024-05-30 16:36:31
-updated: 2024-06-01 11:33:51
+date: 2024-05-31T13:50:40.515Z
+updated: 2024-06-01T13:50:40.515Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

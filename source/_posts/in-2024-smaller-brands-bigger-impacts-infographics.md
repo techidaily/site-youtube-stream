@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Smaller Brands, Bigger Impacts (Infographics)"
-date: 2024-05-28 14:28:38
-updated: 2024-05-30 10:28:48
+date: 2024-05-31T13:41:29.665Z
+updated: 2024-06-01T13:41:29.665Z
 tags:
   - ai video
   - ai youtube
@@ -418,3 +418,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

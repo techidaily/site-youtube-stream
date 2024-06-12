@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes\""
-date: 2024-05-23 20:40:17
-updated: 2024-05-26 10:33:45
+date: 2024-05-31T13:48:15.314Z
+updated: 2024-06-01T13:48:15.314Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

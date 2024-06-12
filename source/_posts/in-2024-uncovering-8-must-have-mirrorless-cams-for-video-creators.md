@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncovering 8 Must-Have Mirrorless Cams for Video Creators\""
-date: 2024-05-29 18:53:11
-updated: 2024-06-01 12:59:58
+date: 2024-05-31T13:48:16.001Z
+updated: 2024-06-01T13:48:16.001Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

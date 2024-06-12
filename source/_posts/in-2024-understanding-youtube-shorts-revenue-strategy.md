@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding YouTube Shorts Revenue Strategy"
-date: 2024-05-30 22:24:21
-updated: 2024-06-01 10:40:37
+date: 2024-05-31T13:42:25.520Z
+updated: 2024-06-01T13:42:25.520Z
 tags:
   - ai video
   - ai youtube
@@ -800,3 +800,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

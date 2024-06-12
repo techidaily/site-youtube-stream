@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turn Your Shorts Into MP4 Videos Easily\""
-date: 2024-05-30 18:45:14
-updated: 2024-06-01 10:26:22
+date: 2024-05-31T13:51:06.044Z
+updated: 2024-06-01T13:51:06.044Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

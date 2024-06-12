@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Evolution of YouTube Shorts Popularity Metrics"
-date: 2024-05-28 21:58:13
-updated: 2024-05-31 10:50:58
+date: 2024-05-31T13:50:20.536Z
+updated: 2024-06-01T13:50:20.536Z
 tags:
   - ai video
   - ai youtube
@@ -2828,3 +2828,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

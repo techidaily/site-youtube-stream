@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Historical Discoveries at Your Screen - 10 Best Educational YouTubers\""
-date: 2024-05-25 14:44:55
-updated: 2024-05-27 12:12:53
+date: 2024-05-31T13:43:04.351Z
+updated: 2024-06-01T13:43:04.351Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

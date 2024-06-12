@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Shots to Screens  The Importance of Camera Lenses in Vlogs\""
-date: 2024-05-25 13:31:52
-updated: 2024-05-27 12:32:30
+date: 2024-05-31T13:43:56.282Z
+updated: 2024-06-01T13:43:56.282Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

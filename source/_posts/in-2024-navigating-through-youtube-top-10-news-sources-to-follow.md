@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Through YouTube  Top 10 News Sources to Follow\""
-date: 2024-05-26 19:16:39
-updated: 2024-05-29 10:11:23
+date: 2024-05-31T13:45:11.070Z
+updated: 2024-06-01T13:45:11.070Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

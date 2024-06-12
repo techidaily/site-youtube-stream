@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Cross-Platform Collaboration  Your YouTube & TikTok Guide\""
-date: 2024-05-25 14:11:56
-updated: 2024-05-28 12:55:55
+date: 2024-05-31T13:41:29.165Z
+updated: 2024-06-01T13:41:29.165Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

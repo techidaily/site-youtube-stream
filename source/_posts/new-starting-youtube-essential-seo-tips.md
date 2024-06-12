@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting YouTube  Essential SEO Tips\""
-date: 2024-05-29 21:26:41
-updated: 2024-05-30 12:40:58
+date: 2024-05-31T13:42:50.300Z
+updated: 2024-06-01T13:42:50.300Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

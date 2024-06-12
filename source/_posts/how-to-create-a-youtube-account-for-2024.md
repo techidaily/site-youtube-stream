@@ -1,7 +1,7 @@
 ---
 title: "How to Create a YouTube Account for 2024"
-date: 2024-05-26 14:32:52
-updated: 2024-05-27 12:50:51
+date: 2024-05-31T13:49:36.641Z
+updated: 2024-06-01T13:49:36.641Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

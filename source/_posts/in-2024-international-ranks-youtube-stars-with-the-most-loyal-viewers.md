@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, International Ranks  YouTube Stars With the Most Loyal Viewers\""
-date: 2024-05-26 13:24:44
-updated: 2024-05-28 11:41:45
+date: 2024-05-31T13:41:43.052Z
+updated: 2024-06-01T13:41:43.052Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Scaling Up  A Creator's Guide to Major Content Partnerships\""
-date: 2024-05-27 21:10:19
-updated: 2024-05-29 10:42:48
+date: 2024-05-31T13:42:08.849Z
+updated: 2024-06-01T13:42:08.849Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

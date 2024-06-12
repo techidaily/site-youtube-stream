@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Privacy First  Sending Your Personal YouTube Link via Google\""
-date: 2024-05-27 16:39:16
-updated: 2024-05-29 11:41:12
+date: 2024-05-31T13:51:03.382Z
+updated: 2024-06-01T13:51:03.382Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

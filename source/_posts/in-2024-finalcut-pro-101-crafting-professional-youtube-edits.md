@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, FinalCut Pro 101  Crafting Professional YouTube Edits\""
-date: 2024-05-23 20:43:17
-updated: 2024-05-26 11:29:50
+date: 2024-05-31T13:49:36.662Z
+updated: 2024-06-01T13:49:36.662Z
 tags:
   - ai video
   - ai youtube
@@ -578,3 +578,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

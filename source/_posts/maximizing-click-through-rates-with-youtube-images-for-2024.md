@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Click-Through Rates with Youtube Images for 2024\""
-date: 2024-05-27 12:58:43
-updated: 2024-05-28 12:34:51
+date: 2024-05-31T13:47:51.868Z
+updated: 2024-06-01T13:47:51.868Z
 tags:
   - ai video
   - ai youtube
@@ -578,3 +578,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

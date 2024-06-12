@@ -1,7 +1,7 @@
 ---
 title: "\"Journey to Optimal Health - The Top 10 Online Yoga Masters for 2024\""
-date: 2024-05-27 22:11:31
-updated: 2024-05-28 12:51:31
+date: 2024-05-31T13:41:02.966Z
+updated: 2024-06-01T13:41:02.966Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

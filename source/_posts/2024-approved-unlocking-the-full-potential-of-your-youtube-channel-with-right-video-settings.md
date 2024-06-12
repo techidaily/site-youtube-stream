@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Full Potential of Your YouTube Channel with Right Video Settings\""
-date: 2024-05-31 10:31:16
-updated: 2024-06-01 11:15:46
+date: 2024-05-31T13:49:17.562Z
+updated: 2024-06-01T13:49:17.562Z
 tags:
   - ai video
   - ai youtube
@@ -1634,3 +1634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

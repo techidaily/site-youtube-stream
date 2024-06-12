@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Shorts to Mp4  A Comprehensive Video Processor Guide\""
-date: 2024-05-24 19:41:47
-updated: 2024-05-27 11:14:19
+date: 2024-05-31T13:47:37.553Z
+updated: 2024-06-01T13:47:37.553Z
 tags:
   - ai video
   - ai youtube
@@ -2222,3 +2222,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

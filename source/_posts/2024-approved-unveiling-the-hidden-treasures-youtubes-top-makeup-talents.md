@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Hidden Treasures  YouTube's Top Makeup Talents\""
-date: 2024-05-30 23:44:40
-updated: 2024-06-01 12:34:54
+date: 2024-05-31T13:45:38.764Z
+updated: 2024-06-01T13:45:38.764Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Trim YouTube Videos Like a Pro"
-date: 2024-05-26 16:34:22
-updated: 2024-05-27 12:31:47
+date: 2024-05-31T13:44:55.935Z
+updated: 2024-06-01T13:44:55.935Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

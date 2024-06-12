@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Video Success  A List of 20 Pro Shortcuts\""
-date: 2024-05-25 22:32:27
-updated: 2024-05-28 12:42:47
+date: 2024-05-31T13:47:29.469Z
+updated: 2024-06-01T13:47:29.469Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

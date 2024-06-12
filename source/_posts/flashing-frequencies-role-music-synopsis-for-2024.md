@@ -1,7 +1,7 @@
 ---
 title: "\"Flashing Frequencies  Role-Music Synopsis for 2024\""
-date: 2024-05-25 17:25:15
-updated: 2024-05-27 11:25:17
+date: 2024-05-31T13:43:52.013Z
+updated: 2024-06-01T13:43:52.013Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

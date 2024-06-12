@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Open-Source Templates Transform Your YouTube Channel\""
-date: 2024-05-28 11:45:34
-updated: 2024-05-29 10:31:50
+date: 2024-05-31T13:43:30.875Z
+updated: 2024-06-01T13:43:30.875Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

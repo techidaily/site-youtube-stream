@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smartphone YouTube Experience  Apple vs Android Review\""
-date: 2024-05-28 13:22:37
-updated: 2024-05-30 12:14:31
+date: 2024-05-31T13:41:10.035Z
+updated: 2024-06-01T13:41:10.035Z
 tags:
   - ai video
   - ai youtube
@@ -1370,3 +1370,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

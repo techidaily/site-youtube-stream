@@ -1,7 +1,7 @@
 ---
 title: "\"Infographic Forecast  The 2023 Social Landscape for 2024\""
-date: 2024-05-26 20:37:43
-updated: 2024-05-27 11:19:31
+date: 2024-05-31T13:49:00.158Z
+updated: 2024-06-01T13:49:00.158Z
 tags:
   - ai video
   - ai youtube
@@ -424,3 +424,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

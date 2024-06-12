@@ -1,7 +1,7 @@
 ---
 title: "\"From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials for 2024\""
-date: 2024-05-25 19:33:39
-updated: 2024-05-27 12:34:38
+date: 2024-05-31T13:43:52.042Z
+updated: 2024-06-01T13:43:52.042Z
 tags:
   - ai video
   - ai youtube
@@ -849,3 +849,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

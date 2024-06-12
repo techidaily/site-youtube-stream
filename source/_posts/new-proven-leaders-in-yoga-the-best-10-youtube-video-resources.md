@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Proven Leaders in Yoga  The Best 10 YouTube Video Resources\""
-date: 2024-05-27 17:21:10
-updated: 2024-05-29 12:30:37
+date: 2024-05-31T13:43:09.321Z
+updated: 2024-06-01T13:43:09.321Z
 tags:
   - ai video
   - ai youtube
@@ -915,3 +915,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

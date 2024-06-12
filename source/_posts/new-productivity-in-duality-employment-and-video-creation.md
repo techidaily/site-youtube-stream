@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Productivity in Duality  Employment & Video Creation\""
-date: 2024-05-28 21:29:37
-updated: 2024-05-29 11:31:35
+date: 2024-05-31T13:47:21.868Z
+updated: 2024-06-01T13:47:21.868Z
 tags:
   - ai video
   - ai youtube
@@ -627,3 +627,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

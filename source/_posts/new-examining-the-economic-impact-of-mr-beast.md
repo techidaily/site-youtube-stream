@@ -1,7 +1,7 @@
 ---
 title: "[New] Examining the Economic Impact of Mr. Beast"
-date: 2024-05-24 20:15:20
-updated: 2024-05-26 11:55:20
+date: 2024-05-31T13:51:04.411Z
+updated: 2024-06-01T13:51:04.411Z
 tags:
   - ai video
   - ai youtube
@@ -876,3 +876,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

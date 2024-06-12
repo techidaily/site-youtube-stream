@@ -1,7 +1,7 @@
 ---
 title: "\"Leapfrog Content Management  From YouTube to Dailymotion Effortlessly for 2024\""
-date: 2024-05-26 23:49:53
-updated: 2024-05-28 11:24:24
+date: 2024-05-31T13:41:19.725Z
+updated: 2024-06-01T13:41:19.725Z
 tags:
   - ai video
   - ai youtube
@@ -270,3 +270,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering Film Making Skills Through YouTube Videos\""
-date: 2024-05-27 12:32:11
-updated: 2024-05-29 10:57:29
+date: 2024-05-31T13:50:13.297Z
+updated: 2024-06-01T13:50:13.297Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

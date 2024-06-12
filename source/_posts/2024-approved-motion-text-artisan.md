@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motion Text Artisan\""
-date: 2024-05-25 19:43:26
-updated: 2024-05-28 11:40:16
+date: 2024-05-31T13:44:42.854Z
+updated: 2024-06-01T13:44:42.854Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Beginner's Blueprint  Steering Clear of the 8 Most Regrettable YouTubing Mistakes\""
-date: 2024-05-28 14:40:38
-updated: 2024-05-31 12:54:14
+date: 2024-05-31T13:40:57.210Z
+updated: 2024-06-01T13:40:57.210Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

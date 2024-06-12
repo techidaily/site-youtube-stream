@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snapshots of Success  Jake Paul’s YouTube Milestones\""
-date: 2024-05-28 22:18:58
-updated: 2024-05-30 12:30:37
+date: 2024-05-31T13:41:25.097Z
+updated: 2024-06-01T13:41:25.097Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Bites to Blocks  Top 10 Video Editing Principles\""
-date: 2024-05-25 10:31:11
-updated: 2024-05-27 12:10:22
+date: 2024-05-31T13:45:03.249Z
+updated: 2024-06-01T13:45:03.249Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

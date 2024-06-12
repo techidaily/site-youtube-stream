@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shorts Issue Fixed – Now Visible on YouTube\""
-date: 2024-05-28 10:26:30
-updated: 2024-05-30 12:27:53
+date: 2024-05-31T13:44:15.133Z
+updated: 2024-06-01T13:44:15.133Z
 tags:
   - ai video
   - ai youtube
@@ -1346,3 +1346,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

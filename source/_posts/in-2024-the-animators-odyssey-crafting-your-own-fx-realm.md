@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Animator's Odyssey  Crafting Your Own FX Realm\""
-date: 2024-05-28 23:37:46
-updated: 2024-05-30 10:28:26
+date: 2024-05-31T13:47:19.144Z
+updated: 2024-06-01T13:47:19.144Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

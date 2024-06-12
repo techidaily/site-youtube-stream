@@ -1,7 +1,7 @@
 ---
 title: "\"Google Meet Broadcast Simplified  YouTube Steps for 2024\""
-date: 2024-05-24 23:59:48
-updated: 2024-05-27 10:38:42
+date: 2024-05-31T13:49:15.342Z
+updated: 2024-06-01T13:49:15.342Z
 tags:
   - ai video
   - ai youtube
@@ -773,3 +773,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

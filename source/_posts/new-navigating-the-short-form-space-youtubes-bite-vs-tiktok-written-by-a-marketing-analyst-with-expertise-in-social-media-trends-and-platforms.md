@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Short-Form Space  YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms\""
-date: 2024-05-26 11:28:18
-updated: 2024-05-29 10:23:24
+date: 2024-05-31T13:51:00.014Z
+updated: 2024-06-01T13:51:00.014Z
 tags:
   - ai video
   - ai youtube
@@ -1262,3 +1262,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

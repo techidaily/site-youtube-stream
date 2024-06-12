@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  2 Ways to Loop a YouTube Video On TV\""
-date: 2024-05-27 18:59:51
-updated: 2024-05-29 10:17:11
+date: 2024-05-31T13:43:59.519Z
+updated: 2024-06-01T13:43:59.519Z
 tags:
   - ai video
   - ai youtube
@@ -548,3 +548,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Learning  Top 15 Sci-YT Channels\""
-date: 2024-05-28 14:43:22
-updated: 2024-05-31 12:39:57
+date: 2024-05-31T13:50:06.646Z
+updated: 2024-06-01T13:50:06.646Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  TikTok & YouTube Shorts Comparison for Individual Social Media Users\""
-date: 2024-05-28 12:56:43
-updated: 2024-05-31 12:57:50
+date: 2024-05-31T13:50:40.928Z
+updated: 2024-06-01T13:50:40.928Z
 tags:
   - ai video
   - ai youtube
@@ -633,3 +633,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

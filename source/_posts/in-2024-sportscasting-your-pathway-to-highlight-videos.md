@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sportscasting  Your Pathway to Highlight Videos\""
-date: 2024-05-29 12:57:29
-updated: 2024-05-30 11:47:11
+date: 2024-05-31T13:49:50.319Z
+updated: 2024-06-01T13:49:50.319Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

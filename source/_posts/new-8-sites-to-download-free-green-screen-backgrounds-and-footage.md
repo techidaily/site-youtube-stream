@@ -1,7 +1,7 @@
 ---
 title: "[New] 8 Sites to Download Free Green Screen Backgrounds and Footage"
-date: 2024-05-24 17:27:56
-updated: 2024-05-27 10:22:28
+date: 2024-05-31T13:47:27.474Z
+updated: 2024-06-01T13:47:27.474Z
 tags:
   - ai video
   - ai youtube
@@ -856,3 +856,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

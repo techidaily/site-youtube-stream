@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Definitive List  YouTube's Premier Making-Up Masters\""
-date: 2024-05-30 12:33:24
-updated: 2024-05-31 11:31:31
+date: 2024-05-31T13:46:55.856Z
+updated: 2024-06-01T13:46:55.856Z
 tags:
   - ai video
   - ai youtube
@@ -720,3 +720,4 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

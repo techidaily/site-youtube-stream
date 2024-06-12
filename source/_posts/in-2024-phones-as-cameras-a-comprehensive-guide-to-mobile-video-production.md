@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Phones as Cameras  A Comprehensive Guide to Mobile Video Production\""
-date: 2024-05-28 18:30:30
-updated: 2024-05-29 11:33:17
+date: 2024-05-31T13:49:14.724Z
+updated: 2024-06-01T13:49:14.724Z
 tags:
   - ai video
   - ai youtube
@@ -384,3 +384,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

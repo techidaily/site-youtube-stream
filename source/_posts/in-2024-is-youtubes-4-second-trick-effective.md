@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Is YouTube's 4-Second Trick Effective?\""
-date: 2024-05-26 23:12:26
-updated: 2024-05-28 12:26:47
+date: 2024-05-31T13:45:04.276Z
+updated: 2024-06-01T13:45:04.276Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

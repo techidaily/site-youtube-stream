@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Smartphone-Based YouTube Thumbnails\""
-date: 2024-05-29 22:15:28
-updated: 2024-05-31 11:10:21
+date: 2024-05-31T13:43:34.110Z
+updated: 2024-06-01T13:43:34.110Z
 tags:
   - ai video
   - ai youtube
@@ -1135,3 +1135,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

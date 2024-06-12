@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shine On  Mastering the Art of Illumination for YouTube Videos\""
-date: 2024-05-28 23:56:33
-updated: 2024-05-30 10:41:45
+date: 2024-05-31T13:44:48.096Z
+updated: 2024-06-01T13:44:48.096Z
 tags:
   - ai video
   - ai youtube
@@ -606,3 +606,4 @@ Green screen photography produces excellent results, and its ease of use makes i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Your Channel with These Top 10 Video Editing Tips for 2024"
-date: 2024-05-25 12:40:52
-updated: 2024-05-28 12:11:27
+date: 2024-05-31T13:46:25.888Z
+updated: 2024-06-01T13:46:25.888Z
 tags:
   - ai video
   - ai youtube
@@ -946,3 +946,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

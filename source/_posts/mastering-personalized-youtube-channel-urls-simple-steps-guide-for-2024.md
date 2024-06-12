@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Personalized YouTube Channel URLs  Simple Steps Guide for 2024\""
-date: 2024-05-27 14:49:36
-updated: 2024-05-28 10:36:51
+date: 2024-05-31T13:40:56.371Z
+updated: 2024-06-01T13:40:56.371Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

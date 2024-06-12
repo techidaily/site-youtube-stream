@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Thumbnails  Implementing Neon Borders for Attraction\""
-date: 2024-05-31 15:51:41
-updated: 2024-06-01 10:38:59
+date: 2024-05-31T13:40:52.764Z
+updated: 2024-06-01T13:40:52.764Z
 tags:
   - ai video
   - ai youtube
@@ -971,3 +971,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

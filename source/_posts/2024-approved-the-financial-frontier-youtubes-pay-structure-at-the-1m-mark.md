@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Financial Frontier  Youtube's Pay Structure at the 1M Mark\""
-date: 2024-05-28 11:13:40
-updated: 2024-05-31 10:45:22
+date: 2024-05-31T13:47:37.899Z
+updated: 2024-06-01T13:47:37.899Z
 tags:
   - ai video
   - ai youtube
@@ -580,3 +580,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

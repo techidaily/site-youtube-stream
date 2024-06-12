@@ -1,7 +1,7 @@
 ---
 title: "Monetary Returns for One Million YouTube Watchers for 2024"
-date: 2024-05-27 10:12:17
-updated: 2024-05-28 12:57:51
+date: 2024-05-31T13:46:06.944Z
+updated: 2024-06-01T13:46:06.944Z
 tags:
   - ai video
   - ai youtube
@@ -540,3 +540,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

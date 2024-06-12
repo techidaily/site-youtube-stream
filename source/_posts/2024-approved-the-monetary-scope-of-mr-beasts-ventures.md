@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Monetary Scope of Mr. Beast’s Ventures\""
-date: 2024-05-30 18:59:44
-updated: 2024-05-31 12:39:16
+date: 2024-05-31T13:44:13.211Z
+updated: 2024-06-01T13:44:13.211Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

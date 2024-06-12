@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Satire Skills  Video Comedy Mastery Tips\""
-date: 2024-05-28 20:35:54
-updated: 2024-05-29 10:24:50
+date: 2024-05-31T13:48:11.544Z
+updated: 2024-06-01T13:48:11.544Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

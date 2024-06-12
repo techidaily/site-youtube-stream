@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jake Paul Unveiled  Charting the Path of YouTube Stardom\""
-date: 2024-05-25 22:15:45
-updated: 2024-05-28 12:17:45
+date: 2024-05-31T13:43:15.100Z
+updated: 2024-06-01T13:43:15.100Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

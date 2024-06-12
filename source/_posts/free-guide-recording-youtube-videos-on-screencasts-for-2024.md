@@ -1,7 +1,7 @@
 ---
 title: "\"Free Guide  Recording YouTube Videos on Screencasts for 2024\""
-date: 2024-05-26 17:42:28
-updated: 2024-05-27 11:51:46
+date: 2024-05-31T13:49:15.313Z
+updated: 2024-06-01T13:49:15.313Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

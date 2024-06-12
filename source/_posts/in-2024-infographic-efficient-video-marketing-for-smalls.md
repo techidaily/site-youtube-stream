@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infographic  Efficient Video Marketing for Smalls\""
-date: 2024-05-25 21:44:37
-updated: 2024-05-27 12:37:35
+date: 2024-05-31T13:47:44.833Z
+updated: 2024-06-01T13:47:44.833Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

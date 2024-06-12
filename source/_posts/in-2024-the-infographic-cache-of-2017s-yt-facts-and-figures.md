@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Infographic Cache of 2017’S YT Facts and Figures"
-date: 2024-05-30 22:35:28
-updated: 2024-05-31 10:22:23
+date: 2024-05-31T13:40:53.241Z
+updated: 2024-06-01T13:40:53.241Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

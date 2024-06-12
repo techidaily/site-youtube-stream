@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Block Youtube Channels on Computer and Mobile Phones"
-date: 2024-05-24 20:22:49
-updated: 2024-05-27 11:33:51
+date: 2024-05-31T13:43:21.565Z
+updated: 2024-06-01T13:43:21.565Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

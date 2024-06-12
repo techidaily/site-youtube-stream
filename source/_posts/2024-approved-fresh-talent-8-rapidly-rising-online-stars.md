@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fresh Talent 8  Rapidly Rising Online Stars\""
-date: 2024-05-24 21:15:46
-updated: 2024-05-27 10:24:39
+date: 2024-05-31T13:48:36.101Z
+updated: 2024-06-01T13:48:36.101Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

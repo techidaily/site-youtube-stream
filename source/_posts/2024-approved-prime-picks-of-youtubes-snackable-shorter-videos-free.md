@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Picks of YouTube's Snackable Shorter Videos (FREE)\""
-date: 2024-05-27 17:43:36
-updated: 2024-05-29 10:12:57
+date: 2024-05-31T13:43:10.673Z
+updated: 2024-06-01T13:43:10.673Z
 tags:
   - ai video
   - ai youtube
@@ -852,3 +852,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

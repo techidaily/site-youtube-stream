@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Green Up Your CTA Game  Subscribe & Screen\""
-date: 2024-05-25 16:33:33
-updated: 2024-05-27 12:20:50
+date: 2024-05-31T13:45:19.281Z
+updated: 2024-06-01T13:45:19.281Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

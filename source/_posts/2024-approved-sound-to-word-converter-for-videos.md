@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sound to Word Converter for Videos\""
-date: 2024-05-29 20:48:31
-updated: 2024-05-30 12:13:33
+date: 2024-05-31T13:41:09.131Z
+updated: 2024-06-01T13:41:09.131Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

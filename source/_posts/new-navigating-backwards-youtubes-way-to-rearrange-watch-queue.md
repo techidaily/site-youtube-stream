@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Backwards  YouTube’s Way to Rearrange Watch Queue\""
-date: 2024-05-26 18:16:18
-updated: 2024-05-28 10:43:56
+date: 2024-05-31T13:42:44.690Z
+updated: 2024-06-01T13:42:44.690Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal YouTube Subscriptions for Current Affairs"
-date: 2024-05-25 14:14:29
-updated: 2024-05-27 11:40:12
+date: 2024-05-31T13:51:14.568Z
+updated: 2024-06-01T13:51:14.568Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

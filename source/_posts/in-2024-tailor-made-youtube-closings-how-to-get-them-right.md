@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailor-Made YouTube Closings  How to Get Them Right\""
-date: 2024-05-28 18:41:44
-updated: 2024-05-30 10:29:34
+date: 2024-05-31T13:41:12.844Z
+updated: 2024-06-01T13:41:12.844Z
 tags:
   - ai video
   - ai youtube
@@ -1526,3 +1526,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

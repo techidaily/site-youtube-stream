@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 11 Video Cameras Under $500  A Frugal Filmmaker's List\""
-date: 2024-05-28 22:54:23
-updated: 2024-05-31 11:26:25
+date: 2024-05-31T13:49:25.802Z
+updated: 2024-06-01T13:49:25.802Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

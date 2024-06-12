@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Secrets to Effortlessly Posting YouTube on FB\""
-date: 2024-05-29 23:44:39
-updated: 2024-05-30 10:20:17
+date: 2024-05-31T13:48:18.981Z
+updated: 2024-06-01T13:48:18.981Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

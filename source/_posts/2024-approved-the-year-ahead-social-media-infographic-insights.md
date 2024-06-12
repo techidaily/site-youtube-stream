@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Year Ahead  Social Media Infographic Insights\""
-date: 2024-05-28 20:25:21
-updated: 2024-05-31 10:41:37
+date: 2024-05-31T13:46:00.669Z
+updated: 2024-06-01T13:46:00.669Z
 tags:
   - ai video
   - ai youtube
@@ -490,3 +490,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

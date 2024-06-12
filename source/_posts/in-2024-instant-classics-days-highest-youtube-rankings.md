@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Instant Classics  Day’s Highest YouTube Rankings\""
-date: 2024-05-26 16:50:31
-updated: 2024-05-28 10:20:19
+date: 2024-05-31T13:45:55.454Z
+updated: 2024-06-01T13:45:55.454Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

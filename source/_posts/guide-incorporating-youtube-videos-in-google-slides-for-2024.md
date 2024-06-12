@@ -1,7 +1,7 @@
 ---
 title: "\"Guide  Incorporating YouTube Videos in Google Slides for 2024\""
-date: 2024-05-24 13:57:23
-updated: 2024-05-27 11:12:57
+date: 2024-05-31T13:50:35.703Z
+updated: 2024-06-01T13:50:35.703Z
 tags:
   - ai video
   - ai youtube
@@ -2258,3 +2258,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

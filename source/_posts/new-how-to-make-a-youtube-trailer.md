@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Make a YouTube Trailer"
-date: 2024-05-24 17:44:53
-updated: 2024-05-27 10:23:18
+date: 2024-05-31T13:46:09.147Z
+updated: 2024-06-01T13:46:09.147Z
 tags:
   - ai video
   - ai youtube
@@ -568,3 +568,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

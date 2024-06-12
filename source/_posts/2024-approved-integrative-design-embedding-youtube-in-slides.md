@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrative Design  Embedding YouTube in Slides\""
-date: 2024-05-26 15:39:36
-updated: 2024-05-28 11:21:38
+date: 2024-05-31T13:47:14.141Z
+updated: 2024-06-01T13:47:14.141Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

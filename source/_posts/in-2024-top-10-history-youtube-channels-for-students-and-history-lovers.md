@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 History YouTube Channels for Students & History Lovers"
-date: 2024-05-29 16:57:31
-updated: 2024-05-31 11:51:42
+date: 2024-05-31T13:45:26.765Z
+updated: 2024-06-01T13:45:26.765Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

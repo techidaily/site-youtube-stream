@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Social Signals and Their Role in YouTube Popularity"
-date: 2024-05-27 12:48:54
-updated: 2024-05-30 11:14:24
+date: 2024-05-31T13:45:16.698Z
+updated: 2024-06-01T13:45:16.698Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

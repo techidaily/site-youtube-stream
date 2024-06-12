@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create Animated Bouncing Text [2 Ways]\""
-date: 2024-05-25 19:13:16
-updated: 2024-05-27 11:24:20
+date: 2024-05-31T13:48:45.016Z
+updated: 2024-06-01T13:48:45.016Z
 tags:
   - ai video
   - ai youtube
@@ -1522,3 +1522,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

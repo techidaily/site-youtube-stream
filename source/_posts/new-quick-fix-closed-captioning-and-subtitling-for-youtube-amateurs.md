@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-Fix Closed Captioning & Subtitling for YouTube Amateurs\""
-date: 2024-05-27 19:58:35
-updated: 2024-05-29 12:27:47
+date: 2024-05-31T13:48:11.901Z
+updated: 2024-06-01T13:48:11.901Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

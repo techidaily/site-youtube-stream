@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth"
-date: 2024-05-28 14:30:49
-updated: 2024-05-29 11:27:35
+date: 2024-05-31T13:43:47.899Z
+updated: 2024-06-01T13:43:47.899Z
 tags:
   - ai video
   - ai youtube
@@ -1482,3 +1482,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

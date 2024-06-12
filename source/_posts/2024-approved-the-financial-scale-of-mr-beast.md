@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Financial Scale of Mr. Beast\""
-date: 2024-05-28 14:48:34
-updated: 2024-05-31 11:10:40
+date: 2024-05-31T13:42:29.394Z
+updated: 2024-06-01T13:42:29.394Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Thus we could say that using hashtags for YouTube shorts would surely help in ga
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

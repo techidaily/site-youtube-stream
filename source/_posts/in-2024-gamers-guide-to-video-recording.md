@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Gamer's Guide to Video Recording"
-date: 2024-05-24 10:22:34
-updated: 2024-05-27 12:25:41
+date: 2024-05-31T13:47:18.886Z
+updated: 2024-06-01T13:47:18.886Z
 tags:
   - ai video
   - ai youtube
@@ -2390,3 +2390,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

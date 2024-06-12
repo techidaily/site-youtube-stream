@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, News to Closure  A Producer’s Primer\""
-date: 2024-05-26 22:20:31
-updated: 2024-05-29 10:48:58
+date: 2024-05-31T13:42:07.728Z
+updated: 2024-06-01T13:42:07.728Z
 tags:
   - ai video
   - ai youtube
@@ -378,3 +378,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

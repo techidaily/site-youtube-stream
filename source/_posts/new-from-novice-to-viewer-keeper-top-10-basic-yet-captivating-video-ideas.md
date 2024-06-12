@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas\""
-date: 2024-05-25 16:42:57
-updated: 2024-05-27 11:14:32
+date: 2024-05-31T13:44:09.179Z
+updated: 2024-06-01T13:44:09.179Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

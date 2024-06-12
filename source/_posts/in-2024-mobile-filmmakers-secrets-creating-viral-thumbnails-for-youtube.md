@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mobile Filmmaker’s Secrets  Creating Viral Thumbnails for YouTube\""
-date: 2024-05-27 18:15:27
-updated: 2024-05-28 12:28:24
+date: 2024-05-31T13:47:18.996Z
+updated: 2024-06-01T13:47:18.996Z
 tags:
   - ai video
   - ai youtube
@@ -903,3 +903,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

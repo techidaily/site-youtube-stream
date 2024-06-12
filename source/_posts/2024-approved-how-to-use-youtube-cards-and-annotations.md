@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Use YouTube Cards and Annotations?\""
-date: 2024-05-24 17:12:57
-updated: 2024-05-27 12:56:38
+date: 2024-05-31T13:42:30.361Z
+updated: 2024-06-01T13:42:30.361Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

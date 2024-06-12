@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering Video Design on a Shoestring  Exclusive Tutorials for Free From Top 4 YouTube VFX Channels\""
-date: 2024-05-28 17:54:48
-updated: 2024-05-29 11:23:52
+date: 2024-05-31T13:42:42.716Z
+updated: 2024-06-01T13:42:42.716Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

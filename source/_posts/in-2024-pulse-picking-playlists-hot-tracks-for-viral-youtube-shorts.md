@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pulse-Picking Playlists  Hot Tracks for Viral YouTube Shorts\""
-date: 2024-05-27 13:10:32
-updated: 2024-05-29 10:32:52
+date: 2024-05-31T13:45:23.671Z
+updated: 2024-06-01T13:45:23.671Z
 tags:
   - ai video
   - ai youtube
@@ -1052,3 +1052,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

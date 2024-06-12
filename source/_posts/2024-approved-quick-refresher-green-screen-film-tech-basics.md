@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Refresher  Green Screen Film Tech Basics\""
-date: 2024-05-27 13:45:42
-updated: 2024-05-29 10:10:43
+date: 2024-05-31T13:51:04.744Z
+updated: 2024-06-01T13:51:04.744Z
 tags:
   - ai video
   - ai youtube
@@ -1610,3 +1610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

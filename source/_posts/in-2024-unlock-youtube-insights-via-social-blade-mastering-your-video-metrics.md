@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock YouTube Insights via Social Blade  Mastering Your Video Metrics\""
-date: 2024-05-30 20:43:54
-updated: 2024-06-01 11:39:22
+date: 2024-05-31T13:49:49.309Z
+updated: 2024-06-01T13:49:49.309Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

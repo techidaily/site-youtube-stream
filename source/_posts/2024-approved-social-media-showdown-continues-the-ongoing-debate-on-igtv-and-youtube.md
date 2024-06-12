@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Showdown Continues  The Ongoing Debate on IGTV and YouTube\""
-date: 2024-05-27 21:57:31
-updated: 2024-05-30 11:29:19
+date: 2024-05-31T13:47:00.770Z
+updated: 2024-06-01T13:47:00.770Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Foundations First  What To Invest In for YouTubing\""
-date: 2024-05-26 19:28:46
-updated: 2024-05-27 11:52:29
+date: 2024-05-31T13:45:44.833Z
+updated: 2024-06-01T13:45:44.833Z
 tags:
   - ai video
   - ai youtube
@@ -1054,3 +1054,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

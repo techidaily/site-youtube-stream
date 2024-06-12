@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Digital Makeup on Video Platforms"
-date: 2024-05-28 19:20:38
-updated: 2024-05-30 11:35:33
+date: 2024-05-31T13:43:11.261Z
+updated: 2024-06-01T13:43:11.261Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expressiveness in YT  Adopting Emojis\""
-date: 2024-05-25 15:48:13
-updated: 2024-05-26 10:35:35
+date: 2024-05-31T13:42:16.767Z
+updated: 2024-06-01T13:42:16.767Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

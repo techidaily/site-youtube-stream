@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Captivating Valorant Video Thumbnails on YouTube"
-date: 2024-05-27 13:26:37
-updated: 2024-05-30 10:11:45
+date: 2024-05-31T13:44:33.408Z
+updated: 2024-06-01T13:44:33.408Z
 tags:
   - ai video
   - ai youtube
@@ -764,3 +764,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

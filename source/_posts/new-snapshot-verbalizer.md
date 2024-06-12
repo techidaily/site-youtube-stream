@@ -1,7 +1,7 @@
 ---
 title: "[New] Snapshot Verbalizer"
-date: 2024-05-27 10:38:57
-updated: 2024-05-30 12:35:20
+date: 2024-05-31T13:42:12.550Z
+updated: 2024-06-01T13:42:12.550Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

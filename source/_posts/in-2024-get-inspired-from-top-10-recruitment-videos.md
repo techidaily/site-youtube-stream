@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Get Inspired From Top 10 Recruitment Videos"
-date: 2024-05-28 11:32:39
-updated: 2024-05-29 12:11:17
+date: 2024-05-31T13:42:07.673Z
+updated: 2024-06-01T13:42:07.673Z
 tags:
   - ai video
   - ai youtube
@@ -1030,3 +1030,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] 10 Fastest Growing YouTube Channels to Inspire You"
-date: 2024-05-24 18:32:11
-updated: 2024-05-26 11:40:35
+date: 2024-05-31T13:47:39.499Z
+updated: 2024-06-01T13:47:39.499Z
 tags:
   - ai video
   - ai youtube
@@ -1270,3 +1270,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

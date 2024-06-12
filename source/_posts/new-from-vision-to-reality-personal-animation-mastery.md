@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Vision to Reality  Personal Animation Mastery\""
-date: 2024-05-25 11:17:16
-updated: 2024-05-27 10:43:54
+date: 2024-05-31T13:42:01.058Z
+updated: 2024-06-01T13:42:01.058Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

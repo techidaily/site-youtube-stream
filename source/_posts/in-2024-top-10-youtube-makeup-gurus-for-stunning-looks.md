@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 YouTube Makeup Gurus for Stunning Looks"
-date: 2024-05-29 22:43:41
-updated: 2024-05-31 10:59:44
+date: 2024-05-31T13:44:46.741Z
+updated: 2024-06-01T13:44:46.741Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

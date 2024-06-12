@@ -1,7 +1,7 @@
 ---
 title: "[New] Scripting Your Story's Visual Heartbeat at Home"
-date: 2024-05-28 17:48:29
-updated: 2024-05-29 10:27:37
+date: 2024-05-31T13:44:04.876Z
+updated: 2024-06-01T13:44:04.876Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

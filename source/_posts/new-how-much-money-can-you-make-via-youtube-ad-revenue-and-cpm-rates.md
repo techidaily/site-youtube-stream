@@ -1,7 +1,7 @@
 ---
 title: "[New] How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?"
-date: 2024-05-25 10:10:56
-updated: 2024-05-27 12:44:17
+date: 2024-05-31T13:47:25.222Z
+updated: 2024-06-01T13:47:25.222Z
 tags:
   - ai video
   - ai youtube
@@ -1214,3 +1214,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

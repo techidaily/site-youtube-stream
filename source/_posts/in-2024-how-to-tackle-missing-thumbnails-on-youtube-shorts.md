@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Tackle Missing Thumbnails on YouTube Shorts"
-date: 2024-05-26 20:17:46
-updated: 2024-05-27 10:54:47
+date: 2024-05-31T13:48:46.605Z
+updated: 2024-06-01T13:48:46.605Z
 tags:
   - ai video
   - ai youtube
@@ -2275,3 +2275,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamlessly Transfer Spotify Songs to YouTube with These Tools"
-date: 2024-05-29 12:41:10
-updated: 2024-05-30 11:15:41
+date: 2024-05-31T13:47:41.368Z
+updated: 2024-06-01T13:47:41.368Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

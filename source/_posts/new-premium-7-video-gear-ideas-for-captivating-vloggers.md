@@ -1,7 +1,7 @@
 ---
 title: "[New] Premium 7 Video Gear Ideas for Captivating Vloggers"
-date: 2024-05-28 10:12:36
-updated: 2024-05-29 11:24:29
+date: 2024-05-31T13:43:44.888Z
+updated: 2024-06-01T13:43:44.888Z
 tags:
   - ai video
   - ai youtube
@@ -914,3 +914,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

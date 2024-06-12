@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make Fortnite Thumbnail for Free and Easy"
-date: 2024-05-26 15:32:14
-updated: 2024-05-27 11:55:56
+date: 2024-05-31T13:42:28.967Z
+updated: 2024-06-01T13:42:28.967Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Now that you have notable information about the YouTube movie maker tool, you ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

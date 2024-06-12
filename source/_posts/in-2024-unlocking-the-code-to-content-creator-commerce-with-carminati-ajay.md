@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Code to Content Creator Commerce with Carminati (AJay)"
-date: 2024-05-29 15:41:58
-updated: 2024-06-01 12:33:42
+date: 2024-05-31T13:48:06.139Z
+updated: 2024-06-01T13:48:06.139Z
 tags:
   - ai video
   - ai youtube
@@ -925,3 +925,4 @@ The future holds more great ways and opportunities to make things easy for us wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

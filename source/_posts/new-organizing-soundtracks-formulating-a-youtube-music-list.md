@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Organizing Soundtracks  Formulating a YouTube Music List\""
-date: 2024-05-28 23:28:11
-updated: 2024-05-29 12:48:38
+date: 2024-05-31T13:49:12.756Z
+updated: 2024-06-01T13:49:12.756Z
 tags:
   - ai video
   - ai youtube
@@ -752,3 +752,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Editing to Sharing  Using Premiere with YouTube\""
-date: 2024-05-25 21:29:38
-updated: 2024-05-27 12:59:30
+date: 2024-05-31T13:48:12.912Z
+updated: 2024-06-01T13:48:12.912Z
 tags:
   - ai video
   - ai youtube
@@ -735,3 +735,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

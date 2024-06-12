@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Haute Couture at Home  Makeup, Tools & Techniques\""
-date: 2024-05-24 12:32:19
-updated: 2024-05-27 11:44:24
+date: 2024-05-31T13:41:32.411Z
+updated: 2024-06-01T13:41:32.411Z
 tags:
   - ai video
   - ai youtube
@@ -1550,3 +1550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

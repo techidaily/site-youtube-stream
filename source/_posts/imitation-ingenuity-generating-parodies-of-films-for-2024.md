@@ -1,7 +1,7 @@
 ---
 title: "\"Imitation Ingenuity  Generating Parodies of Films for 2024\""
-date: 2024-05-26 19:31:10
-updated: 2024-05-27 12:36:43
+date: 2024-05-31T13:47:52.431Z
+updated: 2024-06-01T13:47:52.431Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

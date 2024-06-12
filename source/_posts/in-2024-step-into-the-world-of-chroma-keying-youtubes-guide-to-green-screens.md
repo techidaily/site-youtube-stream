@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Step Into the World of Chroma Keying – YouTube's Guide to Green Screens"
-date: 2024-05-28 11:48:31
-updated: 2024-05-30 12:32:19
+date: 2024-05-31T13:48:02.611Z
+updated: 2024-06-01T13:48:02.611Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

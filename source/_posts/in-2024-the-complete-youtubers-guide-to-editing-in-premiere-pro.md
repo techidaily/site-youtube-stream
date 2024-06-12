@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Youtuber's Guide to Editing in Premiere Pro"
-date: 2024-05-28 15:47:13
-updated: 2024-05-31 11:57:22
+date: 2024-05-31T13:43:52.392Z
+updated: 2024-06-01T13:43:52.392Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

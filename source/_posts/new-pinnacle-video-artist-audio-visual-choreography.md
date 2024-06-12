@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pinnacle Video Artist  Audio-Visual Choreography\""
-date: 2024-05-28 12:43:40
-updated: 2024-05-29 12:11:51
+date: 2024-05-31T13:45:09.268Z
+updated: 2024-06-01T13:45:09.268Z
 tags:
   - ai video
   - ai youtube
@@ -945,3 +945,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

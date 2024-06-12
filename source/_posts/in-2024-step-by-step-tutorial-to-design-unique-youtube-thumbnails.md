@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Tutorial to Design Unique YouTube Thumbnails\""
-date: 2024-05-27 22:56:31
-updated: 2024-05-30 11:59:39
+date: 2024-05-31T13:45:05.634Z
+updated: 2024-06-01T13:45:05.634Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

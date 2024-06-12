@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Video's Focus with Simple Blurring Techniques\""
-date: 2024-05-27 19:48:54
-updated: 2024-05-29 12:10:34
+date: 2024-05-31T13:48:23.909Z
+updated: 2024-06-01T13:48:23.909Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

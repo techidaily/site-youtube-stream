@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfect Tripod Positioning for Quality Vlogs"
-date: 2024-05-27 11:49:31
-updated: 2024-05-29 11:30:45
+date: 2024-05-31T13:44:41.048Z
+updated: 2024-06-01T13:44:41.048Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

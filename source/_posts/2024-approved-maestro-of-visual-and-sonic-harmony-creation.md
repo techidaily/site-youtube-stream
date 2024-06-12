@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maestro of Visual & Sonic Harmony Creation\""
-date: 2024-05-27 13:53:50
-updated: 2024-05-28 10:54:32
+date: 2024-05-31T13:51:24.809Z
+updated: 2024-06-01T13:51:24.809Z
 tags:
   - ai video
   - ai youtube
@@ -1312,3 +1312,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

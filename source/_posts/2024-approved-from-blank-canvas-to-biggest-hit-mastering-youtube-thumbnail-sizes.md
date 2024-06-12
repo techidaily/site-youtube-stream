@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Blank Canvas to Biggest Hit  Mastering YouTube Thumbnail Sizes\""
-date: 2024-05-24 20:45:21
-updated: 2024-05-27 10:42:52
+date: 2024-05-31T13:48:56.125Z
+updated: 2024-06-01T13:48:56.125Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

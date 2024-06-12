@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Frugal Filmmaker's Guide to Affordable Camera Gear"
-date: 2024-05-28 19:52:14
-updated: 2024-05-31 11:41:11
+date: 2024-05-31T13:47:45.084Z
+updated: 2024-06-01T13:47:45.084Z
 tags:
   - ai video
   - ai youtube
@@ -540,3 +540,4 @@ For creating YouTube thumbnails, you can use Wondershare Filmora. It's a video e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

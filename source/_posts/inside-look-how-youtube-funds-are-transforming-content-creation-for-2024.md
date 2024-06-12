@@ -1,7 +1,7 @@
 ---
 title: "\"Inside Look  How YouTube Funds Are Transforming Content Creation for 2024\""
-date: 2024-05-26 14:46:47
-updated: 2024-05-28 11:48:51
+date: 2024-05-31T13:41:55.574Z
+updated: 2024-06-01T13:41:55.574Z
 tags:
   - ai video
   - ai youtube
@@ -1432,3 +1432,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

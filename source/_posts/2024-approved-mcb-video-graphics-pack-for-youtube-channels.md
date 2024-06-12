@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  MCB Video Graphics Pack for YouTube Channels\""
-date: 2024-05-26 15:36:56
-updated: 2024-05-28 11:51:25
+date: 2024-05-31T13:41:11.290Z
+updated: 2024-06-01T13:41:11.290Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

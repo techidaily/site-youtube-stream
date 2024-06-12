@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17)\""
-date: 2024-05-24 15:57:51
-updated: 2024-05-26 12:33:42
+date: 2024-05-31T13:45:42.826Z
+updated: 2024-06-01T13:45:42.826Z
 tags:
   - ai video
   - ai youtube
@@ -479,3 +479,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

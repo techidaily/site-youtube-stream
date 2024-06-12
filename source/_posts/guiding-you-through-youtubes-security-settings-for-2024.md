@@ -1,7 +1,7 @@
 ---
 title: "Guiding You Through YouTube's Security Settings for 2024"
-date: 2024-05-24 10:21:29
-updated: 2024-05-27 10:11:28
+date: 2024-05-31T13:41:46.271Z
+updated: 2024-06-01T13:41:46.271Z
 tags:
   - ai video
   - ai youtube
@@ -578,3 +578,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

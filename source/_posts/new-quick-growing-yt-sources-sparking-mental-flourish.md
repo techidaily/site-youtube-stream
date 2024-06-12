@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-Growing YT Sources Sparking Mental Flourish\""
-date: 2024-05-26 11:14:47
-updated: 2024-05-29 11:57:39
+date: 2024-05-31T13:41:58.016Z
+updated: 2024-06-01T13:41:58.016Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

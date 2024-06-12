@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creative Filmmaking  YouTube Guides & Extras\""
-date: 2024-05-31 10:59:50
-updated: 2024-06-01 12:58:24
+date: 2024-05-31T13:51:08.382Z
+updated: 2024-06-01T13:51:08.382Z
 tags:
   - ai video
   - ai youtube
@@ -1666,3 +1666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

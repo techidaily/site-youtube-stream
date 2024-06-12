@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Football Film Breakdown  Premier Insights on YouTube\""
-date: 2024-05-26 18:15:11
-updated: 2024-05-27 11:43:29
+date: 2024-05-31T13:43:15.843Z
+updated: 2024-06-01T13:43:15.843Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

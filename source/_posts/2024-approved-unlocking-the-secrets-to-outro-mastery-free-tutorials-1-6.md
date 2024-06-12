@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6)\""
-date: 2024-05-31 22:41:13
-updated: 2024-06-01 10:56:59
+date: 2024-05-31T13:47:05.477Z
+updated: 2024-06-01T13:47:05.477Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

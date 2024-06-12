@@ -1,7 +1,7 @@
 ---
 title: "[New] Simple Steps to Import YouTube Music Into iMovie"
-date: 2024-05-28 12:55:22
-updated: 2024-05-30 11:29:11
+date: 2024-05-31T13:41:05.477Z
+updated: 2024-06-01T13:41:05.477Z
 tags:
   - ai video
   - ai youtube
@@ -1478,3 +1478,4 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

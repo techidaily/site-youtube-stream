@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Your Vids  A Comprehensive YouTube Studio Tutorial\""
-date: 2024-05-28 21:11:19
-updated: 2024-05-29 11:18:50
+date: 2024-05-31T13:43:23.673Z
+updated: 2024-06-01T13:43:23.673Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

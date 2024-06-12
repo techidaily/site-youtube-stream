@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premiere Pro  A Launchpad for YouTube Videos\""
-date: 2024-05-28 21:39:35
-updated: 2024-05-29 10:49:45
+date: 2024-05-31T13:46:14.844Z
+updated: 2024-06-01T13:46:14.844Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

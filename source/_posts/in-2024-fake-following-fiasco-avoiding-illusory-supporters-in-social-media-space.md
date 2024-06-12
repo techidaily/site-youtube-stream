@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fake Following Fiasco  Avoiding Illusory Supporters in Social Media Space\""
-date: 2024-05-25 23:28:29
-updated: 2024-05-26 10:12:18
+date: 2024-05-31T13:49:09.903Z
+updated: 2024-06-01T13:49:09.903Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

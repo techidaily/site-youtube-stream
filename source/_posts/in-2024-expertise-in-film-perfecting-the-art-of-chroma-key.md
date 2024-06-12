@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Expertise in Film  Perfecting the Art of Chroma Key\""
-date: 2024-05-25 16:19:30
-updated: 2024-05-26 11:14:40
+date: 2024-05-31T13:41:31.551Z
+updated: 2024-06-01T13:41:31.551Z
 tags:
   - ai video
   - ai youtube
@@ -514,3 +514,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

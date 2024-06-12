@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Adding Subsections and Chapters to Your YouTube Tutorials\""
-date: 2024-05-27 15:55:54
-updated: 2024-05-30 12:17:54
+date: 2024-05-31T13:43:50.593Z
+updated: 2024-06-01T13:43:50.593Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

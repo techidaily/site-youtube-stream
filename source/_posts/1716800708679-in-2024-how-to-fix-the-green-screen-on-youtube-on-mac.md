@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Fix the Green Screen on YouTube on Mac"
-date: 2024-05-26 18:54:33
-updated: 2024-05-27 12:38:55
+date: 2024-05-31T13:51:15.760Z
+updated: 2024-06-01T13:51:15.760Z
 tags:
   - ai video
   - ai youtube
@@ -1510,3 +1510,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guide to Modify Comment Accessibility on YouTube"
-date: 2024-05-25 16:28:44
-updated: 2024-05-27 12:58:58
+date: 2024-05-31T13:42:36.281Z
+updated: 2024-06-01T13:42:36.281Z
 tags:
   - ai video
   - ai youtube
@@ -914,3 +914,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

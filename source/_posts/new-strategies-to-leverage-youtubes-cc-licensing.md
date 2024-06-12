@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies to Leverage YouTube's CC Licensing"
-date: 2024-05-28 21:33:58
-updated: 2024-05-30 10:29:37
+date: 2024-05-31T13:42:13.653Z
+updated: 2024-06-01T13:42:13.653Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

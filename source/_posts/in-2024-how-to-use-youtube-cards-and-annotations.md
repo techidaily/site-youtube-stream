@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Use YouTube Cards and Annotations?"
-date: 2024-05-25 15:35:35
-updated: 2024-05-27 11:14:24
+date: 2024-05-31T13:50:48.249Z
+updated: 2024-06-01T13:50:48.249Z
 tags:
   - ai video
   - ai youtube
@@ -1014,3 +1014,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

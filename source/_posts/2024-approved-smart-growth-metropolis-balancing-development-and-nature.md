@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smart Growth Metropolis  Balancing Development and Nature\""
-date: 2024-05-28 18:45:22
-updated: 2024-05-30 10:24:39
+date: 2024-05-31T13:40:53.705Z
+updated: 2024-06-01T13:40:53.705Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

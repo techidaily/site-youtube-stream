@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Learning  Top 15 Sci-YT Channels\""
-date: 2024-05-28 22:22:50
-updated: 2024-05-31 11:48:52
+date: 2024-05-31T13:49:52.528Z
+updated: 2024-06-01T13:49:52.528Z
 tags:
   - ai video
   - ai youtube
@@ -1382,3 +1382,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

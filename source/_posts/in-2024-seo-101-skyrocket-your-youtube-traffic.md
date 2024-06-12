@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, SEO 101  Skyrocket Your YouTube Traffic\""
-date: 2024-05-28 20:45:46
-updated: 2024-05-30 11:53:14
+date: 2024-05-31T13:46:50.062Z
+updated: 2024-06-01T13:46:50.062Z
 tags:
   - ai video
   - ai youtube
@@ -2466,3 +2466,4 @@ Wanted to make YouTube videos by yourself and share them with your audiences? Ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

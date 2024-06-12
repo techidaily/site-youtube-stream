@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Historical Insights  Top Educational YT Creators\""
-date: 2024-05-24 10:53:27
-updated: 2024-05-27 10:23:43
+date: 2024-05-31T13:44:43.591Z
+updated: 2024-06-01T13:44:43.591Z
 tags:
   - ai video
   - ai youtube
@@ -2026,3 +2026,4 @@ We have introduced the best video editing tool for YouTube videos as well, and l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

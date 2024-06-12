@@ -1,7 +1,7 @@
 ---
 title: "\"Identifying Creator Types  Six Intriguing YouTube Categorization Tests for 2024\""
-date: 2024-05-24 14:23:12
-updated: 2024-05-27 12:17:21
+date: 2024-05-31T13:45:43.249Z
+updated: 2024-06-01T13:45:43.249Z
 tags:
   - ai video
   - ai youtube
@@ -1070,3 +1070,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

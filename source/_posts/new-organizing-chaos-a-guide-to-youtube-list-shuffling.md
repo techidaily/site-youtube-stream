@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Organizing Chaos  A Guide to YouTube List Shuffling\""
-date: 2024-05-26 22:23:52
-updated: 2024-05-29 12:43:47
+date: 2024-05-31T13:50:29.531Z
+updated: 2024-06-01T13:50:29.531Z
 tags:
   - ai video
   - ai youtube
@@ -1614,3 +1614,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

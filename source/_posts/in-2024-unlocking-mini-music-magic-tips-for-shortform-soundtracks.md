@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Mini-Music Magic  Tips for Shortform Soundtracks\""
-date: 2024-05-31 14:20:54
-updated: 2024-06-01 12:10:19
+date: 2024-05-31T13:42:38.824Z
+updated: 2024-06-01T13:42:38.824Z
 tags:
   - ai video
   - ai youtube
@@ -2166,3 +2166,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

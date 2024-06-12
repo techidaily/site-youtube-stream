@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Your Vids  A Comprehensive YouTube Studio Tutorial\""
-date: 2024-05-27 12:40:15
-updated: 2024-05-29 11:37:23
+date: 2024-05-31T13:42:27.123Z
+updated: 2024-06-01T13:42:27.123Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

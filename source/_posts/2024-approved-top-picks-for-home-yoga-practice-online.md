@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Picks for Home Yoga Practice Online\""
-date: 2024-05-28 12:21:25
-updated: 2024-05-31 12:24:24
+date: 2024-05-31T13:51:12.851Z
+updated: 2024-06-01T13:51:12.851Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

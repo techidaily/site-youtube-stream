@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Filmmaker's Choice  Selecting Perfect Lenses for YouTube Creation\""
-date: 2024-05-25 17:27:38
-updated: 2024-05-26 12:45:28
+date: 2024-05-31T13:50:00.667Z
+updated: 2024-06-01T13:50:00.667Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

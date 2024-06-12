@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide to Crafting YouTube Splitscreen Content\""
-date: 2024-05-28 18:53:33
-updated: 2024-05-30 11:36:28
+date: 2024-05-31T13:45:57.314Z
+updated: 2024-06-01T13:45:57.314Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Picks for Vloggers  8 Mirrorless Cameras Leading the Pack\""
-date: 2024-05-28 11:58:21
-updated: 2024-05-31 12:15:49
+date: 2024-05-31T13:43:02.200Z
+updated: 2024-06-01T13:43:02.200Z
 tags:
   - ai video
   - ai youtube
@@ -772,3 +772,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

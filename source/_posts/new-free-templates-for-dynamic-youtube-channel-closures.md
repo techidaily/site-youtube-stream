@@ -1,7 +1,7 @@
 ---
 title: "[New] Free Templates for Dynamic YouTube Channel Closures"
-date: 2024-05-25 23:13:42
-updated: 2024-05-27 11:13:16
+date: 2024-05-31T13:42:00.216Z
+updated: 2024-06-01T13:42:00.216Z
 tags:
   - ai video
   - ai youtube
@@ -1414,3 +1414,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

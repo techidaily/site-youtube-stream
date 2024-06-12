@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Power of Cutting for Beginner Editors\""
-date: 2024-05-29 11:43:32
-updated: 2024-06-01 12:26:42
+date: 2024-05-31T13:48:47.644Z
+updated: 2024-06-01T13:48:47.644Z
 tags:
   - ai video
   - ai youtube
@@ -1222,3 +1222,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

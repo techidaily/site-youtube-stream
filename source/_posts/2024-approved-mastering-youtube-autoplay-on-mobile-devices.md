@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Autoplay on Mobile Devices\""
-date: 2024-05-26 10:19:53
-updated: 2024-05-28 11:10:12
+date: 2024-05-31T13:45:49.532Z
+updated: 2024-06-01T13:45:49.532Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Million-Viewer Milestones  YouTube's Pay Structure\""
-date: 2024-05-26 18:58:42
-updated: 2024-05-28 11:44:49
+date: 2024-05-31T13:47:32.382Z
+updated: 2024-06-01T13:47:32.382Z
 tags:
   - ai video
   - ai youtube
@@ -502,3 +502,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

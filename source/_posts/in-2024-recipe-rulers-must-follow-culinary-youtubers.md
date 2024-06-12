@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Recipe Rulers  Must-Follow Culinary YouTubers\""
-date: 2024-05-26 22:23:21
-updated: 2024-05-29 12:28:41
+date: 2024-05-31T13:41:27.338Z
+updated: 2024-06-01T13:41:27.338Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

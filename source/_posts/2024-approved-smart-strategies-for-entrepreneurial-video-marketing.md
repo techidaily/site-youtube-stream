@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SMART Strategies for Entrepreneurial Video Marketing\""
-date: 2024-05-28 12:44:14
-updated: 2024-05-30 12:25:27
+date: 2024-05-31T13:41:23.751Z
+updated: 2024-06-01T13:41:23.751Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Green Screen Integration in Post-Production\""
-date: 2024-05-27 19:14:13
-updated: 2024-05-28 10:34:10
+date: 2024-05-31T13:46:40.724Z
+updated: 2024-06-01T13:46:40.724Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

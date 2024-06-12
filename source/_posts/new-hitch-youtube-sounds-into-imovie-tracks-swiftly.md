@@ -1,7 +1,7 @@
 ---
 title: "[New] Hitch YouTube Sounds Into iMovie Tracks Swiftly"
-date: 2024-05-25 15:27:47
-updated: 2024-05-27 10:48:39
+date: 2024-05-31T13:43:46.095Z
+updated: 2024-06-01T13:43:46.095Z
 tags:
   - ai video
   - ai youtube
@@ -996,3 +996,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

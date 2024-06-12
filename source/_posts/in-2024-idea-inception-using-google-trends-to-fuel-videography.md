@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Idea Inception  Using Google Trends to Fuel Videography\""
-date: 2024-05-26 20:35:35
-updated: 2024-05-27 12:58:51
+date: 2024-05-31T13:46:57.843Z
+updated: 2024-06-01T13:46:57.843Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

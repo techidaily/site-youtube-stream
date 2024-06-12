@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Selecting Your Channel  Weighing Up the Merits of IGTV & YouTube\""
-date: 2024-05-28 23:27:42
-updated: 2024-05-30 11:22:15
+date: 2024-05-31T13:44:37.414Z
+updated: 2024-06-01T13:44:37.414Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Advanced YouTube Studio Editing\""
-date: 2024-05-29 21:52:15
-updated: 2024-05-31 12:34:31
+date: 2024-05-31T13:45:48.587Z
+updated: 2024-06-01T13:45:48.587Z
 tags:
   - ai video
   - ai youtube
@@ -964,3 +964,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

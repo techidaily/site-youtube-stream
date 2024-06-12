@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Internet's Influencers  Top 10 Global YouTube Sensations\""
-date: 2024-05-26 10:35:47
-updated: 2024-05-28 11:15:48
+date: 2024-05-31T13:45:03.322Z
+updated: 2024-06-01T13:45:03.322Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

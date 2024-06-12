@@ -1,7 +1,7 @@
 ---
 title: "[New] Foremost 10 Recording Apps for Social Media Vids"
-date: 2024-05-26 18:24:20
-updated: 2024-05-27 11:25:34
+date: 2024-05-31T13:44:40.327Z
+updated: 2024-06-01T13:44:40.327Z
 tags:
   - ai video
   - ai youtube
@@ -1263,3 +1263,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

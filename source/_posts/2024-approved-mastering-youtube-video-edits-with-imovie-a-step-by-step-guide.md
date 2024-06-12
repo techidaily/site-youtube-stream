@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Video Edits with iMovie  A Step-by-Step Guide\""
-date: 2024-05-27 17:38:46
-updated: 2024-05-28 10:39:42
+date: 2024-05-31T13:43:39.510Z
+updated: 2024-06-01T13:43:39.510Z
 tags:
   - ai video
   - ai youtube
@@ -775,3 +775,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

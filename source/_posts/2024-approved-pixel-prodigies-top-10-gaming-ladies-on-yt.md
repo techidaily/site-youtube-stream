@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixel Prodigies  Top 10 Gaming Ladies on YT\""
-date: 2024-05-27 17:40:16
-updated: 2024-05-29 12:36:31
+date: 2024-05-31T13:47:34.497Z
+updated: 2024-06-01T13:47:34.497Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

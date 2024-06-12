@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Science of Visual Appeal  Crafting Stunning YouTube Shorts Templates\""
-date: 2024-05-28 11:34:20
-updated: 2024-05-31 10:26:31
+date: 2024-05-31T13:41:12.874Z
+updated: 2024-06-01T13:41:12.874Z
 tags:
   - ai video
   - ai youtube
@@ -979,3 +979,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

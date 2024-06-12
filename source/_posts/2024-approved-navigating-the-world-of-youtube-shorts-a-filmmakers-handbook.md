@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the World of YouTube Shorts  A Filmmaker's Handbook\""
-date: 2024-05-27 20:41:47
-updated: 2024-05-29 10:50:37
+date: 2024-05-31T13:49:34.147Z
+updated: 2024-06-01T13:49:34.147Z
 tags:
   - ai video
   - ai youtube
@@ -1422,3 +1422,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

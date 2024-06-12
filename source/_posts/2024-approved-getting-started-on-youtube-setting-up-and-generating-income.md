@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Getting Started on YouTube  Setting Up & Generating Income\""
-date: 2024-05-24 10:37:22
-updated: 2024-05-27 10:13:49
+date: 2024-05-31T13:46:45.065Z
+updated: 2024-06-01T13:46:45.065Z
 tags:
   - ai video
   - ai youtube
@@ -811,3 +811,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

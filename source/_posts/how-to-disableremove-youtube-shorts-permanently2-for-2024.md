@@ -1,7 +1,7 @@
 ---
 title: "How to Disable/Remove YouTube Shorts Permanently?2 For 2024"
-date: 2024-05-24 11:44:58
-updated: 2024-05-27 12:23:17
+date: 2024-05-31T13:43:33.183Z
+updated: 2024-06-01T13:43:33.183Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

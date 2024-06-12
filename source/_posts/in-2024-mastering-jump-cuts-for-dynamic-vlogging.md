@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Jump Cuts for Dynamic Vlogging"
-date: 2024-05-27 17:20:48
-updated: 2024-05-28 10:11:21
+date: 2024-05-31T13:49:45.497Z
+updated: 2024-06-01T13:49:45.497Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

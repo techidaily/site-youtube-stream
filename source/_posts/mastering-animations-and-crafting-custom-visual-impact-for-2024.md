@@ -1,7 +1,7 @@
 ---
 title: "Mastering Animations & Crafting Custom Visual Impact for 2024"
-date: 2024-05-25 22:18:13
-updated: 2024-05-28 10:14:47
+date: 2024-05-31T13:41:52.191Z
+updated: 2024-06-01T13:41:52.191Z
 tags:
   - ai video
   - ai youtube
@@ -520,3 +520,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

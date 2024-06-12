@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Fixes for Green Screen Glitches on Mac Video Editing Platform"
-date: 2024-05-27 14:39:36
-updated: 2024-05-29 10:24:57
+date: 2024-05-31T13:48:07.477Z
+updated: 2024-06-01T13:48:07.477Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Guide to YouTube Thumbnail Crafting (Mac)"
-date: 2024-05-30 23:15:26
-updated: 2024-05-31 10:35:56
+date: 2024-05-31T13:46:47.950Z
+updated: 2024-06-01T13:46:47.950Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

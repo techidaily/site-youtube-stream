@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Filmmaker's Toolkit  Essential Tips for YouTube Creators with Smartphones\""
-date: 2024-05-30 23:28:56
-updated: 2024-05-31 10:59:52
+date: 2024-05-31T13:47:37.873Z
+updated: 2024-06-01T13:47:37.873Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

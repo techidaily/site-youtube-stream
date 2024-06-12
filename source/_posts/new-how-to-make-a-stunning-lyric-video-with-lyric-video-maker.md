@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Stunning Lyric Video with Lyric Video Maker"
-date: 2024-05-27 18:35:29
-updated: 2024-05-28 11:15:23
+date: 2024-05-31T13:41:41.169Z
+updated: 2024-06-01T13:41:41.169Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Video to Audio  Quickly Create MP3 From YouTube on Mac\""
-date: 2024-05-25 22:52:48
-updated: 2024-05-27 11:58:11
+date: 2024-05-31T13:43:24.635Z
+updated: 2024-06-01T13:43:24.635Z
 tags:
   - ai video
   - ai youtube
@@ -692,3 +692,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

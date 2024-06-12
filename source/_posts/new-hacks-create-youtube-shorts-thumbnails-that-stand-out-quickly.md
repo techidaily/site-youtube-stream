@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hacks  Create YouTube Shorts Thumbnails That Stand Out Quickly\""
-date: 2024-05-25 17:44:17
-updated: 2024-05-27 11:31:54
+date: 2024-05-31T13:41:30.899Z
+updated: 2024-06-01T13:41:30.899Z
 tags:
   - ai video
   - ai youtube
@@ -688,3 +688,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

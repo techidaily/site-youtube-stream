@@ -1,7 +1,7 @@
 ---
 title: "How to Use YouTube Analytics to Grow Your Channel for 2024"
-date: 2024-05-25 11:19:44
-updated: 2024-05-27 11:53:38
+date: 2024-05-31T13:51:09.645Z
+updated: 2024-06-01T13:51:09.645Z
 tags:
   - ai video
   - ai youtube
@@ -3506,3 +3506,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

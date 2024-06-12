@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sourav Joshi's Roadmap to Financial Freedom via YouTube\""
-date: 2024-05-27 16:12:19
-updated: 2024-05-30 10:51:51
+date: 2024-05-31T13:50:37.587Z
+updated: 2024-06-01T13:50:37.587Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

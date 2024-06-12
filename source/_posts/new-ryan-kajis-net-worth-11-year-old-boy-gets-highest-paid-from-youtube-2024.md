@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ryan Kaji’s Net Worth  11-Year-Old Boy Gets Highest-Paid From YouTube 2024\""
-date: 2024-05-27 23:48:36
-updated: 2024-05-29 11:37:28
+date: 2024-05-31T13:51:26.808Z
+updated: 2024-06-01T13:51:26.808Z
 tags:
   - ai video
   - ai youtube
@@ -504,3 +504,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

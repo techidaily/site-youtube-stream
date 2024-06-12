@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Eye Candy Extravaganza  Highest Watched Videos in a Day\""
-date: 2024-05-24 10:19:58
-updated: 2024-05-26 12:39:35
+date: 2024-05-31T13:47:28.615Z
+updated: 2024-06-01T13:47:28.615Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

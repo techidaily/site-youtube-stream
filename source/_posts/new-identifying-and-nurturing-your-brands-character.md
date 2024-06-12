@@ -1,7 +1,7 @@
 ---
 title: "[New] Identifying and Nurturing Your Brand's Character"
-date: 2024-05-25 16:22:37
-updated: 2024-05-27 10:48:14
+date: 2024-05-31T13:43:34.817Z
+updated: 2024-06-01T13:43:34.817Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

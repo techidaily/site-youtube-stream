@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Risky Business  Buying Non-Real YouTube Supporters\""
-date: 2024-05-28 10:47:57
-updated: 2024-05-29 10:56:40
+date: 2024-05-31T13:50:53.827Z
+updated: 2024-06-01T13:50:53.827Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

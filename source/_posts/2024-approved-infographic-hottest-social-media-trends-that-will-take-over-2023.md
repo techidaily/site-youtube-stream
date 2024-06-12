@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infographic - Hottest Social Media Trends That Will Take Over 2023\""
-date: 2024-05-27 19:59:55
-updated: 2024-05-30 10:32:31
+date: 2024-05-31T13:50:24.212Z
+updated: 2024-06-01T13:50:24.212Z
 tags:
   - ai video
   - ai youtube
@@ -434,3 +434,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Numbers in Focus! Yearly YT Trends & Trivia (2017)"
-date: 2024-05-28 23:24:22
-updated: 2024-05-29 10:25:19
+date: 2024-05-31T13:49:30.464Z
+updated: 2024-06-01T13:49:30.464Z
 tags:
   - ai video
   - ai youtube
@@ -470,3 +470,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

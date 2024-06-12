@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  8 Sites to Download Free Green Screen Backgrounds and Footage\""
-date: 2024-05-26 12:26:50
-updated: 2024-05-27 12:36:37
+date: 2024-05-31T13:47:29.685Z
+updated: 2024-06-01T13:47:29.685Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Green screen photography produces excellent results, and its ease of use makes i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

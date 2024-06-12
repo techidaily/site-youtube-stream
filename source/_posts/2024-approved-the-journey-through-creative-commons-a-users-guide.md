@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Journey Through Creative Commons  A User's Guide\""
-date: 2024-05-28 22:25:36
-updated: 2024-05-31 11:12:28
+date: 2024-05-31T13:40:53.769Z
+updated: 2024-06-01T13:40:53.769Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

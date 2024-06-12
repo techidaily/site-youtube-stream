@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Giggles Guidebook  Planning 7 Funny Video Frameworks\""
-date: 2024-05-25 19:13:27
-updated: 2024-05-27 11:31:50
+date: 2024-05-31T13:47:03.414Z
+updated: 2024-06-01T13:47:03.414Z
 tags:
   - ai video
   - ai youtube
@@ -1862,3 +1862,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

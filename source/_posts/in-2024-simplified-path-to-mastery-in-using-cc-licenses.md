@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplified Path to Mastery in Using CC Licenses"
-date: 2024-05-28 13:15:31
-updated: 2024-05-30 10:32:43
+date: 2024-05-31T13:47:01.378Z
+updated: 2024-06-01T13:47:01.378Z
 tags:
   - ai video
   - ai youtube
@@ -688,3 +688,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

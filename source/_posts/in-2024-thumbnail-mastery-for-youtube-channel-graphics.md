@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thumbnail Mastery for YouTube Channel Graphics"
-date: 2024-05-28 15:18:45
-updated: 2024-05-31 11:27:11
+date: 2024-05-31T13:42:16.679Z
+updated: 2024-06-01T13:42:16.679Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] 10 Best Travel Youtube Channels You May Want to Follow"
-date: 2024-05-29 21:22:22
-updated: 2024-06-01 10:21:42
+date: 2024-05-31T13:49:45.925Z
+updated: 2024-06-01T13:49:45.925Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

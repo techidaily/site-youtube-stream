@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Student-Friendly History YT Series\""
-date: 2024-05-29 23:51:53
-updated: 2024-05-31 11:28:41
+date: 2024-05-31T13:49:52.011Z
+updated: 2024-06-01T13:49:52.011Z
 tags:
   - ai video
   - ai youtube
@@ -764,3 +764,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

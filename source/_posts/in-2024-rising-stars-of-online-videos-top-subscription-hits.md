@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Rising Stars of Online Videos  Top Subscription Hits\""
-date: 2024-05-28 20:17:31
-updated: 2024-05-29 10:35:56
+date: 2024-05-31T13:48:32.249Z
+updated: 2024-06-01T13:48:32.249Z
 tags:
   - ai video
   - ai youtube
@@ -860,3 +860,4 @@ Using these methods can help you gain high-quality links to boost your YouTube S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

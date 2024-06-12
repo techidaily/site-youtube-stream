@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Upgrade Video Experience  Activate AV1 on YouTube\""
-date: 2024-05-31 11:49:34
-updated: 2024-06-01 10:18:25
+date: 2024-05-31T13:45:25.765Z
+updated: 2024-06-01T13:45:25.765Z
 tags:
   - ai video
   - ai youtube
@@ -492,3 +492,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

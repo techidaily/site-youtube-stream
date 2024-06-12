@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamlessly Transfer Spotify Songs to YouTube with These Tools"
-date: 2024-05-27 11:19:57
-updated: 2024-05-30 12:48:52
+date: 2024-05-31T13:49:59.615Z
+updated: 2024-06-01T13:49:59.615Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

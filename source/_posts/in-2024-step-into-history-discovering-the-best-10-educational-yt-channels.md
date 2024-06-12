@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step Into History  Discovering the Best 10 Educational YT Channels\""
-date: 2024-05-28 19:46:54
-updated: 2024-05-30 12:38:48
+date: 2024-05-31T13:49:15.640Z
+updated: 2024-06-01T13:49:15.640Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

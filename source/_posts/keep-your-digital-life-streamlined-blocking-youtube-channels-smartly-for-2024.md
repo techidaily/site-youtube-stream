@@ -1,7 +1,7 @@
 ---
 title: "\"Keep Your Digital Life Streamlined  Blocking Youtube Channels Smartly for 2024\""
-date: 2024-05-27 23:30:32
-updated: 2024-05-28 11:18:43
+date: 2024-05-31T13:47:12.769Z
+updated: 2024-06-01T13:47:12.769Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

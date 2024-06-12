@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Video Length and Content Strategy in YouTube Shorts\""
-date: 2024-05-31 15:18:23
-updated: 2024-06-01 11:47:44
+date: 2024-05-31T13:45:21.014Z
+updated: 2024-06-01T13:45:21.014Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

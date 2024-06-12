@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Educational Science Channels for Knowledge Boost"
-date: 2024-05-28 10:21:23
-updated: 2024-05-31 10:42:56
+date: 2024-05-31T13:49:50.424Z
+updated: 2024-06-01T13:49:50.424Z
 tags:
   - ai video
   - ai youtube
@@ -701,3 +701,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

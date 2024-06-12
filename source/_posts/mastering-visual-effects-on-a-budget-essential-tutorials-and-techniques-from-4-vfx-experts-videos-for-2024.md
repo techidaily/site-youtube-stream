@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Visual Effects on a Budget  Essential Tutorials and Techniques From 4 VFX Experts' Videos for 2024\""
-date: 2024-05-25 22:26:11
-updated: 2024-05-28 11:17:46
+date: 2024-05-31T13:46:06.886Z
+updated: 2024-06-01T13:46:06.886Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ The best science YouTube channels have one thing in common- high-quality content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

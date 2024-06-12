@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore the World' Writes Itself  The Top 20 YouTube Playlists for Enthusiasts\""
-date: 2024-05-24 17:56:46
-updated: 2024-05-26 12:46:52
+date: 2024-05-31T13:43:48.446Z
+updated: 2024-06-01T13:43:48.446Z
 tags:
   - ai video
   - ai youtube
@@ -1810,3 +1810,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

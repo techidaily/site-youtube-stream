@@ -1,7 +1,7 @@
 ---
 title: "\"Eye-Catching Thumbnails  Select the Best Fonts for 2024\""
-date: 2024-05-24 22:34:16
-updated: 2024-05-26 12:26:26
+date: 2024-05-31T13:45:28.730Z
+updated: 2024-06-01T13:45:28.730Z
 tags:
   - ai video
   - ai youtube
@@ -915,3 +915,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

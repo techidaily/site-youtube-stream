@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pair Off in Perfection  7 Stunning Wedding Films From Youtube + Vimeo\""
-date: 2024-05-28 23:51:14
-updated: 2024-05-29 12:41:49
+date: 2024-05-31T13:51:31.971Z
+updated: 2024-06-01T13:51:31.971Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

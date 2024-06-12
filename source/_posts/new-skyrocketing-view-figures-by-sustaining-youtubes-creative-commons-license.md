@@ -1,7 +1,7 @@
 ---
 title: "[New] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License"
-date: 2024-05-27 15:28:30
-updated: 2024-05-30 10:41:56
+date: 2024-05-31T13:43:23.780Z
+updated: 2024-06-01T13:43:23.780Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

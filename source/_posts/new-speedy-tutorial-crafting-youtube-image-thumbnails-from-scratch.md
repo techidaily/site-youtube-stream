@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speedy Tutorial  Crafting YouTube Image Thumbnails From Scratch\""
-date: 2024-05-29 19:36:48
-updated: 2024-05-30 10:24:56
+date: 2024-05-31T13:50:35.224Z
+updated: 2024-06-01T13:50:35.224Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ The introduction of the YouTube monetization 500 subscribers’ policy update wa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

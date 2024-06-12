@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering YouTube Channel Descriptions"
-date: 2024-05-27 18:50:35
-updated: 2024-05-28 11:26:24
+date: 2024-05-31T13:46:56.641Z
+updated: 2024-06-01T13:46:56.641Z
 tags:
   - ai video
   - ai youtube
@@ -1210,3 +1210,4 @@ Follow @Sumia Rafique
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

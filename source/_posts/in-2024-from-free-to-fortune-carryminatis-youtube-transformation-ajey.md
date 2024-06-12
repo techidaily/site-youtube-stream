@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Free to Fortune  CarryMinati’s YouTube Transformation (Ajey)\""
-date: 2024-05-25 23:34:27
-updated: 2024-05-27 12:50:21
+date: 2024-05-31T13:47:43.374Z
+updated: 2024-06-01T13:47:43.374Z
 tags:
   - ai video
   - ai youtube
@@ -569,3 +569,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

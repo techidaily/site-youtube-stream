@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Key Dimensions  YouTube Titles & Images That Work\""
-date: 2024-05-26 11:28:32
-updated: 2024-05-28 10:52:43
+date: 2024-05-31T13:47:38.144Z
+updated: 2024-06-01T13:47:38.144Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

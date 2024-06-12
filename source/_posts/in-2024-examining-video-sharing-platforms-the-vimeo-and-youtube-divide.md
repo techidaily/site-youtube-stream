@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Examining Video Sharing Platforms  The Vimeo & YouTube Divide\""
-date: 2024-05-23 13:36:56
-updated: 2024-05-26 10:16:58
+date: 2024-05-31T13:50:16.986Z
+updated: 2024-06-01T13:50:16.986Z
 tags:
   - ai video
   - ai youtube
@@ -592,3 +592,4 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

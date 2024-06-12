@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 8 Chart Tracer  Apex of YouTube Rankings\""
-date: 2024-05-28 19:49:50
-updated: 2024-05-29 11:11:59
+date: 2024-05-31T13:49:56.532Z
+updated: 2024-06-01T13:49:56.532Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Stylish effects like overlays and transitions can give you a compelling piece of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

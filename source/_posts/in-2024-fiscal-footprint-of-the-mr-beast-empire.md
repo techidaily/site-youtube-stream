@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fiscal Footprint of the Mr. Beast Empire"
-date: 2024-05-24 20:17:38
-updated: 2024-05-27 11:35:28
+date: 2024-05-31T13:44:17.544Z
+updated: 2024-06-01T13:44:17.544Z
 tags:
   - ai video
   - ai youtube
@@ -664,3 +664,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

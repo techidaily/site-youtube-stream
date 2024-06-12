@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scoring Big on YouTube  How Much Do Ad Revenues Add Up?\""
-date: 2024-05-27 14:16:29
-updated: 2024-05-29 10:36:51
+date: 2024-05-31T13:46:46.059Z
+updated: 2024-06-01T13:46:46.059Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

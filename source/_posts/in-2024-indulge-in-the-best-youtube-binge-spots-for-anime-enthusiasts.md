@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Indulge in the Best YouTube Binge Spots for Anime Enthusiasts"
-date: 2024-05-24 11:17:14
-updated: 2024-05-27 11:57:54
+date: 2024-05-31T13:41:02.628Z
+updated: 2024-06-01T13:41:02.628Z
 tags:
   - ai video
   - ai youtube
@@ -1124,3 +1124,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

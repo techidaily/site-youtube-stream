@@ -1,7 +1,7 @@
 ---
 title: "Navigating YouTube's Revenue Tools for Mobile Creators for 2024"
-date: 2024-05-26 20:48:15
-updated: 2024-05-29 10:38:42
+date: 2024-05-31T13:43:45.885Z
+updated: 2024-06-01T13:43:45.885Z
 tags:
   - ai video
   - ai youtube
@@ -930,3 +930,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

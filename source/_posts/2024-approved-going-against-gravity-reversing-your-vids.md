@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Going Against Gravity  Reversing Your Vids\""
-date: 2024-05-24 17:24:23
-updated: 2024-05-27 11:43:14
+date: 2024-05-31T13:44:05.137Z
+updated: 2024-06-01T13:44:05.137Z
 tags:
   - ai video
   - ai youtube
@@ -1110,3 +1110,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

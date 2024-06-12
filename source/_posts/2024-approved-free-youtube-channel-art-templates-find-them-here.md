@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free YouTube Channel Art Templates - Find Them Here\""
-date: 2024-05-24 21:54:22
-updated: 2024-05-27 11:14:37
+date: 2024-05-31T13:48:04.279Z
+updated: 2024-06-01T13:48:04.279Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

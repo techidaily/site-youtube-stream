@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make Killer YouTube Channel Art"
-date: 2024-05-24 17:49:13
-updated: 2024-05-27 11:58:24
+date: 2024-05-31T13:48:10.780Z
+updated: 2024-06-01T13:48:10.780Z
 tags:
   - ai video
   - ai youtube
@@ -1966,3 +1966,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

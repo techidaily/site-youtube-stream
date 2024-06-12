@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Video Guru's Playbook  Smooth Transition to Easy YouTube CC & Subtitles\""
-date: 2024-05-28 21:20:47
-updated: 2024-05-31 12:52:35
+date: 2024-05-31T13:41:43.220Z
+updated: 2024-06-01T13:41:43.220Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

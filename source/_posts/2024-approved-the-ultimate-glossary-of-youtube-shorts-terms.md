@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Glossary of YouTube Shorts Terms\""
-date: 2024-05-29 11:32:58
-updated: 2024-05-31 11:36:58
+date: 2024-05-31T13:44:28.733Z
+updated: 2024-06-01T13:44:28.733Z
 tags:
   - ai video
   - ai youtube
@@ -562,3 +562,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

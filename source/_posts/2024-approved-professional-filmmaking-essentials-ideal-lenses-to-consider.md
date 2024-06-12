@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Filmmaking Essentials  Ideal Lenses to Consider\""
-date: 2024-05-28 19:18:46
-updated: 2024-05-29 11:40:38
+date: 2024-05-31T13:47:08.683Z
+updated: 2024-06-01T13:47:08.683Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

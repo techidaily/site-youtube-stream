@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Legal Bounds of YouTube Video Screencaps\""
-date: 2024-05-30 16:31:24
-updated: 2024-06-01 10:32:14
+date: 2024-05-31T13:51:11.718Z
+updated: 2024-06-01T13:51:11.718Z
 tags:
   - ai video
   - ai youtube
@@ -643,3 +643,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

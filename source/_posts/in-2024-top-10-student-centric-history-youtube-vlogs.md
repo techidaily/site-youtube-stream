@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 10 Student-Centric History YouTube Vlogs\""
-date: 2024-05-29 21:38:49
-updated: 2024-05-31 11:23:52
+date: 2024-05-31T13:45:22.399Z
+updated: 2024-06-01T13:45:22.399Z
 tags:
   - ai video
   - ai youtube
@@ -1390,3 +1390,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Text on Screen Essentials  Perfecting Caption Placement in YouTube Videos\""
-date: 2024-05-27 13:53:16
-updated: 2024-05-30 12:43:37
+date: 2024-05-31T13:45:02.184Z
+updated: 2024-06-01T13:45:02.184Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

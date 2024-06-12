@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Recording YouTube Videos Effortlessly - The Free Way to Screencasts\""
-date: 2024-05-28 14:40:25
-updated: 2024-05-29 12:52:48
+date: 2024-05-31T13:46:53.851Z
+updated: 2024-06-01T13:46:53.851Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

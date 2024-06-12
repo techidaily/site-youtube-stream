@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Mobile Media  A Guide to the 9 Smartest Gadgets for Filmmakers\""
-date: 2024-05-27 18:12:26
-updated: 2024-05-28 11:17:30
+date: 2024-05-31T13:45:29.660Z
+updated: 2024-06-01T13:45:29.660Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

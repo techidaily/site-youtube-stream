@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Making a Visual Impact  Neon-Borded YouTube Thumbnails Guide\""
-date: 2024-05-26 11:44:29
-updated: 2024-05-28 12:24:53
+date: 2024-05-31T13:43:23.118Z
+updated: 2024-06-01T13:43:23.118Z
 tags:
   - ai video
   - ai youtube
@@ -919,3 +919,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

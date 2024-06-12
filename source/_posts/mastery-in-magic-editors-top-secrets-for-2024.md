@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery in Magic  Editor's Top Secrets for 2024\""
-date: 2024-05-25 16:19:12
-updated: 2024-05-28 11:57:55
+date: 2024-05-31T13:50:26.078Z
+updated: 2024-06-01T13:50:26.078Z
 tags:
   - ai video
   - ai youtube
@@ -2784,3 +2784,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Project Management Fees"
-date: 2024-05-27 18:26:55
-updated: 2024-05-29 10:46:19
+date: 2024-05-31T13:42:04.545Z
+updated: 2024-06-01T13:42:04.545Z
 tags:
   - ai video
   - ai youtube
@@ -1317,3 +1317,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

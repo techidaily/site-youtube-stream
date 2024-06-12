@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Strategic Media Mapping  Charting Your Course Against Competitors' Videos\""
-date: 2024-05-27 16:36:49
-updated: 2024-05-30 12:35:30
+date: 2024-05-31T13:42:50.330Z
+updated: 2024-06-01T13:42:50.330Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

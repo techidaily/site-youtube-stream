@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Visual Storyteller  YouTube Cinematic Training\""
-date: 2024-05-25 13:28:12
-updated: 2024-05-28 10:13:45
+date: 2024-05-31T13:47:28.871Z
+updated: 2024-06-01T13:47:28.871Z
 tags:
   - ai video
   - ai youtube
@@ -434,3 +434,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

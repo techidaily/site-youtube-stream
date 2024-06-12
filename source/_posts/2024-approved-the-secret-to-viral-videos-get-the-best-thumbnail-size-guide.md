@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Secret to Viral Videos? Get the Best Thumbnail Size Guide\""
-date: 2024-05-28 13:35:14
-updated: 2024-05-31 12:14:18
+date: 2024-05-31T13:49:24.167Z
+updated: 2024-06-01T13:49:24.167Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

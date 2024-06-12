@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Most Engaging History YouTube Creators for Students\""
-date: 2024-05-28 21:15:48
-updated: 2024-05-31 11:15:34
+date: 2024-05-31T13:44:46.267Z
+updated: 2024-06-01T13:44:46.267Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

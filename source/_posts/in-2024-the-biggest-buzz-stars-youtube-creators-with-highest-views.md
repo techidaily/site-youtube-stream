@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Biggest Buzz Stars  YouTube Creators with Highest Views\""
-date: 2024-05-30 15:18:12
-updated: 2024-05-31 12:24:52
+date: 2024-05-31T13:49:23.293Z
+updated: 2024-06-01T13:49:23.293Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

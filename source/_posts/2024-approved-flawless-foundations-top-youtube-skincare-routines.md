@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Flawless Foundations  Top YouTube Skincare Routines\""
-date: 2024-05-25 13:17:57
-updated: 2024-05-27 11:41:27
+date: 2024-05-31T13:47:47.511Z
+updated: 2024-06-01T13:47:47.511Z
 tags:
   - ai video
   - ai youtube
@@ -1490,3 +1490,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

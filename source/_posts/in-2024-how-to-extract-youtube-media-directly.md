@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Extract YouTube Media Directly"
-date: 2024-05-26 16:19:49
-updated: 2024-05-27 12:35:54
+date: 2024-05-31T13:50:44.625Z
+updated: 2024-06-01T13:50:44.625Z
 tags:
   - ai video
   - ai youtube
@@ -2182,3 +2182,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

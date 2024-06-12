@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass in Glamour  Beauty Tutorials for All for 2024\""
-date: 2024-05-26 21:25:13
-updated: 2024-05-28 10:53:57
+date: 2024-05-31T13:41:17.554Z
+updated: 2024-06-01T13:41:17.554Z
 tags:
   - ai video
   - ai youtube
@@ -1542,3 +1542,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

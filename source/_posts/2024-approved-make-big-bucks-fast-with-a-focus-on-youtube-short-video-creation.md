@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Make Big Bucks Fast with a Focus on YouTube Short Video Creation\""
-date: 2024-05-27 13:21:35
-updated: 2024-05-28 10:48:55
+date: 2024-05-31T13:42:04.863Z
+updated: 2024-06-01T13:42:04.863Z
 tags:
   - ai video
   - ai youtube
@@ -917,3 +917,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Management for Those Balancing Careers and YouTubing\""
-date: 2024-05-30 11:46:10
-updated: 2024-05-31 10:54:48
+date: 2024-05-31T13:44:16.316Z
+updated: 2024-06-01T13:44:16.316Z
 tags:
   - ai video
   - ai youtube
@@ -1302,3 +1302,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

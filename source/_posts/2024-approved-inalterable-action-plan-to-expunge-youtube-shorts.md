@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inalterable Action Plan to Expunge YouTube Shorts\""
-date: 2024-05-25 11:23:17
-updated: 2024-05-27 11:58:24
+date: 2024-05-31T13:42:42.625Z
+updated: 2024-06-01T13:42:42.625Z
 tags:
   - ai video
   - ai youtube
@@ -1242,3 +1242,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

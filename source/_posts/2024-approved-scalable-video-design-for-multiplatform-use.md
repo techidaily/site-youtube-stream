@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scalable Video Design for Multiplatform Use\""
-date: 2024-05-28 14:32:51
-updated: 2024-05-29 10:20:29
+date: 2024-05-31T13:44:05.331Z
+updated: 2024-06-01T13:44:05.331Z
 tags:
   - ai video
   - ai youtube
@@ -1148,3 +1148,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

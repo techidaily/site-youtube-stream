@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Scriptwriting for Viral YouTube Content for 2024"
-date: 2024-05-26 14:57:45
-updated: 2024-05-28 11:51:36
+date: 2024-05-31T13:44:17.035Z
+updated: 2024-06-01T13:44:17.035Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

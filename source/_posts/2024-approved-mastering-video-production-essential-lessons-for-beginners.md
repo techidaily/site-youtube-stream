@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Video Production  Essential Lessons for Beginners\""
-date: 2024-05-25 17:46:21
-updated: 2024-05-28 11:46:55
+date: 2024-05-31T13:45:46.203Z
+updated: 2024-06-01T13:45:46.203Z
 tags:
   - ai video
   - ai youtube
@@ -659,3 +659,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

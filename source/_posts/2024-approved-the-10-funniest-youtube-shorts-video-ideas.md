@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The 10 Funniest YouTube Shorts Video Ideas\""
-date: 2024-05-27 19:21:56
-updated: 2024-05-30 12:46:19
+date: 2024-05-31T13:49:47.635Z
+updated: 2024-06-01T13:49:47.635Z
 tags:
   - ai video
   - ai youtube
@@ -1206,3 +1206,4 @@ Thus, as we saw, finding the best YouTube movies channel in 2024 to kill your ti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

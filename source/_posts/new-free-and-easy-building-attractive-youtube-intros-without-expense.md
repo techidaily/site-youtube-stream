@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Free & Easy  Building Attractive YouTube Intros without Expense\""
-date: 2024-05-25 19:15:45
-updated: 2024-05-27 11:17:33
+date: 2024-05-31T13:51:21.364Z
+updated: 2024-06-01T13:51:21.364Z
 tags:
   - ai video
   - ai youtube
@@ -1490,3 +1490,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

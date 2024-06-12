@@ -1,7 +1,7 @@
 ---
 title: "\"Kitchen Kings & Queen  Top YouTube Gastronomes for 2024\""
-date: 2024-05-26 21:25:13
-updated: 2024-05-28 11:59:15
+date: 2024-05-31T13:41:02.997Z
+updated: 2024-06-01T13:41:02.997Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

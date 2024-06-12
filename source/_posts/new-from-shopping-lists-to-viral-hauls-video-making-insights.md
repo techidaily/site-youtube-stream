@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Shopping Lists to Viral Hauls  Video Making Insights\""
-date: 2024-05-25 23:58:57
-updated: 2024-05-27 12:37:31
+date: 2024-05-31T13:50:01.785Z
+updated: 2024-06-01T13:50:01.785Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

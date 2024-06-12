@@ -1,7 +1,7 @@
 ---
 title: "\"Hiding YouTube Playback  Tips for iOS and Android for 2024\""
-date: 2024-05-24 19:53:28
-updated: 2024-05-27 12:36:36
+date: 2024-05-31T13:51:38.661Z
+updated: 2024-06-01T13:51:38.661Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

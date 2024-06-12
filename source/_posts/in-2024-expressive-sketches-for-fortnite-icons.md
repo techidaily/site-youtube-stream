@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expressive Sketches for Fortnite Icons"
-date: 2024-05-25 16:14:10
-updated: 2024-05-26 12:41:18
+date: 2024-05-31T13:46:34.438Z
+updated: 2024-06-01T13:46:34.438Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

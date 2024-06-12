@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Is It Illegal to Document Video on YouTube Platform?"
-date: 2024-05-25 20:37:38
-updated: 2024-05-28 10:17:48
+date: 2024-05-31T13:47:42.506Z
+updated: 2024-06-01T13:47:42.506Z
 tags:
   - ai video
   - ai youtube
@@ -627,3 +627,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

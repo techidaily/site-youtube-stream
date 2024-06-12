@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Speedy Spectaculars – YouTube's Top Videos Surpassing 100 Million by End of Year"
-date: 2024-05-28 22:44:51
-updated: 2024-05-30 11:34:51
+date: 2024-05-31T13:45:32.587Z
+updated: 2024-06-01T13:45:32.587Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

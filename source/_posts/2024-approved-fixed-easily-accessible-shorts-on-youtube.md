@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fixed  Easily Accessible Shorts on YouTube\""
-date: 2024-05-26 12:13:32
-updated: 2024-05-27 11:56:37
+date: 2024-05-31T13:47:12.993Z
+updated: 2024-06-01T13:47:12.993Z
 tags:
   - ai video
   - ai youtube
@@ -1024,3 +1024,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

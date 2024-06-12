@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Traveling Through History  Students' Top YouTubes To Watch\""
-date: 2024-05-30 20:27:27
-updated: 2024-05-31 12:15:45
+date: 2024-05-31T13:47:57.897Z
+updated: 2024-06-01T13:47:57.897Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

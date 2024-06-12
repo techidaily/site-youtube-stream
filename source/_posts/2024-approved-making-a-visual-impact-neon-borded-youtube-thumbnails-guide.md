@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making a Visual Impact  Neon-Borded YouTube Thumbnails Guide\""
-date: 2024-05-27 18:34:29
-updated: 2024-05-28 10:40:15
+date: 2024-05-31T13:45:05.044Z
+updated: 2024-06-01T13:45:05.044Z
 tags:
   - ai video
   - ai youtube
@@ -1486,3 +1486,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

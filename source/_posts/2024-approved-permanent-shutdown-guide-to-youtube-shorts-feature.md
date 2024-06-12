@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Permanent Shutdown Guide to YouTube Shorts Feature\""
-date: 2024-05-27 19:47:38
-updated: 2024-05-29 11:25:36
+date: 2024-05-31T13:47:34.462Z
+updated: 2024-06-01T13:47:34.462Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

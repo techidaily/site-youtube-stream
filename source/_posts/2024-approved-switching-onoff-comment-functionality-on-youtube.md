@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Switching On/Off Comment Functionality on YouTube\""
-date: 2024-05-27 17:39:28
-updated: 2024-05-30 11:20:41
+date: 2024-05-31T13:41:06.928Z
+updated: 2024-06-01T13:41:06.928Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ YT SEO tools can help you optimize your videos to increase views and grow your f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

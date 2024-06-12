@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Alternative Movies to Watch, Ranked #7"
-date: 2024-05-29 18:47:26
-updated: 2024-05-31 12:40:24
+date: 2024-05-31T13:44:20.290Z
+updated: 2024-06-01T13:44:20.290Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ You can try creating a video for YouTube. And use Filmora to make your videos im
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Social Media Video Trends for SMBs"
-date: 2024-05-27 20:26:40
-updated: 2024-05-30 10:43:46
+date: 2024-05-31T13:49:50.224Z
+updated: 2024-06-01T13:49:50.224Z
 tags:
   - ai video
   - ai youtube
@@ -284,3 +284,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

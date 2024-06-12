@@ -1,7 +1,7 @@
 ---
 title: "\"Mind-Puzzling Stats  A Graphed Journey Through YT '17 for 2024\""
-date: 2024-05-26 22:32:50
-updated: 2024-05-28 12:33:46
+date: 2024-05-31T13:41:46.595Z
+updated: 2024-06-01T13:41:46.595Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Net Worth of Kids Celebrity Reaches New Heights"
-date: 2024-05-26 17:43:10
-updated: 2024-05-29 10:18:14
+date: 2024-05-31T13:47:59.184Z
+updated: 2024-06-01T13:47:59.184Z
 tags:
   - ai video
   - ai youtube
@@ -1056,3 +1056,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

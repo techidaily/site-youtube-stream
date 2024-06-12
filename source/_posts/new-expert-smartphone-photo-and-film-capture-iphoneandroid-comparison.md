@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert Smartphone Photo & Film Capture  IPhone/Android Comparison\""
-date: 2024-05-23 22:29:49
-updated: 2024-05-26 11:33:51
+date: 2024-05-31T13:48:52.564Z
+updated: 2024-06-01T13:48:52.564Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

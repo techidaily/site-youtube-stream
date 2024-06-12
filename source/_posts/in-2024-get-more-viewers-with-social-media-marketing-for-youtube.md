@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Get More Viewers with Social Media Marketing for YouTube"
-date: 2024-05-26 13:12:16
-updated: 2024-05-27 11:26:33
+date: 2024-05-31T13:42:17.474Z
+updated: 2024-06-01T13:42:17.474Z
 tags:
   - ai video
   - ai youtube
@@ -1804,3 +1804,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

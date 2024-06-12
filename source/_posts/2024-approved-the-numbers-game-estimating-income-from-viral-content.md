@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Numbers Game  Estimating Income From Viral Content\""
-date: 2024-05-29 23:24:15
-updated: 2024-05-31 12:13:41
+date: 2024-05-31T13:42:47.282Z
+updated: 2024-06-01T13:42:47.282Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

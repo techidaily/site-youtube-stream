@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Final Goodbye to YouTube's Minis  A Step-by-Step Process\""
-date: 2024-05-25 12:56:12
-updated: 2024-05-26 10:18:52
+date: 2024-05-31T13:46:10.464Z
+updated: 2024-06-01T13:46:10.464Z
 tags:
   - ai video
   - ai youtube
@@ -1586,3 +1586,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

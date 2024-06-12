@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Miniature Mastery in the Social Sphere  Who Wins with YouTube Shorts or TikToks?\""
-date: 2024-05-26 23:44:47
-updated: 2024-05-28 11:41:37
+date: 2024-05-31T13:43:58.591Z
+updated: 2024-06-01T13:43:58.591Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

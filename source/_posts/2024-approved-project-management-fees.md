@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Project Management Fees\""
-date: 2024-05-28 13:43:49
-updated: 2024-05-29 11:22:25
+date: 2024-05-31T13:43:19.752Z
+updated: 2024-06-01T13:43:19.752Z
 tags:
   - ai video
   - ai youtube
@@ -905,3 +905,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

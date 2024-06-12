@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Speech to Text  A Complete, FREE Workshop on YouTube Transcription\""
-date: 2024-05-25 20:51:12
-updated: 2024-05-27 12:11:48
+date: 2024-05-31T13:48:10.289Z
+updated: 2024-06-01T13:48:10.289Z
 tags:
   - ai video
   - ai youtube
@@ -1362,3 +1362,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

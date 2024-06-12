@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Concept to Creation  Crafting YouTube Video Splits\""
-date: 2024-05-24 19:39:34
-updated: 2024-05-27 11:25:14
+date: 2024-05-31T13:41:14.517Z
+updated: 2024-06-01T13:41:14.517Z
 tags:
   - ai video
   - ai youtube
@@ -710,3 +710,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

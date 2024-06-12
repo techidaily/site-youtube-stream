@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tackling Teal Too Much? Clean up That Green Screen on Mac"
-date: 2024-05-28 19:49:41
-updated: 2024-05-30 10:36:35
+date: 2024-05-31T13:44:10.211Z
+updated: 2024-06-01T13:44:10.211Z
 tags:
   - ai video
   - ai youtube
@@ -1514,3 +1514,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

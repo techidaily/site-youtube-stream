@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Your Setup  Essential Shooting Accessories for 2024\""
-date: 2024-05-27 11:47:11
-updated: 2024-05-28 11:30:39
+date: 2024-05-31T13:40:59.765Z
+updated: 2024-06-01T13:40:59.765Z
 tags:
   - ai video
   - ai youtube
@@ -520,3 +520,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

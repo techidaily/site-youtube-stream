@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Talent Acquisition Treasure Trove - Top 10 Video Series\""
-date: 2024-05-29 22:15:33
-updated: 2024-05-30 10:14:35
+date: 2024-05-31T13:42:02.133Z
+updated: 2024-06-01T13:42:02.133Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simple Steps to Great Videos  Crafting 10 Basic Concepts Easily\""
-date: 2024-05-29 13:33:11
-updated: 2024-05-30 10:45:39
+date: 2024-05-31T13:50:56.561Z
+updated: 2024-06-01T13:50:56.561Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

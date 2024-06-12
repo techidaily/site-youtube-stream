@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Travel Tutorials  Top 10 YouTube Sources for History Buffs\""
-date: 2024-05-30 13:59:36
-updated: 2024-05-31 10:50:10
+date: 2024-05-31T13:50:51.112Z
+updated: 2024-06-01T13:50:51.112Z
 tags:
   - ai video
   - ai youtube
@@ -639,3 +639,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Micro-Videos in the Spotlight  Who Wins, YouTube Shorts or TikTok?\""
-date: 2024-05-27 10:24:38
-updated: 2024-05-28 12:44:50
+date: 2024-05-31T13:50:48.828Z
+updated: 2024-06-01T13:50:48.828Z
 tags:
   - ai video
   - ai youtube
@@ -946,3 +946,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

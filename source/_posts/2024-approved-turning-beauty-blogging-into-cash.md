@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turning Beauty Blogging Into Cash\""
-date: 2024-05-31 20:41:40
-updated: 2024-06-01 11:28:27
+date: 2024-05-31T13:45:09.638Z
+updated: 2024-06-01T13:45:09.638Z
 tags:
   - ai video
   - ai youtube
@@ -582,3 +582,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

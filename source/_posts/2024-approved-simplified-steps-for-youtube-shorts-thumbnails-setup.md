@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplified Steps for YouTube Shorts Thumbnails Setup\""
-date: 2024-05-28 10:53:19
-updated: 2024-05-30 11:35:14
+date: 2024-05-31T13:45:00.782Z
+updated: 2024-06-01T13:45:00.782Z
 tags:
   - ai video
   - ai youtube
@@ -1128,3 +1128,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Legalities of Capturing Live Video on Online Platforms (YouTube)\""
-date: 2024-05-29 13:53:54
-updated: 2024-05-31 11:25:57
+date: 2024-05-31T13:41:05.814Z
+updated: 2024-06-01T13:41:05.814Z
 tags:
   - ai video
   - ai youtube
@@ -987,3 +987,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

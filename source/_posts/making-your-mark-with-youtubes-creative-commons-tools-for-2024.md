@@ -1,7 +1,7 @@
 ---
 title: "Making Your Mark with YouTube’s Creative Commons Tools for 2024"
-date: 2024-05-27 10:57:23
-updated: 2024-05-28 10:20:18
+date: 2024-05-31T13:42:20.069Z
+updated: 2024-06-01T13:42:20.069Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

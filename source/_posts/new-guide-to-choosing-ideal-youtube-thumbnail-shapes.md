@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Choosing Ideal Youtube Thumbnail Shapes"
-date: 2024-05-25 14:18:23
-updated: 2024-05-27 12:23:27
+date: 2024-05-31T13:44:54.799Z
+updated: 2024-06-01T13:44:54.799Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

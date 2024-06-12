@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How To Be A Beauty Guru on YouTube  Beauty Vlogger Set Up\""
-date: 2024-05-25 12:54:54
-updated: 2024-05-27 11:26:28
+date: 2024-05-31T13:40:55.975Z
+updated: 2024-06-01T13:40:55.975Z
 tags:
   - ai video
   - ai youtube
@@ -1322,3 +1322,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

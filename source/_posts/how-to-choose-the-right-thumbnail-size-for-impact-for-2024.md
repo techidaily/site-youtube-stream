@@ -1,7 +1,7 @@
 ---
 title: "How to Choose the Right Thumbnail Size for Impact for 2024"
-date: 2024-05-24 16:22:47
-updated: 2024-05-27 10:18:44
+date: 2024-05-31T13:42:00.614Z
+updated: 2024-06-01T13:42:00.614Z
 tags:
   - ai video
   - ai youtube
@@ -1028,3 +1028,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

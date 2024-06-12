@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Secrets  Sharing Restricted YouTube Content via Email\""
-date: 2024-05-30 13:32:38
-updated: 2024-06-01 10:18:17
+date: 2024-05-31T13:43:06.829Z
+updated: 2024-06-01T13:43:06.829Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

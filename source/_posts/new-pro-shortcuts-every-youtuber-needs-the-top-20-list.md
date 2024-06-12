@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Shortcuts Every YouTuber Needs - The Top 20 List\""
-date: 2024-05-28 21:24:34
-updated: 2024-05-29 10:28:23
+date: 2024-05-31T13:44:24.908Z
+updated: 2024-06-01T13:44:24.908Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

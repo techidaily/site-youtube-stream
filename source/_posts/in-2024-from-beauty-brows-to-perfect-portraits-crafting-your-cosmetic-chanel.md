@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Beauty Brows to Perfect Portraits  Crafting Your Cosmetic Chanel\""
-date: 2024-05-25 22:43:57
-updated: 2024-05-27 11:54:47
+date: 2024-05-31T13:48:42.003Z
+updated: 2024-06-01T13:48:42.003Z
 tags:
   - ai video
   - ai youtube
@@ -376,3 +376,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

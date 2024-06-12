@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony Vegas for the Aspiring YouTube Editor  A Comprehensive Overview\""
-date: 2024-05-28 23:43:27
-updated: 2024-05-30 11:10:40
+date: 2024-05-31T13:44:45.535Z
+updated: 2024-06-01T13:44:45.535Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

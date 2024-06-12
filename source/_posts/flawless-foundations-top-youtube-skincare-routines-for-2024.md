@@ -1,7 +1,7 @@
 ---
 title: "\"Flawless Foundations  Top YouTube Skincare Routines for 2024\""
-date: 2024-05-24 19:51:38
-updated: 2024-05-27 12:46:56
+date: 2024-05-31T13:41:54.186Z
+updated: 2024-06-01T13:41:54.186Z
 tags:
   - ai video
   - ai youtube
@@ -1602,3 +1602,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

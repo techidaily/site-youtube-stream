@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fast-Track Video Scaling for Perfect Mac Display\""
-date: 2024-05-23 15:41:32
-updated: 2024-05-26 12:11:43
+date: 2024-05-31T13:43:22.149Z
+updated: 2024-06-01T13:43:22.149Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

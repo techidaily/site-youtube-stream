@@ -1,7 +1,7 @@
 ---
 title: "How to Transcribe a YouTube Video for FREE for 2024"
-date: 2024-05-25 16:39:15
-updated: 2024-05-27 12:18:37
+date: 2024-05-31T13:41:45.371Z
+updated: 2024-06-01T13:41:45.371Z
 tags:
   - ai video
   - ai youtube
@@ -1646,3 +1646,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

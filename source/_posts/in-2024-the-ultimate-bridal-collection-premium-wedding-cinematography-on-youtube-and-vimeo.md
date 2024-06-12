@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Bridal Collection  Premium Wedding Cinematography on YouTube & Vimeo\""
-date: 2024-05-29 15:32:44
-updated: 2024-05-31 10:20:38
+date: 2024-05-31T13:45:26.734Z
+updated: 2024-06-01T13:45:26.734Z
 tags:
   - ai video
   - ai youtube
@@ -506,3 +506,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Mix Text & Video on a Shoestring Budget"
-date: 2024-05-25 19:20:56
-updated: 2024-05-27 12:19:52
+date: 2024-05-31T13:41:09.913Z
+updated: 2024-06-01T13:41:09.913Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

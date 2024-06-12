@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Student Guide to Best History Videos Online"
-date: 2024-05-30 21:28:20
-updated: 2024-06-01 10:26:58
+date: 2024-05-31T13:50:31.584Z
+updated: 2024-06-01T13:50:31.584Z
 tags:
   - ai video
   - ai youtube
@@ -432,3 +432,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

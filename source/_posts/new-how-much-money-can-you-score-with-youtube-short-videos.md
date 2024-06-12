@@ -1,7 +1,7 @@
 ---
 title: "[New] How Much Money Can You Score with YouTube Short Videos?"
-date: 2024-05-25 23:26:31
-updated: 2024-05-27 11:52:17
+date: 2024-05-31T13:50:11.701Z
+updated: 2024-06-01T13:50:11.701Z
 tags:
   - ai video
   - ai youtube
@@ -748,3 +748,4 @@ Whether you're a budding YouTubеr or a sеasonеd crеator, we hope this articl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

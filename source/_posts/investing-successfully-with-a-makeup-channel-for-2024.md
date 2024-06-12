@@ -1,7 +1,7 @@
 ---
 title: "Investing Successfully with a Makeup Channel for 2024"
-date: 2024-05-25 15:12:29
-updated: 2024-05-28 12:57:20
+date: 2024-05-31T13:45:34.725Z
+updated: 2024-06-01T13:45:34.725Z
 tags:
   - ai video
   - ai youtube
@@ -510,3 +510,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

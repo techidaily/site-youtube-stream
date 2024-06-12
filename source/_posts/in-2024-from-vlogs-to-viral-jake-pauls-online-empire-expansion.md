@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Vlogs to Viral  Jake Paul’s Online Empire Expansion\""
-date: 2024-05-24 14:17:15
-updated: 2024-05-27 12:36:54
+date: 2024-05-31T13:48:02.362Z
+updated: 2024-06-01T13:48:02.362Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ With 720,000 hours of video being uploaded every day to YouTube, getting your vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jake Paul's YouTube Odyssey  A Tale of Growth\""
-date: 2024-05-25 14:28:57
-updated: 2024-05-28 10:33:22
+date: 2024-05-31T13:50:52.113Z
+updated: 2024-06-01T13:50:52.113Z
 tags:
   - ai video
   - ai youtube
@@ -968,3 +968,4 @@ Thus we could say that using hashtags for YouTube shorts would surely help in ga
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

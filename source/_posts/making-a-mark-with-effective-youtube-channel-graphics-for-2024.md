@@ -1,7 +1,7 @@
 ---
 title: "Making a Mark with Effective YouTube Channel Graphics for 2024"
-date: 2024-05-25 16:26:38
-updated: 2024-05-28 10:17:54
+date: 2024-05-31T13:43:25.863Z
+updated: 2024-06-01T13:43:25.863Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ The best science YouTube channels have one thing in common- high-quality content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

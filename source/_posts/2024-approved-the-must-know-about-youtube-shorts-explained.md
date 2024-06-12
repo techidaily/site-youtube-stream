@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Must-Know About YouTube Shorts Explained\""
-date: 2024-05-30 10:51:31
-updated: 2024-05-31 12:12:25
+date: 2024-05-31T13:47:07.738Z
+updated: 2024-06-01T13:47:07.738Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Funnies in a Flash  Top 10 Quick & Quirky Video Concepts for YouTubers\""
-date: 2024-05-26 19:23:30
-updated: 2024-05-27 11:19:31
+date: 2024-05-31T13:50:56.698Z
+updated: 2024-06-01T13:50:56.698Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Innovative Split-Screen Videos for YouTube Sharing\""
-date: 2024-05-25 15:26:49
-updated: 2024-05-28 10:24:35
+date: 2024-05-31T13:47:50.245Z
+updated: 2024-06-01T13:47:50.245Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

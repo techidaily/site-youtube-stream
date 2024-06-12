@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Getting Started with Stylish Mac-Made YouTube Vids\""
-date: 2024-05-25 23:50:18
-updated: 2024-05-27 12:31:54
+date: 2024-05-31T13:42:12.419Z
+updated: 2024-06-01T13:42:12.419Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

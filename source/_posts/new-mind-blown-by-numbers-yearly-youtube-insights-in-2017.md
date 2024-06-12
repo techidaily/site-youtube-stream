@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mind Blown by Numbers  Yearly YouTube Insights in 2017\""
-date: 2024-05-26 18:33:18
-updated: 2024-05-28 11:36:18
+date: 2024-05-31T13:48:16.231Z
+updated: 2024-06-01T13:48:16.231Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

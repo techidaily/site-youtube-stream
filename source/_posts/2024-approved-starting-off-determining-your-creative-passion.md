@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting Off  Determining Your Creative Passion\""
-date: 2024-05-28 19:31:36
-updated: 2024-05-30 11:48:30
+date: 2024-05-31T13:45:25.340Z
+updated: 2024-06-01T13:45:25.340Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

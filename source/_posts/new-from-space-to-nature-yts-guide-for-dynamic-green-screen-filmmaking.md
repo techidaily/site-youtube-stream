@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking\""
-date: 2024-05-25 11:33:57
-updated: 2024-05-27 12:28:47
+date: 2024-05-31T13:41:35.614Z
+updated: 2024-06-01T13:41:35.614Z
 tags:
   - ai video
   - ai youtube
@@ -710,3 +710,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Jake Paul's YouTube Odyssey  A Tale of Growth for 2024\""
-date: 2024-05-27 22:35:11
-updated: 2024-05-28 10:34:56
+date: 2024-05-31T13:48:26.795Z
+updated: 2024-06-01T13:48:26.796Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels\""
-date: 2024-05-27 14:26:38
-updated: 2024-05-30 12:49:34
+date: 2024-05-31T13:41:00.146Z
+updated: 2024-06-01T13:41:00.146Z
 tags:
   - ai video
   - ai youtube
@@ -546,3 +546,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

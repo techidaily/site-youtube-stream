@@ -1,7 +1,7 @@
 ---
 title: "[New] Regulations on Capturing YouTube Playbacks"
-date: 2024-05-27 14:16:59
-updated: 2024-05-29 11:43:18
+date: 2024-05-31T13:50:57.718Z
+updated: 2024-06-01T13:50:57.718Z
 tags:
   - ai video
   - ai youtube
@@ -643,3 +643,4 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

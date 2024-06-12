@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Background Dimming in Videos\""
-date: 2024-05-28 19:55:45
-updated: 2024-05-30 12:30:30
+date: 2024-05-31T13:46:29.254Z
+updated: 2024-06-01T13:46:29.254Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

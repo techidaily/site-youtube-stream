@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Science and Art Behind Powerful YouTube Thumbnails"
-date: 2024-05-28 17:53:52
-updated: 2024-05-31 12:11:21
+date: 2024-05-31T13:47:05.758Z
+updated: 2024-06-01T13:47:05.758Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

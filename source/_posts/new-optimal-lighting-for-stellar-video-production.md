@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Lighting for Stellar Video Production"
-date: 2024-05-26 21:31:28
-updated: 2024-05-29 10:58:16
+date: 2024-05-31T13:42:14.564Z
+updated: 2024-06-01T13:42:14.564Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

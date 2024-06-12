@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximizing Audience Engagement with YouTube Shorts Templates"
-date: 2024-05-25 13:29:30
-updated: 2024-05-28 10:11:10
+date: 2024-05-31T13:46:19.297Z
+updated: 2024-06-01T13:46:19.297Z
 tags:
   - ai video
   - ai youtube
@@ -727,3 +727,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

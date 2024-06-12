@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Editor's Guide to Enhancing Longer YouTube Video Content with Chapters"
-date: 2024-05-30 17:11:23
-updated: 2024-05-31 10:58:14
+date: 2024-05-31T13:44:40.019Z
+updated: 2024-06-01T13:44:40.019Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

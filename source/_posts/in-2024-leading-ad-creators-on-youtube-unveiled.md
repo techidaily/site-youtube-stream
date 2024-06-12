@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Ad Creators on YouTube Unveiled"
-date: 2024-05-26 11:38:54
-updated: 2024-05-28 11:29:53
+date: 2024-05-31T13:45:51.009Z
+updated: 2024-06-01T13:45:51.009Z
 tags:
   - ai video
   - ai youtube
@@ -1116,3 +1116,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

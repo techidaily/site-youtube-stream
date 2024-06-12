@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inside the Best Yogis' Channels Online"
-date: 2024-05-25 11:46:38
-updated: 2024-05-28 11:30:24
+date: 2024-05-31T13:44:26.602Z
+updated: 2024-06-01T13:44:26.602Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 YouTube Influencers by Subscriber Count"
-date: 2024-05-28 19:24:56
-updated: 2024-05-31 10:58:20
+date: 2024-05-31T13:43:03.533Z
+updated: 2024-06-01T13:43:03.533Z
 tags:
   - ai video
   - ai youtube
@@ -1502,3 +1502,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

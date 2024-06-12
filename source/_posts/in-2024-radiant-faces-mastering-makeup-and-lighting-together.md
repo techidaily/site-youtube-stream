@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Radiant Faces  Mastering Makeup and Lighting Together\""
-date: 2024-05-27 17:51:42
-updated: 2024-05-29 12:31:32
+date: 2024-05-31T13:50:57.307Z
+updated: 2024-06-01T13:50:57.307Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

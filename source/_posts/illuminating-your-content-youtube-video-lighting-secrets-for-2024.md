@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminating Your Content  YouTube Video Lighting Secrets for 2024\""
-date: 2024-05-24 11:34:27
-updated: 2024-05-27 11:27:21
+date: 2024-05-31T13:48:49.777Z
+updated: 2024-06-01T13:48:49.777Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

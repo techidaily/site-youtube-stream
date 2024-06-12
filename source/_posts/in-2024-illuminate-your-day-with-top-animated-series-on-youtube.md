@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Illuminate Your Day with Top Animated Series on YouTube"
-date: 2024-05-25 12:56:29
-updated: 2024-05-27 11:13:54
+date: 2024-05-31T13:45:41.310Z
+updated: 2024-06-01T13:45:41.310Z
 tags:
   - ai video
   - ai youtube
@@ -1344,3 +1344,4 @@ Your content must be unique so your viewers will want to stick around and engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

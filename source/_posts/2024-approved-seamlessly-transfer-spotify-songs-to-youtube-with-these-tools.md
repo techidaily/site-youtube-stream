@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamlessly Transfer Spotify Songs to YouTube with These Tools\""
-date: 2024-05-27 16:56:18
-updated: 2024-05-30 11:27:53
+date: 2024-05-31T13:44:28.618Z
+updated: 2024-06-01T13:44:28.618Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ We have covered key steps for meeting YouTube's requirements and monetizing vide
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

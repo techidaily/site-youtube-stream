@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Visual Marketing on YouTube with Banners & Thumbnails"
-date: 2024-05-27 12:44:58
-updated: 2024-05-28 12:49:49
+date: 2024-05-31T13:41:07.641Z
+updated: 2024-06-01T13:41:07.641Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

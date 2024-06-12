@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterclass in 15 High-Impact YouTube Startups\""
-date: 2024-05-25 15:34:29
-updated: 2024-05-28 11:49:29
+date: 2024-05-31T13:46:24.429Z
+updated: 2024-06-01T13:46:24.429Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

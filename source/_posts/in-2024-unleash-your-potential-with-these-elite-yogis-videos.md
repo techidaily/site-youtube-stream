@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Your Potential with These Elite Yogis' Videos"
-date: 2024-05-30 17:40:52
-updated: 2024-06-01 11:42:36
+date: 2024-05-31T13:41:33.154Z
+updated: 2024-06-01T13:41:33.154Z
 tags:
   - ai video
   - ai youtube
@@ -1270,3 +1270,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

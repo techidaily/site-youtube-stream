@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting Free YouTube Ad Campaigns  A Step-by-Step Tutorial\""
-date: 2024-05-29 15:41:58
-updated: 2024-05-30 10:35:50
+date: 2024-05-31T13:47:24.393Z
+updated: 2024-06-01T13:47:24.393Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

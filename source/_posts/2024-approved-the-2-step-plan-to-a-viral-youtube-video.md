@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The 2-Step Plan to a Viral YouTube Video\""
-date: 2024-05-29 11:21:55
-updated: 2024-05-30 10:25:27
+date: 2024-05-31T13:48:23.028Z
+updated: 2024-06-01T13:48:23.028Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

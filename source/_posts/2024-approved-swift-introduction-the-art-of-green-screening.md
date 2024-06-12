@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Introduction  The Art of Green Screening\""
-date: 2024-05-28 10:37:15
-updated: 2024-05-30 11:10:55
+date: 2024-05-31T13:46:48.589Z
+updated: 2024-06-01T13:46:48.589Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mirthful Media  YouTube's Top 20 for a Chuckle for 2024\""
-date: 2024-05-27 10:46:19
-updated: 2024-05-28 10:42:10
+date: 2024-05-31T13:45:44.795Z
+updated: 2024-06-01T13:45:44.795Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

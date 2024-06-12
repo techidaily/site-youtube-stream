@@ -1,7 +1,7 @@
 ---
 title: "\"[New] HarmonyCuts Editor  The Best Video-Music Blend on PC\""
-date: 2024-05-24 17:35:44
-updated: 2024-05-27 12:23:47
+date: 2024-05-31T13:47:16.084Z
+updated: 2024-06-01T13:47:16.084Z
 tags:
   - ai video
   - ai youtube
@@ -1236,3 +1236,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

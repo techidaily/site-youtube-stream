@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Interest to Action  Formulating Video Topics with Google Trends\""
-date: 2024-05-26 22:12:18
-updated: 2024-05-27 10:18:39
+date: 2024-05-31T13:45:54.585Z
+updated: 2024-06-01T13:45:54.585Z
 tags:
   - ai video
   - ai youtube
@@ -1088,3 +1088,4 @@ Thus we could say that using hashtags for YouTube shorts would surely help in ga
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

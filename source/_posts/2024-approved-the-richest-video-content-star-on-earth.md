@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Richest Video Content Star on Earth\""
-date: 2024-05-29 16:53:16
-updated: 2024-05-31 10:32:50
+date: 2024-05-31T13:42:49.458Z
+updated: 2024-06-01T13:42:49.458Z
 tags:
   - ai video
   - ai youtube
@@ -999,3 +999,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

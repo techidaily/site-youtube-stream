@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step for Classic Film Aesthetics\""
-date: 2024-05-27 13:15:37
-updated: 2024-05-30 10:32:25
+date: 2024-05-31T13:47:55.575Z
+updated: 2024-06-01T13:47:55.575Z
 tags:
   - ai video
   - ai youtube
@@ -1170,3 +1170,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

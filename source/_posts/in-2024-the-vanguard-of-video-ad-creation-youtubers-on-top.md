@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Vanguard of Video Ad Creation  Youtubers on Top\""
-date: 2024-05-30 18:31:24
-updated: 2024-05-31 11:45:35
+date: 2024-05-31T13:47:21.595Z
+updated: 2024-06-01T13:47:21.595Z
 tags:
   - ai video
   - ai youtube
@@ -1188,3 +1188,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

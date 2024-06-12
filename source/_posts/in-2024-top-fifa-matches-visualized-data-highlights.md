@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top FIFA Matches  Visualized Data Highlights\""
-date: 2024-05-30 23:35:39
-updated: 2024-05-31 11:27:19
+date: 2024-05-31T13:41:33.089Z
+updated: 2024-06-01T13:41:33.089Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

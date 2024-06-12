@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Predicting the New Wave of Social Media - Infographic Style\""
-date: 2024-05-28 21:33:31
-updated: 2024-05-29 12:33:38
+date: 2024-05-31T13:42:55.462Z
+updated: 2024-06-01T13:42:55.462Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

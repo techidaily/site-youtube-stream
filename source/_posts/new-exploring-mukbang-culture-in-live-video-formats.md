@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Mukbang Culture in Live Video Formats"
-date: 2024-05-24 17:23:14
-updated: 2024-05-26 11:10:17
+date: 2024-05-31T13:50:45.136Z
+updated: 2024-06-01T13:50:45.136Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

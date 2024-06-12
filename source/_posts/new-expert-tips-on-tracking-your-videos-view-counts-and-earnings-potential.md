@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Tips on Tracking Your Video's View Counts & Earnings Potential"
-date: 2024-05-25 10:57:30
-updated: 2024-05-26 10:17:12
+date: 2024-05-31T13:47:50.704Z
+updated: 2024-06-01T13:47:50.704Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

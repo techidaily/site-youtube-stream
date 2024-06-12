@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Thumbnail Sizes for YouTube Content Excellence"
-date: 2024-05-27 15:52:53
-updated: 2024-05-29 10:35:20
+date: 2024-05-31T13:49:47.859Z
+updated: 2024-06-01T13:49:47.859Z
 tags:
   - ai video
   - ai youtube
@@ -804,3 +804,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

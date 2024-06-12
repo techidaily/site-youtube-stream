@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Get Hooked  Easy Ways to Loop Any YouTube Video\""
-date: 2024-05-26 11:58:59
-updated: 2024-05-27 11:42:25
+date: 2024-05-31T13:45:59.371Z
+updated: 2024-06-01T13:45:59.371Z
 tags:
   - ai video
   - ai youtube
@@ -1398,3 +1398,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

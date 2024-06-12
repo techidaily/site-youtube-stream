@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 8 Pitfalls for Novice YouTube Creators\""
-date: 2024-05-30 15:37:25
-updated: 2024-05-31 11:25:24
+date: 2024-05-31T13:44:04.273Z
+updated: 2024-06-01T13:44:04.273Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

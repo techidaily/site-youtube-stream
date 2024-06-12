@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfect Sound Devices for Podcasters"
-date: 2024-05-28 16:22:24
-updated: 2024-05-29 12:26:14
+date: 2024-05-31T13:44:53.341Z
+updated: 2024-06-01T13:44:53.341Z
 tags:
   - ai video
   - ai youtube
@@ -1406,3 +1406,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

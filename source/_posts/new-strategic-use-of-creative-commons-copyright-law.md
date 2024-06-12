@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategic Use of Creative Commons Copyright Law"
-date: 2024-05-29 16:15:25
-updated: 2024-05-30 10:41:32
+date: 2024-05-31T13:44:33.870Z
+updated: 2024-06-01T13:44:33.870Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

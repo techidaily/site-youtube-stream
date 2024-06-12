@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass in Making Engaging Video Lessons  Your Step-by-Step Guide for YouTube for 2024\""
-date: 2024-05-27 21:54:22
-updated: 2024-05-28 10:12:24
+date: 2024-05-31T13:43:52.647Z
+updated: 2024-06-01T13:43:52.647Z
 tags:
   - ai video
   - ai youtube
@@ -705,3 +705,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying the Path to Understanding YouTube Numbers"
-date: 2024-05-27 14:40:54
-updated: 2024-05-30 11:16:36
+date: 2024-05-31T13:44:11.604Z
+updated: 2024-06-01T13:44:11.604Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

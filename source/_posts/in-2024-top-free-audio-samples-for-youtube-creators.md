@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Free Audio Samples for YouTube Creators"
-date: 2024-05-30 13:52:27
-updated: 2024-05-31 11:25:54
+date: 2024-05-31T13:51:37.692Z
+updated: 2024-06-01T13:51:37.692Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

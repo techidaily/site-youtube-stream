@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sky-High Broadcasting  Your First Steps in Youtube Live via OBS\""
-date: 2024-05-29 17:58:27
-updated: 2024-05-30 11:38:32
+date: 2024-05-31T13:50:17.543Z
+updated: 2024-06-01T13:50:17.543Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

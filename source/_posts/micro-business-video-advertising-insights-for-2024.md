@@ -1,7 +1,7 @@
 ---
 title: "\"Micro-Business Video Advertising Insights for 2024\""
-date: 2024-05-27 13:37:38
-updated: 2024-05-28 11:42:45
+date: 2024-05-31T13:46:10.277Z
+updated: 2024-06-01T13:46:10.277Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

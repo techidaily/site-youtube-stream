@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tech Savvy Simplified  Your Guide to Making 10 Easy YouTube Videos\""
-date: 2024-05-28 11:58:51
-updated: 2024-05-30 11:17:12
+date: 2024-05-31T13:45:24.536Z
+updated: 2024-06-01T13:45:24.536Z
 tags:
   - ai video
   - ai youtube
@@ -614,3 +614,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

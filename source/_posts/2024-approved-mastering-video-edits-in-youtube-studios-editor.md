@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Video Edits in YouTube Studio's Editor\""
-date: 2024-05-25 12:20:24
-updated: 2024-05-28 11:35:48
+date: 2024-05-31T13:42:27.070Z
+updated: 2024-06-01T13:42:27.070Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

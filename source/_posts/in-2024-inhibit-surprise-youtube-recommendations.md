@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inhibit Surprise YouTube Recommendations"
-date: 2024-05-24 23:20:30
-updated: 2024-05-27 12:49:24
+date: 2024-05-31T13:48:55.370Z
+updated: 2024-06-01T13:48:55.370Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Travelers' Guide to Top Student-Friendly YouTube History\""
-date: 2024-05-30 13:50:14
-updated: 2024-05-31 10:42:29
+date: 2024-05-31T13:41:46.200Z
+updated: 2024-06-01T13:41:46.200Z
 tags:
   - ai video
   - ai youtube
@@ -564,3 +564,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision Poetry  The News Outro Art\""
-date: 2024-05-28 11:44:23
-updated: 2024-05-29 12:15:33
+date: 2024-05-31T13:44:01.200Z
+updated: 2024-06-01T13:44:01.200Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

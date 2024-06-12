@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling 10 Inspirational Workout Plans for Video Creators"
-date: 2024-05-30 20:19:40
-updated: 2024-06-01 12:51:29
+date: 2024-05-31T13:49:11.589Z
+updated: 2024-06-01T13:49:11.589Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

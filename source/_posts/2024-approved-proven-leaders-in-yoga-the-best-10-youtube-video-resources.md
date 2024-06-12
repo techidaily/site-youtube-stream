@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Proven Leaders in Yoga  The Best 10 YouTube Video Resources\""
-date: 2024-05-27 19:44:21
-updated: 2024-05-29 11:46:56
+date: 2024-05-31T13:48:06.752Z
+updated: 2024-06-01T13:48:06.752Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

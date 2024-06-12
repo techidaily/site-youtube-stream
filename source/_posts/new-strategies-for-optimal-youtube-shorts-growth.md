@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Optimal YouTube Shorts Growth"
-date: 2024-05-27 13:55:37
-updated: 2024-05-30 12:47:44
+date: 2024-05-31T13:40:51.281Z
+updated: 2024-06-01T13:40:51.281Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

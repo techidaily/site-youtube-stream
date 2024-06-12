@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revolutionize Your Content with YouTube Split-Screen Videos\""
-date: 2024-05-28 13:55:59
-updated: 2024-05-29 10:59:46
+date: 2024-05-31T13:48:16.353Z
+updated: 2024-06-01T13:48:16.353Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

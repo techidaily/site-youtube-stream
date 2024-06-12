@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Historical Insights  Top Educational YT Creators\""
-date: 2024-05-25 20:43:22
-updated: 2024-05-27 10:18:37
+date: 2024-05-31T13:49:44.439Z
+updated: 2024-06-01T13:49:44.439Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

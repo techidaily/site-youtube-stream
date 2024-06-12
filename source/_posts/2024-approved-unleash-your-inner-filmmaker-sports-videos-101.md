@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Your Inner Filmmaker  Sports Videos 101\""
-date: 2024-05-31 20:23:12
-updated: 2024-06-01 11:30:33
+date: 2024-05-31T13:50:44.350Z
+updated: 2024-06-01T13:50:44.350Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

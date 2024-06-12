@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Recipe Rulers  YouTube's Finest Food Talks\""
-date: 2024-05-28 12:35:33
-updated: 2024-05-29 12:12:48
+date: 2024-05-31T13:42:38.689Z
+updated: 2024-06-01T13:42:38.689Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

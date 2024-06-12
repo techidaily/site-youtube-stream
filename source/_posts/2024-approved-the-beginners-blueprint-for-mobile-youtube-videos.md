@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Beginner's Blueprint for Mobile YouTube Videos\""
-date: 2024-05-28 19:57:11
-updated: 2024-05-31 11:36:48
+date: 2024-05-31T13:51:16.938Z
+updated: 2024-06-01T13:51:16.938Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ It’s a nice feeling to learn how to upload YouTube Shorts and share the fun wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

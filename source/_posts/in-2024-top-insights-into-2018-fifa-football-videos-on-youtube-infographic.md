@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Insights Into 2018 FIFA Football Videos On YouTube [Infographic]"
-date: 2024-05-29 22:20:11
-updated: 2024-05-31 10:11:24
+date: 2024-05-31T13:41:19.708Z
+updated: 2024-06-01T13:41:19.708Z
 tags:
   - ai video
   - ai youtube
@@ -400,3 +400,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

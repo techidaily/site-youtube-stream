@@ -1,7 +1,7 @@
 ---
 title: "[New] Quickly Adapt to Changing Video Speeds on YouTube"
-date: 2024-05-27 14:13:10
-updated: 2024-05-29 12:57:36
+date: 2024-05-31T13:41:42.329Z
+updated: 2024-06-01T13:41:42.329Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

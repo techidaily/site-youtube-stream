@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Harmonizing Cityscapes and Nature  The Role of Green Spaces\""
-date: 2024-05-25 14:44:18
-updated: 2024-05-27 10:20:25
+date: 2024-05-31T13:44:43.546Z
+updated: 2024-06-01T13:44:43.546Z
 tags:
   - ai video
   - ai youtube
@@ -502,3 +502,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

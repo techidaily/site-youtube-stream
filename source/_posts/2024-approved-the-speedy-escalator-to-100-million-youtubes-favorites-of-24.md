@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Speedy Escalator to 100 Million – YouTube's Favorites of '24\""
-date: 2024-05-29 13:12:23
-updated: 2024-05-31 10:23:23
+date: 2024-05-31T13:46:46.390Z
+updated: 2024-06-01T13:46:46.390Z
 tags:
   - ai video
   - ai youtube
@@ -1322,3 +1322,4 @@ Thus, finding the best YouTube channel to watch anime during your free or boring
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

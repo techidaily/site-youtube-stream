@@ -1,7 +1,7 @@
 ---
 title: "[New] From Videographer to Income Generator on YouTube"
-date: 2024-05-25 11:41:58
-updated: 2024-05-27 12:44:13
+date: 2024-05-31T13:48:32.603Z
+updated: 2024-06-01T13:48:32.603Z
 tags:
   - ai video
   - ai youtube
@@ -864,3 +864,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

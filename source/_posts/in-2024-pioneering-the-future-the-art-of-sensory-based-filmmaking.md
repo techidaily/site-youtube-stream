@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pioneering the Future  The Art of Sensory-Based Filmmaking\""
-date: 2024-05-26 10:23:53
-updated: 2024-05-29 11:59:14
+date: 2024-05-31T13:46:52.377Z
+updated: 2024-06-01T13:46:52.377Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

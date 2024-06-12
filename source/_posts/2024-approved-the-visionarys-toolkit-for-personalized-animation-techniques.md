@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Visionary's Toolkit for Personalized Animation Techniques\""
-date: 2024-05-30 20:50:38
-updated: 2024-05-31 12:45:10
+date: 2024-05-31T13:48:45.390Z
+updated: 2024-06-01T13:48:45.390Z
 tags:
   - ai video
   - ai youtube
@@ -410,3 +410,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

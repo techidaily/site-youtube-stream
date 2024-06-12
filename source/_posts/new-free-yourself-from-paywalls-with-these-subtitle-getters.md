@@ -1,7 +1,7 @@
 ---
 title: "[New] Free Yourself From Paywalls with These Subtitle Getters"
-date: 2024-05-24 20:11:26
-updated: 2024-05-27 12:14:54
+date: 2024-05-31T13:48:34.836Z
+updated: 2024-06-01T13:48:34.836Z
 tags:
   - ai video
   - ai youtube
@@ -1092,3 +1092,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

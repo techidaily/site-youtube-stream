@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Guerrilla Mic Guide  Top Chip Selection on a Shoestring\""
-date: 2024-05-24 22:24:44
-updated: 2024-05-27 10:18:25
+date: 2024-05-31T13:51:08.088Z
+updated: 2024-06-01T13:51:08.088Z
 tags:
   - ai video
   - ai youtube
@@ -1398,3 +1398,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

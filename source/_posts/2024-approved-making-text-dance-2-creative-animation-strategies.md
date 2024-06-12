@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making Text Dance  2 Creative Animation Strategies\""
-date: 2024-05-26 14:32:19
-updated: 2024-05-28 10:47:55
+date: 2024-05-31T13:41:33.603Z
+updated: 2024-06-01T13:41:33.603Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

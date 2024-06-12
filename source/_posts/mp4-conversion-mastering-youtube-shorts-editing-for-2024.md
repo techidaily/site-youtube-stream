@@ -1,7 +1,7 @@
 ---
 title: "\"MP4 Conversion  Mastering YouTube Shorts Editing for 2024\""
-date: 2024-05-27 11:24:45
-updated: 2024-05-28 12:30:15
+date: 2024-05-31T13:48:38.181Z
+updated: 2024-06-01T13:48:38.181Z
 tags:
   - ai video
   - ai youtube
@@ -1070,3 +1070,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Graphic Gaze  Decoding YouTube's Factful '17 Narrative\""
-date: 2024-05-29 13:48:42
-updated: 2024-05-31 10:22:29
+date: 2024-05-31T13:51:29.358Z
+updated: 2024-06-01T13:51:29.358Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rapid Adjustment of YouTube Vids for Mac Screen\""
-date: 2024-05-28 13:35:36
-updated: 2024-05-29 11:22:43
+date: 2024-05-31T13:41:33.705Z
+updated: 2024-06-01T13:41:33.705Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

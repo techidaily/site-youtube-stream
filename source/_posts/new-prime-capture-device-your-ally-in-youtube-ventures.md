@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Capture Device  Your Ally in YouTube Ventures\""
-date: 2024-05-28 20:11:18
-updated: 2024-05-29 12:48:11
+date: 2024-05-31T13:46:23.735Z
+updated: 2024-06-01T13:46:23.735Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

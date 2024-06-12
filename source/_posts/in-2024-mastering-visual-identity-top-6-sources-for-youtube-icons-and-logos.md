@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Visual Identity  Top 6 Sources for YouTube Icons & Logos\""
-date: 2024-05-26 17:24:54
-updated: 2024-05-28 10:23:49
+date: 2024-05-31T13:47:23.613Z
+updated: 2024-06-01T13:47:23.613Z
 tags:
   - ai video
   - ai youtube
@@ -1146,3 +1146,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

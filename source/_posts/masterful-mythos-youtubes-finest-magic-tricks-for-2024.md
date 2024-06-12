@@ -1,7 +1,7 @@
 ---
 title: "\"Masterful Mythos  YouTube's Finest Magic Tricks for 2024\""
-date: 2024-05-26 17:30:30
-updated: 2024-05-28 11:59:17
+date: 2024-05-31T13:42:31.049Z
+updated: 2024-06-01T13:42:31.049Z
 tags:
   - ai video
   - ai youtube
@@ -2908,3 +2908,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

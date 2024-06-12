@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  For Social Media Savants  Distinguishing Between IGTV & YouTube\""
-date: 2024-05-25 13:14:54
-updated: 2024-05-27 10:57:49
+date: 2024-05-31T13:49:39.521Z
+updated: 2024-06-01T13:49:39.521Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

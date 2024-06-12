@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Design Principles  Essential Knowledge of YT Banners & Art for 2024\""
-date: 2024-05-25 18:25:53
-updated: 2024-05-28 11:44:50
+date: 2024-05-31T13:48:05.145Z
+updated: 2024-06-01T13:48:05.145Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fundamentals of Income for T-Series on YouTube\""
-date: 2024-05-30 10:41:33
-updated: 2024-05-31 11:18:41
+date: 2024-05-31T13:41:40.556Z
+updated: 2024-06-01T13:41:40.556Z
 tags:
   - ai video
   - ai youtube
@@ -665,3 +665,4 @@ So, in summary, if you want to become a vlogger, you will need to figure out how
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

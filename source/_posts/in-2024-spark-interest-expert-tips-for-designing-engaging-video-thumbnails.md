@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spark Interest  Expert Tips for Designing Engaging Video Thumbnails\""
-date: 2024-05-28 23:57:11
-updated: 2024-05-30 11:50:22
+date: 2024-05-31T13:49:46.853Z
+updated: 2024-06-01T13:49:46.853Z
 tags:
   - ai video
   - ai youtube
@@ -1365,3 +1365,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

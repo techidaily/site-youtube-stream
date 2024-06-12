@@ -1,7 +1,7 @@
 ---
 title: "[New] SMART Strategies for Entrepreneurial Video Marketing"
-date: 2024-05-29 14:14:33
-updated: 2024-05-30 11:55:47
+date: 2024-05-31T13:45:55.977Z
+updated: 2024-06-01T13:45:55.977Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

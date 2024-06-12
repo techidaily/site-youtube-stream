@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 10  YouTube Historians’ Top Picks for Learning\""
-date: 2024-05-28 11:28:16
-updated: 2024-05-29 10:14:42
+date: 2024-05-31T13:41:20.272Z
+updated: 2024-06-01T13:41:20.272Z
 tags:
   - ai video
   - ai youtube
@@ -510,3 +510,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

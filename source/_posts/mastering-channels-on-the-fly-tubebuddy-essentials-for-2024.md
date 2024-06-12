@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Channels on the Fly - TubeBuddy Essentials for 2024\""
-date: 2024-05-27 23:50:40
-updated: 2024-05-28 10:34:45
+date: 2024-05-31T13:41:14.382Z
+updated: 2024-06-01T13:41:14.382Z
 tags:
   - ai video
   - ai youtube
@@ -572,3 +572,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

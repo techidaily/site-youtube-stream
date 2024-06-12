@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncover the Best 12 Flipscreen Vlogging Cameras on a Budget\""
-date: 2024-05-30 22:56:31
-updated: 2024-06-01 12:10:58
+date: 2024-05-31T13:50:37.677Z
+updated: 2024-06-01T13:50:37.677Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

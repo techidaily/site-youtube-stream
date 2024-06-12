@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Love in Motion  Discovering YouTube & Vimeo's Top 7 Wedding Films\""
-date: 2024-05-27 13:45:55
-updated: 2024-05-28 10:17:24
+date: 2024-05-31T13:42:02.887Z
+updated: 2024-06-01T13:42:02.887Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ With 720,000 hours of video being uploaded every day to YouTube, getting your vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professional Gamer's Guide  Top Video Cards on YouTube\""
-date: 2024-05-28 14:55:36
-updated: 2024-05-29 10:38:10
+date: 2024-05-31T13:41:32.885Z
+updated: 2024-06-01T13:41:32.885Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

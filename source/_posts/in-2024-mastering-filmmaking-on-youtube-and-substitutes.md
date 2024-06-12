@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Filmmaking on YouTube & Substitutes"
-date: 2024-05-27 19:47:50
-updated: 2024-05-28 12:59:39
+date: 2024-05-31T13:47:39.128Z
+updated: 2024-06-01T13:47:39.128Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

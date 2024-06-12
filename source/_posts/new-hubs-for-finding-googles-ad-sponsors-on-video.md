@@ -1,7 +1,7 @@
 ---
 title: "[New] Hubs for Finding Google's Ad Sponsors on Video"
-date: 2024-05-25 16:14:35
-updated: 2024-05-27 10:24:11
+date: 2024-05-31T13:41:55.733Z
+updated: 2024-06-01T13:41:55.733Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

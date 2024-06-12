@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Anime Selections on YouTube, Ranked"
-date: 2024-05-26 12:11:58
-updated: 2024-05-29 10:58:58
+date: 2024-05-31T13:47:02.756Z
+updated: 2024-06-01T13:47:02.756Z
 tags:
   - ai video
   - ai youtube
@@ -2478,3 +2478,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

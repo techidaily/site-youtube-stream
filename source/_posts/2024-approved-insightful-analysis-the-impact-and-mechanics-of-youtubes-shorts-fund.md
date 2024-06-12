@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Insightful Analysis  The Impact and Mechanics of YouTube's Shorts Fund\""
-date: 2024-05-25 20:45:24
-updated: 2024-05-28 11:56:40
+date: 2024-05-31T13:44:53.756Z
+updated: 2024-06-01T13:44:53.756Z
 tags:
   - ai video
   - ai youtube
@@ -1412,3 +1412,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

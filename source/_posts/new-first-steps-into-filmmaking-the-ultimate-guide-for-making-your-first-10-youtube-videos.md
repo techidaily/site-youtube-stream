@@ -1,7 +1,7 @@
 ---
 title: "\"[New] First Steps Into Filmmaking  The Ultimate Guide for Making Your First 10 YouTube Videos\""
-date: 2024-05-25 10:44:38
-updated: 2024-05-27 11:56:15
+date: 2024-05-31T13:50:12.916Z
+updated: 2024-06-01T13:50:12.916Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

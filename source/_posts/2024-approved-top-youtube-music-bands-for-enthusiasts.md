@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top YouTube Music Bands for Enthusiasts\""
-date: 2024-05-29 11:39:19
-updated: 2024-05-31 11:58:10
+date: 2024-05-31T13:41:57.253Z
+updated: 2024-06-01T13:41:57.253Z
 tags:
   - ai video
   - ai youtube
@@ -1174,3 +1174,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inspiring the Future of YouTube with Best Ad Artistry\""
-date: 2024-05-26 21:23:49
-updated: 2024-05-28 11:59:40
+date: 2024-05-31T13:41:04.489Z
+updated: 2024-06-01T13:41:04.489Z
 tags:
   - ai video
   - ai youtube
@@ -972,3 +972,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

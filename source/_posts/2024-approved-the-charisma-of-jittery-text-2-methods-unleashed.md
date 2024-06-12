@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Charisma of Jittery Text  2 Methods Unleashed\""
-date: 2024-05-28 10:34:41
-updated: 2024-05-31 10:55:36
+date: 2024-05-31T13:43:08.569Z
+updated: 2024-06-01T13:43:08.569Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

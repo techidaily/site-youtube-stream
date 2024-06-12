@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Fix the YouTube Shorts Not Showing Up Issue?"
-date: 2024-05-26 10:22:24
-updated: 2024-05-27 12:42:29
+date: 2024-05-31T13:47:43.867Z
+updated: 2024-06-01T13:47:43.867Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

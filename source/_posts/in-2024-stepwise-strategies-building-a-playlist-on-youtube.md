@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Stepwise Strategies  Building a Playlist on YouTube\""
-date: 2024-05-27 10:34:36
-updated: 2024-05-30 12:58:46
+date: 2024-05-31T13:48:24.523Z
+updated: 2024-06-01T13:48:24.523Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Common Issues in YouTube Shorts\""
-date: 2024-05-25 10:51:15
-updated: 2024-05-28 12:41:48
+date: 2024-05-31T13:45:11.761Z
+updated: 2024-06-01T13:45:11.761Z
 tags:
   - ai video
   - ai youtube
@@ -671,3 +671,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

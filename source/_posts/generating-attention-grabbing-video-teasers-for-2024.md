@@ -1,7 +1,7 @@
 ---
 title: "\"Generating Attention-Grabbing Video Teasers for 2024\""
-date: 2024-05-24 22:48:19
-updated: 2024-05-27 12:38:17
+date: 2024-05-31T13:49:07.608Z
+updated: 2024-06-01T13:49:07.608Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

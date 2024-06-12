@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Blur Background of Your YouTube Video"
-date: 2024-05-24 17:38:59
-updated: 2024-05-27 12:44:47
+date: 2024-05-31T13:50:46.391Z
+updated: 2024-06-01T13:50:46.391Z
 tags:
   - ai video
   - ai youtube
@@ -1030,3 +1030,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

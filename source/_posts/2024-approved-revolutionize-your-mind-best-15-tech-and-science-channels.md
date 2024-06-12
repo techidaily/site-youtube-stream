@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revolutionize Your Mind  Best 15 Tech & Science Channels\""
-date: 2024-05-27 21:24:26
-updated: 2024-05-29 12:30:33
+date: 2024-05-31T13:51:15.991Z
+updated: 2024-06-01T13:51:15.991Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

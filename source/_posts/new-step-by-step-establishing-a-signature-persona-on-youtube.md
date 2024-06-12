@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Establishing a Signature Persona on YouTube\""
-date: 2024-05-28 20:50:58
-updated: 2024-05-30 11:36:13
+date: 2024-05-31T13:50:57.747Z
+updated: 2024-06-01T13:50:57.747Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

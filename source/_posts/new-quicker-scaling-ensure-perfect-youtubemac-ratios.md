@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quicker Scaling  Ensure Perfect Youtube/Mac Ratios\""
-date: 2024-05-28 14:58:11
-updated: 2024-05-29 10:28:15
+date: 2024-05-31T13:49:10.475Z
+updated: 2024-06-01T13:49:10.475Z
 tags:
   - ai video
   - ai youtube
@@ -1430,3 +1430,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

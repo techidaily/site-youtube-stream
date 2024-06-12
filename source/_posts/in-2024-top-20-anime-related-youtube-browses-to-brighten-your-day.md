@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 20 Anime-Related YouTube Browses to Brighten Your Day\""
-date: 2024-05-28 22:33:12
-updated: 2024-05-31 12:40:54
+date: 2024-05-31T13:45:06.577Z
+updated: 2024-06-01T13:45:06.577Z
 tags:
   - ai video
   - ai youtube
@@ -1314,3 +1314,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

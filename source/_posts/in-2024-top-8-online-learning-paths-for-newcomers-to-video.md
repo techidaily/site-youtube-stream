@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 8 Online Learning Paths for Newcomers to Video"
-date: 2024-05-30 16:13:20
-updated: 2024-05-31 10:11:55
+date: 2024-05-31T13:43:16.834Z
+updated: 2024-06-01T13:43:16.834Z
 tags:
   - ai video
   - ai youtube
@@ -1590,3 +1590,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Make ASMR Videos  A Complete Guide\""
-date: 2024-05-24 15:49:11
-updated: 2024-05-27 12:12:10
+date: 2024-05-31T13:49:09.045Z
+updated: 2024-06-01T13:49:09.045Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

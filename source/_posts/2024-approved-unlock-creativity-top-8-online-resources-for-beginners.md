@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creativity  Top 8 Online Resources for Beginners\""
-date: 2024-05-31 17:16:34
-updated: 2024-06-01 12:45:54
+date: 2024-05-31T13:45:13.994Z
+updated: 2024-06-01T13:45:13.994Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Selecting the Right Gear  A Filmmaker's Checklist\""
-date: 2024-05-27 10:23:15
-updated: 2024-05-30 10:47:25
+date: 2024-05-31T13:47:12.891Z
+updated: 2024-06-01T13:47:12.891Z
 tags:
   - ai video
   - ai youtube
@@ -585,3 +585,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

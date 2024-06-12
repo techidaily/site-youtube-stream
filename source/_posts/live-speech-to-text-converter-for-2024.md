@@ -1,7 +1,7 @@
 ---
 title: "Live Speech to Text Converter for 2024"
-date: 2024-05-25 19:24:14
-updated: 2024-05-28 12:22:49
+date: 2024-05-31T13:44:04.715Z
+updated: 2024-06-01T13:44:04.715Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

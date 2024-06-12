@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Best  Top 10 Online Yoga Classrooms for Fitness Enthusiasts\""
-date: 2024-05-25 22:23:40
-updated: 2024-05-28 10:19:49
+date: 2024-05-31T13:42:23.174Z
+updated: 2024-06-01T13:42:23.174Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Tools  Turning YouTube Videos Into Text\""
-date: 2024-05-28 13:23:55
-updated: 2024-05-29 12:30:40
+date: 2024-05-31T13:45:48.259Z
+updated: 2024-06-01T13:45:48.259Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

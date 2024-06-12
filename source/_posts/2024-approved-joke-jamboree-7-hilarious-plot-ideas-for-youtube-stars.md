@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Joke Jamboree  7 Hilarious Plot Ideas for YouTube Stars\""
-date: 2024-05-26 13:10:40
-updated: 2024-05-28 11:24:46
+date: 2024-05-31T13:44:28.352Z
+updated: 2024-06-01T13:44:28.352Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

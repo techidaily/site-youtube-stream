@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Getting Started on YouTube Broadcasts Using OBS"
-date: 2024-05-25 23:28:35
-updated: 2024-05-27 11:39:53
+date: 2024-05-31T13:50:24.762Z
+updated: 2024-06-01T13:50:24.762Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

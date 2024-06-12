@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Time Is Money - Learn to Slash YouTube Video Durations\""
-date: 2024-05-29 11:49:56
-updated: 2024-05-31 10:10:18
+date: 2024-05-31T13:44:30.170Z
+updated: 2024-06-01T13:44:30.170Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

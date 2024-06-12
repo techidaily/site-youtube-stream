@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Mix Text & Video on a Shoestring Budget\""
-date: 2024-05-25 22:37:41
-updated: 2024-05-27 10:33:41
+date: 2024-05-31T13:45:49.425Z
+updated: 2024-06-01T13:45:49.425Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

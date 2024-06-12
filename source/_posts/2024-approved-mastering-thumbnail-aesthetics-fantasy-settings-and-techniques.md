@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Thumbnail Aesthetics  Fantasy Settings & Techniques\""
-date: 2024-05-25 21:31:55
-updated: 2024-05-28 11:32:18
+date: 2024-05-31T13:50:08.578Z
+updated: 2024-06-01T13:50:08.578Z
 tags:
   - ai video
   - ai youtube
@@ -1205,3 +1205,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

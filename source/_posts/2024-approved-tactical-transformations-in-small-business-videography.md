@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tactical Transformations in Small Business Videography\""
-date: 2024-05-27 16:59:32
-updated: 2024-05-30 12:59:47
+date: 2024-05-31T13:46:55.254Z
+updated: 2024-06-01T13:46:55.254Z
 tags:
   - ai video
   - ai youtube
@@ -408,3 +408,4 @@ It's easy to do, and it can be a great way to spend time with family members and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

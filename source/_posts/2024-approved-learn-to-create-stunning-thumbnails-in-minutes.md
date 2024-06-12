@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn to Create Stunning Thumbnails in Minutes\""
-date: 2024-05-26 12:55:52
-updated: 2024-05-28 12:52:44
+date: 2024-05-31T13:41:11.234Z
+updated: 2024-06-01T13:41:11.234Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

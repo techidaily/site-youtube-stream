@@ -1,7 +1,7 @@
 ---
 title: "Maximizing YT Videos for IGTV Presence for 2024"
-date: 2024-05-27 21:30:50
-updated: 2024-05-28 11:43:14
+date: 2024-05-31T13:44:41.329Z
+updated: 2024-06-01T13:44:41.329Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

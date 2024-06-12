@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastery in Minimalism  Essential Thumbnail Font Selection\""
-date: 2024-05-26 18:49:52
-updated: 2024-05-28 11:50:58
+date: 2024-05-31T13:41:36.941Z
+updated: 2024-06-01T13:41:36.941Z
 tags:
   - ai video
   - ai youtube
@@ -995,3 +995,4 @@ Also, making YouTube videos with a good video editor is advisable for quality vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

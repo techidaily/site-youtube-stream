@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Songbird Scribes  Writing the Script for YouTube\""
-date: 2024-05-28 14:59:50
-updated: 2024-05-30 12:35:31
+date: 2024-05-31T13:49:20.510Z
+updated: 2024-06-01T13:49:20.510Z
 tags:
   - ai video
   - ai youtube
@@ -1362,3 +1362,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

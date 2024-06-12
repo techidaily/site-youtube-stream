@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Integration  Share Confidential YouTube Videos on Gmail\""
-date: 2024-05-29 20:11:41
-updated: 2024-05-30 12:50:10
+date: 2024-05-31T13:47:07.303Z
+updated: 2024-06-01T13:47:07.303Z
 tags:
   - ai video
   - ai youtube
@@ -512,3 +512,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

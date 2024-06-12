@@ -1,7 +1,7 @@
 ---
 title: "\"Fearless Filming  Mastering Your First 10 Clips for 2024\""
-date: 2024-05-25 12:39:51
-updated: 2024-05-26 10:22:37
+date: 2024-05-31T13:43:48.817Z
+updated: 2024-06-01T13:43:48.817Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

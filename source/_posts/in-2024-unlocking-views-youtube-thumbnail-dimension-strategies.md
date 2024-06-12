@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Views  YouTube Thumbnail Dimension Strategies\""
-date: 2024-05-29 13:26:42
-updated: 2024-06-01 11:37:29
+date: 2024-05-31T13:46:53.703Z
+updated: 2024-06-01T13:46:53.703Z
 tags:
   - ai video
   - ai youtube
@@ -832,3 +832,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024\""
-date: 2024-05-24 20:51:25
-updated: 2024-05-27 11:31:42
+date: 2024-05-31T13:44:28.922Z
+updated: 2024-06-01T13:44:28.922Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

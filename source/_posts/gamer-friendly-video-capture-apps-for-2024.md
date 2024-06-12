@@ -1,7 +1,7 @@
 ---
 title: "\"Gamer-Friendly Video Capture Apps for 2024\""
-date: 2024-05-24 20:20:57
-updated: 2024-05-27 10:51:12
+date: 2024-05-31T13:50:00.190Z
+updated: 2024-06-01T13:50:00.190Z
 tags:
   - ai video
   - ai youtube
@@ -2438,3 +2438,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Blogging to Earning Big  Sourav Joshi’s YouTube Journey, 2024\""
-date: 2024-05-24 13:47:58
-updated: 2024-05-27 10:40:37
+date: 2024-05-31T13:42:49.150Z
+updated: 2024-06-01T13:42:49.150Z
 tags:
   - ai video
   - ai youtube
@@ -1486,3 +1486,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

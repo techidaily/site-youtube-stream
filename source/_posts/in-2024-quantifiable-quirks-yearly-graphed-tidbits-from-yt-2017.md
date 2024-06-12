@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quantifiable Quirks  Yearly Graphed Tidbits From YT (2017)\""
-date: 2024-05-27 19:30:13
-updated: 2024-05-29 10:10:56
+date: 2024-05-31T13:43:11.181Z
+updated: 2024-06-01T13:43:11.181Z
 tags:
   - ai video
   - ai youtube
@@ -478,3 +478,4 @@ If you put captions on your videos, more people will watch. Think of Filmora as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

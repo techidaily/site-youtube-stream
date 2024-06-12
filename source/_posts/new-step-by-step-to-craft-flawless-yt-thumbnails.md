@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step to Craft Flawless YT Thumbnails\""
-date: 2024-05-28 18:22:23
-updated: 2024-05-30 12:11:48
+date: 2024-05-31T13:49:42.840Z
+updated: 2024-06-01T13:49:42.840Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

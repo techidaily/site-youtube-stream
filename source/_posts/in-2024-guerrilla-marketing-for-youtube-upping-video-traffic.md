@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Guerrilla Marketing for YouTube  Upping Video Traffic\""
-date: 2024-05-25 23:49:56
-updated: 2024-05-27 11:28:44
+date: 2024-05-31T13:42:29.649Z
+updated: 2024-06-01T13:42:29.649Z
 tags:
   - ai video
   - ai youtube
@@ -1570,3 +1570,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

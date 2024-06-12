@@ -1,7 +1,7 @@
 ---
 title: "Leading 8 YouTube Channels with Rapid Expansion for 2024"
-date: 2024-05-26 17:50:13
-updated: 2024-05-28 10:55:31
+date: 2024-05-31T13:45:58.066Z
+updated: 2024-06-01T13:45:58.066Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

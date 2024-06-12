@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting YT Aesthetics  In-Depth Guide to Banner & Art Sizing\""
-date: 2024-05-28 13:55:20
-updated: 2024-05-29 10:27:38
+date: 2024-05-31T13:45:28.969Z
+updated: 2024-06-01T13:45:28.969Z
 tags:
   - ai video
   - ai youtube
@@ -1294,3 +1294,4 @@ Thus, finding the best YouTube channel to watch anime during your free or boring
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

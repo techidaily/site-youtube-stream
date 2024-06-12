@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use Creative Commons Copyright Licenses [Complete Guide]"
-date: 2024-05-25 11:48:58
-updated: 2024-05-27 11:40:45
+date: 2024-05-31T13:49:08.200Z
+updated: 2024-06-01T13:49:08.200Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

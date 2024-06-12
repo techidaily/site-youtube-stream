@@ -1,7 +1,7 @@
 ---
 title: "Infographic Inquiry! Unraveling the Stats of YT (2017) for 2024"
-date: 2024-05-25 13:42:14
-updated: 2024-05-27 10:45:41
+date: 2024-05-31T13:42:48.913Z
+updated: 2024-06-01T13:42:48.913Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

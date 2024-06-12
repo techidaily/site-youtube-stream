@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Financial Insights for Vids  How Much Do YouTubers Earn Per Sponsorship?\""
-date: 2024-05-24 13:28:23
-updated: 2024-05-26 10:48:48
+date: 2024-05-31T13:42:27.808Z
+updated: 2024-06-01T13:42:27.808Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

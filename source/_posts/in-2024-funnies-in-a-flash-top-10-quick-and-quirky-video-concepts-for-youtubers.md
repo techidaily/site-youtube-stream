@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Funnies in a Flash  Top 10 Quick & Quirky Video Concepts for YouTubers\""
-date: 2024-05-26 12:11:33
-updated: 2024-05-27 12:51:35
+date: 2024-05-31T13:51:11.941Z
+updated: 2024-06-01T13:51:11.941Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

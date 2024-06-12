@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ignite Your Creative Spark  Scriptwriting Tips for YouTube Mastery\""
-date: 2024-05-24 20:49:30
-updated: 2024-05-27 10:51:56
+date: 2024-05-31T13:44:41.526Z
+updated: 2024-06-01T13:44:41.526Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

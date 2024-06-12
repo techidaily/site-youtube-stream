@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tackling Teal Too Much? Clean up That Green Screen on Mac\""
-date: 2024-05-27 13:15:54
-updated: 2024-05-30 12:21:40
+date: 2024-05-31T13:42:45.071Z
+updated: 2024-06-01T13:42:45.071Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

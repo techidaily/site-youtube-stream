@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock the Power of Referrals  How to Build Effective YouTube Links\""
-date: 2024-05-31 20:50:42
-updated: 2024-06-01 11:29:11
+date: 2024-05-31T13:49:40.320Z
+updated: 2024-06-01T13:49:40.320Z
 tags:
   - ai video
   - ai youtube
@@ -752,3 +752,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

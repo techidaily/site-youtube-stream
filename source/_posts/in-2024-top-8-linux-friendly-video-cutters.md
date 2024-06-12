@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 8 Linux-Friendly Video Cutters\""
-date: 2024-05-29 15:16:55
-updated: 2024-05-31 11:43:41
+date: 2024-05-31T13:47:58.323Z
+updated: 2024-06-01T13:47:58.323Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tripod Alignment Secrets for Clearer Videos"
-date: 2024-05-29 11:49:24
-updated: 2024-06-01 12:35:33
+date: 2024-05-31T13:49:38.078Z
+updated: 2024-06-01T13:49:38.078Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading 9 Free Logo Design Software for YouTube Channels\""
-date: 2024-05-26 22:11:26
-updated: 2024-05-28 12:37:52
+date: 2024-05-31T13:42:13.775Z
+updated: 2024-06-01T13:42:13.775Z
 tags:
   - ai video
   - ai youtube
@@ -514,3 +514,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

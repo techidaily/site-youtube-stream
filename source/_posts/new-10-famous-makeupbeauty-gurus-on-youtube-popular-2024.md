@@ -1,7 +1,7 @@
 ---
 title: "[New] 10 Famous Makeup/Beauty Gurus on YouTube [Popular 2024]"
-date: 2024-05-26 16:23:34
-updated: 2024-05-28 12:12:26
+date: 2024-05-31T13:48:06.266Z
+updated: 2024-06-01T13:48:06.266Z
 tags:
   - ai video
   - ai youtube
@@ -1094,3 +1094,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

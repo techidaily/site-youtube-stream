@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Social Forecast in Graphs  2023 Edition Unveiled\""
-date: 2024-05-28 11:35:59
-updated: 2024-05-30 11:47:54
+date: 2024-05-31T13:50:49.361Z
+updated: 2024-06-01T13:50:49.361Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

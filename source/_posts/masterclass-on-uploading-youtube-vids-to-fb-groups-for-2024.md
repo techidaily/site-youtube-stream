@@ -1,7 +1,7 @@
 ---
 title: "Masterclass on Uploading YouTube Vids to FB Groups for 2024"
-date: 2024-05-25 14:27:10
-updated: 2024-05-28 11:20:19
+date: 2024-05-31T13:41:48.936Z
+updated: 2024-06-01T13:41:48.936Z
 tags:
   - ai video
   - ai youtube
@@ -1011,3 +1011,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Thumbnail Sizes for YouTube Content Excellence"
-date: 2024-05-28 23:14:40
-updated: 2024-05-29 11:23:24
+date: 2024-05-31T13:42:12.490Z
+updated: 2024-06-01T13:42:12.490Z
 tags:
   - ai video
   - ai youtube
@@ -1366,3 +1366,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

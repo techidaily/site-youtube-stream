@@ -1,7 +1,7 @@
 ---
 title: "Navigate Your Video Framing Journey Without a Budget on YouTube for 2024"
-date: 2024-05-27 22:53:19
-updated: 2024-05-28 11:23:39
+date: 2024-05-31T13:50:39.560Z
+updated: 2024-06-01T13:50:39.560Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Video Gear  Starting with Beginner Cameras\""
-date: 2024-05-27 14:10:14
-updated: 2024-05-29 10:25:33
+date: 2024-05-31T13:48:00.249Z
+updated: 2024-06-01T13:48:00.249Z
 tags:
   - ai video
   - ai youtube
@@ -1160,3 +1160,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

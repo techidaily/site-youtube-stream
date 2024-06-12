@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thrifty Filmmaker  Best Economical Camera Lineup\""
-date: 2024-05-30 13:56:42
-updated: 2024-05-31 12:48:49
+date: 2024-05-31T13:46:36.136Z
+updated: 2024-06-01T13:46:36.136Z
 tags:
   - ai video
   - ai youtube
@@ -398,3 +398,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

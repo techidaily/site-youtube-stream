@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Guide  FinalCut Pro for YouTube Editing\""
-date: 2024-05-31 16:11:37
-updated: 2024-06-01 10:56:38
+date: 2024-05-31T13:51:35.196Z
+updated: 2024-06-01T13:51:35.196Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

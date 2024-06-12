@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Gaming Queens  Top 10 Female YouTubers\""
-date: 2024-05-29 10:31:54
-updated: 2024-06-01 11:30:59
+date: 2024-05-31T13:41:40.927Z
+updated: 2024-06-01T13:41:40.927Z
 tags:
   - ai video
   - ai youtube
@@ -919,3 +919,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

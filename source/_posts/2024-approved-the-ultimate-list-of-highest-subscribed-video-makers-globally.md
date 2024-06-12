@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate List of Highest-Subscribed Video Makers Globally\""
-date: 2024-05-30 22:20:31
-updated: 2024-05-31 10:16:16
+date: 2024-05-31T13:48:40.746Z
+updated: 2024-06-01T13:48:40.746Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

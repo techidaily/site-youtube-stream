@@ -1,7 +1,7 @@
 ---
 title: "\"Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017 for 2024\""
-date: 2024-05-25 18:51:20
-updated: 2024-05-28 10:59:34
+date: 2024-05-31T13:48:31.233Z
+updated: 2024-06-01T13:48:31.233Z
 tags:
   - ai video
   - ai youtube
@@ -522,3 +522,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

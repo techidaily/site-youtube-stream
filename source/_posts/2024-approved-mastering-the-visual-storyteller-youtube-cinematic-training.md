@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Visual Storyteller  YouTube Cinematic Training\""
-date: 2024-05-25 14:44:34
-updated: 2024-05-28 10:38:27
+date: 2024-05-31T13:48:45.143Z
+updated: 2024-06-01T13:48:45.143Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

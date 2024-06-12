@@ -1,7 +1,7 @@
 ---
 title: "How to Make Free Intros for YouTube? [+Templates] for 2024"
-date: 2024-05-25 14:24:43
-updated: 2024-05-28 12:31:23
+date: 2024-05-31T13:51:25.285Z
+updated: 2024-06-01T13:51:25.285Z
 tags:
   - ai video
   - ai youtube
@@ -1822,3 +1822,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

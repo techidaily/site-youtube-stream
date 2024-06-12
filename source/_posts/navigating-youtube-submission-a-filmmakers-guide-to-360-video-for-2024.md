@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating YouTube Submission  A Filmmaker's Guide to 360 Video for 2024\""
-date: 2024-05-27 23:17:38
-updated: 2024-05-29 12:39:22
+date: 2024-05-31T13:45:34.839Z
+updated: 2024-06-01T13:45:34.839Z
 tags:
   - ai video
   - ai youtube
@@ -796,3 +796,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

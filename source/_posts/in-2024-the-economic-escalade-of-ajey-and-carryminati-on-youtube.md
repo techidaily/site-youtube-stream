@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Economic Escalade of Ajey and CarryMinati on YouTube"
-date: 2024-05-28 16:16:47
-updated: 2024-05-31 10:34:53
+date: 2024-05-31T13:47:18.283Z
+updated: 2024-06-01T13:47:18.283Z
 tags:
   - ai video
   - ai youtube
@@ -601,3 +601,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

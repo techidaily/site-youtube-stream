@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Advanced Techniques in YouTube Video Editing"
-date: 2024-05-29 16:15:49
-updated: 2024-05-31 12:29:27
+date: 2024-05-31T13:44:04.665Z
+updated: 2024-06-01T13:44:04.665Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

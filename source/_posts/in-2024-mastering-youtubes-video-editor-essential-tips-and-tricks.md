@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering YouTube's Video Editor  Essential Tips and Tricks\""
-date: 2024-05-27 19:26:49
-updated: 2024-05-28 10:11:57
+date: 2024-05-31T13:44:04.410Z
+updated: 2024-06-01T13:44:04.410Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers\""
-date: 2024-05-30 12:47:19
-updated: 2024-05-31 12:33:49
+date: 2024-05-31T13:51:19.371Z
+updated: 2024-06-01T13:51:19.371Z
 tags:
   - ai video
   - ai youtube
@@ -795,3 +795,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

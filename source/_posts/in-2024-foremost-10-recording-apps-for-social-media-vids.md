@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Foremost 10 Recording Apps for Social Media Vids"
-date: 2024-05-26 18:45:41
-updated: 2024-05-27 10:22:22
+date: 2024-05-31T13:50:30.207Z
+updated: 2024-06-01T13:50:30.207Z
 tags:
   - ai video
   - ai youtube
@@ -1566,3 +1566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

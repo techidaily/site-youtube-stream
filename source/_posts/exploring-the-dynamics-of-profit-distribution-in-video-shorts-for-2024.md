@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dynamics of Profit Distribution in Video Shorts for 2024"
-date: 2024-05-25 17:44:14
-updated: 2024-05-26 12:47:32
+date: 2024-05-31T13:50:17.910Z
+updated: 2024-06-01T13:50:17.910Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

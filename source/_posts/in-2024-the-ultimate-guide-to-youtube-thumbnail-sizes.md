@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to YouTube Thumbnail Sizes"
-date: 2024-05-28 20:33:40
-updated: 2024-05-31 11:36:20
+date: 2024-05-31T13:42:47.735Z
+updated: 2024-06-01T13:42:47.735Z
 tags:
   - ai video
   - ai youtube
@@ -1298,3 +1298,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

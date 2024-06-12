@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming iMovie Projects Into YouTube Shows"
-date: 2024-05-31 15:14:35
-updated: 2024-06-01 12:35:31
+date: 2024-05-31T13:49:56.058Z
+updated: 2024-06-01T13:49:56.058Z
 tags:
   - ai video
   - ai youtube
@@ -1050,3 +1050,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

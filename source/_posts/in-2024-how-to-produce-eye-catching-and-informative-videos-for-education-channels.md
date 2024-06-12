@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels\""
-date: 2024-05-24 10:57:25
-updated: 2024-05-27 12:26:26
+date: 2024-05-31T13:46:29.832Z
+updated: 2024-06-01T13:46:29.832Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash Creativity  Crafting Your Own YouTube Shorts Thumbnails\""
-date: 2024-05-30 12:58:45
-updated: 2024-06-01 10:15:20
+date: 2024-05-31T13:42:14.416Z
+updated: 2024-06-01T13:42:14.416Z
 tags:
   - ai video
   - ai youtube
@@ -725,3 +725,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminating Ideas  The Basics of Video Setup\""
-date: 2024-05-25 23:37:24
-updated: 2024-05-27 10:42:50
+date: 2024-05-31T13:42:08.077Z
+updated: 2024-06-01T13:42:08.077Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Thus, as we saw, finding the best YouTube movies channel in 2024 to kill your ti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

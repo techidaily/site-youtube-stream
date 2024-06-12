@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Setting Up Video Size on YouTube  Complete Tutorial\""
-date: 2024-05-29 22:41:56
-updated: 2024-05-30 11:24:48
+date: 2024-05-31T13:45:18.540Z
+updated: 2024-06-01T13:45:18.540Z
 tags:
   - ai video
   - ai youtube
@@ -2118,3 +2118,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

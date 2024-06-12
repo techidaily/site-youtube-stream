@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optimizing Engagement  Using Cards and Annotations\""
-date: 2024-05-28 21:43:41
-updated: 2024-05-29 12:22:31
+date: 2024-05-31T13:41:24.157Z
+updated: 2024-06-01T13:41:24.157Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Explanation  Implementing CC License Types for 2024\""
-date: 2024-05-24 20:30:33
-updated: 2024-05-27 12:39:22
+date: 2024-05-31T13:45:31.588Z
+updated: 2024-06-01T13:45:31.588Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

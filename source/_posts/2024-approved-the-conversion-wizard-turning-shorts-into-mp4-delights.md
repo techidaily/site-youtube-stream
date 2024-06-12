@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Conversion Wizard  Turning Shorts Into Mp4 Delights\""
-date: 2024-05-28 11:53:14
-updated: 2024-05-31 12:32:24
+date: 2024-05-31T13:49:15.209Z
+updated: 2024-06-01T13:49:15.209Z
 tags:
   - ai video
   - ai youtube
@@ -1194,3 +1194,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

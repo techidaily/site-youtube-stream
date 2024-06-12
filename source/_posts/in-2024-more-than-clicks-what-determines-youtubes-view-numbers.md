@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, More than Clicks  What Determines YouTube's View Numbers\""
-date: 2024-05-25 14:11:20
-updated: 2024-05-28 10:54:52
+date: 2024-05-31T13:48:05.836Z
+updated: 2024-06-01T13:48:05.836Z
 tags:
   - ai video
   - ai youtube
@@ -708,3 +708,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

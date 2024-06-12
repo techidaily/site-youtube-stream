@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Thumbnails Made Simple  MacOS Style\""
-date: 2024-05-28 23:28:23
-updated: 2024-05-29 11:40:39
+date: 2024-05-31T13:49:28.938Z
+updated: 2024-06-01T13:49:28.938Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

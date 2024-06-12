@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revisiting the Golden Age of Cinema  Video Tutorials\""
-date: 2024-05-26 20:26:37
-updated: 2024-05-29 11:46:17
+date: 2024-05-31T13:41:23.652Z
+updated: 2024-06-01T13:41:23.652Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

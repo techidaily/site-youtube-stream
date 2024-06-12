@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Food YouTubers You Should Follow"
-date: 2024-05-30 12:30:12
-updated: 2024-05-31 12:55:17
+date: 2024-05-31T13:46:07.933Z
+updated: 2024-06-01T13:46:07.933Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

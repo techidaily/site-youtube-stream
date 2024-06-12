@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Video Editing on a Shoestring Budget - Top 9 Picks\""
-date: 2024-05-25 10:52:11
-updated: 2024-05-28 12:19:20
+date: 2024-05-31T13:48:53.942Z
+updated: 2024-06-01T13:48:53.942Z
 tags:
   - ai video
   - ai youtube
@@ -1406,3 +1406,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

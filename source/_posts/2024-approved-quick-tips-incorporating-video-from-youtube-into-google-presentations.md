@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Tips  Incorporating Video From YouTube Into Google Presentations\""
-date: 2024-05-28 20:26:37
-updated: 2024-05-29 10:26:38
+date: 2024-05-31T13:43:23.935Z
+updated: 2024-06-01T13:43:23.935Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Standard Youtube Licenses Versus CC"
-date: 2024-05-28 22:40:42
-updated: 2024-05-30 10:25:29
+date: 2024-05-31T13:41:11.036Z
+updated: 2024-06-01T13:41:11.036Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Video Aspect Ratios in YouTube Platform"
-date: 2024-05-28 14:12:12
-updated: 2024-05-29 10:34:34
+date: 2024-05-31T13:41:15.501Z
+updated: 2024-06-01T13:41:15.501Z
 tags:
   - ai video
   - ai youtube
@@ -1000,3 +1000,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

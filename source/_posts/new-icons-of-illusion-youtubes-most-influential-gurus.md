@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Icons of Illusion  YouTube's Most Influential Gurus\""
-date: 2024-05-25 13:56:26
-updated: 2024-05-27 12:47:12
+date: 2024-05-31T13:41:50.102Z
+updated: 2024-06-01T13:41:50.102Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

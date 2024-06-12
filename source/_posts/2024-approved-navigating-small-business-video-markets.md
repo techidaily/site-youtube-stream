@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Small Business Video Markets\""
-date: 2024-05-28 21:27:20
-updated: 2024-05-29 11:13:29
+date: 2024-05-31T13:47:44.287Z
+updated: 2024-06-01T13:47:44.287Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

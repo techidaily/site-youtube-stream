@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets to Effortlessly Posting YouTube on FB"
-date: 2024-05-27 11:59:16
-updated: 2024-05-30 12:35:11
+date: 2024-05-31T13:44:37.031Z
+updated: 2024-06-01T13:44:37.031Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

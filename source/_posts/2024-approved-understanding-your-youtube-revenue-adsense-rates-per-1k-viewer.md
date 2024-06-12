@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Your YouTube Revenue  AdSense Rates Per 1K Viewer\""
-date: 2024-05-30 10:19:28
-updated: 2024-06-01 11:26:49
+date: 2024-05-31T13:43:51.915Z
+updated: 2024-06-01T13:43:51.915Z
 tags:
   - ai video
   - ai youtube
@@ -789,3 +789,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Leaders in Fan Following  Top 10 Global YouTubers' Subs\""
-date: 2024-05-30 20:49:18
-updated: 2024-05-31 10:42:20
+date: 2024-05-31T13:44:53.985Z
+updated: 2024-06-01T13:44:53.985Z
 tags:
   - ai video
   - ai youtube
@@ -1662,3 +1662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

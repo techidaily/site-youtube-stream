@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Equipment Decisions for YouTubers on a Budget\""
-date: 2024-05-27 17:59:35
-updated: 2024-05-28 12:43:35
+date: 2024-05-31T13:46:45.157Z
+updated: 2024-06-01T13:46:45.157Z
 tags:
   - ai video
   - ai youtube
@@ -851,3 +851,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

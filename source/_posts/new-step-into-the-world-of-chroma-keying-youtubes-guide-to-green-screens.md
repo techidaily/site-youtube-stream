@@ -1,7 +1,7 @@
 ---
 title: "[New] Step Into the World of Chroma Keying – YouTube's Guide to Green Screens"
-date: 2024-05-29 19:41:20
-updated: 2024-05-30 12:13:46
+date: 2024-05-31T13:48:50.405Z
+updated: 2024-06-01T13:48:50.405Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

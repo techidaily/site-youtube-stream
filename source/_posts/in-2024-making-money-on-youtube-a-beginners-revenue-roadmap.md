@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Making Money on YouTube  A Beginner's Revenue Roadmap\""
-date: 2024-05-26 20:10:22
-updated: 2024-05-28 10:30:18
+date: 2024-05-31T13:43:09.906Z
+updated: 2024-06-01T13:43:09.906Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

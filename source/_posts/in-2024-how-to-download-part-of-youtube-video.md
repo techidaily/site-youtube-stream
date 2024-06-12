@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Download Part of YouTube Video?"
-date: 2024-05-24 12:29:15
-updated: 2024-05-27 11:47:40
+date: 2024-05-31T13:49:52.373Z
+updated: 2024-06-01T13:49:52.373Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

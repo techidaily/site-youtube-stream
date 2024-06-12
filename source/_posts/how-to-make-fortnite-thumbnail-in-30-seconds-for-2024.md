@@ -1,7 +1,7 @@
 ---
 title: "How to Make Fortnite Thumbnail in 30 Seconds for 2024"
-date: 2024-05-24 22:12:24
-updated: 2024-05-27 12:34:35
+date: 2024-05-31T13:48:48.657Z
+updated: 2024-06-01T13:48:48.657Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

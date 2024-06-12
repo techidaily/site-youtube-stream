@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Past  Essential Historical YT Creators for Students\""
-date: 2024-05-30 10:57:16
-updated: 2024-06-01 12:39:58
+date: 2024-05-31T13:51:14.389Z
+updated: 2024-06-01T13:51:14.389Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

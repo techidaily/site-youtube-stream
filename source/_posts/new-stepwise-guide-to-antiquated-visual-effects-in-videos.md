@@ -1,7 +1,7 @@
 ---
 title: "[New] Stepwise Guide to Antiquated Visual Effects in Videos"
-date: 2024-05-28 19:47:30
-updated: 2024-05-30 11:36:24
+date: 2024-05-31T13:48:50.439Z
+updated: 2024-06-01T13:48:50.439Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

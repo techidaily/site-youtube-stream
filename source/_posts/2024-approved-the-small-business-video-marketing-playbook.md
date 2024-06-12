@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Small Business Video Marketing Playbook\""
-date: 2024-05-29 14:12:38
-updated: 2024-05-31 10:42:36
+date: 2024-05-31T13:51:22.897Z
+updated: 2024-06-01T13:51:22.897Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

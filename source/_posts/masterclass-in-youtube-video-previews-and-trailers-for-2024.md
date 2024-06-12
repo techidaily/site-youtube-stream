@@ -1,7 +1,7 @@
 ---
 title: "Masterclass in YouTube Video Previews and Trailers for 2024"
-date: 2024-05-26 23:48:43
-updated: 2024-05-28 12:26:41
+date: 2024-05-31T13:41:37.883Z
+updated: 2024-06-01T13:41:37.883Z
 tags:
   - ai video
   - ai youtube
@@ -700,3 +700,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

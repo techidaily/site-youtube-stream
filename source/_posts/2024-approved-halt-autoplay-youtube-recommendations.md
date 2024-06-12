@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Halt Autoplay YouTube Recommendations\""
-date: 2024-05-25 12:53:47
-updated: 2024-05-27 10:37:48
+date: 2024-05-31T13:44:07.213Z
+updated: 2024-06-01T13:44:07.213Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Faster Insights, Slower Pace  Balancing YouTube Playback Rate\""
-date: 2024-05-23 22:53:25
-updated: 2024-05-26 11:19:59
+date: 2024-05-31T13:50:17.380Z
+updated: 2024-06-01T13:50:17.380Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

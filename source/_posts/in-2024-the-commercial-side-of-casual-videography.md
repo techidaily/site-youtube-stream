@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Commercial Side of Casual Videography"
-date: 2024-05-29 13:35:31
-updated: 2024-05-31 12:33:21
+date: 2024-05-31T13:44:52.376Z
+updated: 2024-06-01T13:44:52.376Z
 tags:
   - ai video
   - ai youtube
@@ -927,3 +927,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

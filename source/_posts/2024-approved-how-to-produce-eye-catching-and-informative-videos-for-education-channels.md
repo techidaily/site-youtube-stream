@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Produce Eye-Catching and Informative Videos for Education Channels\""
-date: 2024-05-26 20:16:17
-updated: 2024-05-27 10:22:15
+date: 2024-05-31T13:45:26.161Z
+updated: 2024-06-01T13:45:26.161Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

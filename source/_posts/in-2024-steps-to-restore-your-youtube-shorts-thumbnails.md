@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Steps to Restore Your YouTube Shorts' Thumbnails"
-date: 2024-05-29 15:47:12
-updated: 2024-05-30 12:22:44
+date: 2024-05-31T13:44:46.633Z
+updated: 2024-06-01T13:44:46.633Z
 tags:
   - ai video
   - ai youtube
@@ -467,3 +467,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

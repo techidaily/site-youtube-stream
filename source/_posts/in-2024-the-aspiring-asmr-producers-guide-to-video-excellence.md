@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Aspiring ASMR Producer's Guide to Video Excellence"
-date: 2024-05-30 21:17:20
-updated: 2024-05-31 10:58:17
+date: 2024-05-31T13:47:56.158Z
+updated: 2024-06-01T13:47:56.158Z
 tags:
   - ai video
   - ai youtube
@@ -1410,3 +1410,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

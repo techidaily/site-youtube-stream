@@ -1,7 +1,7 @@
 ---
 title: "How to Use YouTube Cards and Annotations for 2024"
-date: 2024-05-26 17:53:58
-updated: 2024-05-27 12:12:25
+date: 2024-05-31T13:48:15.756Z
+updated: 2024-06-01T13:48:15.756Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

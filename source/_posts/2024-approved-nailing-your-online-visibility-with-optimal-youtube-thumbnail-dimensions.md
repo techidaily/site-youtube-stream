@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nailing Your Online Visibility with Optimal YouTube Thumbnail Dimensions\""
-date: 2024-05-26 11:43:56
-updated: 2024-05-28 10:24:13
+date: 2024-05-31T13:46:29.444Z
+updated: 2024-06-01T13:46:29.444Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

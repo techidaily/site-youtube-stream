@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncovering Histories  Student-Favored YouTubes on Historic Events\""
-date: 2024-05-29 10:36:55
-updated: 2024-06-01 10:54:18
+date: 2024-05-31T13:49:15.843Z
+updated: 2024-06-01T13:49:15.843Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

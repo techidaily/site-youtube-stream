@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Skyrocket Engagement  20 Video Tricks for Maximum Impact\""
-date: 2024-05-29 19:13:21
-updated: 2024-05-30 12:39:54
+date: 2024-05-31T13:50:28.068Z
+updated: 2024-06-01T13:50:28.068Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

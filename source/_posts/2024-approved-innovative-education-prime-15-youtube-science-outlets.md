@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Innovative Education  Prime 15 YouTube Science Outlets\""
-date: 2024-05-26 23:34:24
-updated: 2024-05-27 10:22:56
+date: 2024-05-31T13:44:46.075Z
+updated: 2024-06-01T13:44:46.075Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

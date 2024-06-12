@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Your Path as a First-Time YouTuber  Sidestep These 8 Common Mistakes\""
-date: 2024-05-27 15:30:32
-updated: 2024-05-29 11:21:39
+date: 2024-05-31T13:40:54.442Z
+updated: 2024-06-01T13:40:54.442Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

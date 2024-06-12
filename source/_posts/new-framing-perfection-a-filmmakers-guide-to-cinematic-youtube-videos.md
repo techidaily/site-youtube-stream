@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Framing Perfection  A Filmmaker's Guide to Cinematic YouTube Videos\""
-date: 2024-05-25 15:40:14
-updated: 2024-05-27 10:57:46
+date: 2024-05-31T13:42:09.161Z
+updated: 2024-06-01T13:42:09.161Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

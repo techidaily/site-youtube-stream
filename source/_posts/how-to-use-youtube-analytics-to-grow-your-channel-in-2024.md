@@ -1,7 +1,7 @@
 ---
 title: "How to Use YouTube Analytics to Grow Your Channel, In 2024"
-date: 2024-05-24 19:15:39
-updated: 2024-05-27 12:42:39
+date: 2024-05-31T13:46:04.348Z
+updated: 2024-06-01T13:46:04.348Z
 tags:
   - ai video
   - ai youtube
@@ -2994,3 +2994,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

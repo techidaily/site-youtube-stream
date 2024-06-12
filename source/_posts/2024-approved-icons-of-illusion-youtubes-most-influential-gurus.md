@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Icons of Illusion  YouTube's Most Influential Gurus\""
-date: 2024-05-25 23:58:50
-updated: 2024-05-27 11:42:39
+date: 2024-05-31T13:44:34.037Z
+updated: 2024-06-01T13:44:34.037Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

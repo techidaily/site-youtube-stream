@@ -1,7 +1,7 @@
 ---
 title: "\"Finding Your Custom-Scored YouTube Tunes for 2024\""
-date: 2024-05-25 13:39:59
-updated: 2024-05-27 12:12:12
+date: 2024-05-31T13:48:10.170Z
+updated: 2024-06-01T13:48:10.170Z
 tags:
   - ai video
   - ai youtube
@@ -422,3 +422,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

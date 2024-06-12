@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, On-Screen Caption Composer\""
-date: 2024-05-27 20:30:42
-updated: 2024-05-29 12:45:15
+date: 2024-05-31T13:49:50.116Z
+updated: 2024-06-01T13:49:50.116Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

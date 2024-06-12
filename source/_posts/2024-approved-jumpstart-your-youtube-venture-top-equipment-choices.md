@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jumpstart Your YouTube Venture  Top Equipment Choices\""
-date: 2024-05-27 20:22:39
-updated: 2024-05-28 12:25:32
+date: 2024-05-31T13:48:08.867Z
+updated: 2024-06-01T13:48:08.867Z
 tags:
   - ai video
   - ai youtube
@@ -1626,3 +1626,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

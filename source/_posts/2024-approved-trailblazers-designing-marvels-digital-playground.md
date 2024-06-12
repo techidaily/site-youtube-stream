@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trailblazers Designing Marvel's Digital Playground\""
-date: 2024-05-29 21:20:42
-updated: 2024-05-31 11:59:46
+date: 2024-05-31T13:50:25.676Z
+updated: 2024-06-01T13:50:25.676Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

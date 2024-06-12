@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Kaji’s Wealth  Kid Star Earnings Surpass Major Celebrities\""
-date: 2024-05-26 20:19:54
-updated: 2024-05-28 10:41:31
+date: 2024-05-31T13:47:52.693Z
+updated: 2024-06-01T13:47:52.693Z
 tags:
   - ai video
   - ai youtube
@@ -1256,3 +1256,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

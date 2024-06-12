@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro-Rated Income Status for Content Makers\""
-date: 2024-05-26 10:51:15
-updated: 2024-05-29 10:10:22
+date: 2024-05-31T13:51:06.938Z
+updated: 2024-06-01T13:51:06.938Z
 tags:
   - ai video
   - ai youtube
@@ -1244,3 +1244,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

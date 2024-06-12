@@ -1,7 +1,7 @@
 ---
 title: "\"Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros for 2024\""
-date: 2024-05-25 14:44:44
-updated: 2024-05-26 10:59:49
+date: 2024-05-31T13:43:50.029Z
+updated: 2024-06-01T13:43:50.029Z
 tags:
   - ai video
   - ai youtube
@@ -1538,3 +1538,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

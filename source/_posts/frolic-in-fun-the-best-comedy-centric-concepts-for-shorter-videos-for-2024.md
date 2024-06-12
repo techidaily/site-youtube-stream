@@ -1,7 +1,7 @@
 ---
 title: "\"Frolic in Fun  The Best Comedy-Centric Concepts for Shorter Videos for 2024\""
-date: 2024-05-25 21:16:28
-updated: 2024-05-27 12:41:46
+date: 2024-05-31T13:42:56.427Z
+updated: 2024-06-01T13:42:56.427Z
 tags:
   - ai video
   - ai youtube
@@ -1162,3 +1162,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

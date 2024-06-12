@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas\""
-date: 2024-05-29 12:34:15
-updated: 2024-05-30 12:17:19
+date: 2024-05-31T13:46:42.945Z
+updated: 2024-06-01T13:46:42.945Z
 tags:
   - ai video
   - ai youtube
@@ -582,3 +582,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

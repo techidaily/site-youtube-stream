@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Attention Retention on YouTube with These 6 Tactics"
-date: 2024-05-26 14:25:57
-updated: 2024-05-28 11:36:57
+date: 2024-05-31T13:41:15.251Z
+updated: 2024-06-01T13:41:15.251Z
 tags:
   - ai video
   - ai youtube
@@ -1166,3 +1166,4 @@ Thus, finding the best YouTube channel to watch anime during your free or boring
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

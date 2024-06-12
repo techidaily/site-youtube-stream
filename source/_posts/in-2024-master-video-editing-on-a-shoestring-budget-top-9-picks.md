@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Video Editing on a Shoestring Budget - Top 9 Picks\""
-date: 2024-05-26 19:28:28
-updated: 2024-05-28 11:49:32
+date: 2024-05-31T13:50:11.304Z
+updated: 2024-06-01T13:50:11.304Z
 tags:
   - ai video
   - ai youtube
@@ -1410,3 +1410,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

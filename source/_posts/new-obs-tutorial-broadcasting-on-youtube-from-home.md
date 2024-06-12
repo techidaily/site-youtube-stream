@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Tutorial  Broadcasting on Youtube From Home\""
-date: 2024-05-28 20:20:15
-updated: 2024-05-29 12:28:11
+date: 2024-05-31T13:47:29.532Z
+updated: 2024-06-01T13:47:29.532Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

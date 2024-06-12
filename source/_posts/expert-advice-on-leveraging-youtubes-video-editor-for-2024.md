@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Leveraging YouTube's Video Editor for 2024"
-date: 2024-05-24 13:32:47
-updated: 2024-05-26 12:32:40
+date: 2024-05-31T13:49:44.343Z
+updated: 2024-06-01T13:49:44.343Z
 tags:
   - ai video
   - ai youtube
@@ -1122,3 +1122,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Free End Credits Maker - The #1 Video Closers Guide for 2024\""
-date: 2024-05-25 21:52:17
-updated: 2024-05-27 12:51:48
+date: 2024-05-31T13:42:25.133Z
+updated: 2024-06-01T13:42:25.133Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

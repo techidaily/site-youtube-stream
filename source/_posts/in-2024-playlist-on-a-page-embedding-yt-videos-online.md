@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Playlist on a Page  Embedding YT Videos Online\""
-date: 2024-05-28 13:43:37
-updated: 2024-05-29 11:35:42
+date: 2024-05-31T13:48:58.793Z
+updated: 2024-06-01T13:48:58.793Z
 tags:
   - ai video
   - ai youtube
@@ -492,3 +492,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spotlight Secrets  Perfecting Vlogger Lights\""
-date: 2024-05-27 23:13:30
-updated: 2024-05-30 12:31:36
+date: 2024-05-31T13:44:00.243Z
+updated: 2024-06-01T13:44:00.243Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

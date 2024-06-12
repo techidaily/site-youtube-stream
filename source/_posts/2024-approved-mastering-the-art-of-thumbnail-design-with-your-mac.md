@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Thumbnail Design with Your Mac\""
-date: 2024-05-27 14:10:56
-updated: 2024-05-28 11:26:52
+date: 2024-05-31T13:41:44.826Z
+updated: 2024-06-01T13:41:44.826Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

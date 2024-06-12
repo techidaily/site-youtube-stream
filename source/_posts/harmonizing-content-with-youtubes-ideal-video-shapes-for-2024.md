@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing Content with YouTube's Ideal Video Shapes for 2024"
-date: 2024-05-25 21:58:34
-updated: 2024-05-27 10:51:25
+date: 2024-05-31T13:45:38.822Z
+updated: 2024-06-01T13:45:38.822Z
 tags:
   - ai video
   - ai youtube
@@ -928,3 +928,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

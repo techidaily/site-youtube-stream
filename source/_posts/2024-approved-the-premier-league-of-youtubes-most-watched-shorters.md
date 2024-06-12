@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Premier League of YouTube's Most Watched Shorters\""
-date: 2024-05-30 15:53:15
-updated: 2024-05-31 10:46:41
+date: 2024-05-31T13:48:09.206Z
+updated: 2024-06-01T13:48:09.206Z
 tags:
   - ai video
   - ai youtube
@@ -1112,3 +1112,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Master Your Channel Identity with Smart Naming"
-date: 2024-05-27 21:32:11
-updated: 2024-05-28 12:32:19
+date: 2024-05-31T13:45:43.340Z
+updated: 2024-06-01T13:45:43.340Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ The new YouTube monetization policy 2023 has created more opportunities for crea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

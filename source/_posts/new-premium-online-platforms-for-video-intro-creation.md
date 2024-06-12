@@ -1,7 +1,7 @@
 ---
 title: "[New] Premium Online Platforms for Video Intro Creation"
-date: 2024-05-28 18:30:40
-updated: 2024-05-29 12:19:54
+date: 2024-05-31T13:49:41.713Z
+updated: 2024-06-01T13:49:41.713Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

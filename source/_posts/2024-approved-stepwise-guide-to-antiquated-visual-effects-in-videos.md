@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stepwise Guide to Antiquated Visual Effects in Videos\""
-date: 2024-05-28 13:34:48
-updated: 2024-05-30 12:52:20
+date: 2024-05-31T13:51:23.888Z
+updated: 2024-06-01T13:51:23.888Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Manual for Creating Condensed YouTube Videos\""
-date: 2024-05-29 15:21:39
-updated: 2024-05-31 11:58:45
+date: 2024-05-31T13:48:48.549Z
+updated: 2024-06-01T13:48:48.549Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

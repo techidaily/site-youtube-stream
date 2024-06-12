@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of YouTube Editing  A Compreenasive Guidebook\""
-date: 2024-05-29 19:53:50
-updated: 2024-05-30 11:59:45
+date: 2024-05-31T13:51:07.578Z
+updated: 2024-06-01T13:51:07.578Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

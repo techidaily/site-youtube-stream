@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Taking Control  Your Comprehensive YT Studio Manual\""
-date: 2024-05-28 10:24:11
-updated: 2024-05-30 11:57:36
+date: 2024-05-31T13:41:08.437Z
+updated: 2024-06-01T13:41:08.437Z
 tags:
   - ai video
   - ai youtube
@@ -928,3 +928,4 @@ The future holds more great ways and opportunities to make things easy for us wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

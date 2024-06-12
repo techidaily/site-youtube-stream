@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Prime Gear Picks for Beginning Creators"
-date: 2024-05-27 23:48:58
-updated: 2024-05-29 12:55:23
+date: 2024-05-31T13:49:21.166Z
+updated: 2024-06-01T13:49:21.166Z
 tags:
   - ai video
   - ai youtube
@@ -795,3 +795,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

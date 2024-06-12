@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Creating Popular YouTube Openings\""
-date: 2024-05-27 14:53:50
-updated: 2024-05-30 11:45:51
+date: 2024-05-31T13:42:11.395Z
+updated: 2024-06-01T13:42:11.395Z
 tags:
   - ai video
   - ai youtube
@@ -784,3 +784,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

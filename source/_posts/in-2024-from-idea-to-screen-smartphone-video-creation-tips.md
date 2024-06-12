@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Idea to Screen  Smartphone Video Creation Tips\""
-date: 2024-05-25 20:29:41
-updated: 2024-05-27 10:17:13
+date: 2024-05-31T13:47:57.082Z
+updated: 2024-06-01T13:47:57.082Z
 tags:
   - ai video
   - ai youtube
@@ -479,3 +479,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

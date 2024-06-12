@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Momentum in Infographics - 2023'S Pioneers\""
-date: 2024-05-27 21:54:32
-updated: 2024-05-30 12:33:28
+date: 2024-05-31T13:45:26.056Z
+updated: 2024-06-01T13:45:26.056Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

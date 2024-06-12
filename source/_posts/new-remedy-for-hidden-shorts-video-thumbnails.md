@@ -1,7 +1,7 @@
 ---
 title: "[New] Remedy for Hidden Shorts Video Thumbnails"
-date: 2024-05-27 13:18:49
-updated: 2024-05-29 10:22:41
+date: 2024-05-31T13:44:08.273Z
+updated: 2024-06-01T13:44:08.273Z
 tags:
   - ai video
   - ai youtube
@@ -771,3 +771,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

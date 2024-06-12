@@ -1,7 +1,7 @@
 ---
 title: "[New] Sprucing Up Video Thumbnails with Captivating BGs"
-date: 2024-05-29 14:25:50
-updated: 2024-05-30 10:16:55
+date: 2024-05-31T13:43:25.966Z
+updated: 2024-06-01T13:43:25.966Z
 tags:
   - ai video
   - ai youtube
@@ -961,3 +961,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

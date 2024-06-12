@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Social Media  How to Seamlessly Switch Between YouTube and TikTok\""
-date: 2024-05-28 11:30:12
-updated: 2024-05-30 11:39:14
+date: 2024-05-31T13:45:55.250Z
+updated: 2024-06-01T13:45:55.250Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

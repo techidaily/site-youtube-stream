@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal Thumbnails for Maximum Clicks"
-date: 2024-05-24 10:44:20
-updated: 2024-05-27 10:40:39
+date: 2024-05-31T13:43:37.010Z
+updated: 2024-06-01T13:43:37.010Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

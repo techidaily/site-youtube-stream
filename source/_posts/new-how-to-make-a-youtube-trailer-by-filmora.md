@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a YouTube Trailer by Filmora"
-date: 2024-05-24 23:39:52
-updated: 2024-05-27 12:43:11
+date: 2024-05-31T13:48:00.649Z
+updated: 2024-06-01T13:48:00.649Z
 tags:
   - ai video
   - ai youtube
@@ -652,3 +652,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

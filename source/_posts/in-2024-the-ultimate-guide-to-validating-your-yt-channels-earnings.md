@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Validating Your YT Channel's Earnings"
-date: 2024-05-30 19:43:38
-updated: 2024-05-31 11:17:13
+date: 2024-05-31T13:42:21.217Z
+updated: 2024-06-01T13:42:21.217Z
 tags:
   - ai video
   - ai youtube
@@ -430,3 +430,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

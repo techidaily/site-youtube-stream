@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting YT Thumbnails with Aspect Ratios"
-date: 2024-05-26 14:15:47
-updated: 2024-05-29 10:25:10
+date: 2024-05-31T13:46:34.598Z
+updated: 2024-06-01T13:46:34.598Z
 tags:
   - ai video
   - ai youtube
@@ -769,3 +769,4 @@ So, in summary, if you want to become a vlogger, you will need to figure out how
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

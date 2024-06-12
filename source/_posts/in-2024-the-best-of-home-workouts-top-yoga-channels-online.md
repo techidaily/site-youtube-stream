@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Best of Home Workouts  Top Yoga Channels Online\""
-date: 2024-05-28 21:47:27
-updated: 2024-05-31 10:34:37
+date: 2024-05-31T13:50:44.901Z
+updated: 2024-06-01T13:50:44.901Z
 tags:
   - ai video
   - ai youtube
@@ -744,3 +744,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

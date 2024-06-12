@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Cutting Room Floor  Experts Share Tips on Video Editing\""
-date: 2024-05-28 16:50:24
-updated: 2024-05-31 11:50:14
+date: 2024-05-31T13:50:14.797Z
+updated: 2024-06-01T13:50:14.797Z
 tags:
   - ai video
   - ai youtube
@@ -747,3 +747,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

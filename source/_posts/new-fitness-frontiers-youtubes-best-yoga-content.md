@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fitness Frontiers - YouTube's Best Yoga Content\""
-date: 2024-05-26 11:40:13
-updated: 2024-05-27 10:57:53
+date: 2024-05-31T13:42:19.106Z
+updated: 2024-06-01T13:42:19.106Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

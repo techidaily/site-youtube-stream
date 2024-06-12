@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Classics  Day’s Highest YouTube Rankings for 2024\""
-date: 2024-05-27 18:18:16
-updated: 2024-05-28 12:41:12
+date: 2024-05-31T13:45:33.620Z
+updated: 2024-06-01T13:45:33.620Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

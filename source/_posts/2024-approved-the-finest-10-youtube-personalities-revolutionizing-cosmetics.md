@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Finest 10 YouTube Personalities Revolutionizing Cosmetics\""
-date: 2024-05-30 19:31:40
-updated: 2024-05-31 10:21:22
+date: 2024-05-31T13:44:20.700Z
+updated: 2024-06-01T13:44:20.700Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

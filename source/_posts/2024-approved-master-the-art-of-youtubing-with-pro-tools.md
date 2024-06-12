@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master the Art of YouTubing with Pro Tools\""
-date: 2024-05-26 10:27:14
-updated: 2024-05-28 11:29:54
+date: 2024-05-31T13:50:36.517Z
+updated: 2024-06-01T13:50:36.517Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

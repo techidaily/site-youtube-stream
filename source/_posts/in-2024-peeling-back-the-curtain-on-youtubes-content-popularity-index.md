@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Peeling Back the Curtain on YouTube's Content Popularity Index"
-date: 2024-05-26 19:35:21
-updated: 2024-05-29 11:24:32
+date: 2024-05-31T13:48:53.241Z
+updated: 2024-06-01T13:48:53.241Z
 tags:
   - ai video
   - ai youtube
@@ -724,3 +724,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

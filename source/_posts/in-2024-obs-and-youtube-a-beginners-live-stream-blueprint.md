@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS and Youtube  A Beginner's Live Stream Blueprint\""
-date: 2024-05-28 15:10:30
-updated: 2024-05-29 10:55:40
+date: 2024-05-31T13:42:29.854Z
+updated: 2024-06-01T13:42:29.854Z
 tags:
   - ai video
   - ai youtube
@@ -1950,3 +1950,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

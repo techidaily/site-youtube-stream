@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Maximizing Engagement  Ideal YouTube Thumbnail Dimensions\""
-date: 2024-05-27 20:50:52
-updated: 2024-05-28 11:12:14
+date: 2024-05-31T13:43:16.701Z
+updated: 2024-06-01T13:43:16.701Z
 tags:
   - ai video
   - ai youtube
@@ -1670,3 +1670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

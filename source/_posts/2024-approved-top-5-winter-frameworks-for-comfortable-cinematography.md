@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Winter Frameworks for Comfortable Cinematography\""
-date: 2024-05-29 23:25:23
-updated: 2024-05-31 12:26:52
+date: 2024-05-31T13:43:53.134Z
+updated: 2024-06-01T13:43:53.134Z
 tags:
   - ai video
   - ai youtube
@@ -642,3 +642,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Incorporating Cards and Annotations in YouTube Content"
-date: 2024-05-26 23:26:16
-updated: 2024-05-27 12:28:20
+date: 2024-05-31T13:50:26.197Z
+updated: 2024-06-01T13:50:26.197Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

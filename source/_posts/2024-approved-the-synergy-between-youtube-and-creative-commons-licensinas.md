@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Synergy Between YouTube and Creative Commons Licensinas\""
-date: 2024-05-28 21:45:49
-updated: 2024-05-31 10:15:15
+date: 2024-05-31T13:43:20.728Z
+updated: 2024-06-01T13:43:20.728Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

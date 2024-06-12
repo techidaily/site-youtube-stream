@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Invisible Areas Within YouTube Videos"
-date: 2024-05-24 22:12:25
-updated: 2024-05-27 11:18:41
+date: 2024-05-31T13:44:03.608Z
+updated: 2024-06-01T13:44:03.608Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

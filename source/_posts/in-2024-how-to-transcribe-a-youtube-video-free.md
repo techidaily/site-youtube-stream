@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Transcribe a YouTube Video [FREE]"
-date: 2024-05-30 23:57:32
-updated: 2024-06-01 12:38:37
+date: 2024-05-31T13:50:24.793Z
+updated: 2024-06-01T13:50:24.793Z
 tags:
   - ai video
   - ai youtube
@@ -988,3 +988,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

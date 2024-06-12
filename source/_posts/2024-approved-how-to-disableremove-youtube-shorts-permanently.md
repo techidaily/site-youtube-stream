@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Disable/Remove YouTube Shorts Permanently?\""
-date: 2024-05-26 15:36:25
-updated: 2024-05-27 12:13:29
+date: 2024-05-31T13:49:20.584Z
+updated: 2024-06-01T13:49:20.584Z
 tags:
   - ai video
   - ai youtube
@@ -1274,3 +1274,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

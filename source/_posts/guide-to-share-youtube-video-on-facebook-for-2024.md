@@ -1,7 +1,7 @@
 ---
 title: "Guide to Share YouTube Video on Facebook for 2024"
-date: 2024-05-27 18:21:34
-updated: 2024-05-29 10:33:10
+date: 2024-05-31T13:46:18.578Z
+updated: 2024-06-01T13:46:18.578Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ You can also explore the user-friendly Wondershare Filmora for top-quality video
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

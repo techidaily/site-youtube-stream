@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Create Animated Bouncing Text [2 Ways]"
-date: 2024-05-24 22:17:56
-updated: 2024-05-27 11:49:42
+date: 2024-05-31T13:49:34.839Z
+updated: 2024-06-01T13:49:34.839Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

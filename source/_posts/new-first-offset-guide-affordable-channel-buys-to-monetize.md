@@ -1,7 +1,7 @@
 ---
 title: "\"[New] First Offset Guide  Affordable Channel Buys to Monetize\""
-date: 2024-05-25 19:43:27
-updated: 2024-05-27 12:44:45
+date: 2024-05-31T13:49:38.168Z
+updated: 2024-06-01T13:49:38.168Z
 tags:
   - ai video
   - ai youtube
@@ -896,3 +896,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

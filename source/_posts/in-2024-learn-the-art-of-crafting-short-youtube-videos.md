@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Learn the Art of Crafting Short YouTube Videos"
-date: 2024-05-27 12:44:31
-updated: 2024-05-28 10:29:17
+date: 2024-05-31T13:49:04.875Z
+updated: 2024-06-01T13:49:04.875Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

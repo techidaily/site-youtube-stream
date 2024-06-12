@@ -1,7 +1,7 @@
 ---
 title: "[New] Google Account Integration for Private YouTube Video Sharing"
-date: 2024-05-24 19:50:38
-updated: 2024-05-27 11:27:21
+date: 2024-05-31T13:43:20.325Z
+updated: 2024-06-01T13:43:20.325Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

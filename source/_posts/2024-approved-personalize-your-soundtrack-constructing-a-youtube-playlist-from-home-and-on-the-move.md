@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Personalize Your Soundtrack  Constructing a YouTube Playlist From Home & On-the-Move\""
-date: 2024-05-27 14:55:23
-updated: 2024-05-29 10:35:21
+date: 2024-05-31T13:41:15.755Z
+updated: 2024-06-01T13:41:15.755Z
 tags:
   - ai video
   - ai youtube
@@ -728,3 +728,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

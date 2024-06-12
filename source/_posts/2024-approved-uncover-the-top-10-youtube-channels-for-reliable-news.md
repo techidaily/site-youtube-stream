@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncover the Top 10 YouTube Channels for Reliable News\""
-date: 2024-05-29 12:27:43
-updated: 2024-06-01 12:24:45
+date: 2024-05-31T13:44:25.327Z
+updated: 2024-06-01T13:44:25.327Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

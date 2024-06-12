@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Size Matters  Crafting Engaging Video Titles\""
-date: 2024-05-29 11:39:48
-updated: 2024-05-30 10:47:20
+date: 2024-05-31T13:48:46.754Z
+updated: 2024-06-01T13:48:46.754Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

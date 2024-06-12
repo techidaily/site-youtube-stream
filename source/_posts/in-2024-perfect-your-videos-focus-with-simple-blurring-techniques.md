@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfect Your Video's Focus with Simple Blurring Techniques"
-date: 2024-05-28 16:32:19
-updated: 2024-05-29 12:10:17
+date: 2024-05-31T13:50:35.837Z
+updated: 2024-06-01T13:50:35.837Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

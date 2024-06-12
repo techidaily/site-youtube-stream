@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Your Screen Time  Step-by-Step Towards a Well-Curated Playlist\""
-date: 2024-05-27 15:59:32
-updated: 2024-05-30 11:34:53
+date: 2024-05-31T13:41:29.712Z
+updated: 2024-06-01T13:41:29.712Z
 tags:
   - ai video
   - ai youtube
@@ -536,3 +536,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

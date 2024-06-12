@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Reference for Content Creators  YouTube Copyright\""
-date: 2024-05-28 11:23:37
-updated: 2024-05-31 12:20:14
+date: 2024-05-31T13:50:46.689Z
+updated: 2024-06-01T13:50:46.689Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

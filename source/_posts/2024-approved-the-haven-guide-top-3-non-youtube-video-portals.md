@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Haven Guide  Top 3 Non-Youtube Video Portals\""
-date: 2024-05-29 16:52:46
-updated: 2024-05-31 12:20:59
+date: 2024-05-31T13:44:48.398Z
+updated: 2024-06-01T13:44:48.398Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

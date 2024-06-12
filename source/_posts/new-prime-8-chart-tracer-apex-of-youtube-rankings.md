@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime 8 Chart Tracer  Apex of YouTube Rankings\""
-date: 2024-05-28 14:49:25
-updated: 2024-05-29 10:40:22
+date: 2024-05-31T13:48:50.323Z
+updated: 2024-06-01T13:48:50.323Z
 tags:
   - ai video
   - ai youtube
@@ -984,3 +984,4 @@ Your content must be unique so your viewers will want to stick around and engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

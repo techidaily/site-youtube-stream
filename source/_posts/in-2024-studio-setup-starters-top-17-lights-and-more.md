@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Studio Setup Starters - Top 17 Lights & More\""
-date: 2024-05-27 10:17:49
-updated: 2024-05-30 12:34:57
+date: 2024-05-31T13:45:19.069Z
+updated: 2024-06-01T13:45:19.069Z
 tags:
   - ai video
   - ai youtube
@@ -1494,3 +1494,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

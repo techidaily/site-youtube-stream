@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now\""
-date: 2024-05-26 10:35:47
-updated: 2024-05-27 12:40:12
+date: 2024-05-31T13:46:05.381Z
+updated: 2024-06-01T13:46:05.381Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

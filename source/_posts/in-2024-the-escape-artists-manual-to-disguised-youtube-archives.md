@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Escape Artist's Manual to Disguised YouTube Archives"
-date: 2024-05-29 21:34:39
-updated: 2024-05-31 11:54:35
+date: 2024-05-31T13:42:16.585Z
+updated: 2024-06-01T13:42:16.585Z
 tags:
   - ai video
   - ai youtube
@@ -642,3 +642,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

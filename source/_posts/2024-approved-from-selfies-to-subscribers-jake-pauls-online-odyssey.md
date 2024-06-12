@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Selfies to Subscribers  Jake Paul’s Online Odyssey\""
-date: 2024-05-24 20:52:35
-updated: 2024-05-27 12:30:21
+date: 2024-05-31T13:47:27.574Z
+updated: 2024-06-01T13:47:27.574Z
 tags:
   - ai video
   - ai youtube
@@ -998,3 +998,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

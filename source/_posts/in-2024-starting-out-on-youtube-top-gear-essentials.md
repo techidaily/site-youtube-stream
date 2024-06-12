@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Starting Out on YouTube - Top Gear Essentials\""
-date: 2024-05-27 16:33:55
-updated: 2024-05-30 12:10:12
+date: 2024-05-31T13:42:34.260Z
+updated: 2024-06-01T13:42:34.260Z
 tags:
   - ai video
   - ai youtube
@@ -1202,3 +1202,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

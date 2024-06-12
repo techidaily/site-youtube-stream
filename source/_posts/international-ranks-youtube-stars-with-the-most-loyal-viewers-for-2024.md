@@ -1,7 +1,7 @@
 ---
 title: "\"International Ranks  YouTube Stars With the Most Loyal Viewers for 2024\""
-date: 2024-05-26 13:50:11
-updated: 2024-05-28 12:30:19
+date: 2024-05-31T13:49:15.964Z
+updated: 2024-06-01T13:49:15.964Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Increase Click-Through with Best YouTube Thumbnail Fonts\""
-date: 2024-05-24 10:53:35
-updated: 2024-05-27 10:40:44
+date: 2024-05-31T13:44:45.850Z
+updated: 2024-06-01T13:44:45.850Z
 tags:
   - ai video
   - ai youtube
@@ -695,3 +695,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

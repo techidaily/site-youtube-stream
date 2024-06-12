@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Embed YouTube in Google Slides Presentations\""
-date: 2024-05-25 11:26:43
-updated: 2024-05-27 12:48:53
+date: 2024-05-31T13:46:59.507Z
+updated: 2024-06-01T13:46:59.507Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

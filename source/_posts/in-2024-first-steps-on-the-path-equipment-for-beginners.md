@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, First Steps on the Path  Equipment for Beginners\""
-date: 2024-05-24 13:36:11
-updated: 2024-05-27 10:45:26
+date: 2024-05-31T13:49:36.694Z
+updated: 2024-06-01T13:49:36.694Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

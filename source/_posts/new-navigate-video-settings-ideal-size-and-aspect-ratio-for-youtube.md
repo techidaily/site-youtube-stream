@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigate Video Settings  Ideal Size & Aspect Ratio for YouTube\""
-date: 2024-05-25 10:47:59
-updated: 2024-05-28 12:58:13
+date: 2024-05-31T13:42:03.620Z
+updated: 2024-06-01T13:42:03.620Z
 tags:
   - ai video
   - ai youtube
@@ -1594,3 +1594,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

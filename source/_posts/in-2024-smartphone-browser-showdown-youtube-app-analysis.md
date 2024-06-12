@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Browser Showdown  YouTube App Analysis\""
-date: 2024-05-27 19:15:30
-updated: 2024-05-30 12:30:16
+date: 2024-05-31T13:42:03.178Z
+updated: 2024-06-01T13:42:03.178Z
 tags:
   - ai video
   - ai youtube
@@ -630,3 +630,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

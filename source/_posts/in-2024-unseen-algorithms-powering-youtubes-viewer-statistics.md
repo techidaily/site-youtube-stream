@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unseen Algorithms Powering YouTube's Viewer Statistics"
-date: 2024-05-30 13:43:18
-updated: 2024-06-01 12:13:45
+date: 2024-05-31T13:51:27.872Z
+updated: 2024-06-01T13:51:27.872Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

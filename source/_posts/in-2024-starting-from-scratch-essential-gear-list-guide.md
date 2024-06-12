@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Starting From Scratch  Essential Gear List Guide\""
-date: 2024-05-29 20:16:37
-updated: 2024-05-30 10:55:53
+date: 2024-05-31T13:47:46.968Z
+updated: 2024-06-01T13:47:46.968Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

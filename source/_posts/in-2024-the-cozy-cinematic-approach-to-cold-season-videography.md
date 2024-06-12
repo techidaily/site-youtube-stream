@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Cozy Cinematic Approach to Cold Season Videography"
-date: 2024-05-30 21:39:41
-updated: 2024-05-31 11:50:51
+date: 2024-05-31T13:41:24.207Z
+updated: 2024-06-01T13:41:24.207Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

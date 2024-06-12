@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Highest Paid YouTuber in the World\""
-date: 2024-05-26 11:56:51
-updated: 2024-05-27 11:56:22
+date: 2024-05-31T13:51:24.769Z
+updated: 2024-06-01T13:51:24.769Z
 tags:
   - ai video
   - ai youtube
@@ -1175,3 +1175,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

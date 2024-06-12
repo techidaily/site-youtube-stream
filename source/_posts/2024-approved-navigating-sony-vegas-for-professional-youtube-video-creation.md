@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Sony Vegas for Professional YouTube Video Creation\""
-date: 2024-05-26 18:55:37
-updated: 2024-05-29 12:45:10
+date: 2024-05-31T13:42:24.825Z
+updated: 2024-06-01T13:42:24.825Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

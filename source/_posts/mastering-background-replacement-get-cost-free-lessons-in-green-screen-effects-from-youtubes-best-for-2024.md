@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Background Replacement  Get Cost-Free Lessons in Green Screen Effects From YouTube's Best for 2024\""
-date: 2024-05-25 22:52:56
-updated: 2024-05-28 11:21:43
+date: 2024-05-31T13:45:43.621Z
+updated: 2024-06-01T13:45:43.621Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

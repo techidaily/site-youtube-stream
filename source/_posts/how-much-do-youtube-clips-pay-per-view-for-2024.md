@@ -1,7 +1,7 @@
 ---
 title: "How Much Do YouTube Clips Pay Per View for 2024"
-date: 2024-05-24 23:53:14
-updated: 2024-05-27 10:14:57
+date: 2024-05-31T13:48:26.369Z
+updated: 2024-06-01T13:48:26.369Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

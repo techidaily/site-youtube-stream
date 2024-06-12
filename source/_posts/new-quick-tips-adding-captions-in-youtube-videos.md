@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Tips  Adding Captions in YouTube Videos\""
-date: 2024-05-26 20:50:49
-updated: 2024-05-29 11:22:41
+date: 2024-05-31T13:42:16.890Z
+updated: 2024-06-01T13:42:16.890Z
 tags:
   - ai video
   - ai youtube
@@ -726,3 +726,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

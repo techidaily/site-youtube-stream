@@ -1,7 +1,7 @@
 ---
 title: "\"[New] On-Demand Video-Text Transformers  Prime Selections\""
-date: 2024-05-27 14:53:17
-updated: 2024-05-29 12:32:16
+date: 2024-05-31T13:49:47.144Z
+updated: 2024-06-01T13:49:47.144Z
 tags:
   - ai video
   - ai youtube
@@ -1262,3 +1262,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

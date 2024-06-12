@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminating Your Content  YouTube Video Lighting Secrets\""
-date: 2024-05-24 14:32:46
-updated: 2024-05-27 10:25:20
+date: 2024-05-31T13:44:21.483Z
+updated: 2024-06-01T13:44:21.483Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Video Content Battlefront  Short Form Supremacy – YouTubes Vs. TikToks\""
-date: 2024-05-30 10:20:28
-updated: 2024-06-01 12:32:41
+date: 2024-05-31T13:43:16.481Z
+updated: 2024-06-01T13:43:16.481Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

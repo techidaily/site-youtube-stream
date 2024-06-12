@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Picks  The Very Best 10 YouTube Channels for News\""
-date: 2024-05-28 21:11:36
-updated: 2024-05-31 11:21:29
+date: 2024-05-31T13:44:28.788Z
+updated: 2024-06-01T13:44:28.788Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

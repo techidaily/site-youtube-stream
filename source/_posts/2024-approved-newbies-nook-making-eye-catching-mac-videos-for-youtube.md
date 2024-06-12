@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Newbies' Nook  Making Eye-Catching Mac Videos for YouTube\""
-date: 2024-05-28 13:11:48
-updated: 2024-05-29 10:30:13
+date: 2024-05-31T13:41:50.490Z
+updated: 2024-06-01T13:41:50.490Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

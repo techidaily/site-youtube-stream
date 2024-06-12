@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Potential with These Essential Editing Tips for Beginners"
-date: 2024-05-31 13:26:39
-updated: 2024-06-01 12:56:26
+date: 2024-05-31T13:42:47.825Z
+updated: 2024-06-01T13:42:47.825Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

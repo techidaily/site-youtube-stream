@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Steady Shots  Expert Tips on Tripods in Vlog Production\""
-date: 2024-05-28 21:46:26
-updated: 2024-05-30 10:53:32
+date: 2024-05-31T13:46:46.237Z
+updated: 2024-06-01T13:46:46.237Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

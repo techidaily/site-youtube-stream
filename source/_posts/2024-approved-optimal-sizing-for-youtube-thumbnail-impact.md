@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimal Sizing for YouTube Thumbnail Impact\""
-date: 2024-05-27 19:36:24
-updated: 2024-05-29 11:50:30
+date: 2024-05-31T13:50:12.112Z
+updated: 2024-06-01T13:50:12.112Z
 tags:
   - ai video
   - ai youtube
@@ -844,3 +844,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

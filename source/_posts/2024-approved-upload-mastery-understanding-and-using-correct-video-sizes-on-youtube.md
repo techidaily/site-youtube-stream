@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Upload Mastery  Understanding and Using Correct Video Sizes on YouTube\""
-date: 2024-05-29 10:22:38
-updated: 2024-06-01 10:15:50
+date: 2024-05-31T13:41:16.246Z
+updated: 2024-06-01T13:41:16.246Z
 tags:
   - ai video
   - ai youtube
@@ -1590,3 +1590,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

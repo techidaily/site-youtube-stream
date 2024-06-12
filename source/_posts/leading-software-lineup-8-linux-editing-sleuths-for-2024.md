@@ -1,7 +1,7 @@
 ---
 title: "\"Leading Software Lineup  8 Linux Editing Sleuths for 2024\""
-date: 2024-05-25 19:37:37
-updated: 2024-05-28 12:47:28
+date: 2024-05-31T13:44:50.110Z
+updated: 2024-06-01T13:44:50.110Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Ideas to Movies Using YouTube's Tools"
-date: 2024-05-29 15:49:17
-updated: 2024-06-01 11:29:59
+date: 2024-05-31T13:42:12.186Z
+updated: 2024-06-01T13:42:12.186Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

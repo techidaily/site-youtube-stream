@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Remedy for Hidden Shorts Video Thumbnails"
-date: 2024-05-28 10:56:36
-updated: 2024-05-29 11:28:18
+date: 2024-05-31T13:42:16.441Z
+updated: 2024-06-01T13:42:16.441Z
 tags:
   - ai video
   - ai youtube
@@ -623,3 +623,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

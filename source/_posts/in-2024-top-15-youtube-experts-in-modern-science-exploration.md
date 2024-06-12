@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 15 YouTube Experts in Modern Science Exploration"
-date: 2024-05-30 13:44:23
-updated: 2024-05-31 10:35:22
+date: 2024-05-31T13:43:05.611Z
+updated: 2024-06-01T13:43:05.611Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Channel Mastery with Studio Power-Ups\""
-date: 2024-05-31 22:52:34
-updated: 2024-06-01 12:54:23
+date: 2024-05-31T13:49:52.158Z
+updated: 2024-06-01T13:49:52.158Z
 tags:
   - ai video
   - ai youtube
@@ -615,3 +615,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Light Up Your Screen  The 9 Most Innovative CamGear for Video Creators for 2024\""
-date: 2024-05-26 13:35:29
-updated: 2024-05-28 12:37:37
+date: 2024-05-31T13:44:53.518Z
+updated: 2024-06-01T13:44:53.518Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

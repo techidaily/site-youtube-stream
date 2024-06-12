@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Cozy Winter Scenes for YouTube Backdrops\""
-date: 2024-05-30 19:40:30
-updated: 2024-05-31 10:13:39
+date: 2024-05-31T13:51:00.534Z
+updated: 2024-06-01T13:51:00.534Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

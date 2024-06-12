@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Videographer's Guide to Efficient Color-Keying\""
-date: 2024-05-27 13:29:44
-updated: 2024-05-29 11:47:41
+date: 2024-05-31T13:49:57.621Z
+updated: 2024-06-01T13:49:57.621Z
 tags:
   - ai video
   - ai youtube
@@ -526,3 +526,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

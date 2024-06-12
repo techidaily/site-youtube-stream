@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expertly Lit  The 17 Must-Haves for Youtubers\""
-date: 2024-05-25 19:23:11
-updated: 2024-05-26 10:20:47
+date: 2024-05-31T13:41:57.020Z
+updated: 2024-06-01T13:41:57.020Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

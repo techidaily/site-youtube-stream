@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Peak Playtime Power  YT's Top 10 by View Count\""
-date: 2024-05-26 17:19:15
-updated: 2024-05-29 10:10:51
+date: 2024-05-31T13:41:41.264Z
+updated: 2024-06-01T13:41:41.264Z
 tags:
   - ai video
   - ai youtube
@@ -914,3 +914,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

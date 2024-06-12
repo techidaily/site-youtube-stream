@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Reference to YouTube Video Aspect Ratios"
-date: 2024-05-29 14:58:59
-updated: 2024-05-31 10:30:19
+date: 2024-05-31T13:44:07.992Z
+updated: 2024-06-01T13:44:07.992Z
 tags:
   - ai video
   - ai youtube
@@ -896,3 +896,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Master Video Creation  Understanding the Role of Camera Lenses in Vlogging for 2024\""
-date: 2024-05-26 15:15:51
-updated: 2024-05-28 11:21:11
+date: 2024-05-31T13:41:12.177Z
+updated: 2024-06-01T13:41:12.177Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, This Year's Unexpected Cinematic Gems"
-date: 2024-05-29 11:39:52
-updated: 2024-05-31 12:14:32
+date: 2024-05-31T13:49:41.522Z
+updated: 2024-06-01T13:49:41.522Z
 tags:
   - ai video
   - ai youtube
@@ -1362,3 +1362,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

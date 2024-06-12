@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ascent of Jake Paul in Online Video Fame"
-date: 2024-05-29 21:54:59
-updated: 2024-05-31 11:30:10
+date: 2024-05-31T13:44:15.630Z
+updated: 2024-06-01T13:44:15.630Z
 tags:
   - ai video
   - ai youtube
@@ -504,3 +504,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

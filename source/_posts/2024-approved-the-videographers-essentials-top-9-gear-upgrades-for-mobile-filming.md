@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming\""
-date: 2024-05-28 21:48:22
-updated: 2024-05-31 11:53:37
+date: 2024-05-31T13:40:53.841Z
+updated: 2024-06-01T13:40:53.841Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding YouTube CC Licensing for Video Creators"
-date: 2024-05-31 11:16:29
-updated: 2024-06-01 11:42:54
+date: 2024-05-31T13:47:08.236Z
+updated: 2024-06-01T13:47:08.236Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

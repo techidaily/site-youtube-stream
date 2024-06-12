@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailoring Your YouTube Audience - The Detailed Guide\""
-date: 2024-05-28 13:41:58
-updated: 2024-05-30 11:51:29
+date: 2024-05-31T13:44:57.929Z
+updated: 2024-06-01T13:44:57.929Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ You can also explore the user-friendly Wondershare Filmora for top-quality video
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

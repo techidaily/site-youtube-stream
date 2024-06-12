@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Riches  A Look Into Mr. Beast's Wallet\""
-date: 2024-05-29 15:31:11
-updated: 2024-05-31 12:25:44
+date: 2024-05-31T13:49:08.680Z
+updated: 2024-06-01T13:49:08.680Z
 tags:
   - ai video
   - ai youtube
@@ -992,3 +992,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

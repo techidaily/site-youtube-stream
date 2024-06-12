@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guide to Choosing Ideal Youtube Thumbnail Shapes"
-date: 2024-05-24 14:56:36
-updated: 2024-05-27 10:47:37
+date: 2024-05-31T13:45:47.779Z
+updated: 2024-06-01T13:45:47.779Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

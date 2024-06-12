@@ -1,7 +1,7 @@
 ---
 title: "How to Embed a YouTube Video in PowerPoint for 2024"
-date: 2024-05-24 10:53:30
-updated: 2024-05-27 11:44:59
+date: 2024-05-31T13:47:33.515Z
+updated: 2024-06-01T13:47:33.515Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

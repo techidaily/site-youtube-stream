@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS 101  Youtube Live Stream Setup Tutorial\""
-date: 2024-05-28 19:24:13
-updated: 2024-05-29 12:44:51
+date: 2024-05-31T13:49:35.938Z
+updated: 2024-06-01T13:49:35.938Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

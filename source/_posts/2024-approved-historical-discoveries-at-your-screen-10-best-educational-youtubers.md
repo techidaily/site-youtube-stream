@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Historical Discoveries at Your Screen - 10 Best Educational YouTubers\""
-date: 2024-05-25 12:47:11
-updated: 2024-05-27 12:22:21
+date: 2024-05-31T13:47:22.072Z
+updated: 2024-06-01T13:47:22.072Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

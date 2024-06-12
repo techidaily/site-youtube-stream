@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Shorts  Key Facts\""
-date: 2024-05-27 10:58:13
-updated: 2024-05-28 12:40:59
+date: 2024-05-31T13:49:56.422Z
+updated: 2024-06-01T13:49:56.422Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

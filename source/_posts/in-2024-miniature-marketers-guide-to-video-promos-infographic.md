@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Miniature Marketer's Guide to Video Promos (Infographic)"
-date: 2024-05-26 13:46:59
-updated: 2024-05-28 12:27:10
+date: 2024-05-31T13:41:20.697Z
+updated: 2024-06-01T13:41:20.697Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

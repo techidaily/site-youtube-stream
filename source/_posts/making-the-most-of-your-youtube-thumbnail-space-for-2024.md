@@ -1,7 +1,7 @@
 ---
 title: "Making the Most of Your YouTube Thumbnail Space for 2024"
-date: 2024-05-26 11:35:51
-updated: 2024-05-28 11:34:50
+date: 2024-05-31T13:45:33.685Z
+updated: 2024-06-01T13:45:33.685Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

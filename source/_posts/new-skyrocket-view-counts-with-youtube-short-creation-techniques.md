@@ -1,7 +1,7 @@
 ---
 title: "[New] Skyrocket View Counts with YouTube Short Creation Techniques"
-date: 2024-05-27 22:51:45
-updated: 2024-05-30 12:29:16
+date: 2024-05-31T13:42:02.473Z
+updated: 2024-06-01T13:42:02.473Z
 tags:
   - ai video
   - ai youtube
@@ -1334,3 +1334,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

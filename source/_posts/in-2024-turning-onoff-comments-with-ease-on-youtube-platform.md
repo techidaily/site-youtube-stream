@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turning On/Off Comments with Ease on YouTube Platform"
-date: 2024-05-29 18:46:35
-updated: 2024-06-01 11:21:54
+date: 2024-05-31T13:50:30.351Z
+updated: 2024-06-01T13:50:30.351Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

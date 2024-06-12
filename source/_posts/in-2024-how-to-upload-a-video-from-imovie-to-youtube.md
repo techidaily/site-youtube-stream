@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Upload a Video From iMovie to YouTube?"
-date: 2024-05-31 21:14:22
-updated: 2024-06-01 11:29:49
+date: 2024-05-31T13:46:17.616Z
+updated: 2024-06-01T13:46:17.616Z
 tags:
   - ai video
   - ai youtube
@@ -948,3 +948,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

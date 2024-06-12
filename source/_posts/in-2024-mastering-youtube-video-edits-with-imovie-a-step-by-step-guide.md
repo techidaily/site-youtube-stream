@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering YouTube Video Edits with iMovie  A Step-by-Step Guide\""
-date: 2024-05-27 20:40:24
-updated: 2024-05-28 10:25:51
+date: 2024-05-31T13:49:35.495Z
+updated: 2024-06-01T13:49:35.495Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Optimally Apply a Creative Commons License"
-date: 2024-05-25 10:41:13
-updated: 2024-05-27 11:18:12
+date: 2024-05-31T13:45:34.927Z
+updated: 2024-06-01T13:45:34.927Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

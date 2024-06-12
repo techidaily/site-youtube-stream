@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Adaptation  Video Size to Mac Screen Proportion\""
-date: 2024-05-28 21:18:56
-updated: 2024-05-29 10:21:27
+date: 2024-05-31T13:41:20.807Z
+updated: 2024-06-01T13:41:20.807Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

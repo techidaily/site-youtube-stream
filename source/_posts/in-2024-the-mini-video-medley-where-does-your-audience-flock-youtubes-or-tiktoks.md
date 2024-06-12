@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Mini-Video Medley  Where Does Your Audience Flock? YouTubes or TikToks?\""
-date: 2024-05-30 18:23:40
-updated: 2024-05-31 11:39:13
+date: 2024-05-31T13:41:34.089Z
+updated: 2024-06-01T13:41:34.089Z
 tags:
   - ai video
   - ai youtube
@@ -1134,3 +1134,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

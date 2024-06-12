@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Retain Video Engagement  Sustained Use of YouTube's CC License\""
-date: 2024-05-26 10:59:18
-updated: 2024-05-27 11:46:57
+date: 2024-05-31T13:45:06.874Z
+updated: 2024-06-01T13:45:06.874Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Time Travel Tutorials  Top 10 YouTube Sources for History Buffs\""
-date: 2024-05-28 17:24:13
-updated: 2024-05-31 11:18:29
+date: 2024-05-31T13:46:13.405Z
+updated: 2024-06-01T13:46:13.405Z
 tags:
   - ai video
   - ai youtube
@@ -1000,3 +1000,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

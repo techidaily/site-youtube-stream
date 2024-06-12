@@ -1,7 +1,7 @@
 ---
 title: "[New] Platform Convergence in YouTube and Beyond"
-date: 2024-05-26 12:47:46
-updated: 2024-05-29 12:22:39
+date: 2024-05-31T13:46:48.275Z
+updated: 2024-06-01T13:46:48.275Z
 tags:
   - ai video
   - ai youtube
@@ -1482,3 +1482,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

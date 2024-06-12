@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Next-Gen Viral Gems  YouTube Hits Exceeding 100 Million Views By '24\""
-date: 2024-05-28 21:14:35
-updated: 2024-05-29 10:22:42
+date: 2024-05-31T13:49:53.650Z
+updated: 2024-06-01T13:49:53.650Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

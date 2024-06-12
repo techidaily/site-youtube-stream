@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Engagement  The Power of Tailored Cards & Ends on YT\""
-date: 2024-05-27 12:47:35
-updated: 2024-05-28 10:31:40
+date: 2024-05-31T13:46:56.187Z
+updated: 2024-06-01T13:46:56.187Z
 tags:
   - ai video
   - ai youtube
@@ -604,3 +604,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

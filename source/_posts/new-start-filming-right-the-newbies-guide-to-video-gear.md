@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Start Filming Right  The Newbie's Guide to Video Gear\""
-date: 2024-05-27 19:53:14
-updated: 2024-05-30 11:37:59
+date: 2024-05-31T13:41:07.730Z
+updated: 2024-06-01T13:41:07.730Z
 tags:
   - ai video
   - ai youtube
@@ -1286,3 +1286,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

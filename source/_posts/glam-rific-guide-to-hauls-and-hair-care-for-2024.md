@@ -1,7 +1,7 @@
 ---
 title: "\"Glam-Rific Guide to Hauls and Hair Care for 2024\""
-date: 2024-05-25 21:10:33
-updated: 2024-05-27 10:24:20
+date: 2024-05-31T13:43:48.857Z
+updated: 2024-06-01T13:43:48.857Z
 tags:
   - ai video
   - ai youtube
@@ -1228,3 +1228,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

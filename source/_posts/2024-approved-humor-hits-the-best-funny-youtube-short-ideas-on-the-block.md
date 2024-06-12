@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Humor Hits  The Best Funny YouTube Short Ideas on the Block\""
-date: 2024-05-24 22:44:32
-updated: 2024-05-27 10:59:39
+date: 2024-05-31T13:42:37.007Z
+updated: 2024-06-01T13:42:37.007Z
 tags:
   - ai video
   - ai youtube
@@ -1190,3 +1190,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Find Your Fit  Top 10 YouTube Channels for Yogic Health for 2024\""
-date: 2024-05-23 18:46:37
-updated: 2024-05-26 11:39:42
+date: 2024-05-31T13:43:31.989Z
+updated: 2024-06-01T13:43:31.989Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spruce Up Your Video Thumbnails  With Electric Edges\""
-date: 2024-05-27 11:42:39
-updated: 2024-05-30 12:21:20
+date: 2024-05-31T13:49:13.185Z
+updated: 2024-06-01T13:49:13.185Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

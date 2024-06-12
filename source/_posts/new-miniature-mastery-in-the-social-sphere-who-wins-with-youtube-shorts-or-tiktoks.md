@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Miniature Mastery in the Social Sphere  Who Wins with YouTube Shorts or TikToks?\""
-date: 2024-05-27 21:58:12
-updated: 2024-05-28 11:26:50
+date: 2024-05-31T13:48:34.913Z
+updated: 2024-06-01T13:48:34.913Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimal YT Thumbnails  Aspect Ratios Decoded\""
-date: 2024-05-28 20:44:23
-updated: 2024-05-29 10:32:57
+date: 2024-05-31T13:51:15.962Z
+updated: 2024-06-01T13:51:15.962Z
 tags:
   - ai video
   - ai youtube
@@ -672,3 +672,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

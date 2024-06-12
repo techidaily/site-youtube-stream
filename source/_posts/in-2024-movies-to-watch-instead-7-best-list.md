@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Movies to Watch Instead - #7 Best List\""
-date: 2024-05-25 18:53:36
-updated: 2024-05-28 10:35:13
+date: 2024-05-31T13:40:58.161Z
+updated: 2024-06-01T13:40:58.161Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

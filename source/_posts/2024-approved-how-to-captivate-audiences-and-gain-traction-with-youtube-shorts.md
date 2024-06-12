@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Captivate Audiences and Gain Traction with YouTube Shorts\""
-date: 2024-05-24 16:42:23
-updated: 2024-05-27 10:34:19
+date: 2024-05-31T13:49:11.787Z
+updated: 2024-06-01T13:49:11.787Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

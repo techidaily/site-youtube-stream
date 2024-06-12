@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Explore the World' Writes Itself  The Top 20 YouTube Playlists for Enthusiasts\""
-date: 2024-05-23 16:48:28
-updated: 2024-05-26 11:28:56
+date: 2024-05-31T13:46:12.943Z
+updated: 2024-06-01T13:46:12.943Z
 tags:
   - ai video
   - ai youtube
@@ -1662,3 +1662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

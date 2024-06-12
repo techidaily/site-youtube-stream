@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Creating Dynamic YouTube Splits for 2024"
-date: 2024-05-24 15:42:36
-updated: 2024-05-26 11:43:24
+date: 2024-05-31T13:50:40.110Z
+updated: 2024-06-01T13:50:40.110Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

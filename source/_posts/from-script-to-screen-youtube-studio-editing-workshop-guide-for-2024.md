@@ -1,7 +1,7 @@
 ---
 title: "\"From Script to Screen  YouTube Studio Editing Workshop Guide for 2024\""
-date: 2024-05-25 11:16:31
-updated: 2024-05-27 11:41:48
+date: 2024-05-31T13:41:16.319Z
+updated: 2024-06-01T13:41:16.319Z
 tags:
   - ai video
   - ai youtube
@@ -1228,3 +1228,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

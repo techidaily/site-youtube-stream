@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Cinematography  YouTube Guides by Aspiring Directors\""
-date: 2024-05-27 22:42:11
-updated: 2024-05-28 12:58:19
+date: 2024-05-31T13:44:00.738Z
+updated: 2024-06-01T13:44:00.738Z
 tags:
   - ai video
   - ai youtube
@@ -660,3 +660,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

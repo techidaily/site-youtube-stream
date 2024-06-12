@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Videographer's Guide to Efficient Color-Keying\""
-date: 2024-05-27 17:57:22
-updated: 2024-05-29 10:49:43
+date: 2024-05-31T13:44:15.988Z
+updated: 2024-06-01T13:44:15.988Z
 tags:
   - ai video
   - ai youtube
@@ -528,3 +528,4 @@ The introduction of the YouTube monetization 500 subscribers’ policy update wa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

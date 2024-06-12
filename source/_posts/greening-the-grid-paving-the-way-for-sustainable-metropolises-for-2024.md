@@ -1,7 +1,7 @@
 ---
 title: "\"Greening the Grid  Paving the Way for Sustainable Metropolises for 2024\""
-date: 2024-05-26 13:51:18
-updated: 2024-05-27 11:27:46
+date: 2024-05-31T13:46:37.522Z
+updated: 2024-06-01T13:46:37.522Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

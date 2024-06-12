@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Explore the Best Historian Content  Top 10 YouTube Recommendations\""
-date: 2024-05-23 18:59:36
-updated: 2024-05-26 12:38:49
+date: 2024-05-31T13:49:52.696Z
+updated: 2024-06-01T13:49:52.696Z
 tags:
   - ai video
   - ai youtube
@@ -639,3 +639,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

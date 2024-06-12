@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering View Counts by Upholding YouTube's CC License"
-date: 2024-05-27 20:20:35
-updated: 2024-05-28 10:48:20
+date: 2024-05-31T13:43:01.340Z
+updated: 2024-06-01T13:43:01.340Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium Video Gear Guide  Selecting the Right Lens for YouTube\""
-date: 2024-05-27 16:33:55
-updated: 2024-05-29 11:43:37
+date: 2024-05-31T13:45:53.897Z
+updated: 2024-06-01T13:45:53.897Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

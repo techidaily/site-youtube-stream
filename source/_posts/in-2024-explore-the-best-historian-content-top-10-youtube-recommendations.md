@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Explore the Best Historian Content  Top 10 YouTube Recommendations\""
-date: 2024-05-25 16:18:42
-updated: 2024-05-26 12:39:22
+date: 2024-05-31T13:46:41.000Z
+updated: 2024-06-01T13:46:41.000Z
 tags:
   - ai video
   - ai youtube
@@ -764,3 +764,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

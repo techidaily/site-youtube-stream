@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Fastest to Reach a Billion Views on YouTube"
-date: 2024-05-29 13:18:29
-updated: 2024-05-31 10:41:42
+date: 2024-05-31T13:49:31.310Z
+updated: 2024-06-01T13:49:31.310Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

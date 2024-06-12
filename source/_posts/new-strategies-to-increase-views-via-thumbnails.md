@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies to Increase Views via Thumbnails"
-date: 2024-05-29 17:31:51
-updated: 2024-05-30 12:26:33
+date: 2024-05-31T13:45:01.518Z
+updated: 2024-06-01T13:45:01.518Z
 tags:
   - ai video
   - ai youtube
@@ -680,3 +680,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

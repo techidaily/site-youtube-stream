@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass  Top 10 Makeup Artists Shaping Online Beauty Trends for 2024\""
-date: 2024-05-27 23:15:38
-updated: 2024-05-28 12:20:53
+date: 2024-05-31T13:41:25.379Z
+updated: 2024-06-01T13:41:25.379Z
 tags:
   - ai video
   - ai youtube
@@ -630,3 +630,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

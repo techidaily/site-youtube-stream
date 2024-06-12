@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Peeling Back the Curtain on YouTube's Content Popularity Index\""
-date: 2024-05-28 16:51:13
-updated: 2024-05-29 10:32:29
+date: 2024-05-31T13:40:53.640Z
+updated: 2024-06-01T13:40:53.640Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

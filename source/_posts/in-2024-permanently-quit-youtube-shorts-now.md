@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Permanently Quit YouTube Shorts Now"
-date: 2024-05-28 15:18:27
-updated: 2024-05-29 10:31:33
+date: 2024-05-31T13:44:01.172Z
+updated: 2024-06-01T13:44:01.172Z
 tags:
   - ai video
   - ai youtube
@@ -868,3 +868,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

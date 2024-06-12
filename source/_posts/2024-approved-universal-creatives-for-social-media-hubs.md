@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Universal Creatives for Social Media Hubs\""
-date: 2024-05-30 15:55:36
-updated: 2024-06-01 12:54:17
+date: 2024-05-31T13:45:15.230Z
+updated: 2024-06-01T13:45:15.230Z
 tags:
   - ai video
   - ai youtube
@@ -975,3 +975,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

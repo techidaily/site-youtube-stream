@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 YouTube Yoga Guides to Transform Your Health"
-date: 2024-05-28 15:36:52
-updated: 2024-05-31 12:10:35
+date: 2024-05-31T13:41:28.626Z
+updated: 2024-06-01T13:41:28.626Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

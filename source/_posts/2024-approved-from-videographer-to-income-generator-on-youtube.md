@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Videographer to Income Generator on YouTube\""
-date: 2024-05-26 13:28:10
-updated: 2024-05-27 11:53:30
+date: 2024-05-31T13:43:50.649Z
+updated: 2024-06-01T13:43:50.649Z
 tags:
   - ai video
   - ai youtube
@@ -996,3 +996,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

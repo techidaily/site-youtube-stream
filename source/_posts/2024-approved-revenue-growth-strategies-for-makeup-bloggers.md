@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revenue Growth Strategies for Makeup Bloggers\""
-date: 2024-05-28 11:20:23
-updated: 2024-05-29 10:14:13
+date: 2024-05-31T13:44:13.060Z
+updated: 2024-06-01T13:44:13.060Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

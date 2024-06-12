@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Social Media Match-Up  Youtube Shorts or TikTok?\""
-date: 2024-05-27 14:20:34
-updated: 2024-05-30 11:14:15
+date: 2024-05-31T13:50:13.877Z
+updated: 2024-06-01T13:50:13.877Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Gear for YouTube Novices"
-date: 2024-05-27 14:36:19
-updated: 2024-05-29 11:47:16
+date: 2024-05-31T13:46:08.126Z
+updated: 2024-06-01T13:46:08.126Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

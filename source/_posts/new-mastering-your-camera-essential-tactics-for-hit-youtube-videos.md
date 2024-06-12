@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your Camera  Essential Tactics for Hit YouTube Videos\""
-date: 2024-05-25 13:48:28
-updated: 2024-05-28 11:44:29
+date: 2024-05-31T13:51:01.104Z
+updated: 2024-06-01T13:51:01.104Z
 tags:
   - ai video
   - ai youtube
@@ -1174,3 +1174,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

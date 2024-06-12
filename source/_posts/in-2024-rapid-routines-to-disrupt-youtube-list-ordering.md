@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Rapid Routines to Disrupt YouTube List Ordering"
-date: 2024-05-26 10:19:56
-updated: 2024-05-29 10:44:46
+date: 2024-05-31T13:41:57.522Z
+updated: 2024-06-01T13:41:57.522Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

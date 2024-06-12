@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Taking the Leap  Essential Video Gatherings (Post-VidCon)\""
-date: 2024-05-29 17:59:18
-updated: 2024-05-30 11:44:34
+date: 2024-05-31T13:44:20.238Z
+updated: 2024-06-01T13:44:20.238Z
 tags:
   - ai video
   - ai youtube
@@ -1194,3 +1194,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring 12 Premium Cameras for Professional Vloggers"
-date: 2024-05-24 10:41:21
-updated: 2024-05-26 11:51:22
+date: 2024-05-31T13:47:50.742Z
+updated: 2024-06-01T13:47:50.742Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

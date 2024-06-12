@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Upgrade Video Previews with Bright Neon Edging"
-date: 2024-05-29 11:44:42
-updated: 2024-06-01 11:31:58
+date: 2024-05-31T13:44:25.777Z
+updated: 2024-06-01T13:44:25.777Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "History Enthusiasts' Guide to Inspiring YouTube Channels for 2024"
-date: 2024-05-25 11:21:57
-updated: 2024-05-27 12:20:28
+date: 2024-05-31T13:41:40.648Z
+updated: 2024-06-01T13:41:40.649Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

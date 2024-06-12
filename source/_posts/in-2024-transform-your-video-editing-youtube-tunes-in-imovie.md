@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Your Video Editing  YouTube Tunes in iMovie\""
-date: 2024-05-30 16:41:43
-updated: 2024-06-01 12:18:12
+date: 2024-05-31T13:41:03.907Z
+updated: 2024-06-01T13:41:03.907Z
 tags:
   - ai video
   - ai youtube
@@ -996,3 +996,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

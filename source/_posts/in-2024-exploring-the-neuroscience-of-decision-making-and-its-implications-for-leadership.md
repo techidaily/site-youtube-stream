@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Exploring the Neuroscience of Decision-Making and Its Implications for Leadership\""
-date: 2024-05-24 10:46:27
-updated: 2024-05-26 11:24:26
+date: 2024-05-31T13:42:08.776Z
+updated: 2024-06-01T13:42:08.776Z
 tags:
   - ai video
   - ai youtube
@@ -1734,3 +1734,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

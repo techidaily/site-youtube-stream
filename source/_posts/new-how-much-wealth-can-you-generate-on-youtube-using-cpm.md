@@ -1,7 +1,7 @@
 ---
 title: "[New] How Much Wealth Can You Generate on YouTube Using CPM?"
-date: 2024-05-25 21:45:11
-updated: 2024-05-27 10:36:38
+date: 2024-05-31T13:48:49.202Z
+updated: 2024-06-01T13:48:49.202Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

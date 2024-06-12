@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Lyric Video Crafting with Lyric Video Maker\""
-date: 2024-05-28 11:36:51
-updated: 2024-05-30 10:57:33
+date: 2024-05-31T13:46:40.560Z
+updated: 2024-06-01T13:46:40.560Z
 tags:
   - ai video
   - ai youtube
@@ -971,3 +971,4 @@ YouTubing can pay top money as long as you do it professionally. But it may need
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

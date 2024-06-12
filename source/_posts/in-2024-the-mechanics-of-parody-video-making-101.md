@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Mechanics of Parody  Video Making 101\""
-date: 2024-05-29 23:11:55
-updated: 2024-05-31 11:45:13
+date: 2024-05-31T13:41:55.469Z
+updated: 2024-06-01T13:41:55.469Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

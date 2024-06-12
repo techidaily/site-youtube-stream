@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Handbook to Excellent YouTube Audio Production\""
-date: 2024-05-29 21:17:40
-updated: 2024-05-31 12:11:24
+date: 2024-05-31T13:42:34.972Z
+updated: 2024-06-01T13:42:34.972Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

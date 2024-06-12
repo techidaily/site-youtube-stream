@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Blur Faces or Objects in YouTube Videos"
-date: 2024-05-24 15:25:29
-updated: 2024-05-27 11:10:37
+date: 2024-05-31T13:45:34.895Z
+updated: 2024-06-01T13:45:34.895Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

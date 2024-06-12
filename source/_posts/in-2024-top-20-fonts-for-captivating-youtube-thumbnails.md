@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 20 Fonts for Captivating YouTube Thumbnails"
-date: 2024-05-30 13:25:37
-updated: 2024-05-31 12:54:10
+date: 2024-05-31T13:41:36.433Z
+updated: 2024-06-01T13:41:36.433Z
 tags:
   - ai video
   - ai youtube
@@ -907,3 +907,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

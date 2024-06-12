@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigate Away From Bot-Influenced Metrics\""
-date: 2024-05-25 15:19:22
-updated: 2024-05-28 12:55:20
+date: 2024-05-31T13:49:40.217Z
+updated: 2024-06-01T13:49:40.217Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

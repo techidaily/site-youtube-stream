@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fitness Forward  6 Video Concepts to Energize Your Online Community\""
-date: 2024-05-25 14:50:58
-updated: 2024-05-27 11:46:58
+date: 2024-05-31T13:49:38.793Z
+updated: 2024-06-01T13:49:38.793Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

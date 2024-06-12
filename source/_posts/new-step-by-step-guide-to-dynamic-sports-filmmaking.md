@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Dynamic Sports Filmmaking\""
-date: 2024-05-28 22:36:38
-updated: 2024-05-30 10:27:43
+date: 2024-05-31T13:44:03.912Z
+updated: 2024-06-01T13:44:03.912Z
 tags:
   - ai video
   - ai youtube
@@ -1098,3 +1098,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

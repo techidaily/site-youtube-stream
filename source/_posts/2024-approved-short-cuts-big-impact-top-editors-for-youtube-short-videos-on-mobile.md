@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Short Cuts, Big Impact  Top Editors for YouTube Short Videos on Mobile\""
-date: 2024-05-28 11:29:20
-updated: 2024-05-30 12:28:12
+date: 2024-05-31T13:49:24.085Z
+updated: 2024-06-01T13:49:24.085Z
 tags:
   - ai video
   - ai youtube
@@ -1182,3 +1182,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

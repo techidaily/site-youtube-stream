@@ -1,7 +1,7 @@
 ---
 title: "\"From Plot to Post  A Detailed Guide to Writing YouTube Videos for 2024\""
-date: 2024-05-25 12:14:39
-updated: 2024-05-27 12:13:42
+date: 2024-05-31T13:43:22.094Z
+updated: 2024-06-01T13:43:22.094Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

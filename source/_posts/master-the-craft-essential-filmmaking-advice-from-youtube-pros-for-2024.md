@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Craft  Essential Filmmaking Advice From YouTube Pros for 2024\""
-date: 2024-05-27 18:47:53
-updated: 2024-05-28 11:12:56
+date: 2024-05-31T13:43:02.404Z
+updated: 2024-06-01T13:43:02.404Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Low-Investment, High Rewards  Channel Size Doesn't Deter Sponsorship\""
-date: 2024-05-25 10:36:39
-updated: 2024-05-28 12:52:56
+date: 2024-05-31T13:48:24.324Z
+updated: 2024-06-01T13:48:24.324Z
 tags:
   - ai video
   - ai youtube
@@ -720,3 +720,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

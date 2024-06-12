@@ -1,7 +1,7 @@
 ---
 title: "How Much Money Flows From A Million Views On YouTube for 2024"
-date: 2024-05-24 12:48:49
-updated: 2024-05-27 10:28:44
+date: 2024-05-31T13:50:16.904Z
+updated: 2024-06-01T13:50:16.904Z
 tags:
   - ai video
   - ai youtube
@@ -604,3 +604,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

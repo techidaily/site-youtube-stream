@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step Toward Balance  Best Yoga Series to Watch and Learn From\""
-date: 2024-05-29 13:53:36
-updated: 2024-05-30 11:19:50
+date: 2024-05-31T13:42:15.147Z
+updated: 2024-06-01T13:42:15.147Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

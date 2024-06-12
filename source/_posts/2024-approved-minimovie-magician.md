@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  MiniMovie Magician\""
-date: 2024-05-27 13:16:40
-updated: 2024-05-28 12:56:24
+date: 2024-05-31T13:41:49.186Z
+updated: 2024-06-01T13:41:49.186Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamless Google Meet Integration for YouTube Enthusiasts"
-date: 2024-05-28 19:38:41
-updated: 2024-05-30 10:53:34
+date: 2024-05-31T13:41:45.493Z
+updated: 2024-06-01T13:41:45.493Z
 tags:
   - ai video
   - ai youtube
@@ -711,3 +711,4 @@ If you are making a video from your photos, you can use an online video maker wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sourav Joshi’s Financial Journey  Charting a Profitable Course on YouTube\""
-date: 2024-05-28 18:11:53
-updated: 2024-05-30 12:30:15
+date: 2024-05-31T13:41:48.626Z
+updated: 2024-06-01T13:41:48.626Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

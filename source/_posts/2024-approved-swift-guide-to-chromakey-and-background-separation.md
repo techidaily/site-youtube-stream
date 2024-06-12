@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Guide to Chromakey and Background Separation\""
-date: 2024-05-28 11:25:37
-updated: 2024-05-30 11:34:27
+date: 2024-05-31T13:43:06.312Z
+updated: 2024-06-01T13:43:06.312Z
 tags:
   - ai video
   - ai youtube
@@ -1094,3 +1094,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

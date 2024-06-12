@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speed-Filled Guide to Double Exposure Methods\""
-date: 2024-05-27 11:50:17
-updated: 2024-05-30 10:52:27
+date: 2024-05-31T13:43:35.967Z
+updated: 2024-06-01T13:43:35.967Z
 tags:
   - ai video
   - ai youtube
@@ -520,3 +520,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Hidden Costs and Benefits of Purchased Video Traction on Channels\""
-date: 2024-05-28 12:30:53
-updated: 2024-05-31 11:45:57
+date: 2024-05-31T13:43:44.238Z
+updated: 2024-06-01T13:43:44.238Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

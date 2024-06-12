@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Streamline YT Playlist Integration in HTML/CSS"
-date: 2024-05-25 14:34:37
-updated: 2024-05-27 12:33:39
+date: 2024-05-31T13:46:43.834Z
+updated: 2024-06-01T13:46:43.834Z
 tags:
   - ai video
   - ai youtube
@@ -700,3 +700,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

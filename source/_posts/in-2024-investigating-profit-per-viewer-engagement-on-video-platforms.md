@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Investigating Profit per Viewer Engagement on Video Platforms"
-date: 2024-05-25 10:29:57
-updated: 2024-05-28 11:25:32
+date: 2024-05-31T13:42:18.664Z
+updated: 2024-06-01T13:42:18.664Z
 tags:
   - ai video
   - ai youtube
@@ -998,3 +998,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

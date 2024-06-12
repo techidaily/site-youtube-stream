@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fastest Video Views to Hit 100 Million List\""
-date: 2024-05-25 23:23:18
-updated: 2024-05-26 12:10:44
+date: 2024-05-31T13:44:12.805Z
+updated: 2024-06-01T13:44:12.805Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

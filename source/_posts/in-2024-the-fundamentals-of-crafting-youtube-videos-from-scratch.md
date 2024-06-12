@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Fundamentals of Crafting YouTube Videos From Scratch"
-date: 2024-05-29 22:24:32
-updated: 2024-05-31 12:32:36
+date: 2024-05-31T13:44:20.264Z
+updated: 2024-06-01T13:44:20.264Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

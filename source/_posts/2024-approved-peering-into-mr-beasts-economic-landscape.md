@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Peering Into Mr. Beast's Economic Landscape\""
-date: 2024-05-28 20:15:55
-updated: 2024-05-29 12:11:44
+date: 2024-05-31T13:41:07.988Z
+updated: 2024-06-01T13:41:07.988Z
 tags:
   - ai video
   - ai youtube
@@ -896,3 +896,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

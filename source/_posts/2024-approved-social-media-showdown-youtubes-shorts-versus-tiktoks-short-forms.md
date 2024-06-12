@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Showdown  YouTubes Shorts Versus TikToks Short Forms\""
-date: 2024-05-27 23:13:37
-updated: 2024-05-30 11:29:10
+date: 2024-05-31T13:42:12.789Z
+updated: 2024-06-01T13:42:12.789Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

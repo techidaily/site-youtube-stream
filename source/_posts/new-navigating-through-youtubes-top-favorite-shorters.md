@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Through YouTube’s Top Favorite Shorters"
-date: 2024-05-27 21:14:33
-updated: 2024-05-29 10:57:59
+date: 2024-05-31T13:45:58.120Z
+updated: 2024-06-01T13:45:58.120Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

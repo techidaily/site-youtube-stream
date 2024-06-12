@@ -1,7 +1,7 @@
 ---
 title: "\"Getting Your Foot in the Channel's Door  Must-Haves for 2024\""
-date: 2024-05-24 14:35:12
-updated: 2024-05-27 11:22:28
+date: 2024-05-31T13:43:25.269Z
+updated: 2024-06-01T13:43:25.269Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

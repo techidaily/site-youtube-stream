@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Good to Great Videos  The 20 Essential Shortcuts for Success\""
-date: 2024-05-24 16:24:13
-updated: 2024-05-27 12:39:28
+date: 2024-05-31T13:45:13.661Z
+updated: 2024-06-01T13:45:13.661Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

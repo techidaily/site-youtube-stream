@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infographics Spotlight on Future Social Trends\""
-date: 2024-05-26 20:14:16
-updated: 2024-05-27 10:42:59
+date: 2024-05-31T13:41:33.470Z
+updated: 2024-06-01T13:41:33.470Z
 tags:
   - ai video
   - ai youtube
@@ -582,3 +582,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

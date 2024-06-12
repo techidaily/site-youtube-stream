@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flickering Fonts  2 Innovative Text Techniques\""
-date: 2024-05-24 11:37:22
-updated: 2024-05-27 10:44:14
+date: 2024-05-31T13:42:37.929Z
+updated: 2024-06-01T13:42:37.929Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

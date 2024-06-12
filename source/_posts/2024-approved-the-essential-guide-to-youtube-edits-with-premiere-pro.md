@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to YouTube Edits with Premiere Pro\""
-date: 2024-05-28 17:20:57
-updated: 2024-05-31 11:44:32
+date: 2024-05-31T13:49:31.875Z
+updated: 2024-06-01T13:49:31.875Z
 tags:
   - ai video
   - ai youtube
@@ -326,3 +326,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

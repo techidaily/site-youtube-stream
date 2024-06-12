@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Utilizing Continuous Lights for Comfortable Filming"
-date: 2024-05-30 10:55:11
-updated: 2024-06-01 10:33:21
+date: 2024-05-31T13:41:24.262Z
+updated: 2024-06-01T13:41:24.262Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

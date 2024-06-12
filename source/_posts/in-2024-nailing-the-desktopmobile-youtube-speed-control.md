@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nailing the Desktop/Mobile YouTube Speed Control"
-date: 2024-05-25 15:55:52
-updated: 2024-05-28 10:55:37
+date: 2024-05-31T13:42:05.292Z
+updated: 2024-06-01T13:42:05.292Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

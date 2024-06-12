@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unraveling Revenue  How Much Do Creators Make on Youtube Adverts?\""
-date: 2024-05-31 16:16:22
-updated: 2024-06-01 12:21:33
+date: 2024-05-31T13:41:05.273Z
+updated: 2024-06-01T13:41:05.273Z
 tags:
   - ai video
   - ai youtube
@@ -983,3 +983,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

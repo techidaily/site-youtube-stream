@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of YouTubing  Avoiding the Top 8 Newbie Errors\""
-date: 2024-05-26 17:15:31
-updated: 2024-05-28 10:32:48
+date: 2024-05-31T13:48:34.346Z
+updated: 2024-06-01T13:48:34.346Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

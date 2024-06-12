@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Short-Form Showdown  Youtube VS. TikTok Edition\""
-date: 2024-05-29 22:18:12
-updated: 2024-05-30 11:23:47
+date: 2024-05-31T13:48:13.674Z
+updated: 2024-06-01T13:48:13.674Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

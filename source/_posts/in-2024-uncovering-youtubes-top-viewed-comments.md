@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Uncovering YouTube's Top Viewed Comments"
-date: 2024-05-31 15:37:12
-updated: 2024-06-01 10:48:19
+date: 2024-05-31T13:51:08.790Z
+updated: 2024-06-01T13:51:08.790Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

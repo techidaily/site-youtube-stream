@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sneaky Soundtrack  Watching YouTube Unobtrusively\""
-date: 2024-05-29 22:29:17
-updated: 2024-05-30 11:10:10
+date: 2024-05-31T13:45:42.774Z
+updated: 2024-06-01T13:45:42.774Z
 tags:
   - ai video
   - ai youtube
@@ -744,3 +744,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

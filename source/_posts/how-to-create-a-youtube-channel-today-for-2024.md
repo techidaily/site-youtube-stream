@@ -1,7 +1,7 @@
 ---
 title: "How to Create A YouTube Channel Today for 2024"
-date: 2024-05-24 11:10:40
-updated: 2024-05-27 10:18:14
+date: 2024-05-31T13:41:52.835Z
+updated: 2024-06-01T13:41:52.835Z
 tags:
   - ai video
   - ai youtube
@@ -1918,3 +1918,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Rising Tide of Infographics for Social Insights"
-date: 2024-05-30 21:21:50
-updated: 2024-05-31 11:27:43
+date: 2024-05-31T13:46:02.456Z
+updated: 2024-06-01T13:46:02.456Z
 tags:
   - ai video
   - ai youtube
@@ -551,3 +551,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

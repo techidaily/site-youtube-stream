@@ -1,7 +1,7 @@
 ---
 title: "[New] Setting the Standard for Online Video Presentations – YT Thumbnail Sizing"
-date: 2024-05-27 11:39:28
-updated: 2024-05-30 10:53:56
+date: 2024-05-31T13:44:45.889Z
+updated: 2024-06-01T13:44:45.889Z
 tags:
   - ai video
   - ai youtube
@@ -1060,3 +1060,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

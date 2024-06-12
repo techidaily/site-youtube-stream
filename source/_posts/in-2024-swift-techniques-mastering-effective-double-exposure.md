@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Swift Techniques  Mastering Effective Double Exposure\""
-date: 2024-05-28 15:33:54
-updated: 2024-05-30 11:24:17
+date: 2024-05-31T13:50:01.413Z
+updated: 2024-06-01T13:50:01.413Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

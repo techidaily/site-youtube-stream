@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Raw Footage to Final Cut  Chroma Mastery\""
-date: 2024-05-26 13:38:55
-updated: 2024-05-27 11:34:50
+date: 2024-05-31T13:48:23.879Z
+updated: 2024-06-01T13:48:23.879Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

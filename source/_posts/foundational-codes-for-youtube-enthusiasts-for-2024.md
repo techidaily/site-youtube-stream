@@ -1,7 +1,7 @@
 ---
 title: "Foundational Codes for YouTube Enthusiasts for 2024"
-date: 2024-05-25 15:30:22
-updated: 2024-05-27 10:38:32
+date: 2024-05-31T13:50:33.280Z
+updated: 2024-06-01T13:50:33.280Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

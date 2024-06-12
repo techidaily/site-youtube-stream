@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Cinematographer's Journey  Shooting Top-Notch YouTube Content\""
-date: 2024-05-29 21:19:32
-updated: 2024-05-31 10:27:57
+date: 2024-05-31T13:49:12.083Z
+updated: 2024-06-01T13:49:12.083Z
 tags:
   - ai video
   - ai youtube
@@ -1146,3 +1146,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

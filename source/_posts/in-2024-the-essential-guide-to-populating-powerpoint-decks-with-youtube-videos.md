@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Guide to Populating PowerPoint Decks With YouTube Videos"
-date: 2024-05-30 10:50:43
-updated: 2024-05-31 11:39:34
+date: 2024-05-31T13:51:06.314Z
+updated: 2024-06-01T13:51:06.314Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

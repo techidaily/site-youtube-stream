@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of YouTube Thumbnails for Mac Professionals\""
-date: 2024-05-28 15:14:16
-updated: 2024-05-31 12:42:41
+date: 2024-05-31T13:44:40.714Z
+updated: 2024-06-01T13:44:40.714Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ We have covered key steps for meeting YouTube's requirements and monetizing vide
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

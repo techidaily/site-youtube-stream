@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Must-Have Filmmaking Tools for Aspiring YouTubers\""
-date: 2024-05-25 16:38:29
-updated: 2024-05-28 12:57:36
+date: 2024-05-31T13:47:08.638Z
+updated: 2024-06-01T13:47:08.638Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

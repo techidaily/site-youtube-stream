@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Artisan's Approach to Crafting Channel Identities"
-date: 2024-05-29 20:44:19
-updated: 2024-05-31 10:45:59
+date: 2024-05-31T13:49:29.122Z
+updated: 2024-06-01T13:49:29.122Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

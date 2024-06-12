@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding the Economics Behind YouTube's Shorts Fund\""
-date: 2024-05-29 23:16:44
-updated: 2024-06-01 10:27:36
+date: 2024-05-31T13:47:12.225Z
+updated: 2024-06-01T13:47:12.225Z
 tags:
   - ai video
   - ai youtube
@@ -724,3 +724,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

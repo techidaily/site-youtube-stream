@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creativity in YouTube Production  An Intro to WMM\""
-date: 2024-05-30 21:29:16
-updated: 2024-06-01 11:44:55
+date: 2024-05-31T13:50:09.798Z
+updated: 2024-06-01T13:50:09.798Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

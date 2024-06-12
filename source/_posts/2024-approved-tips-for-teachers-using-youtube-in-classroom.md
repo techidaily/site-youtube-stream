@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Teachers Using YouTube in Classroom\""
-date: 2024-05-29 18:44:18
-updated: 2024-05-31 10:21:23
+date: 2024-05-31T13:49:48.751Z
+updated: 2024-06-01T13:49:48.751Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

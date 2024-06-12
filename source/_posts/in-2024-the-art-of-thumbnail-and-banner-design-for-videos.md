@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Thumbnail and Banner Design for Videos"
-date: 2024-05-29 22:20:37
-updated: 2024-05-30 10:53:35
+date: 2024-05-31T13:40:59.552Z
+updated: 2024-06-01T13:40:59.552Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

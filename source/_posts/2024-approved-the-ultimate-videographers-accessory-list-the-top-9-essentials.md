@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Videographer’s Accessory List - The Top 9 Essentials\""
-date: 2024-05-28 13:13:24
-updated: 2024-05-31 10:55:59
+date: 2024-05-31T13:41:38.509Z
+updated: 2024-06-01T13:41:38.509Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Video Creator's Guide to Copyright Compliance on YouTube"
-date: 2024-05-29 23:31:43
-updated: 2024-05-31 10:49:59
+date: 2024-05-31T13:49:40.256Z
+updated: 2024-06-01T13:49:40.256Z
 tags:
   - ai video
   - ai youtube
@@ -1378,3 +1378,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

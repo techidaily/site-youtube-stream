@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Self-Filmed Brilliance  Secrets for YouTube Success\""
-date: 2024-05-27 18:19:35
-updated: 2024-05-30 10:12:12
+date: 2024-05-31T13:48:37.178Z
+updated: 2024-06-01T13:48:37.178Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

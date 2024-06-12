@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Get HD Quality Quickly  Enable AV1 in YouTube Settings\""
-date: 2024-05-24 14:15:10
-updated: 2024-05-27 12:32:17
+date: 2024-05-31T13:43:27.114Z
+updated: 2024-06-01T13:43:27.114Z
 tags:
   - ai video
   - ai youtube
@@ -196,3 +196,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

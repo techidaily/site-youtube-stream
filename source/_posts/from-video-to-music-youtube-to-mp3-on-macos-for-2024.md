@@ -1,7 +1,7 @@
 ---
 title: "\"From Video to Music  YouTube to MP3 on MacOS for 2024\""
-date: 2024-05-25 15:31:37
-updated: 2024-05-27 10:43:32
+date: 2024-05-31T13:50:36.763Z
+updated: 2024-06-01T13:50:36.763Z
 tags:
   - ai video
   - ai youtube
@@ -423,3 +423,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

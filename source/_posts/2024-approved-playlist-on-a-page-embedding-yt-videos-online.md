@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Playlist on a Page  Embedding YT Videos Online\""
-date: 2024-05-28 12:48:31
-updated: 2024-05-29 10:56:43
+date: 2024-05-31T13:44:52.856Z
+updated: 2024-06-01T13:44:52.856Z
 tags:
   - ai video
   - ai youtube
@@ -888,3 +888,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

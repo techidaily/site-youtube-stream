@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Antiquated Visuals for Modern Audienciplines"
-date: 2024-05-29 22:56:50
-updated: 2024-05-30 10:44:35
+date: 2024-05-31T13:48:43.531Z
+updated: 2024-06-01T13:48:43.531Z
 tags:
   - ai video
   - ai youtube
@@ -1454,3 +1454,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

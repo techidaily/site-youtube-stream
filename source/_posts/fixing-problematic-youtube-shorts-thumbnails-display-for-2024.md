@@ -1,7 +1,7 @@
 ---
 title: "Fixing Problematic YouTube Shorts Thumbnails Display for 2024"
-date: 2024-05-26 16:17:30
-updated: 2024-05-27 10:15:14
+date: 2024-05-31T13:43:28.567Z
+updated: 2024-06-01T13:43:28.567Z
 tags:
   - ai video
   - ai youtube
@@ -587,3 +587,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

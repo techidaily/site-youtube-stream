@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Short-Form Spectrum  YouTube Meets TikTok\""
-date: 2024-05-29 11:27:15
-updated: 2024-05-30 11:53:50
+date: 2024-05-31T13:48:27.232Z
+updated: 2024-06-01T13:48:27.232Z
 tags:
   - ai video
   - ai youtube
@@ -831,3 +831,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

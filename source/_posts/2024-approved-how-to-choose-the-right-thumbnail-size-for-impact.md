@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Choose the Right Thumbnail Size for Impact\""
-date: 2024-05-26 22:14:30
-updated: 2024-05-27 11:48:52
+date: 2024-05-31T13:43:21.678Z
+updated: 2024-06-01T13:43:21.678Z
 tags:
   - ai video
   - ai youtube
@@ -1076,3 +1076,4 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

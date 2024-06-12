@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Growth Hacking for YouTube Stars  Maximizing Fans\""
-date: 2024-05-24 18:46:52
-updated: 2024-05-27 10:17:55
+date: 2024-05-31T13:41:03.064Z
+updated: 2024-06-01T13:41:03.064Z
 tags:
   - ai video
   - ai youtube
@@ -864,3 +864,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

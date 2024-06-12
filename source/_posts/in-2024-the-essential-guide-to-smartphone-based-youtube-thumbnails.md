@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Guide to Smartphone-Based YouTube Thumbnails\""
-date: 2024-05-30 16:11:58
-updated: 2024-05-31 11:21:10
+date: 2024-05-31T13:44:58.980Z
+updated: 2024-06-01T13:44:58.980Z
 tags:
   - ai video
   - ai youtube
@@ -1003,3 +1003,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

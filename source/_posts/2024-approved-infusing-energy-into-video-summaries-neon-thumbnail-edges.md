@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infusing Energy Into Video Summaries  Neon Thumbnail Edges\""
-date: 2024-05-24 15:56:50
-updated: 2024-05-27 10:25:20
+date: 2024-05-31T13:45:23.979Z
+updated: 2024-06-01T13:45:23.979Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

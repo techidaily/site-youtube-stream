@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Integration  Share Confidential YouTube Videos on Gmail\""
-date: 2024-05-28 11:36:25
-updated: 2024-05-30 10:22:30
+date: 2024-05-31T13:42:34.876Z
+updated: 2024-06-01T13:42:34.876Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

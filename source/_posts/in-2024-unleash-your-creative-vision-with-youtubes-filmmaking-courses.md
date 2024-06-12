@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Your Creative Vision with YouTube's Filmmaking Courses"
-date: 2024-05-30 12:46:45
-updated: 2024-06-01 12:10:49
+date: 2024-05-31T13:50:54.038Z
+updated: 2024-06-01T13:50:54.038Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

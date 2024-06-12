@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Advice on YouTube Short Pitfalls"
-date: 2024-05-24 20:37:30
-updated: 2024-05-26 12:10:13
+date: 2024-05-31T13:49:54.695Z
+updated: 2024-06-01T13:49:54.695Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

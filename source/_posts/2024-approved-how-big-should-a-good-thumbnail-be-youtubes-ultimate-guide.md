@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide\""
-date: 2024-05-24 15:39:51
-updated: 2024-05-27 10:57:43
+date: 2024-05-31T13:47:09.609Z
+updated: 2024-06-01T13:47:09.609Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

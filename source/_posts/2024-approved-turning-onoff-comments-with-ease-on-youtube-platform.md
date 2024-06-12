@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turning On/Off Comments with Ease on YouTube Platform\""
-date: 2024-05-31 13:27:30
-updated: 2024-06-01 11:17:13
+date: 2024-05-31T13:51:20.665Z
+updated: 2024-06-01T13:51:20.665Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

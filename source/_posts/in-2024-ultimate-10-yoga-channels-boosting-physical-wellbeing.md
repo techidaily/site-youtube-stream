@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate 10 Yoga Channels Boosting Physical Wellbeing"
-date: 2024-05-31 14:18:17
-updated: 2024-06-01 12:25:57
+date: 2024-05-31T13:42:04.632Z
+updated: 2024-06-01T13:42:04.632Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

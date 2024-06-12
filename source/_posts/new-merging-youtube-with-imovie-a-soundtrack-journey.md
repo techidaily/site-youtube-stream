@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Merging Youtube with iMovie  A Soundtrack Journey\""
-date: 2024-05-25 23:48:28
-updated: 2024-05-28 10:44:34
+date: 2024-05-31T13:49:40.563Z
+updated: 2024-06-01T13:49:40.563Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

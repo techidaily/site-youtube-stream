@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking the Potential of Edu-Vids  Strategies for Captivating Your Viewers on YouTube\""
-date: 2024-05-30 15:53:22
-updated: 2024-06-01 12:56:15
+date: 2024-05-31T13:45:02.312Z
+updated: 2024-06-01T13:45:02.312Z
 tags:
   - ai video
   - ai youtube
@@ -1634,3 +1634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Your YouTube  Pinpointing a Specialized Audience\""
-date: 2024-05-27 17:35:18
-updated: 2024-05-28 12:18:57
+date: 2024-05-31T13:45:17.225Z
+updated: 2024-06-01T13:45:17.225Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

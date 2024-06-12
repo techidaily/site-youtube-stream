@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Upgrade Your Video Playback  Activating AV1 on YouTube\""
-date: 2024-05-29 16:40:31
-updated: 2024-06-01 12:19:13
+date: 2024-05-31T13:50:21.286Z
+updated: 2024-06-01T13:50:21.286Z
 tags:
   - ai video
   - ai youtube
@@ -1068,3 +1068,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

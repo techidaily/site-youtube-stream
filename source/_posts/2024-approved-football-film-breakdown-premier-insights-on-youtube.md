@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Football Film Breakdown  Premier Insights on YouTube\""
-date: 2024-05-24 22:25:31
-updated: 2024-05-27 11:53:28
+date: 2024-05-31T13:46:24.943Z
+updated: 2024-06-01T13:46:24.943Z
 tags:
   - ai video
   - ai youtube
@@ -602,3 +602,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

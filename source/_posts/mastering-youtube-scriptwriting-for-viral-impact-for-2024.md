@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Scriptwriting for Viral Impact for 2024"
-date: 2024-05-25 17:22:15
-updated: 2024-05-28 12:51:38
+date: 2024-05-31T13:43:01.201Z
+updated: 2024-06-01T13:43:01.201Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

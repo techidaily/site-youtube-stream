@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Start  Making Your Own Sports Highlight Film\""
-date: 2024-05-27 23:47:46
-updated: 2024-05-29 10:56:27
+date: 2024-05-31T13:45:50.058Z
+updated: 2024-06-01T13:45:50.058Z
 tags:
   - ai video
   - ai youtube
@@ -736,3 +736,4 @@ So, in this article, we have discussed a step-by-step process for creating **a Y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Infographic Spotlight on Emerging '23 Trends"
-date: 2024-05-24 16:55:35
-updated: 2024-05-27 12:49:29
+date: 2024-05-31T13:41:23.022Z
+updated: 2024-06-01T13:41:23.022Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

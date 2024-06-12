@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Slowing YouTube Videos (37 Chars)\""
-date: 2024-05-29 14:52:29
-updated: 2024-05-31 12:33:38
+date: 2024-05-31T13:50:24.454Z
+updated: 2024-06-01T13:50:24.454Z
 tags:
   - ai video
   - ai youtube
@@ -578,3 +578,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

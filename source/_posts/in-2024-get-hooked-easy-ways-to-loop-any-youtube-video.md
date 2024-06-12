@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Get Hooked  Easy Ways to Loop Any YouTube Video\""
-date: 2024-05-25 10:40:21
-updated: 2024-05-27 12:38:18
+date: 2024-05-31T13:43:24.233Z
+updated: 2024-06-01T13:43:24.233Z
 tags:
   - ai video
   - ai youtube
@@ -1818,3 +1818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

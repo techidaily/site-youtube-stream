@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Audio Capture Sans Microphone"
-date: 2024-05-25 15:11:15
-updated: 2024-05-28 10:54:19
+date: 2024-05-31T13:49:33.335Z
+updated: 2024-06-01T13:49:33.335Z
 tags:
   - ai video
   - ai youtube
@@ -1104,3 +1104,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

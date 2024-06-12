@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unplug From YouTube  Top 10 Video Apps for Smartphones\""
-date: 2024-05-31 16:57:13
-updated: 2024-06-01 10:16:30
+date: 2024-05-31T13:50:49.146Z
+updated: 2024-06-01T13:50:49.146Z
 tags:
   - ai video
   - ai youtube
@@ -2178,3 +2178,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

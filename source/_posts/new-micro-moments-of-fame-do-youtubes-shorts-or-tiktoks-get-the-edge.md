@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Micro-Moments of Fame  Do YouTubes Shorts or TikToks Get the Edge?\""
-date: 2024-05-25 12:42:35
-updated: 2024-05-28 11:42:52
+date: 2024-05-31T13:45:53.680Z
+updated: 2024-06-01T13:45:53.680Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

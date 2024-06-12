@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Scripts to Subscribers  Mastering the Production of Engaging Educational Videos for YouTube\""
-date: 2024-05-25 12:18:24
-updated: 2024-05-27 12:10:16
+date: 2024-05-31T13:43:54.943Z
+updated: 2024-06-01T13:43:54.943Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

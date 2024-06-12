@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Inside the Cut  YouTube's 20 Best Bands\""
-date: 2024-05-27 10:13:20
-updated: 2024-05-28 10:28:37
+date: 2024-05-31T13:46:42.103Z
+updated: 2024-06-01T13:46:42.103Z
 tags:
   - ai video
   - ai youtube
@@ -1590,3 +1590,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Easy Way to Embed YouTube Into Google Slides\""
-date: 2024-05-28 14:39:18
-updated: 2024-05-31 11:21:10
+date: 2024-05-31T13:47:56.765Z
+updated: 2024-06-01T13:47:56.765Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

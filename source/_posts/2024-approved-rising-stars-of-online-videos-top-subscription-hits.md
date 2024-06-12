@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rising Stars of Online Videos  Top Subscription Hits\""
-date: 2024-05-28 19:57:43
-updated: 2024-05-29 10:46:31
+date: 2024-05-31T13:46:49.709Z
+updated: 2024-06-01T13:46:49.709Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

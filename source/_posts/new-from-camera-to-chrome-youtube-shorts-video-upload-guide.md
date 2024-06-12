@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Camera to Chrome  YouTube Shorts Video Upload Guide\""
-date: 2024-05-25 22:24:19
-updated: 2024-05-27 12:27:29
+date: 2024-05-31T13:41:55.705Z
+updated: 2024-06-01T13:41:55.705Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

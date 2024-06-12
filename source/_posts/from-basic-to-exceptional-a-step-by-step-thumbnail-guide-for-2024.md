@@ -1,7 +1,7 @@
 ---
 title: "\"From Basic to Exceptional  A Step-by-Step Thumbnail Guide for 2024\""
-date: 2024-05-25 14:33:10
-updated: 2024-05-27 12:43:59
+date: 2024-05-31T13:42:24.361Z
+updated: 2024-06-01T13:42:24.361Z
 tags:
   - ai video
   - ai youtube
@@ -1638,3 +1638,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

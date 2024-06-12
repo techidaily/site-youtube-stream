@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Most Subscribed YouTuber in the World\""
-date: 2024-05-28 22:10:23
-updated: 2024-05-31 11:22:57
+date: 2024-05-31T13:45:02.978Z
+updated: 2024-06-01T13:45:02.978Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

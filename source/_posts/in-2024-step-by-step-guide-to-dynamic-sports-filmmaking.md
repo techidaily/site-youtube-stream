@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Dynamic Sports Filmmaking\""
-date: 2024-05-27 11:33:43
-updated: 2024-05-30 12:15:59
+date: 2024-05-31T13:50:47.066Z
+updated: 2024-06-01T13:50:47.066Z
 tags:
   - ai video
   - ai youtube
@@ -1426,3 +1426,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

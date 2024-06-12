@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Novice to Expert  Mastering Video Identity on YouTube\""
-date: 2024-05-24 21:47:51
-updated: 2024-05-27 12:51:44
+date: 2024-05-31T13:49:34.806Z
+updated: 2024-06-01T13:49:34.806Z
 tags:
   - ai video
   - ai youtube
@@ -614,3 +614,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

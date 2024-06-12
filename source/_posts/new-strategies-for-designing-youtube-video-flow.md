@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Designing YouTube Video Flow"
-date: 2024-05-27 12:35:57
-updated: 2024-05-30 10:43:24
+date: 2024-05-31T13:48:33.806Z
+updated: 2024-06-01T13:48:33.806Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

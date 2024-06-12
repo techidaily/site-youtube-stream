@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal Lighting for Stellar Video Production"
-date: 2024-05-28 17:44:43
-updated: 2024-05-29 10:42:25
+date: 2024-05-31T13:44:38.809Z
+updated: 2024-06-01T13:44:38.809Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

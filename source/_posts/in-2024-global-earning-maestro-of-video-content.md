@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Global Earning Maestro of Video Content"
-date: 2024-05-26 20:54:56
-updated: 2024-05-27 12:13:28
+date: 2024-05-31T13:41:50.872Z
+updated: 2024-06-01T13:41:50.872Z
 tags:
   - ai video
   - ai youtube
@@ -1339,3 +1339,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

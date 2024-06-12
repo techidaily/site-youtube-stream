@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Phone Videos  Your DIY YouTube Journey\""
-date: 2024-05-27 13:27:22
-updated: 2024-05-29 11:25:12
+date: 2024-05-31T13:42:16.023Z
+updated: 2024-06-01T13:42:16.023Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

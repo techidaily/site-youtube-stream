@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Yogi Channel Guide to Stay Active"
-date: 2024-05-30 14:15:34
-updated: 2024-05-31 12:39:16
+date: 2024-05-31T13:49:00.116Z
+updated: 2024-06-01T13:49:00.116Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

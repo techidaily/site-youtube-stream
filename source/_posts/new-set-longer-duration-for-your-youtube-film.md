@@ -1,7 +1,7 @@
 ---
 title: "[New] Set Longer Duration for Your YouTube Film"
-date: 2024-05-28 10:31:49
-updated: 2024-05-30 10:14:26
+date: 2024-05-31T13:48:44.883Z
+updated: 2024-06-01T13:48:44.883Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ryan Kaji’s Riches  The Tale of YouTube's Youngest Mogul\""
-date: 2024-05-28 15:45:43
-updated: 2024-05-29 12:54:27
+date: 2024-05-31T13:47:38.354Z
+updated: 2024-06-01T13:47:38.354Z
 tags:
   - ai video
   - ai youtube
@@ -1168,3 +1168,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

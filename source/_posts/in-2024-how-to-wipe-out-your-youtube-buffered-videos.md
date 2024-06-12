@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How-To  Wipe Out Your YouTube Buffered Videos\""
-date: 2024-05-25 12:59:15
-updated: 2024-05-27 11:27:15
+date: 2024-05-31T13:49:04.848Z
+updated: 2024-06-01T13:49:04.848Z
 tags:
   - ai video
   - ai youtube
@@ -608,3 +608,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

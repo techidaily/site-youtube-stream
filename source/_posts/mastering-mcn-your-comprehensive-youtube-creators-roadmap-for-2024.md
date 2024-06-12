@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering MCN  Your Comprehensive YouTube Creator's Roadmap for 2024\""
-date: 2024-05-26 13:41:30
-updated: 2024-05-28 10:50:28
+date: 2024-05-31T13:44:59.198Z
+updated: 2024-06-01T13:44:59.198Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

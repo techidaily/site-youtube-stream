@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Extract YouTube Media Directly"
-date: 2024-05-25 15:22:26
-updated: 2024-05-27 10:57:10
+date: 2024-05-31T13:50:16.219Z
+updated: 2024-06-01T13:50:16.219Z
 tags:
   - ai video
   - ai youtube
@@ -2110,3 +2110,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The 10 Most Popular YouTube Channels for Real-Time News\""
-date: 2024-05-27 13:52:57
-updated: 2024-05-30 10:37:48
+date: 2024-05-31T13:45:46.764Z
+updated: 2024-06-01T13:45:46.764Z
 tags:
   - ai video
   - ai youtube
@@ -1454,3 +1454,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

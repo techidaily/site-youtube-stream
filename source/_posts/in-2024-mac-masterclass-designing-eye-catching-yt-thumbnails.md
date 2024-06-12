@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mac Masterclass  Designing Eye-Catching YT Thumbnails\""
-date: 2024-05-26 20:23:17
-updated: 2024-05-28 12:20:13
+date: 2024-05-31T13:41:21.752Z
+updated: 2024-06-01T13:41:21.752Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

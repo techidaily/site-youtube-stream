@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essence of YouTube's New Shorts Investment Scheme\""
-date: 2024-05-28 12:17:31
-updated: 2024-05-31 10:39:17
+date: 2024-05-31T13:43:47.553Z
+updated: 2024-06-01T13:43:47.553Z
 tags:
   - ai video
   - ai youtube
@@ -410,3 +410,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

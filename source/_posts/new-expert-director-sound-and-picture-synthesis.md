@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert Director  Sound & Picture Synthesis\""
-date: 2024-05-23 18:49:30
-updated: 2024-05-26 12:53:54
+date: 2024-05-31T13:42:06.686Z
+updated: 2024-06-01T13:42:06.686Z
 tags:
   - ai video
   - ai youtube
@@ -688,3 +688,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

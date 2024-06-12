@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Satirize  A Guide to Parody Production\""
-date: 2024-05-25 15:45:52
-updated: 2024-05-27 12:47:22
+date: 2024-05-31T13:47:01.138Z
+updated: 2024-06-01T13:47:01.138Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

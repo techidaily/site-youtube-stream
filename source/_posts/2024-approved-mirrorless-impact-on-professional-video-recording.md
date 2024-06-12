@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mirrorless Impact on Professional Video Recording\""
-date: 2024-05-26 14:43:43
-updated: 2024-05-28 12:17:54
+date: 2024-05-31T13:43:09.449Z
+updated: 2024-06-01T13:43:09.449Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

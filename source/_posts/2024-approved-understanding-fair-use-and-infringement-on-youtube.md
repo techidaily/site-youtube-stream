@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Fair Use and Infringement on YouTube\""
-date: 2024-05-30 12:27:11
-updated: 2024-06-01 11:30:59
+date: 2024-05-31T13:50:31.099Z
+updated: 2024-06-01T13:50:31.099Z
 tags:
   - ai video
   - ai youtube
@@ -788,3 +788,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

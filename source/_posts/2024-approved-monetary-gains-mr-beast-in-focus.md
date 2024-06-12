@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Monetary Gains  Mr. Beast in Focus\""
-date: 2024-05-26 16:23:58
-updated: 2024-05-28 12:13:56
+date: 2024-05-31T13:42:03.991Z
+updated: 2024-06-01T13:42:03.991Z
 tags:
   - ai video
   - ai youtube
@@ -1364,3 +1364,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

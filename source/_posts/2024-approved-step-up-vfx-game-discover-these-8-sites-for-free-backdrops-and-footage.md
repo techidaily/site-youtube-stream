@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step Up VFX Game - Discover These 8 Sites for FREE Backdrops & Footage\""
-date: 2024-05-29 22:30:55
-updated: 2024-05-30 10:54:42
+date: 2024-05-31T13:48:21.897Z
+updated: 2024-06-01T13:48:21.897Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Using YouTube in Education\""
-date: 2024-05-28 21:12:53
-updated: 2024-05-31 11:12:13
+date: 2024-05-31T13:44:54.061Z
+updated: 2024-06-01T13:44:54.061Z
 tags:
   - ai video
   - ai youtube
@@ -1072,3 +1072,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

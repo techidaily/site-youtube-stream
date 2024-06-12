@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier Visionaries in Multimedia Creation"
-date: 2024-05-27 20:54:19
-updated: 2024-05-29 10:31:38
+date: 2024-05-31T13:42:12.524Z
+updated: 2024-06-01T13:42:12.524Z
 tags:
   - ai video
   - ai youtube
@@ -900,3 +900,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Free Editing Powerhouses  Top 9 Simplified Video Tools\""
-date: 2024-05-25 12:57:47
-updated: 2024-05-27 10:10:57
+date: 2024-05-31T13:49:19.319Z
+updated: 2024-06-01T13:49:19.319Z
 tags:
   - ai video
   - ai youtube
@@ -1630,3 +1630,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

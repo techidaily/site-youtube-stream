@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snapshots of Success  Jake Paul’s YouTube Milestones\""
-date: 2024-05-29 14:41:49
-updated: 2024-05-30 10:29:54
+date: 2024-05-31T13:51:36.091Z
+updated: 2024-06-01T13:51:36.091Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

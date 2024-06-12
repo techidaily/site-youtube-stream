@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 8 Quickest Rising YouTube Stars"
-date: 2024-05-30 18:40:15
-updated: 2024-05-31 10:13:55
+date: 2024-05-31T13:45:58.906Z
+updated: 2024-06-01T13:45:58.906Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

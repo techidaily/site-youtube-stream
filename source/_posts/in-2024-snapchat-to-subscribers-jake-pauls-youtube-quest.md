@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snapchat to Subscribers  Jake Paul’s Youtube Quest\""
-date: 2024-05-27 19:47:52
-updated: 2024-05-30 11:24:31
+date: 2024-05-31T13:48:59.987Z
+updated: 2024-06-01T13:48:59.987Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

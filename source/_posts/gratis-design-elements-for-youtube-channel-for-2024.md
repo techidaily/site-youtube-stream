@@ -1,7 +1,7 @@
 ---
 title: "Gratis Design Elements for YouTube Channel for 2024"
-date: 2024-05-24 12:52:43
-updated: 2024-05-27 11:44:11
+date: 2024-05-31T13:50:25.750Z
+updated: 2024-06-01T13:50:25.750Z
 tags:
   - ai video
   - ai youtube
@@ -594,3 +594,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

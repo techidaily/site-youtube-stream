@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quickly Speed Up or Decelerate Videos for Peak Engagement"
-date: 2024-05-28 14:38:42
-updated: 2024-05-29 12:58:10
+date: 2024-05-31T13:42:31.851Z
+updated: 2024-06-01T13:42:31.851Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

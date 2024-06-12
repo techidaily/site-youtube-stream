@@ -1,7 +1,7 @@
 ---
 title: "Ideal Thumbnails for Maximum Clicks for 2024"
-date: 2024-05-25 14:33:26
-updated: 2024-05-27 12:17:14
+date: 2024-05-31T13:45:49.923Z
+updated: 2024-06-01T13:45:49.923Z
 tags:
   - ai video
   - ai youtube
@@ -884,3 +884,4 @@ Your content must be unique so your viewers will want to stick around and engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

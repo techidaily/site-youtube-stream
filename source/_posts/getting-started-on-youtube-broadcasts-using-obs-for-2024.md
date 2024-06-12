@@ -1,7 +1,7 @@
 ---
 title: "Getting Started on YouTube Broadcasts Using OBS for 2024"
-date: 2024-05-26 12:25:21
-updated: 2024-05-27 11:10:13
+date: 2024-05-31T13:50:29.064Z
+updated: 2024-06-01T13:50:29.064Z
 tags:
   - ai video
   - ai youtube
@@ -951,3 +951,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

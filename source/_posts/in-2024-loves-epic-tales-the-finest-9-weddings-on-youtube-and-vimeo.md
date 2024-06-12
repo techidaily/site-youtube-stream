@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Love's Epic Tales  The Finest 9 Weddings on YouTube & Vimeo\""
-date: 2024-05-27 20:40:23
-updated: 2024-05-28 12:44:24
+date: 2024-05-31T13:50:13.674Z
+updated: 2024-06-01T13:50:13.674Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

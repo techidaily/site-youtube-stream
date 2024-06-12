@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide  Undoing Your YT Playback Sequence\""
-date: 2024-05-29 23:16:12
-updated: 2024-05-31 12:16:26
+date: 2024-05-31T13:50:50.036Z
+updated: 2024-06-01T13:50:50.036Z
 tags:
   - ai video
   - ai youtube
@@ -588,3 +588,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

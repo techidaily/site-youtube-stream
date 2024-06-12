@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Striking the Right Balance  Essential Thumbnail Size Tips\""
-date: 2024-05-29 22:13:45
-updated: 2024-05-30 11:43:57
+date: 2024-05-31T13:44:38.394Z
+updated: 2024-06-01T13:44:38.394Z
 tags:
   - ai video
   - ai youtube
@@ -1164,3 +1164,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

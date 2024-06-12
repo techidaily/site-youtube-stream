@@ -1,7 +1,7 @@
 ---
 title: "How to Capitalize on Your YouTube Shorts for Cash Flow for 2024"
-date: 2024-05-25 21:37:43
-updated: 2024-05-27 12:22:37
+date: 2024-05-31T13:45:17.588Z
+updated: 2024-06-01T13:45:17.588Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

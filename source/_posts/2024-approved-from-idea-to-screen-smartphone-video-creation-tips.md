@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Idea to Screen  Smartphone Video Creation Tips\""
-date: 2024-05-25 21:45:45
-updated: 2024-05-27 12:37:35
+date: 2024-05-31T13:46:02.726Z
+updated: 2024-06-01T13:46:02.726Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Thriving in the Digital World  Multiplatform Studio Strategies\""
-date: 2024-05-28 11:20:57
-updated: 2024-05-31 11:44:36
+date: 2024-05-31T13:43:53.729Z
+updated: 2024-06-01T13:43:53.729Z
 tags:
   - ai video
   - ai youtube
@@ -1024,3 +1024,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

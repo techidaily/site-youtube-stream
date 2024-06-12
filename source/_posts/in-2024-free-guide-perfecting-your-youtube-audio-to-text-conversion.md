@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Free Guide  Perfecting Your YouTube Audio-to-Text Conversion\""
-date: 2024-05-24 10:18:46
-updated: 2024-05-27 10:56:17
+date: 2024-05-31T13:43:22.215Z
+updated: 2024-06-01T13:43:22.215Z
 tags:
   - ai video
   - ai youtube
@@ -1146,3 +1146,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

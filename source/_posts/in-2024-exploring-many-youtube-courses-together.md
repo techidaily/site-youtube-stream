@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring Many YouTube Courses Together"
-date: 2024-05-23 23:26:59
-updated: 2024-05-26 10:53:58
+date: 2024-05-31T13:45:33.257Z
+updated: 2024-06-01T13:45:33.257Z
 tags:
   - ai video
   - ai youtube
@@ -788,3 +788,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

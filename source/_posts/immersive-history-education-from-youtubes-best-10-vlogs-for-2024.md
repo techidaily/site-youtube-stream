@@ -1,7 +1,7 @@
 ---
 title: "Immersive History Education From YouTube's Best 10 Vlogs for 2024"
-date: 2024-05-25 12:43:31
-updated: 2024-05-27 10:19:50
+date: 2024-05-31T13:41:31.522Z
+updated: 2024-06-01T13:41:31.522Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Incorruptible Approach to Disabling YouTube’s Mini Videos for 2024"
-date: 2024-05-24 18:21:21
-updated: 2024-05-27 11:51:34
+date: 2024-05-31T13:50:07.236Z
+updated: 2024-06-01T13:50:07.236Z
 tags:
   - ai video
   - ai youtube
@@ -1028,3 +1028,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

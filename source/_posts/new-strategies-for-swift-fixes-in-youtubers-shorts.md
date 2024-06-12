@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Swift Fixes in YouTubers' Shorts"
-date: 2024-05-28 14:10:17
-updated: 2024-05-30 12:48:44
+date: 2024-05-31T13:42:14.762Z
+updated: 2024-06-01T13:42:14.762Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

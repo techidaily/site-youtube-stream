@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Shots Start With The Right Camera & Lens Selection\""
-date: 2024-05-26 12:22:48
-updated: 2024-05-29 12:12:41
+date: 2024-05-31T13:47:37.844Z
+updated: 2024-06-01T13:47:37.844Z
 tags:
   - ai video
   - ai youtube
@@ -692,3 +692,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

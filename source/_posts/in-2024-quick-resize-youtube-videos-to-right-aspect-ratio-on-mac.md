@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Resize YouTube Videos to Right Aspect Ratio on Mac"
-date: 2024-05-27 20:51:49
-updated: 2024-05-29 11:27:43
+date: 2024-05-31T13:48:24.428Z
+updated: 2024-06-01T13:48:24.428Z
 tags:
   - ai video
   - ai youtube
@@ -1418,3 +1418,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

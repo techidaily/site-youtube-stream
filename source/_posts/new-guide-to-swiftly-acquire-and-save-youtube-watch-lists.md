@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Swiftly Acquire and Save YouTube Watch Lists"
-date: 2024-05-26 12:43:34
-updated: 2024-05-27 10:26:58
+date: 2024-05-31T13:41:33.278Z
+updated: 2024-06-01T13:41:33.278Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

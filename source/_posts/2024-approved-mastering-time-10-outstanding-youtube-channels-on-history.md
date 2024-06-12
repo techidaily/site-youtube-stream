@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Time  10 Outstanding YouTube Channels on History\""
-date: 2024-05-25 10:54:24
-updated: 2024-05-28 11:13:15
+date: 2024-05-31T13:51:26.990Z
+updated: 2024-06-01T13:51:26.990Z
 tags:
   - ai video
   - ai youtube
@@ -492,3 +492,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

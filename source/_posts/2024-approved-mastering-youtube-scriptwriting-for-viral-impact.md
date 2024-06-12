@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Scriptwriting for Viral Impact\""
-date: 2024-05-25 16:12:38
-updated: 2024-05-28 10:38:22
+date: 2024-05-31T13:41:50.460Z
+updated: 2024-06-01T13:41:50.460Z
 tags:
   - ai video
   - ai youtube
@@ -1014,3 +1014,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

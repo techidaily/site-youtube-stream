@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Video Features  Annotations & Cards\""
-date: 2024-05-27 11:57:10
-updated: 2024-05-28 11:17:40
+date: 2024-05-31T13:43:12.862Z
+updated: 2024-06-01T13:43:12.862Z
 tags:
   - ai video
   - ai youtube
@@ -590,3 +590,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

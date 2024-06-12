@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Insightful Analysis  The Impact and Mechanics of YouTube's Shorts Fund\""
-date: 2024-05-26 17:52:41
-updated: 2024-05-28 12:18:31
+date: 2024-05-31T13:42:46.440Z
+updated: 2024-06-01T13:42:46.440Z
 tags:
   - ai video
   - ai youtube
@@ -664,3 +664,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reduce, Share and Enjoy  Top 5 Shortened URLs for YouTube\""
-date: 2024-05-28 12:25:58
-updated: 2024-05-29 11:40:22
+date: 2024-05-31T13:50:47.614Z
+updated: 2024-06-01T13:50:47.614Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

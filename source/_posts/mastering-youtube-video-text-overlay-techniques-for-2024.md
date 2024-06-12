@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Video Text Overlay Techniques for 2024"
-date: 2024-05-26 21:31:58
-updated: 2024-05-28 11:59:20
+date: 2024-05-31T13:41:13.150Z
+updated: 2024-06-01T13:41:13.150Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

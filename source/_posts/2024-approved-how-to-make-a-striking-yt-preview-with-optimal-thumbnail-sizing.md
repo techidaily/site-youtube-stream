@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make a Striking YT Preview with Optimal Thumbnail Sizing\""
-date: 2024-05-24 21:20:56
-updated: 2024-05-27 10:57:55
+date: 2024-05-31T13:49:39.626Z
+updated: 2024-06-01T13:49:39.626Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

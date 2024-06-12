@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thumbnail Tactics for Top Views on YouTube Videos"
-date: 2024-05-30 11:35:33
-updated: 2024-05-31 11:29:42
+date: 2024-05-31T13:48:05.032Z
+updated: 2024-06-01T13:48:05.032Z
 tags:
   - ai video
   - ai youtube
@@ -943,3 +943,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplify Cross-Platform Sharing  Convert Spotify Lists to YouTube Seamlessly\""
-date: 2024-05-27 13:31:32
-updated: 2024-05-30 10:36:43
+date: 2024-05-31T13:51:12.726Z
+updated: 2024-06-01T13:51:12.727Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

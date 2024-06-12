@@ -1,7 +1,7 @@
 ---
 title: "\"Fresh Pioneers 8  YouTube's Fastest Climbers for 2024\""
-date: 2024-05-26 18:17:12
-updated: 2024-05-27 10:56:39
+date: 2024-05-31T13:41:45.281Z
+updated: 2024-06-01T13:41:45.281Z
 tags:
   - ai video
   - ai youtube
@@ -844,3 +844,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 15 Virtual Classrooms for Aspiring Scientists"
-date: 2024-05-30 18:53:28
-updated: 2024-05-31 11:55:37
+date: 2024-05-31T13:51:21.094Z
+updated: 2024-06-01T13:51:21.094Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

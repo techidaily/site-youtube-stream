@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering Thumbnail Design  AI & Techniques to Create Fantastic Backdrops\""
-date: 2024-05-27 12:54:13
-updated: 2024-05-29 12:26:31
+date: 2024-05-31T13:47:21.817Z
+updated: 2024-06-01T13:47:21.817Z
 tags:
   - ai video
   - ai youtube
@@ -1061,3 +1061,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

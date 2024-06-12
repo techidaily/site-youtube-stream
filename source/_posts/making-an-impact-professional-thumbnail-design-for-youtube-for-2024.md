@@ -1,7 +1,7 @@
 ---
 title: "\"Making an Impact  Professional Thumbnail Design for YouTube for 2024\""
-date: 2024-05-25 20:51:21
-updated: 2024-05-28 12:21:56
+date: 2024-05-31T13:49:54.969Z
+updated: 2024-06-01T13:49:54.969Z
 tags:
   - ai video
   - ai youtube
@@ -664,3 +664,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

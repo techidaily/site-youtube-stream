@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Self-Portraits  Top Techniques for YouTube Presentations\""
-date: 2024-05-26 19:57:17
-updated: 2024-05-28 11:32:14
+date: 2024-05-31T13:44:13.947Z
+updated: 2024-06-01T13:44:13.947Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

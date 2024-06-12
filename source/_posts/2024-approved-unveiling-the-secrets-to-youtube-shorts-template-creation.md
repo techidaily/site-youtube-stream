@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Secrets to YouTube Shorts Template Creation\""
-date: 2024-05-31 16:18:55
-updated: 2024-06-01 10:15:24
+date: 2024-05-31T13:41:45.250Z
+updated: 2024-06-01T13:41:45.250Z
 tags:
   - ai video
   - ai youtube
@@ -1839,3 +1839,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

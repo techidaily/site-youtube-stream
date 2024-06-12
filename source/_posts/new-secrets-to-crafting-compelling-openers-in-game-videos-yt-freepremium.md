@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets to Crafting Compelling Openers in Game Videos (YT Free/Premium)"
-date: 2024-05-28 16:16:18
-updated: 2024-05-30 10:57:29
+date: 2024-05-31T13:51:04.570Z
+updated: 2024-06-01T13:51:04.570Z
 tags:
   - ai video
   - ai youtube
@@ -1070,3 +1070,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

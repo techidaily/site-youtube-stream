@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Eye Catcher Gaming  Creating Striking Template Designs\""
-date: 2024-05-25 14:11:28
-updated: 2024-05-26 12:25:47
+date: 2024-05-31T13:43:26.021Z
+updated: 2024-06-01T13:43:26.021Z
 tags:
   - ai video
   - ai youtube
@@ -1364,3 +1364,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

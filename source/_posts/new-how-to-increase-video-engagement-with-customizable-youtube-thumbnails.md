@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Increase Video Engagement with Customizable YouTube Thumbnails"
-date: 2024-05-24 20:14:22
-updated: 2024-05-27 10:32:47
+date: 2024-05-31T13:51:31.386Z
+updated: 2024-06-01T13:51:31.386Z
 tags:
   - ai video
   - ai youtube
@@ -451,3 +451,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

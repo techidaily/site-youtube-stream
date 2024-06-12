@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Blueprint for Producing High-Impact YouTube Videos\""
-date: 2024-05-29 19:49:33
-updated: 2024-05-31 10:35:53
+date: 2024-05-31T13:50:50.494Z
+updated: 2024-06-01T13:50:50.494Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

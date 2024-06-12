@@ -1,7 +1,7 @@
 ---
 title: "\"Fearless Filming  Tackling Ten Common Vlog Anxieties Head-On for 2024\""
-date: 2024-05-24 13:34:45
-updated: 2024-05-26 10:39:46
+date: 2024-05-31T13:43:50.932Z
+updated: 2024-06-01T13:43:50.932Z
 tags:
   - ai video
   - ai youtube
@@ -1894,3 +1894,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

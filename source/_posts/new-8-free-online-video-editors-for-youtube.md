@@ -1,7 +1,7 @@
 ---
 title: "[New] 8 Free Online Video Editors for YouTube"
-date: 2024-05-26 23:32:58
-updated: 2024-05-27 10:29:38
+date: 2024-05-31T13:50:04.959Z
+updated: 2024-06-01T13:50:04.959Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

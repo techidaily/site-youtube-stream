@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Be A Beauty Guru on YouTube  Beauty Vlogger Set Up\""
-date: 2024-05-24 21:33:14
-updated: 2024-05-27 12:34:21
+date: 2024-05-31T13:47:45.287Z
+updated: 2024-06-01T13:47:45.287Z
 tags:
   - ai video
   - ai youtube
@@ -1122,3 +1122,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

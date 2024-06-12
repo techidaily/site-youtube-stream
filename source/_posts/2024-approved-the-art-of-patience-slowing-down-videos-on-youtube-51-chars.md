@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Patience  Slowing Down Videos on YouTube (51 Chars)\""
-date: 2024-05-29 16:27:50
-updated: 2024-05-30 12:35:58
+date: 2024-05-31T13:51:37.357Z
+updated: 2024-06-01T13:51:37.357Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

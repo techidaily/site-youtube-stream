@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sourav Joshi’s Financial Journey  Charting a Profitable Course on YouTube\""
-date: 2024-05-28 18:14:13
-updated: 2024-05-30 10:31:49
+date: 2024-05-31T13:42:58.321Z
+updated: 2024-06-01T13:42:58.321Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

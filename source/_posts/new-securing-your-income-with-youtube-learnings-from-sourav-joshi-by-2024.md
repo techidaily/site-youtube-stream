@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Securing Your Income with YouTube  Learnings From Sourav Joshi by 2024\""
-date: 2024-05-29 15:19:30
-updated: 2024-05-30 10:16:39
+date: 2024-05-31T13:48:50.348Z
+updated: 2024-06-01T13:48:50.348Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

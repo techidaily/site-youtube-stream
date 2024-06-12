@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Light Your YouTube Video"
-date: 2024-05-24 20:34:56
-updated: 2024-05-27 12:35:56
+date: 2024-05-31T13:45:46.967Z
+updated: 2024-06-01T13:45:46.967Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making Your Own YouTube Beginnings & Endings Cheaply\""
-date: 2024-05-25 15:56:47
-updated: 2024-05-28 11:36:39
+date: 2024-05-31T13:43:18.315Z
+updated: 2024-06-01T13:43:18.315Z
 tags:
   - ai video
   - ai youtube
@@ -688,3 +688,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Is Paying for YouTube Traffic Worthwhile, In 2024"
-date: 2024-05-25 14:58:11
-updated: 2024-05-28 12:54:42
+date: 2024-05-31T13:50:58.827Z
+updated: 2024-06-01T13:50:58.827Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

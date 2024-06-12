@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Power Play  Joining a Music Company Network in the Age of Streaming\""
-date: 2024-05-30 16:22:48
-updated: 2024-05-31 10:50:17
+date: 2024-05-31T13:45:12.893Z
+updated: 2024-06-01T13:45:12.893Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

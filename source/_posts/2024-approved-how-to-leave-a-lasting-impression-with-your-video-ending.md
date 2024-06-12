@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Leave a Lasting Impression with Your Video Ending\""
-date: 2024-05-25 20:30:33
-updated: 2024-05-27 10:11:31
+date: 2024-05-31T13:48:22.820Z
+updated: 2024-06-01T13:48:22.820Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

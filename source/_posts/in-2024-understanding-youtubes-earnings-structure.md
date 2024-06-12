@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding YouTube's Earnings Structure"
-date: 2024-05-29 10:10:36
-updated: 2024-06-01 11:56:35
+date: 2024-05-31T13:44:21.200Z
+updated: 2024-06-01T13:44:21.200Z
 tags:
   - ai video
   - ai youtube
@@ -536,3 +536,4 @@ So, in this article, we have discussed a step-by-step process for creating **a Y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

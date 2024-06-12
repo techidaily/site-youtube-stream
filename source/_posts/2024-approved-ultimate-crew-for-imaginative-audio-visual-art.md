@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Crew for Imaginative Audio-Visual Art\""
-date: 2024-05-30 16:32:18
-updated: 2024-06-01 12:58:40
+date: 2024-05-31T13:45:12.088Z
+updated: 2024-06-01T13:45:12.089Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

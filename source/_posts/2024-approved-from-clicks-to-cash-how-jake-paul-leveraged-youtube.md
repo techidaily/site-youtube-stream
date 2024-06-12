@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Clicks to Cash  How Jake Paul Leveraged YouTube\""
-date: 2024-05-24 12:27:57
-updated: 2024-05-27 11:23:38
+date: 2024-05-31T13:43:23.812Z
+updated: 2024-06-01T13:43:23.812Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

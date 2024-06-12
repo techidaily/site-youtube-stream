@@ -1,7 +1,7 @@
 ---
 title: "[New] Open Source Video Template Ideas for YouTube"
-date: 2024-05-28 13:16:17
-updated: 2024-05-29 10:47:29
+date: 2024-05-31T13:48:44.856Z
+updated: 2024-06-01T13:48:44.856Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

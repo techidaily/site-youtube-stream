@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators"
-date: 2024-05-29 17:50:41
-updated: 2024-05-31 10:24:26
+date: 2024-05-31T13:43:42.207Z
+updated: 2024-06-01T13:43:42.207Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

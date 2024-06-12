@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Your YouTube Content's First Visual Hook"
-date: 2024-05-28 18:43:54
-updated: 2024-05-29 11:27:12
+date: 2024-05-31T13:43:41.558Z
+updated: 2024-06-01T13:43:41.558Z
 tags:
   - ai video
   - ai youtube
@@ -1330,3 +1330,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

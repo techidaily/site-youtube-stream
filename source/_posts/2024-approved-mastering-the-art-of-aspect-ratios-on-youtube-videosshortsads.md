@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Aspect Ratios on YouTube Videos/Shorts/Ads\""
-date: 2024-05-27 21:58:22
-updated: 2024-05-28 12:51:44
+date: 2024-05-31T13:44:41.634Z
+updated: 2024-06-01T13:44:41.634Z
 tags:
   - ai video
   - ai youtube
@@ -884,3 +884,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

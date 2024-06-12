@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mac Basics for Creating Attractive First Youtube Videos"
-date: 2024-05-27 12:55:20
-updated: 2024-05-28 11:46:56
+date: 2024-05-31T13:44:31.255Z
+updated: 2024-06-01T13:44:31.255Z
 tags:
   - ai video
   - ai youtube
@@ -930,3 +930,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

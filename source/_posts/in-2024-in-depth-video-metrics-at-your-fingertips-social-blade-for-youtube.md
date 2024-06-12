@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, In-Depth Video Metrics at Your Fingertips  Social Blade for YouTube\""
-date: 2024-05-25 13:22:15
-updated: 2024-05-27 11:29:27
+date: 2024-05-31T13:46:04.381Z
+updated: 2024-06-01T13:46:04.381Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

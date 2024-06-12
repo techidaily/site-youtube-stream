@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thrifty Mics  The Budgetist's Guide for Youtubers\""
-date: 2024-05-28 11:39:24
-updated: 2024-05-31 12:21:11
+date: 2024-05-31T13:50:13.395Z
+updated: 2024-06-01T13:50:13.395Z
 tags:
   - ai video
   - ai youtube
@@ -1490,3 +1490,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing the Problem  Hidden Thumbnails in YouTube Shorts for 2024\""
-date: 2024-05-25 21:39:51
-updated: 2024-05-27 11:38:48
+date: 2024-05-31T13:46:43.147Z
+updated: 2024-06-01T13:46:43.147Z
 tags:
   - ai video
   - ai youtube
@@ -495,3 +495,4 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

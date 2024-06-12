@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Video Sizing  A Step-by-Step Approach\""
-date: 2024-05-25 16:53:44
-updated: 2024-05-28 10:45:25
+date: 2024-05-31T13:40:52.503Z
+updated: 2024-06-01T13:40:52.503Z
 tags:
   - ai video
   - ai youtube
@@ -1534,3 +1534,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Top 20 Gags & Laughter on YouTube for Downtime Delight\""
-date: 2024-05-28 16:36:58
-updated: 2024-05-31 12:38:31
+date: 2024-05-31T13:49:39.853Z
+updated: 2024-06-01T13:49:39.853Z
 tags:
   - ai video
   - ai youtube
@@ -1270,3 +1270,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

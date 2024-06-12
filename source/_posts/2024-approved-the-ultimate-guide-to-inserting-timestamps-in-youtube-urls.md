@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Inserting Timestamps in YouTube URLs\""
-date: 2024-05-29 20:11:44
-updated: 2024-05-31 12:52:11
+date: 2024-05-31T13:48:24.034Z
+updated: 2024-06-01T13:48:24.034Z
 tags:
   - ai video
   - ai youtube
@@ -1310,3 +1310,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

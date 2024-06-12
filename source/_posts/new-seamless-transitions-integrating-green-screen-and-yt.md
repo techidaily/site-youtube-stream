@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Transitions  Integrating Green Screen & YT\""
-date: 2024-05-27 17:21:49
-updated: 2024-05-30 10:57:35
+date: 2024-05-31T13:41:34.473Z
+updated: 2024-06-01T13:41:34.473Z
 tags:
   - ai video
   - ai youtube
@@ -1602,3 +1602,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Easy Way  Adding External YT Videos to Your PowerPoint Sessions\""
-date: 2024-05-28 13:28:29
-updated: 2024-05-31 10:18:23
+date: 2024-05-31T13:44:08.831Z
+updated: 2024-06-01T13:44:08.831Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

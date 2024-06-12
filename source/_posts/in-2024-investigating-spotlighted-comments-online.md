@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Investigating Spotlighted Comments Online"
-date: 2024-05-25 18:56:26
-updated: 2024-05-28 10:46:10
+date: 2024-05-31T13:47:11.289Z
+updated: 2024-06-01T13:47:11.289Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

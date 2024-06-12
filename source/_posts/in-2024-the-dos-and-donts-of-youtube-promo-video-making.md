@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Do's and Don’ts of YouTube Promo Video Making"
-date: 2024-05-29 11:39:37
-updated: 2024-05-31 12:26:30
+date: 2024-05-31T13:49:23.313Z
+updated: 2024-06-01T13:49:23.313Z
 tags:
   - ai video
   - ai youtube
@@ -502,3 +502,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

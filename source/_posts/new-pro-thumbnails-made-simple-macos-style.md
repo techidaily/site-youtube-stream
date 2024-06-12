@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Thumbnails Made Simple  MacOS Style\""
-date: 2024-05-28 17:23:39
-updated: 2024-05-29 11:55:39
+date: 2024-05-31T13:48:38.265Z
+updated: 2024-06-01T13:48:38.265Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ No. After a service provider has sent out the likes, they don't have a way to ta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

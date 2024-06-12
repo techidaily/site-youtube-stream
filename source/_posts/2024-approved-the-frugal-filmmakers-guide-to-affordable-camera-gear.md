@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Frugal Filmmaker's Guide to Affordable Camera Gear\""
-date: 2024-05-29 15:59:18
-updated: 2024-05-31 12:11:41
+date: 2024-05-31T13:43:03.110Z
+updated: 2024-06-01T13:43:03.110Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

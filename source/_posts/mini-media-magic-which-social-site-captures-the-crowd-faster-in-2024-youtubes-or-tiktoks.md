@@ -1,7 +1,7 @@
 ---
 title: "\"Mini-Media Magic  Which Social Site Captures the Crowd Faster, In 2024 YouTubes or TikToks?\""
-date: 2024-05-27 13:21:33
-updated: 2024-05-28 11:56:16
+date: 2024-05-31T13:44:44.583Z
+updated: 2024-06-01T13:44:44.583Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

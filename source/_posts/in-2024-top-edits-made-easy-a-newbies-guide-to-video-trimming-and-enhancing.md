@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Edits Made Easy  A Newbie's Guide to Video Trimming & Enhancing\""
-date: 2024-05-28 12:57:17
-updated: 2024-05-31 11:39:51
+date: 2024-05-31T13:50:20.569Z
+updated: 2024-06-01T13:50:20.569Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

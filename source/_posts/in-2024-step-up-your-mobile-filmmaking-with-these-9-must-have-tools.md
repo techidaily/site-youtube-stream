@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step Up Your Mobile Filmmaking with These 9 Must-Have Tools\""
-date: 2024-05-28 12:51:11
-updated: 2024-05-30 12:38:53
+date: 2024-05-31T13:43:04.604Z
+updated: 2024-06-01T13:43:04.604Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

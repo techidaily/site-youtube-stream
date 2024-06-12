@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Infographic Analysis  The Hottest 2023 Trends\""
-date: 2024-05-24 12:12:42
-updated: 2024-05-27 11:17:10
+date: 2024-05-31T13:42:01.213Z
+updated: 2024-06-01T13:42:01.213Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

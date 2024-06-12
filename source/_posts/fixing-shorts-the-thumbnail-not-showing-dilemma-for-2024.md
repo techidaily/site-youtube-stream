@@ -1,7 +1,7 @@
 ---
 title: "\"Fixing Shorts  The Thumbnail Not Showing Dilemma for 2024\""
-date: 2024-05-24 17:45:43
-updated: 2024-05-27 11:31:55
+date: 2024-05-31T13:41:05.967Z
+updated: 2024-06-01T13:41:05.967Z
 tags:
   - ai video
   - ai youtube
@@ -531,3 +531,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

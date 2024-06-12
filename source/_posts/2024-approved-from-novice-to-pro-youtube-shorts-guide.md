@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Pro  YouTube Shorts Guide\""
-date: 2024-05-26 18:12:28
-updated: 2024-05-27 10:31:30
+date: 2024-05-31T13:49:50.750Z
+updated: 2024-06-01T13:49:50.750Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optimize Video Quality  Turning ON AV1 in YouTube Settings\""
-date: 2024-05-27 12:10:26
-updated: 2024-05-29 12:19:21
+date: 2024-05-31T13:48:12.525Z
+updated: 2024-06-01T13:48:12.525Z
 tags:
   - ai video
   - ai youtube
@@ -576,3 +576,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

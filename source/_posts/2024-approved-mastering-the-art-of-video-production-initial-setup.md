@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Video Production  Initial Setup\""
-date: 2024-05-25 22:19:47
-updated: 2024-05-28 11:40:16
+date: 2024-05-31T13:48:33.920Z
+updated: 2024-06-01T13:48:33.920Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

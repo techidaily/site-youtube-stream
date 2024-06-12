@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Smart Youtuber's Playbook  Fixing Short Snafus\""
-date: 2024-05-29 17:59:37
-updated: 2024-05-31 12:24:32
+date: 2024-05-31T13:46:45.818Z
+updated: 2024-06-01T13:46:45.818Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

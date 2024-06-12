@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Triple Trouble  How to Handle Three Tubes of Content at Once\""
-date: 2024-05-29 21:53:49
-updated: 2024-06-01 11:27:26
+date: 2024-05-31T13:46:44.640Z
+updated: 2024-06-01T13:46:44.640Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

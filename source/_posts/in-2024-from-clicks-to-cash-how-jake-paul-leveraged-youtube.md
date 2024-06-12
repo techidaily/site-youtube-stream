@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Clicks to Cash  How Jake Paul Leveraged YouTube\""
-date: 2024-05-25 23:10:49
-updated: 2024-05-27 10:59:33
+date: 2024-05-31T13:41:42.998Z
+updated: 2024-06-01T13:41:42.998Z
 tags:
   - ai video
   - ai youtube
@@ -640,3 +640,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Size Matters  Crafting Engaging Video Titles\""
-date: 2024-05-28 21:56:32
-updated: 2024-05-30 11:43:20
+date: 2024-05-31T13:46:12.587Z
+updated: 2024-06-01T13:46:12.587Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

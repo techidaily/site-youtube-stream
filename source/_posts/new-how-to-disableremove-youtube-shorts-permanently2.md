@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Disable/Remove YouTube Shorts Permanently?2"
-date: 2024-05-24 15:21:32
-updated: 2024-05-27 12:39:50
+date: 2024-05-31T13:49:51.683Z
+updated: 2024-06-01T13:49:51.683Z
 tags:
   - ai video
   - ai youtube
@@ -2250,3 +2250,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

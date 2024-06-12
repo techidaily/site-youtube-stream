@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick & Simple Thumbs Up for Your YouTube Shorts"
-date: 2024-05-26 14:16:57
-updated: 2024-05-29 11:49:47
+date: 2024-05-31T13:43:27.046Z
+updated: 2024-06-01T13:43:27.046Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

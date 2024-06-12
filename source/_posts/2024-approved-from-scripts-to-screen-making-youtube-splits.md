@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Scripts to Screen  Making YouTube Splits\""
-date: 2024-05-24 16:33:46
-updated: 2024-05-27 12:47:23
+date: 2024-05-31T13:46:26.145Z
+updated: 2024-06-01T13:46:26.145Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

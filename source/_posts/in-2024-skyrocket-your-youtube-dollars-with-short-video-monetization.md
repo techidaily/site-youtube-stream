@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Skyrocket Your YouTube Dollars with Short Video Monetization"
-date: 2024-05-28 10:10:38
-updated: 2024-05-30 11:55:56
+date: 2024-05-31T13:48:14.892Z
+updated: 2024-06-01T13:48:14.892Z
 tags:
   - ai video
   - ai youtube
@@ -1260,3 +1260,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

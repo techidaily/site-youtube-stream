@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Secrets to Earnings on YouTube Shorts\""
-date: 2024-05-29 13:36:26
-updated: 2024-06-01 11:21:11
+date: 2024-05-31T13:51:25.140Z
+updated: 2024-06-01T13:51:25.140Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

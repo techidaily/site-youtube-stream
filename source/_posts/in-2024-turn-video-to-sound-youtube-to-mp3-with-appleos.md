@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Turn Video to Sound  YouTube to MP3 with AppleOS\""
-date: 2024-05-31 18:20:24
-updated: 2024-06-01 11:37:51
+date: 2024-05-31T13:48:57.939Z
+updated: 2024-06-01T13:48:57.939Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

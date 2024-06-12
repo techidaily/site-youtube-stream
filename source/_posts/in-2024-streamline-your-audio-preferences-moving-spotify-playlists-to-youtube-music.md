@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Your Audio Preferences  Moving Spotify Playlists to YouTube Music\""
-date: 2024-05-28 12:36:18
-updated: 2024-05-30 11:44:21
+date: 2024-05-31T13:49:39.073Z
+updated: 2024-06-01T13:49:39.073Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

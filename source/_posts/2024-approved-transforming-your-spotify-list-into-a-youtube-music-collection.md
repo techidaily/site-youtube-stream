@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Your Spotify List Into a YouTube Music Collection\""
-date: 2024-05-29 11:25:34
-updated: 2024-06-01 12:46:48
+date: 2024-05-31T13:47:52.295Z
+updated: 2024-06-01T13:47:52.295Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

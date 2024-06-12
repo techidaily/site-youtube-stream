@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nurturing Nature in the Metropolis  A New Paradigm for Cities\""
-date: 2024-05-26 20:59:49
-updated: 2024-05-29 12:48:26
+date: 2024-05-31T13:44:38.776Z
+updated: 2024-06-01T13:44:38.776Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

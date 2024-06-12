@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlink From YouTube Shorts - Follow This Plan\""
-date: 2024-05-31 22:13:42
-updated: 2024-06-01 12:54:25
+date: 2024-05-31T13:44:13.683Z
+updated: 2024-06-01T13:44:13.683Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

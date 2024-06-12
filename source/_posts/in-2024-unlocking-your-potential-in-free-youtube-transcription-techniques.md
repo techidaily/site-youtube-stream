@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Your Potential in Free YouTube Transcription Techniques"
-date: 2024-05-31 19:57:34
-updated: 2024-06-01 11:24:31
+date: 2024-05-31T13:49:03.184Z
+updated: 2024-06-01T13:49:03.184Z
 tags:
   - ai video
   - ai youtube
@@ -1482,3 +1482,4 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

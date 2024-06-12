@@ -1,7 +1,7 @@
 ---
 title: "\"From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas for 2024\""
-date: 2024-05-24 22:35:18
-updated: 2024-05-27 12:48:19
+date: 2024-05-31T13:41:16.285Z
+updated: 2024-06-01T13:41:16.285Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

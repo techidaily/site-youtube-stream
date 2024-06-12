@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ideal Titles & Sizes  Maximizing Click Through Rates\""
-date: 2024-05-25 18:37:37
-updated: 2024-05-27 11:23:24
+date: 2024-05-31T13:41:43.654Z
+updated: 2024-06-01T13:41:43.654Z
 tags:
   - ai video
   - ai youtube
@@ -640,3 +640,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

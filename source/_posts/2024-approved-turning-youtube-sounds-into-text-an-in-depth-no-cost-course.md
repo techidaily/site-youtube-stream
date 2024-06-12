@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turning YouTube Sounds Into Text  An In-Depth, No-Cost Course\""
-date: 2024-05-31 22:21:25
-updated: 2024-06-01 11:10:17
+date: 2024-05-31T13:45:41.990Z
+updated: 2024-06-01T13:45:41.990Z
 tags:
   - ai video
   - ai youtube
@@ -1430,3 +1430,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

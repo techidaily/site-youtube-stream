@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Game On  The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)\""
-date: 2024-05-24 16:15:47
-updated: 2024-05-27 11:38:16
+date: 2024-05-31T13:47:16.050Z
+updated: 2024-06-01T13:47:16.050Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

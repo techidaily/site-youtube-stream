@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Mechanics of YouTube Shorts Monetization\""
-date: 2024-05-30 12:17:42
-updated: 2024-05-31 10:11:38
+date: 2024-05-31T13:48:15.536Z
+updated: 2024-06-01T13:48:15.536Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Retro Editing Magic  Cutting Classical Cinematography\""
-date: 2024-05-26 19:38:26
-updated: 2024-05-29 10:13:27
+date: 2024-05-31T13:42:31.318Z
+updated: 2024-06-01T13:42:31.318Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

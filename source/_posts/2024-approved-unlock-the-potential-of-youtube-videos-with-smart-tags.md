@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Potential of YouTube Videos with Smart Tags\""
-date: 2024-05-29 15:38:38
-updated: 2024-06-01 12:19:18
+date: 2024-05-31T13:41:08.076Z
+updated: 2024-06-01T13:41:08.076Z
 tags:
   - ai video
   - ai youtube
@@ -936,3 +936,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Regulations on Capturing YouTube Playbacks"
-date: 2024-05-28 15:51:50
-updated: 2024-05-29 10:35:27
+date: 2024-05-31T13:42:28.640Z
+updated: 2024-06-01T13:42:28.640Z
 tags:
   - ai video
   - ai youtube
@@ -663,3 +663,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

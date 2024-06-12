@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Tools for Non-Pro YouTubers\""
-date: 2024-05-27 21:31:51
-updated: 2024-05-29 12:57:43
+date: 2024-05-31T13:45:37.250Z
+updated: 2024-06-01T13:45:37.250Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

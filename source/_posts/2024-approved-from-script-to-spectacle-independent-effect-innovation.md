@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Script to Spectacle  Independent Effect Innovation\""
-date: 2024-05-24 14:37:43
-updated: 2024-05-27 10:52:13
+date: 2024-05-31T13:45:58.243Z
+updated: 2024-06-01T13:45:58.243Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

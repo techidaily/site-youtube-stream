@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft"
-date: 2024-05-29 11:26:37
-updated: 2024-05-31 11:55:21
+date: 2024-05-31T13:46:26.798Z
+updated: 2024-06-01T13:46:26.798Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

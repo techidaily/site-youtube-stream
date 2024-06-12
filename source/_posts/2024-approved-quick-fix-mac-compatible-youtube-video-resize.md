@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fix  Mac-Compatible YouTube Video Resize\""
-date: 2024-05-26 14:19:22
-updated: 2024-05-29 12:49:48
+date: 2024-05-31T13:48:35.140Z
+updated: 2024-06-01T13:48:35.140Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

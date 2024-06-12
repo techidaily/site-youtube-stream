@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How To Retrieve Your Voice on YouTube (Comments)"
-date: 2024-05-25 16:28:11
-updated: 2024-05-27 12:47:24
+date: 2024-05-31T13:47:02.234Z
+updated: 2024-06-01T13:47:02.234Z
 tags:
   - ai video
   - ai youtube
@@ -1290,3 +1290,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

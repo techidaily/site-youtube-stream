@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premier FIFA Vids  Data Visualized for Social Media\""
-date: 2024-05-27 18:57:55
-updated: 2024-05-29 11:44:32
+date: 2024-05-31T13:49:09.416Z
+updated: 2024-06-01T13:49:09.416Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

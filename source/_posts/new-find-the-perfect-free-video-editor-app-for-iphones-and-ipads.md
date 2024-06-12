@@ -1,7 +1,7 @@
 ---
 title: "[New] Find the Perfect Free Video Editor App for iPhones & iPads"
-date: 2024-05-25 16:39:43
-updated: 2024-05-26 12:50:45
+date: 2024-05-31T13:49:10.391Z
+updated: 2024-06-01T13:49:10.391Z
 tags:
   - ai video
   - ai youtube
@@ -1574,3 +1574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pause Non-Selected YouTube Video Suggestions\""
-date: 2024-05-27 11:31:34
-updated: 2024-05-29 11:38:11
+date: 2024-05-31T13:48:25.943Z
+updated: 2024-06-01T13:48:25.943Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

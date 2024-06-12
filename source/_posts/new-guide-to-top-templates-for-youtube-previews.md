@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Top Templates for YouTube Previews"
-date: 2024-05-24 16:50:29
-updated: 2024-05-27 12:14:12
+date: 2024-05-31T13:48:55.842Z
+updated: 2024-06-01T13:48:55.842Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

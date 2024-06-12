@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Animated Content for a Brighter Day  YouTube Anime Channels List\""
-date: 2024-05-30 20:42:42
-updated: 2024-05-31 11:51:14
+date: 2024-05-31T13:42:25.489Z
+updated: 2024-06-01T13:42:25.489Z
 tags:
   - ai video
   - ai youtube
@@ -1098,3 +1098,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

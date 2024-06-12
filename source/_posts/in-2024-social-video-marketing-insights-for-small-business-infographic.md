@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Social Video Marketing Insights for Small Business [Infographic]"
-date: 2024-05-28 14:53:18
-updated: 2024-05-30 11:26:24
+date: 2024-05-31T13:42:48.820Z
+updated: 2024-06-01T13:42:48.820Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

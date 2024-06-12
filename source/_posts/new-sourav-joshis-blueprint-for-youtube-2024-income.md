@@ -1,7 +1,7 @@
 ---
 title: "[New] Sourav Joshi's Blueprint for YouTube 2024 Income"
-date: 2024-05-28 22:42:17
-updated: 2024-05-30 10:55:49
+date: 2024-05-31T13:48:14.197Z
+updated: 2024-06-01T13:48:14.197Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

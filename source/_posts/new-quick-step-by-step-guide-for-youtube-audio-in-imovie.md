@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Step-by-Step Guide for YouTube Audio in iMovie\""
-date: 2024-05-26 11:47:18
-updated: 2024-05-29 11:41:56
+date: 2024-05-31T13:42:45.938Z
+updated: 2024-06-01T13:42:45.938Z
 tags:
   - ai video
   - ai youtube
@@ -1622,3 +1622,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Beat Weaver's Treasury  High-Res DJ Visual Samples\""
-date: 2024-05-29 19:26:55
-updated: 2024-05-31 10:22:11
+date: 2024-05-31T13:42:30.506Z
+updated: 2024-06-01T13:42:30.506Z
 tags:
   - ai video
   - ai youtube
@@ -1394,3 +1394,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

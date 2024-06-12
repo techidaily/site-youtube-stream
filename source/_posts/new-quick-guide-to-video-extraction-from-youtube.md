@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Guide to Video Extraction From YouTube"
-date: 2024-05-27 21:41:28
-updated: 2024-05-29 11:13:33
+date: 2024-05-31T13:49:35.991Z
+updated: 2024-06-01T13:49:35.991Z
 tags:
   - ai video
   - ai youtube
@@ -2287,3 +2287,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies to Triple Your Earnings on Youtube Shorts"
-date: 2024-05-27 17:58:12
-updated: 2024-05-30 10:21:42
+date: 2024-05-31T13:47:02.472Z
+updated: 2024-06-01T13:47:02.472Z
 tags:
   - ai video
   - ai youtube
@@ -668,3 +668,4 @@ You can also explore the user-friendly Wondershare Filmora for top-quality video
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

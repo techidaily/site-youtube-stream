@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Authenticity  Financial Fruits in Filmmaking\""
-date: 2024-05-28 11:39:32
-updated: 2024-05-30 11:21:59
+date: 2024-05-31T13:48:14.339Z
+updated: 2024-06-01T13:48:14.339Z
 tags:
   - ai video
   - ai youtube
@@ -763,3 +763,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

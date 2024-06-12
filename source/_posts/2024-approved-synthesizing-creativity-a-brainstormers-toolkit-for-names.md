@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Synthesizing Creativity  A Brainstormer’s Toolkit for Names\""
-date: 2024-05-27 21:56:54
-updated: 2024-05-30 12:34:20
+date: 2024-05-31T13:47:55.634Z
+updated: 2024-06-01T13:47:55.634Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

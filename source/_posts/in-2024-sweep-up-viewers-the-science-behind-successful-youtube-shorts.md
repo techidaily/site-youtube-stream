@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sweep Up Viewers  The Science Behind Successful YouTube Shorts\""
-date: 2024-05-29 23:50:49
-updated: 2024-05-30 11:30:40
+date: 2024-05-31T13:47:41.426Z
+updated: 2024-06-01T13:47:41.426Z
 tags:
   - ai video
   - ai youtube
@@ -999,3 +999,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

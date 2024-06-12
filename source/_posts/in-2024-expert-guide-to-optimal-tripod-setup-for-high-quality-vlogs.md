@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Expert Guide to Optimal Tripod Setup for High-Quality Vlogs\""
-date: 2024-05-25 17:27:48
-updated: 2024-05-26 12:48:49
+date: 2024-05-31T13:48:07.133Z
+updated: 2024-06-01T13:48:07.133Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

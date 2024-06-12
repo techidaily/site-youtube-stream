@@ -1,7 +1,7 @@
 ---
 title: "[New] QuickSnip VideoSuite"
-date: 2024-05-27 12:10:18
-updated: 2024-05-29 10:11:22
+date: 2024-05-31T13:41:32.222Z
+updated: 2024-06-01T13:41:32.222Z
 tags:
   - ai video
   - ai youtube
@@ -446,3 +446,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

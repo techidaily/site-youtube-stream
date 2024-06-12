@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Video Marketing on YouTube\""
-date: 2024-05-25 13:20:45
-updated: 2024-05-28 11:49:40
+date: 2024-05-31T13:46:22.913Z
+updated: 2024-06-01T13:46:22.913Z
 tags:
   - ai video
   - ai youtube
@@ -1232,3 +1232,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

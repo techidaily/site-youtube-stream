@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate How-To for Controlling YouTube Playback Speed\""
-date: 2024-05-28 17:53:53
-updated: 2024-05-31 12:13:19
+date: 2024-05-31T13:47:29.183Z
+updated: 2024-06-01T13:47:29.183Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

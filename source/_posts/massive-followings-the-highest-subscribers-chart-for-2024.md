@@ -1,7 +1,7 @@
 ---
 title: "\"Massive Followings  The Highest Subscribers Chart for 2024\""
-date: 2024-05-27 20:21:42
-updated: 2024-05-28 10:37:27
+date: 2024-05-31T13:44:09.053Z
+updated: 2024-06-01T13:44:09.053Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

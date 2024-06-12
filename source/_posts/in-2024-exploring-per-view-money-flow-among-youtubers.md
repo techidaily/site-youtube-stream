@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Exploring Per-View Money Flow Among YouTubers\""
-date: 2024-05-25 14:54:23
-updated: 2024-05-26 11:14:11
+date: 2024-05-31T13:41:21.621Z
+updated: 2024-06-01T13:41:21.621Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Shorts Templates  A Complete Guide\""
-date: 2024-05-27 16:21:51
-updated: 2024-05-28 10:20:10
+date: 2024-05-31T13:42:39.431Z
+updated: 2024-06-01T13:42:39.431Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

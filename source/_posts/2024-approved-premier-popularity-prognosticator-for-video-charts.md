@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier Popularity Prognosticator for Video Charts\""
-date: 2024-05-28 17:57:14
-updated: 2024-05-29 11:49:54
+date: 2024-05-31T13:47:25.472Z
+updated: 2024-06-01T13:47:25.472Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

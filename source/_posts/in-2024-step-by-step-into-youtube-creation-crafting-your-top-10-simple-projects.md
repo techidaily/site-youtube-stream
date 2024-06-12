@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Into YouTube Creation  Crafting Your Top 10 Simple Projects\""
-date: 2024-05-27 14:33:28
-updated: 2024-05-30 12:21:49
+date: 2024-05-31T13:47:50.362Z
+updated: 2024-06-01T13:47:50.362Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

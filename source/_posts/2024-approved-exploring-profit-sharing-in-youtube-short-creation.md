@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring Profit Sharing in YouTube Short Creation\""
-date: 2024-05-24 16:52:13
-updated: 2024-05-26 10:48:22
+date: 2024-05-31T13:44:07.185Z
+updated: 2024-06-01T13:44:07.185Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

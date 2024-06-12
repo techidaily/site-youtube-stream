@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Science Sphere's Finest 15 YouTube Picks"
-date: 2024-05-26 12:43:36
-updated: 2024-05-29 10:52:27
+date: 2024-05-31T13:43:00.955Z
+updated: 2024-06-01T13:43:00.955Z
 tags:
   - ai video
   - ai youtube
@@ -1014,3 +1014,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

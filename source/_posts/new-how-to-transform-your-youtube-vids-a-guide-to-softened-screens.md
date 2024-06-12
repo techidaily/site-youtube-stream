@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Transform Your Youtube Vids  A Guide to Softened Screens\""
-date: 2024-05-25 18:41:25
-updated: 2024-05-27 12:59:55
+date: 2024-05-31T13:41:15.466Z
+updated: 2024-06-01T13:41:15.466Z
 tags:
   - ai video
   - ai youtube
@@ -748,3 +748,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

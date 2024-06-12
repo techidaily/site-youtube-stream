@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pathway to YouTube Partnerships  Simplifying the Process for Small Creators\""
-date: 2024-05-28 19:47:19
-updated: 2024-05-29 11:59:21
+date: 2024-05-31T13:50:43.003Z
+updated: 2024-06-01T13:50:43.003Z
 tags:
   - ai video
   - ai youtube
@@ -720,3 +720,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smart Growth Metropolis  Balancing Development and Nature\""
-date: 2024-05-29 23:54:34
-updated: 2024-05-30 11:40:43
+date: 2024-05-31T13:43:17.084Z
+updated: 2024-06-01T13:43:17.084Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

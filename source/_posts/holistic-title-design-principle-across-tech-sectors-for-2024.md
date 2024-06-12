@@ -1,7 +1,7 @@
 ---
 title: "Holistic Title Design Principle Across Tech Sectors for 2024"
-date: 2024-05-24 23:47:47
-updated: 2024-05-27 12:41:53
+date: 2024-05-31T13:48:59.736Z
+updated: 2024-06-01T13:48:59.736Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Locating Your Own Playlists on Youtube\""
-date: 2024-05-27 16:20:32
-updated: 2024-05-28 11:37:51
+date: 2024-05-31T13:51:08.119Z
+updated: 2024-06-01T13:51:08.119Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

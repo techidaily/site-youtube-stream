@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Adding YouTube Videos to GSlides  A Step-by-Step Guide\""
-date: 2024-05-26 21:10:57
-updated: 2024-05-28 10:35:17
+date: 2024-05-31T13:49:48.943Z
+updated: 2024-06-01T13:49:48.943Z
 tags:
   - ai video
   - ai youtube
@@ -1080,3 +1080,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

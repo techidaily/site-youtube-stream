@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Updated YouTube Income Guidelines\""
-date: 2024-05-31 22:10:39
-updated: 2024-06-01 10:31:48
+date: 2024-05-31T13:49:12.273Z
+updated: 2024-06-01T13:49:12.273Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

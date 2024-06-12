@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Automate iPhone's Video Repetition\""
-date: 2024-05-24 14:12:50
-updated: 2024-05-27 12:51:20
+date: 2024-05-31T13:50:46.497Z
+updated: 2024-06-01T13:50:46.497Z
 tags:
   - ai video
   - ai youtube
@@ -1300,3 +1300,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

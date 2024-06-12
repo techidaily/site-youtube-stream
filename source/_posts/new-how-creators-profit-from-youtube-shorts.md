@@ -1,7 +1,7 @@
 ---
 title: "[New] How Creators Profit From YouTube Shorts"
-date: 2024-05-26 12:37:38
-updated: 2024-05-27 10:58:31
+date: 2024-05-31T13:43:53.815Z
+updated: 2024-06-01T13:43:53.815Z
 tags:
   - ai video
   - ai youtube
@@ -668,3 +668,4 @@ Checking YouTube income is not a big deal. This article has covered every necess
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

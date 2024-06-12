@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Revolutionize Your Mind  Best 15 Tech & Science Channels\""
-date: 2024-05-28 12:16:18
-updated: 2024-05-29 10:37:15
+date: 2024-05-31T13:41:41.947Z
+updated: 2024-06-01T13:41:41.947Z
 tags:
   - ai video
   - ai youtube
@@ -1354,3 +1354,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

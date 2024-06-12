@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating the Short-Form Space  YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms for 2024\""
-date: 2024-05-27 19:38:43
-updated: 2024-05-29 10:38:54
+date: 2024-05-31T13:50:38.286Z
+updated: 2024-06-01T13:50:38.286Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

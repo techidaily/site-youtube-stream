@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring The Most Effective 10 Yoga Video Platforms\""
-date: 2024-05-23 20:56:36
-updated: 2024-05-26 11:40:12
+date: 2024-05-31T13:42:44.782Z
+updated: 2024-06-01T13:42:44.782Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How User-Generated Feedback Influences Video Ranks\""
-date: 2024-05-24 14:57:59
-updated: 2024-05-27 11:28:55
+date: 2024-05-31T13:47:48.494Z
+updated: 2024-06-01T13:47:48.494Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

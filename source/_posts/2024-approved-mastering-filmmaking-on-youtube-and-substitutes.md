@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Filmmaking on YouTube & Substitutes\""
-date: 2024-05-27 16:20:36
-updated: 2024-05-28 12:40:11
+date: 2024-05-31T13:45:44.098Z
+updated: 2024-06-01T13:45:44.098Z
 tags:
   - ai video
   - ai youtube
@@ -630,3 +630,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

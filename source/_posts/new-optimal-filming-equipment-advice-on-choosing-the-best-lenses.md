@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimal Filming Equipment  Advice on Choosing the Best Lenses\""
-date: 2024-05-28 10:58:35
-updated: 2024-05-29 11:36:50
+date: 2024-05-31T13:43:14.747Z
+updated: 2024-06-01T13:43:14.747Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

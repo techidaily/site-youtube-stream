@@ -1,7 +1,7 @@
 ---
 title: "[New] Sound to Word Converter for Videos"
-date: 2024-05-29 23:21:21
-updated: 2024-05-30 11:17:51
+date: 2024-05-31T13:41:31.009Z
+updated: 2024-06-01T13:41:31.009Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Key Information Every ASMR Aficionado Should Know"
-date: 2024-05-25 13:36:35
-updated: 2024-05-28 10:57:10
+date: 2024-05-31T13:41:59.824Z
+updated: 2024-06-01T13:41:59.824Z
 tags:
   - ai video
   - ai youtube
@@ -1706,3 +1706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

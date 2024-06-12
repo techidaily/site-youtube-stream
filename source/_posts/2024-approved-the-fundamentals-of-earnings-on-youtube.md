@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fundamentals of Earnings on YouTube\""
-date: 2024-05-30 17:47:40
-updated: 2024-05-31 12:50:46
+date: 2024-05-31T13:42:26.039Z
+updated: 2024-06-01T13:42:26.039Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

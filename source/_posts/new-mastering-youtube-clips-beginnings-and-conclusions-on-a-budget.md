@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering YouTube Clips  Beginnings & Conclusions on a Budget\""
-date: 2024-05-27 16:38:24
-updated: 2024-05-28 10:27:35
+date: 2024-05-31T13:51:07.869Z
+updated: 2024-06-01T13:51:07.869Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

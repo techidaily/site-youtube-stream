@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Customization for YouTube Shorts Thumbnails for 2024"
-date: 2024-05-26 21:18:39
-updated: 2024-05-28 10:17:13
+date: 2024-05-31T13:43:12.413Z
+updated: 2024-06-01T13:43:12.413Z
 tags:
   - ai video
   - ai youtube
@@ -514,3 +514,4 @@ So, in this article, we have discussed a step-by-step process for creating **a Y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

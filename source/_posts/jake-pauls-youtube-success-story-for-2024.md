@@ -1,7 +1,7 @@
 ---
 title: "Jake Paul's YouTube Success Story for 2024"
-date: 2024-05-29 10:26:59
-updated: 2024-05-31 11:12:45
+date: 2024-05-31T13:45:09.056Z
+updated: 2024-06-01T13:45:09.056Z
 tags:
   - ai video
   - ai youtube
@@ -1510,3 +1510,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

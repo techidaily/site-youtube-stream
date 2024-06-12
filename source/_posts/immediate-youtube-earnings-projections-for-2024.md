@@ -1,7 +1,7 @@
 ---
 title: "Immediate YouTube Earnings Projections for 2024"
-date: 2024-05-24 16:41:19
-updated: 2024-05-27 10:36:10
+date: 2024-05-31T13:41:26.006Z
+updated: 2024-06-01T13:41:26.006Z
 tags:
   - ai video
   - ai youtube
@@ -624,3 +624,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

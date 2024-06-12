@@ -1,7 +1,7 @@
 ---
 title: "\"Minute-by-Minute Fortnite Tile Methods for 2024\""
-date: 2024-05-25 11:38:38
-updated: 2024-05-28 11:41:48
+date: 2024-05-31T13:48:23.645Z
+updated: 2024-06-01T13:48:23.645Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

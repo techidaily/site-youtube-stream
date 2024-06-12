@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guide to Make Your Shorts' Thumbnail Pop Up"
-date: 2024-05-26 11:42:17
-updated: 2024-05-27 12:53:55
+date: 2024-05-31T13:43:34.280Z
+updated: 2024-06-01T13:43:34.280Z
 tags:
   - ai video
   - ai youtube
@@ -447,3 +447,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

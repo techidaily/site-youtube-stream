@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The YouTube Studio Essential Checklist for Video Mastery"
-date: 2024-05-28 20:58:40
-updated: 2024-05-31 12:56:40
+date: 2024-05-31T13:49:56.027Z
+updated: 2024-06-01T13:49:56.027Z
 tags:
   - ai video
   - ai youtube
@@ -867,3 +867,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

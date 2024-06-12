@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Pro  YouTube Editing & Alternatives\""
-date: 2024-05-26 11:43:33
-updated: 2024-05-27 11:40:36
+date: 2024-05-31T13:48:33.196Z
+updated: 2024-06-01T13:48:33.196Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

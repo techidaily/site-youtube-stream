@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make Fortnite Thumbnail for Free and Easy"
-date: 2024-05-25 12:40:46
-updated: 2024-05-27 12:43:22
+date: 2024-05-31T13:43:56.620Z
+updated: 2024-06-01T13:43:56.620Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instant YouTube Playlists Shared Tutorial\""
-date: 2024-05-27 16:20:14
-updated: 2024-05-28 12:43:18
+date: 2024-05-31T13:49:31.766Z
+updated: 2024-06-01T13:49:31.766Z
 tags:
   - ai video
   - ai youtube
@@ -546,3 +546,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

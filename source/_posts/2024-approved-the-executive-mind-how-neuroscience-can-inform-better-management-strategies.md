@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Executive Mind  How Neuroscience Can Inform Better Management Strategies\""
-date: 2024-05-28 14:43:23
-updated: 2024-05-31 10:46:26
+date: 2024-05-31T13:42:12.831Z
+updated: 2024-06-01T13:42:12.831Z
 tags:
   - ai video
   - ai youtube
@@ -1698,3 +1698,4 @@ You can try creating a video for YouTube. And use Filmora to make your videos im
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

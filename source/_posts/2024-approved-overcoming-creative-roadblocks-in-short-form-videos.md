@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overcoming Creative Roadblocks in Short Form Videos\""
-date: 2024-05-28 15:14:51
-updated: 2024-05-29 11:11:58
+date: 2024-05-31T13:43:10.646Z
+updated: 2024-06-01T13:43:10.646Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

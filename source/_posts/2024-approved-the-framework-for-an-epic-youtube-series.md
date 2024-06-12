@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Framework for an Epic YouTube Series\""
-date: 2024-05-30 21:26:42
-updated: 2024-05-31 11:19:16
+date: 2024-05-31T13:44:10.716Z
+updated: 2024-06-01T13:44:10.716Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

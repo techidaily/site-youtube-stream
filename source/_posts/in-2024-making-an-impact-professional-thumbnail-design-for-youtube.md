@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Making an Impact  Professional Thumbnail Design for YouTube\""
-date: 2024-05-27 12:58:38
-updated: 2024-05-28 12:17:19
+date: 2024-05-31T13:48:58.686Z
+updated: 2024-06-01T13:48:58.686Z
 tags:
   - ai video
   - ai youtube
@@ -558,3 +558,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

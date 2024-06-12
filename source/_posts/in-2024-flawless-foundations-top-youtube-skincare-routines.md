@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Flawless Foundations  Top YouTube Skincare Routines\""
-date: 2024-05-24 13:17:14
-updated: 2024-05-27 12:16:44
+date: 2024-05-31T13:50:37.826Z
+updated: 2024-06-01T13:50:37.826Z
 tags:
   - ai video
   - ai youtube
@@ -1834,3 +1834,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

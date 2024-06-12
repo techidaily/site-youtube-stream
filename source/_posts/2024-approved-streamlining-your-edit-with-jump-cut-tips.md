@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Your Edit with Jump Cut Tips\""
-date: 2024-05-27 12:38:52
-updated: 2024-05-30 12:24:26
+date: 2024-05-31T13:42:58.455Z
+updated: 2024-06-01T13:42:58.455Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

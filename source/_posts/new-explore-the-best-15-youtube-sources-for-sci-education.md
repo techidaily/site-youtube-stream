@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Explore the Best 15 YouTube Sources for Sci-Education\""
-date: 2024-05-24 23:18:28
-updated: 2024-05-26 12:39:43
+date: 2024-05-31T13:49:29.223Z
+updated: 2024-06-01T13:49:29.223Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

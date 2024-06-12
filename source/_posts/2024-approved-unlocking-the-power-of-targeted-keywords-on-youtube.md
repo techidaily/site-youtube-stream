@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Power of Targeted Keywords on YouTube\""
-date: 2024-05-29 23:53:37
-updated: 2024-06-01 10:15:34
+date: 2024-05-31T13:49:08.789Z
+updated: 2024-06-01T13:49:08.789Z
 tags:
   - ai video
   - ai youtube
@@ -1670,3 +1670,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Filmmaker's Handbook  Secrets to Stellar YouTube Video Production\""
-date: 2024-05-28 23:49:42
-updated: 2024-05-31 12:47:45
+date: 2024-05-31T13:42:29.974Z
+updated: 2024-06-01T13:42:29.974Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

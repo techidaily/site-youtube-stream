@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Overcoming Shyness in the Spotlight  Top Video Blogger Fears\""
-date: 2024-05-28 19:43:36
-updated: 2024-05-29 10:12:43
+date: 2024-05-31T13:44:24.872Z
+updated: 2024-06-01T13:44:24.872Z
 tags:
   - ai video
   - ai youtube
@@ -723,3 +723,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

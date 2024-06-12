@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 4 Ways To Set Up Your YouTube Talking-Head Shots\""
-date: 2024-05-29 18:41:29
-updated: 2024-05-30 10:33:32
+date: 2024-05-31T13:48:25.887Z
+updated: 2024-06-01T13:48:25.887Z
 tags:
   - ai video
   - ai youtube
@@ -1330,3 +1330,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

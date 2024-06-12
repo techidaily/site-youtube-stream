@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Find Joy, One Anime at a Time  YouTube's Best Channels (List)\""
-date: 2024-05-23 12:33:46
-updated: 2024-05-26 11:50:23
+date: 2024-05-31T13:42:49.086Z
+updated: 2024-06-01T13:42:49.086Z
 tags:
   - ai video
   - ai youtube
@@ -1706,3 +1706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Setup a Mac Studio for Sports Content\""
-date: 2024-05-24 18:34:24
-updated: 2024-05-27 10:24:27
+date: 2024-05-31T13:44:03.997Z
+updated: 2024-06-01T13:44:03.997Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

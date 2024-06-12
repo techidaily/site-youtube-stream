@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tunes Takeover  Transitioning Tracks to YouTube\""
-date: 2024-05-29 13:56:26
-updated: 2024-06-01 10:51:14
+date: 2024-05-31T13:48:15.637Z
+updated: 2024-06-01T13:48:15.637Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

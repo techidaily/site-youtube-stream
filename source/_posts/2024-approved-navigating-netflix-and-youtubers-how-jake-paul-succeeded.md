@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Netflix & YouTubers  How Jake Paul Succeeded\""
-date: 2024-05-25 21:30:53
-updated: 2024-05-28 10:34:11
+date: 2024-05-31T13:46:22.983Z
+updated: 2024-06-01T13:46:22.983Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

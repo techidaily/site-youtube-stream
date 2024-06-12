@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Extract Subtitles for Free  Top 10 Tools Reviewed\""
-date: 2024-05-23 18:56:22
-updated: 2024-05-26 10:35:23
+date: 2024-05-31T13:50:49.301Z
+updated: 2024-06-01T13:50:49.301Z
 tags:
   - ai video
   - ai youtube
@@ -1216,3 +1216,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

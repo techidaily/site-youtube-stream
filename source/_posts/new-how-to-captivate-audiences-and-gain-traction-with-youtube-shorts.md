@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Captivate Audiences and Gain Traction with YouTube Shorts"
-date: 2024-05-24 20:33:32
-updated: 2024-05-27 10:13:12
+date: 2024-05-31T13:50:59.919Z
+updated: 2024-06-01T13:50:59.919Z
 tags:
   - ai video
   - ai youtube
@@ -1110,3 +1110,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

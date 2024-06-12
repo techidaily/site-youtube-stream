@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premier Screener for Capturing High-Quality Videos\""
-date: 2024-05-26 12:41:16
-updated: 2024-05-29 11:41:12
+date: 2024-05-31T13:43:01.479Z
+updated: 2024-06-01T13:43:01.479Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

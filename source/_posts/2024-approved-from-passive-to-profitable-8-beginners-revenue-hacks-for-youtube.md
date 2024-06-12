@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Passive to Profitable  8 Beginner's Revenue Hacks for YouTube\""
-date: 2024-05-25 16:33:53
-updated: 2024-05-27 11:41:21
+date: 2024-05-31T13:49:39.588Z
+updated: 2024-06-01T13:49:39.588Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

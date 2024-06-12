@@ -1,7 +1,7 @@
 ---
 title: "\"Making a Visual Impact  Neon-Borded YouTube Thumbnails Guide for 2024\""
-date: 2024-05-25 16:41:15
-updated: 2024-05-28 11:51:40
+date: 2024-05-31T13:41:26.544Z
+updated: 2024-06-01T13:41:26.544Z
 tags:
   - ai video
   - ai youtube
@@ -679,3 +679,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

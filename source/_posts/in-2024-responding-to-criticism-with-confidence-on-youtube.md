@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Responding to Criticism with Confidence on YouTube"
-date: 2024-05-26 13:25:58
-updated: 2024-05-29 11:28:42
+date: 2024-05-31T13:43:14.327Z
+updated: 2024-06-01T13:43:14.327Z
 tags:
   - ai video
   - ai youtube
@@ -558,3 +558,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

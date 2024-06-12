@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turn On/Off YouTube Feedback Settings With This Guide"
-date: 2024-05-31 19:25:11
-updated: 2024-06-01 11:57:39
+date: 2024-05-31T13:46:27.916Z
+updated: 2024-06-01T13:46:27.916Z
 tags:
   - ai video
   - ai youtube
@@ -808,3 +808,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

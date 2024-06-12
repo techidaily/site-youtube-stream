@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Focusing Attention with Eye-Catching Intros in iMovie\""
-date: 2024-05-24 21:20:21
-updated: 2024-05-27 10:50:36
+date: 2024-05-31T13:46:39.293Z
+updated: 2024-06-01T13:46:39.293Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

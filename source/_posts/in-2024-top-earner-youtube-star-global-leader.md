@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Earner YouTube Star - Global Leader\""
-date: 2024-05-28 10:40:36
-updated: 2024-05-31 10:21:37
+date: 2024-05-31T13:47:18.313Z
+updated: 2024-06-01T13:47:18.313Z
 tags:
   - ai video
   - ai youtube
@@ -1107,3 +1107,4 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

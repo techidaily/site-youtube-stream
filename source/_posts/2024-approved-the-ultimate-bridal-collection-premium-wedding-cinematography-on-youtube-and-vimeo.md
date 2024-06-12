@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Bridal Collection  Premium Wedding Cinematography on YouTube & Vimeo\""
-date: 2024-05-30 13:25:46
-updated: 2024-05-31 12:45:38
+date: 2024-05-31T13:48:21.974Z
+updated: 2024-06-01T13:48:21.974Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ With 720,000 hours of video being uploaded every day to YouTube, getting your vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

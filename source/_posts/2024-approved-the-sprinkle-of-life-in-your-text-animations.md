@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Sprinkle of Life in Your Text Animations\""
-date: 2024-05-29 12:20:10
-updated: 2024-05-31 12:14:50
+date: 2024-05-31T13:44:20.731Z
+updated: 2024-06-01T13:44:20.731Z
 tags:
   - ai video
   - ai youtube
@@ -1054,3 +1054,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

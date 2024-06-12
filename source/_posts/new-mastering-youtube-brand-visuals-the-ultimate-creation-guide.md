@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering YouTube Brand Visuals  The Ultimate Creation Guide\""
-date: 2024-05-26 17:28:17
-updated: 2024-05-28 11:12:41
+date: 2024-05-31T13:48:54.865Z
+updated: 2024-06-01T13:48:54.865Z
 tags:
   - ai video
   - ai youtube
@@ -1440,3 +1440,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

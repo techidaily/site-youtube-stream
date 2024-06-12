@@ -1,7 +1,7 @@
 ---
 title: "Navigate to 8 Online Vaults for Free Green Screen Backdrop Archives for 2024"
-date: 2024-05-27 11:15:23
-updated: 2024-05-28 12:54:28
+date: 2024-05-31T13:46:43.745Z
+updated: 2024-06-01T13:46:43.745Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

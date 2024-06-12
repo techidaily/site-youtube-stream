@@ -1,7 +1,7 @@
 ---
 title: "Mastering iMovie Content for YouTube Distribution for 2024"
-date: 2024-05-27 18:11:31
-updated: 2024-05-28 11:37:52
+date: 2024-05-31T13:48:02.813Z
+updated: 2024-06-01T13:48:02.813Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

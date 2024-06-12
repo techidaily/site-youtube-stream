@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside the Cut  YouTube's 20 Best Bands\""
-date: 2024-05-27 20:41:45
-updated: 2024-05-28 10:58:48
+date: 2024-05-31T13:45:32.992Z
+updated: 2024-06-01T13:45:32.992Z
 tags:
   - ai video
   - ai youtube
@@ -1426,3 +1426,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

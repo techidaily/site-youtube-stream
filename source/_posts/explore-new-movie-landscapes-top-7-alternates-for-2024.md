@@ -1,7 +1,7 @@
 ---
 title: "\"Explore New Movie Landscapes - Top 7 Alternates for 2024\""
-date: 2024-05-24 15:13:11
-updated: 2024-05-26 10:52:29
+date: 2024-05-31T13:45:16.422Z
+updated: 2024-06-01T13:45:16.422Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

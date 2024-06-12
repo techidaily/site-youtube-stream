@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac)"
-date: 2024-05-25 17:46:49
-updated: 2024-05-28 11:28:29
+date: 2024-05-31T13:42:55.897Z
+updated: 2024-06-01T13:42:55.897Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

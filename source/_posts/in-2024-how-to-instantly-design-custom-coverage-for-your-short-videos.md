@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How To Instantly Design Custom Coverage For Your Short Videos"
-date: 2024-05-26 16:12:35
-updated: 2024-05-27 12:40:12
+date: 2024-05-31T13:48:32.117Z
+updated: 2024-06-01T13:48:32.117Z
 tags:
   - ai video
   - ai youtube
@@ -776,3 +776,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

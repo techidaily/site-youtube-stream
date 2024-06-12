@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optimizing Your Online Video Strategy  YouTube + TikTok\""
-date: 2024-05-26 19:21:10
-updated: 2024-05-29 10:28:39
+date: 2024-05-31T13:42:21.021Z
+updated: 2024-06-01T13:42:21.021Z
 tags:
   - ai video
   - ai youtube
@@ -991,3 +991,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

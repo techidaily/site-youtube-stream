@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Step Into Wealthy Creator Land via YouTube Shorts Revenue"
-date: 2024-05-27 21:48:41
-updated: 2024-05-30 11:59:24
+date: 2024-05-31T13:49:18.008Z
+updated: 2024-06-01T13:49:18.008Z
 tags:
   - ai video
   - ai youtube
@@ -840,3 +840,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

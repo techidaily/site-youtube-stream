@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Glam-Rific Guide to Hauls and Hair Care\""
-date: 2024-05-25 18:23:22
-updated: 2024-05-27 12:26:16
+date: 2024-05-31T13:48:43.680Z
+updated: 2024-06-01T13:48:43.680Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

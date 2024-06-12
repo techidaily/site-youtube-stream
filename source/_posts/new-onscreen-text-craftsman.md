@@ -1,7 +1,7 @@
 ---
 title: "[New] Onscreen Text Craftsman"
-date: 2024-05-27 19:41:55
-updated: 2024-05-29 11:39:37
+date: 2024-05-31T13:46:07.057Z
+updated: 2024-06-01T13:46:07.057Z
 tags:
   - ai video
   - ai youtube
@@ -1114,3 +1114,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

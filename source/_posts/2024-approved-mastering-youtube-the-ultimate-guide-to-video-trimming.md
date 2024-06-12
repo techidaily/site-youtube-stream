@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube  The Ultimate Guide to Video Trimming\""
-date: 2024-05-25 18:24:11
-updated: 2024-05-28 11:52:12
+date: 2024-05-31T13:44:28.419Z
+updated: 2024-06-01T13:44:28.419Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

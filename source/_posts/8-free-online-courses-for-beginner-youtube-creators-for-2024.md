@@ -1,7 +1,7 @@
 ---
 title: "8 Free Online Courses for Beginner YouTube Creators for 2024"
-date: 2024-05-25 23:39:59
-updated: 2024-05-27 11:36:23
+date: 2024-05-31T13:50:27.754Z
+updated: 2024-06-01T13:50:27.754Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

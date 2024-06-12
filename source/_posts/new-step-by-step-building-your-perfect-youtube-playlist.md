@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Building Your Perfect YouTube Playlist\""
-date: 2024-05-27 18:40:13
-updated: 2024-05-30 11:21:41
+date: 2024-05-31T13:48:00.871Z
+updated: 2024-06-01T13:48:00.871Z
 tags:
   - ai video
   - ai youtube
@@ -470,3 +470,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

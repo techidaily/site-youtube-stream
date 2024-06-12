@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Financial Anatomy of YouTube Shorts Money Splitting\""
-date: 2024-05-29 17:27:29
-updated: 2024-05-31 12:38:21
+date: 2024-05-31T13:45:06.238Z
+updated: 2024-06-01T13:45:06.238Z
 tags:
   - ai video
   - ai youtube
@@ -715,3 +715,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

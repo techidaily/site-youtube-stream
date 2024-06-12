@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turning Viewership Into Cash with Carminati (Ajay)"
-date: 2024-05-31 16:59:17
-updated: 2024-06-01 10:52:50
+date: 2024-05-31T13:42:18.935Z
+updated: 2024-06-01T13:42:18.935Z
 tags:
   - ai video
   - ai youtube
@@ -607,3 +607,4 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

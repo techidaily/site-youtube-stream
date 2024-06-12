@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating YouTube Shorts Thumbnail Losses\""
-date: 2024-05-28 14:57:40
-updated: 2024-05-29 11:15:53
+date: 2024-05-31T13:41:54.916Z
+updated: 2024-06-01T13:41:54.916Z
 tags:
   - ai video
   - ai youtube
@@ -479,3 +479,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

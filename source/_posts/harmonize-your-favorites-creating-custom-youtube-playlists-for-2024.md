@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonize Your Favorites  Creating Custom YouTube Playlists for 2024\""
-date: 2024-05-26 11:36:46
-updated: 2024-05-27 11:10:31
+date: 2024-05-31T13:46:41.924Z
+updated: 2024-06-01T13:46:41.924Z
 tags:
   - ai video
   - ai youtube
@@ -772,3 +772,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

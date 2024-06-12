@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Substitute Cinema Classics, Ranked #7-1\""
-date: 2024-05-29 11:23:22
-updated: 2024-05-30 10:20:30
+date: 2024-05-31T13:45:16.273Z
+updated: 2024-06-01T13:45:16.273Z
 tags:
   - ai video
   - ai youtube
@@ -764,3 +764,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

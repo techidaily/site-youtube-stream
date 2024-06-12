@@ -1,7 +1,7 @@
 ---
 title: "[New] Explore the Top 15 YouTube Binge Spots for Anime Lovers"
-date: 2024-05-25 17:32:24
-updated: 2024-05-26 12:15:22
+date: 2024-05-31T13:45:34.868Z
+updated: 2024-06-01T13:45:34.868Z
 tags:
   - ai video
   - ai youtube
@@ -912,3 +912,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

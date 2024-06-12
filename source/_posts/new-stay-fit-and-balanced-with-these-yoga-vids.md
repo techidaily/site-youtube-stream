@@ -1,7 +1,7 @@
 ---
 title: "[New] Stay Fit and Balanced with These Yoga Vids"
-date: 2024-05-28 10:20:14
-updated: 2024-05-30 12:26:55
+date: 2024-05-31T13:49:01.506Z
+updated: 2024-06-01T13:49:01.506Z
 tags:
   - ai video
   - ai youtube
@@ -1722,3 +1722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

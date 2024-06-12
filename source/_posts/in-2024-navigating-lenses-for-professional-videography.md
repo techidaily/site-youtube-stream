@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Lenses for Professional Videography"
-date: 2024-05-27 14:45:31
-updated: 2024-05-28 12:26:30
+date: 2024-05-31T13:47:10.185Z
+updated: 2024-06-01T13:47:10.185Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

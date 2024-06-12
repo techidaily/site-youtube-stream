@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ingenious Designer of Visual & Auditory Delight\""
-date: 2024-05-24 20:26:22
-updated: 2024-05-27 11:23:47
+date: 2024-05-31T13:43:06.180Z
+updated: 2024-06-01T13:43:06.180Z
 tags:
   - ai video
   - ai youtube
@@ -1128,3 +1128,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

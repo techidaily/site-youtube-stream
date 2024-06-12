@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Making YouTube Video Thumbnails (Mobile)\""
-date: 2024-05-28 15:11:38
-updated: 2024-05-30 10:40:24
+date: 2024-05-31T13:41:04.718Z
+updated: 2024-06-01T13:41:04.718Z
 tags:
   - ai video
   - ai youtube
@@ -1159,3 +1159,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

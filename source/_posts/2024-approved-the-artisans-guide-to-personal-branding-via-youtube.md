@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Guide to Personal Branding via YouTube\""
-date: 2024-05-30 17:26:35
-updated: 2024-05-31 10:33:44
+date: 2024-05-31T13:48:09.141Z
+updated: 2024-06-01T13:48:09.141Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

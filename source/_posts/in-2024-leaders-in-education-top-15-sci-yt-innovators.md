@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leaders in Education  Top 15 Sci-YT Innovators\""
-date: 2024-05-25 23:14:43
-updated: 2024-05-28 11:43:46
+date: 2024-05-31T13:45:57.717Z
+updated: 2024-06-01T13:45:57.717Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

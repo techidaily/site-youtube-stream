@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Find and Change Your YouTube Channel URL – Super Easy\""
-date: 2024-05-25 22:36:19
-updated: 2024-05-27 10:48:15
+date: 2024-05-31T13:51:12.485Z
+updated: 2024-06-01T13:51:12.485Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

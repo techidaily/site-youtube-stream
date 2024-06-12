@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making Compelling Media Previews for Channels\""
-date: 2024-05-27 10:19:28
-updated: 2024-05-28 12:41:28
+date: 2024-05-31T13:44:13.909Z
+updated: 2024-06-01T13:44:13.909Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

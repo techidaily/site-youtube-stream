@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reduce Buffering & Lag - Turn On AV1 in YouTube Settings\""
-date: 2024-05-27 18:40:32
-updated: 2024-05-29 10:57:51
+date: 2024-05-31T13:43:54.132Z
+updated: 2024-06-01T13:43:54.132Z
 tags:
   - ai video
   - ai youtube
@@ -368,3 +368,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

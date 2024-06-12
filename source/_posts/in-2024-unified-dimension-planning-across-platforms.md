@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unified Dimension Planning Across Platforms"
-date: 2024-05-31 13:53:43
-updated: 2024-06-01 10:11:16
+date: 2024-05-31T13:43:36.894Z
+updated: 2024-06-01T13:43:36.894Z
 tags:
   - ai video
   - ai youtube
@@ -1630,3 +1630,4 @@ InShot is the best app to put music to videos for Android users. For iOS users, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

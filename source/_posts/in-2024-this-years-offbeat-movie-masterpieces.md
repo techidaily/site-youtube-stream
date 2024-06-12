@@ -1,7 +1,7 @@
 ---
 title: "In 2024, This Year’s Offbeat Movie Masterpieces"
-date: 2024-05-30 21:18:42
-updated: 2024-05-31 12:18:38
+date: 2024-05-31T13:47:26.042Z
+updated: 2024-06-01T13:47:26.042Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

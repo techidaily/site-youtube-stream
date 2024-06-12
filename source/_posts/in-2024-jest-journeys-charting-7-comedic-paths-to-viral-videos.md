@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Jest Journeys  Charting 7 Comedic Paths to Viral Videos\""
-date: 2024-05-27 15:53:28
-updated: 2024-05-28 10:31:39
+date: 2024-05-31T13:41:39.817Z
+updated: 2024-06-01T13:41:39.817Z
 tags:
   - ai video
   - ai youtube
@@ -1258,3 +1258,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

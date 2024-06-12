@@ -1,7 +1,7 @@
 ---
 title: "Ideal Dimensions for YouTube Thumbnail Attraction for 2024"
-date: 2024-05-24 12:36:51
-updated: 2024-05-27 10:10:12
+date: 2024-05-31T13:46:15.344Z
+updated: 2024-06-01T13:46:15.344Z
 tags:
   - ai video
   - ai youtube
@@ -856,3 +856,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

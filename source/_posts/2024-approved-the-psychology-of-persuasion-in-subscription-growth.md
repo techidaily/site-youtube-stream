@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Psychology of Persuasion in Subscription Growth\""
-date: 2024-05-29 10:11:10
-updated: 2024-05-31 12:54:41
+date: 2024-05-31T13:47:21.186Z
+updated: 2024-06-01T13:47:21.186Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

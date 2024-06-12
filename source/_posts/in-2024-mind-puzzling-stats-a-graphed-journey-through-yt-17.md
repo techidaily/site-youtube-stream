@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mind-Puzzling Stats  A Graphed Journey Through YT '17\""
-date: 2024-05-27 19:50:39
-updated: 2024-05-28 11:47:26
+date: 2024-05-31T13:42:44.318Z
+updated: 2024-06-01T13:42:44.318Z
 tags:
   - ai video
   - ai youtube
@@ -494,3 +494,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering  Sharing Your Privacy-Guarded YT Clip via Gmail Pro\""
-date: 2024-05-25 12:59:59
-updated: 2024-05-28 12:50:19
+date: 2024-05-31T13:50:29.160Z
+updated: 2024-06-01T13:50:29.160Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

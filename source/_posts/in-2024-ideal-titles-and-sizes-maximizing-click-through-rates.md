@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ideal Titles & Sizes  Maximizing Click Through Rates\""
-date: 2024-05-25 19:10:49
-updated: 2024-05-27 11:49:45
+date: 2024-05-31T13:47:43.422Z
+updated: 2024-06-01T13:47:43.422Z
 tags:
   - ai video
   - ai youtube
@@ -626,3 +626,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore the Best 15 YouTube Sources for Sci-Education\""
-date: 2024-05-24 10:24:45
-updated: 2024-05-26 12:39:38
+date: 2024-05-31T13:42:39.263Z
+updated: 2024-06-01T13:42:39.263Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering the Past  Selecting Top Historical Educational YTs\""
-date: 2024-05-27 16:42:13
-updated: 2024-05-29 11:17:33
+date: 2024-05-31T13:43:39.547Z
+updated: 2024-06-01T13:43:39.547Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

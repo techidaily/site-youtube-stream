@@ -1,7 +1,7 @@
 ---
 title: "\"Free Video Wizardry  Top 8 Editing Programs for YouTube Enthusiasts for 2024\""
-date: 2024-05-24 22:17:57
-updated: 2024-05-27 12:18:32
+date: 2024-05-31T13:48:19.293Z
+updated: 2024-06-01T13:48:19.293Z
 tags:
   - ai video
   - ai youtube
@@ -1422,3 +1422,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

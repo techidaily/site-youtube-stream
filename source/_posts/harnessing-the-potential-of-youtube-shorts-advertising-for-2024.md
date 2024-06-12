@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Potential of YouTube Shorts Advertising for 2024"
-date: 2024-05-24 13:45:21
-updated: 2024-05-27 12:55:55
+date: 2024-05-31T13:50:23.747Z
+updated: 2024-06-01T13:50:23.747Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

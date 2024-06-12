@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Yoga-Focused Fitness Channels\""
-date: 2024-05-29 13:46:12
-updated: 2024-05-31 12:46:42
+date: 2024-05-31T13:50:10.236Z
+updated: 2024-06-01T13:50:10.236Z
 tags:
   - ai video
   - ai youtube
@@ -920,3 +920,4 @@ Checking YouTube income is not a big deal. This article has covered every necess
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

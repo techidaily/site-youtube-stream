@@ -1,7 +1,7 @@
 ---
 title: "Integrating Shorts for Social Networks for 2024"
-date: 2024-05-27 13:40:59
-updated: 2024-05-28 11:38:28
+date: 2024-05-31T13:45:04.639Z
+updated: 2024-06-01T13:45:04.639Z
 tags:
   - ai video
   - ai youtube
@@ -1438,3 +1438,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

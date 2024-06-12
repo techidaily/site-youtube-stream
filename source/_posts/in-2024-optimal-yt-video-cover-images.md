@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal YT Video Cover Images"
-date: 2024-05-28 15:23:10
-updated: 2024-05-29 10:21:52
+date: 2024-05-31T13:48:25.396Z
+updated: 2024-06-01T13:48:25.396Z
 tags:
   - ai video
   - ai youtube
@@ -803,3 +803,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

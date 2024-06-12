@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries  The 9 Most Advanced Mobile Filmmaking Accessories\""
-date: 2024-05-26 12:20:57
-updated: 2024-05-29 12:51:26
+date: 2024-05-31T13:41:44.611Z
+updated: 2024-06-01T13:41:44.611Z
 tags:
   - ai video
   - ai youtube
@@ -606,3 +606,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

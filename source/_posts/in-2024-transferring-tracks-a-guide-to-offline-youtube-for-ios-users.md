@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transferring Tracks  A Guide to Offline YouTube for iOS Users\""
-date: 2024-05-30 10:35:41
-updated: 2024-06-01 12:29:15
+date: 2024-05-31T13:42:24.586Z
+updated: 2024-06-01T13:42:24.586Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

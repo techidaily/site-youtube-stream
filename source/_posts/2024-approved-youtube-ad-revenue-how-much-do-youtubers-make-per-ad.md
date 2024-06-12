@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  YouTube Ad Revenue  How Much Do YouTubers Make Per Ad?\""
-date: 2024-05-25 15:28:51
-updated: 2024-05-27 11:29:21
+date: 2024-05-31T13:48:39.900Z
+updated: 2024-06-01T13:48:39.900Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ With 720,000 hours of video being uploaded every day to YouTube, getting your vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

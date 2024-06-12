@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever\""
-date: 2024-05-25 16:32:47
-updated: 2024-05-26 10:18:23
+date: 2024-05-31T13:44:57.172Z
+updated: 2024-06-01T13:44:57.172Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

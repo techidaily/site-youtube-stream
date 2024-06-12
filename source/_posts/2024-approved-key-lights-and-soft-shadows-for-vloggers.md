@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Lights and Soft Shadows for Vloggers\""
-date: 2024-05-27 19:33:45
-updated: 2024-05-28 11:58:25
+date: 2024-05-31T13:42:59.445Z
+updated: 2024-06-01T13:42:59.445Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

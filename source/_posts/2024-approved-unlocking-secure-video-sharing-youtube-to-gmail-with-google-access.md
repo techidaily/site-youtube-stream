@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Secure Video Sharing  YouTube to Gmail with Google Access\""
-date: 2024-05-31 22:57:27
-updated: 2024-06-01 10:11:55
+date: 2024-05-31T13:40:53.942Z
+updated: 2024-06-01T13:40:53.942Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

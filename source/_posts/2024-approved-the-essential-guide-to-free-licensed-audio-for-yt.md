@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Free, Licensed Audio for YT\""
-date: 2024-05-28 13:52:16
-updated: 2024-05-31 12:34:53
+date: 2024-05-31T13:46:16.127Z
+updated: 2024-06-01T13:46:16.127Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

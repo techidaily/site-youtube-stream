@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Micro Movie Maker\""
-date: 2024-05-25 16:50:20
-updated: 2024-05-28 12:23:48
+date: 2024-05-31T13:48:59.530Z
+updated: 2024-06-01T13:48:59.530Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

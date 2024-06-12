@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding the Role of Dimensions in YOUTUBE's Viewer Engagement\""
-date: 2024-05-31 11:26:15
-updated: 2024-06-01 10:11:34
+date: 2024-05-31T13:50:28.904Z
+updated: 2024-06-01T13:50:28.904Z
 tags:
   - ai video
   - ai youtube
@@ -623,3 +623,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"From Novice to Pro  YouTube Shorts Guide for 2024\""
-date: 2024-05-25 22:52:48
-updated: 2024-05-27 12:47:38
+date: 2024-05-31T13:50:50.170Z
+updated: 2024-06-01T13:50:50.170Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

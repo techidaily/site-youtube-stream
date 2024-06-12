@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas\""
-date: 2024-05-26 21:43:15
-updated: 2024-05-27 11:37:19
+date: 2024-05-31T13:43:47.717Z
+updated: 2024-06-01T13:43:47.717Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

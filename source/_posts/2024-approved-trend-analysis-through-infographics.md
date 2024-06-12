@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trend Analysis Through Infographics\""
-date: 2024-05-30 20:26:57
-updated: 2024-06-01 12:21:53
+date: 2024-05-31T13:45:34.238Z
+updated: 2024-06-01T13:45:34.238Z
 tags:
   - ai video
   - ai youtube
@@ -236,3 +236,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

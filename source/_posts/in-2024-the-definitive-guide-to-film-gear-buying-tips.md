@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Definitive Guide to Film Gear Buying Tips"
-date: 2024-05-28 13:17:16
-updated: 2024-05-31 11:20:13
+date: 2024-05-31T13:49:55.970Z
+updated: 2024-06-01T13:49:55.970Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

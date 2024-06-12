@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Extract, Translate & Save YouTube Subtitles for FREE\""
-date: 2024-05-25 14:44:32
-updated: 2024-05-26 12:25:32
+date: 2024-05-31T13:51:11.314Z
+updated: 2024-06-01T13:51:11.314Z
 tags:
   - ai video
   - ai youtube
@@ -740,3 +740,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] 10 Tips for Teachers Creating a YouTube Channel"
-date: 2024-05-29 23:16:40
-updated: 2024-05-31 10:59:58
+date: 2024-05-31T13:43:05.763Z
+updated: 2024-06-01T13:43:05.763Z
 tags:
   - ai video
   - ai youtube
@@ -557,3 +557,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

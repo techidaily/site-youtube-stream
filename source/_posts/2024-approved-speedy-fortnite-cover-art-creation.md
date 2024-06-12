@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Speedy Fortnite Cover Art Creation\""
-date: 2024-05-27 10:43:35
-updated: 2024-05-30 10:30:51
+date: 2024-05-31T13:47:20.162Z
+updated: 2024-06-01T13:47:20.162Z
 tags:
   - ai video
   - ai youtube
@@ -1170,3 +1170,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

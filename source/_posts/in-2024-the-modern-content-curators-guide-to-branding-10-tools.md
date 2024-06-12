@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Modern Content Curator's Guide to Branding - 10 Tools\""
-date: 2024-05-29 16:46:38
-updated: 2024-05-31 12:18:41
+date: 2024-05-31T13:47:24.930Z
+updated: 2024-06-01T13:47:24.930Z
 tags:
   - ai video
   - ai youtube
@@ -1554,3 +1554,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to YouTube Thumbnail Crafting\""
-date: 2024-05-28 17:30:31
-updated: 2024-05-31 11:22:23
+date: 2024-05-31T13:45:08.409Z
+updated: 2024-06-01T13:45:08.409Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

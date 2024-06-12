@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Funnies in a Flash  Top 10 Quick & Quirky Video Concepts for YouTubers\""
-date: 2024-05-26 21:37:58
-updated: 2024-05-27 11:44:24
+date: 2024-05-31T13:48:42.465Z
+updated: 2024-06-01T13:48:42.465Z
 tags:
   - ai video
   - ai youtube
@@ -2126,3 +2126,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Profits From Short YouTube Videos\""
-date: 2024-05-26 21:28:23
-updated: 2024-05-28 10:58:48
+date: 2024-05-31T13:48:35.049Z
+updated: 2024-06-01T13:48:35.049Z
 tags:
   - ai video
   - ai youtube
@@ -580,3 +580,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

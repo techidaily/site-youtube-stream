@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Personalize Your Soundtrack  Constructing a YouTube Playlist From Home & On-the-Move\""
-date: 2024-05-28 22:22:15
-updated: 2024-05-29 12:11:38
+date: 2024-05-31T13:40:52.262Z
+updated: 2024-06-01T13:40:52.262Z
 tags:
   - ai video
   - ai youtube
@@ -888,3 +888,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

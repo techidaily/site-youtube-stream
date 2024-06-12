@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Outro Crafting for Beginners  Top 6 Free Resources\""
-date: 2024-05-27 14:28:33
-updated: 2024-05-29 11:26:32
+date: 2024-05-31T13:49:13.898Z
+updated: 2024-06-01T13:49:13.898Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

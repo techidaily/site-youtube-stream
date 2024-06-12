@@ -1,7 +1,7 @@
 ---
 title: "[New] Highest Paid YouTuber in the World"
-date: 2024-05-25 12:41:54
-updated: 2024-05-27 10:25:56
+date: 2024-05-31T13:50:44.127Z
+updated: 2024-06-01T13:50:44.127Z
 tags:
   - ai video
   - ai youtube
@@ -1171,3 +1171,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] 25 Smart & Proven Tactics to Get Your YouTube Channel Noticed"
-date: 2024-05-28 19:11:24
-updated: 2024-05-29 11:45:59
+date: 2024-05-31T13:51:21.234Z
+updated: 2024-06-01T13:51:21.234Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

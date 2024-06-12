@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Explore the 10 Most Influential Makeup Personalities Online"
-date: 2024-05-24 12:35:12
-updated: 2024-05-26 10:27:46
+date: 2024-05-31T13:42:07.620Z
+updated: 2024-06-01T13:42:07.620Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

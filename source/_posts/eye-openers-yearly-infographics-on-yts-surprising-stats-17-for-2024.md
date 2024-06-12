@@ -1,7 +1,7 @@
 ---
 title: "\"Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17) for 2024\""
-date: 2024-05-23 22:18:34
-updated: 2024-05-26 11:28:37
+date: 2024-05-31T13:50:39.207Z
+updated: 2024-06-01T13:50:39.207Z
 tags:
   - ai video
   - ai youtube
@@ -464,3 +464,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

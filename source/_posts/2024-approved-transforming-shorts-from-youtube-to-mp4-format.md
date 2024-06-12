@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Shorts  From YouTube to MP4 Format\""
-date: 2024-05-30 14:30:58
-updated: 2024-06-01 11:54:53
+date: 2024-05-31T13:47:13.327Z
+updated: 2024-06-01T13:47:13.327Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

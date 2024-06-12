@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Incorporating YouTube's Creative Commons in Video Making\""
-date: 2024-05-24 13:22:18
-updated: 2024-05-27 10:25:28
+date: 2024-05-31T13:47:42.031Z
+updated: 2024-06-01T13:47:42.031Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

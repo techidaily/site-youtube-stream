@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring the Legal Aspects of YouTube Content Capture\""
-date: 2024-05-25 18:10:35
-updated: 2024-05-26 11:28:37
+date: 2024-05-31T13:43:10.515Z
+updated: 2024-06-01T13:43:10.515Z
 tags:
   - ai video
   - ai youtube
@@ -799,3 +799,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Rediscover the Past  Watching Youtube's Lost Footage\""
-date: 2024-05-25 22:18:11
-updated: 2024-05-27 11:28:41
+date: 2024-05-31T13:47:30.672Z
+updated: 2024-06-01T13:47:30.672Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

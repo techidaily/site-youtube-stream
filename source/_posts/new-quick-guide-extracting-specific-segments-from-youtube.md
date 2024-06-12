@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Guide  Extracting Specific Segments From YouTube\""
-date: 2024-05-28 15:21:32
-updated: 2024-05-29 11:18:54
+date: 2024-05-31T13:45:05.966Z
+updated: 2024-06-01T13:45:05.966Z
 tags:
   - ai video
   - ai youtube
@@ -1206,3 +1206,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

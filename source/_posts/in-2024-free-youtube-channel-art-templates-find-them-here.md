@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Free YouTube Channel Art Templates - Find Them Here\""
-date: 2024-05-24 23:10:18
-updated: 2024-05-27 10:15:40
+date: 2024-05-31T13:45:30.079Z
+updated: 2024-06-01T13:45:30.079Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

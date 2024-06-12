@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Raw to Refined  Mastering the Art of PC Video Editing on Windows\""
-date: 2024-05-24 17:33:23
-updated: 2024-05-27 11:37:38
+date: 2024-05-31T13:45:43.285Z
+updated: 2024-06-01T13:45:43.285Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

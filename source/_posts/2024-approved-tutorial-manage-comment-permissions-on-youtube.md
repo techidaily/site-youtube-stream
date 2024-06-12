@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tutorial  Manage Comment Permissions on YouTube\""
-date: 2024-05-31 14:24:32
-updated: 2024-06-01 11:51:40
+date: 2024-05-31T13:43:56.487Z
+updated: 2024-06-01T13:43:56.487Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

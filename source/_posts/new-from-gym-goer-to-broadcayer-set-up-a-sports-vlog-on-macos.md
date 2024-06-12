@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Gym Goer to Broadcayer  Set Up a Sports Vlog on macOS\""
-date: 2024-05-24 13:19:55
-updated: 2024-05-27 10:59:10
+date: 2024-05-31T13:41:00.831Z
+updated: 2024-06-01T13:41:00.831Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

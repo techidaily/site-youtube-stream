@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailoring Youtube Shorts Thumbnails Made Simple\""
-date: 2024-05-28 13:39:14
-updated: 2024-05-30 10:18:13
+date: 2024-05-31T13:41:16.057Z
+updated: 2024-06-01T13:41:16.057Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

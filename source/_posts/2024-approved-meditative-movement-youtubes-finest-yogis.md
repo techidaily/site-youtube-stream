@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Meditative Movement  YouTube's Finest Yogis\""
-date: 2024-05-27 18:50:31
-updated: 2024-05-28 12:10:55
+date: 2024-05-31T13:46:44.092Z
+updated: 2024-06-01T13:46:44.092Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

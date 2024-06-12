@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Profit From 20-Second Videography  A Guide for Creators\""
-date: 2024-05-28 17:39:38
-updated: 2024-05-30 11:50:14
+date: 2024-05-31T13:49:43.167Z
+updated: 2024-06-01T13:49:43.167Z
 tags:
   - ai video
   - ai youtube
@@ -712,3 +712,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

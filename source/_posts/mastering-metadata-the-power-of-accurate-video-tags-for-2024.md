@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Metadata  The Power of Accurate Video Tags for 2024\""
-date: 2024-05-27 16:23:35
-updated: 2024-05-28 12:15:45
+date: 2024-05-31T13:48:29.130Z
+updated: 2024-06-01T13:48:29.130Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Giggles Guidebook  Planning 7 Funny Video Frameworks\""
-date: 2024-05-25 19:30:21
-updated: 2024-05-27 12:25:54
+date: 2024-05-31T13:49:42.953Z
+updated: 2024-06-01T13:49:42.953Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Principles of Filming Inspirational Daily Living Documentaries\""
-date: 2024-05-28 10:13:14
-updated: 2024-05-29 10:48:44
+date: 2024-05-31T13:47:44.369Z
+updated: 2024-06-01T13:47:44.369Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

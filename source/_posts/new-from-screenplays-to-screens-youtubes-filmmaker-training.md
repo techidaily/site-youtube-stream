@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Screenplays to Screens  YouTube's Filmmaker Training\""
-date: 2024-05-24 20:42:48
-updated: 2024-05-27 10:58:42
+date: 2024-05-31T13:43:18.122Z
+updated: 2024-06-01T13:43:18.122Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

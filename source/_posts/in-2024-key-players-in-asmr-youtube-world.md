@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Key Players in ASMR YouTube World"
-date: 2024-05-26 14:48:22
-updated: 2024-05-28 11:34:50
+date: 2024-05-31T13:48:21.259Z
+updated: 2024-06-01T13:48:21.259Z
 tags:
   - ai video
   - ai youtube
@@ -1502,3 +1502,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

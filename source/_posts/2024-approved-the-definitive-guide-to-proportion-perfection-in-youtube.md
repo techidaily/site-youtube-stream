@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Definitive Guide to Proportion Perfection in YouTube\""
-date: 2024-05-29 17:52:36
-updated: 2024-05-31 11:28:21
+date: 2024-05-31T13:49:14.309Z
+updated: 2024-06-01T13:49:14.309Z
 tags:
   - ai video
   - ai youtube
@@ -1136,3 +1136,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

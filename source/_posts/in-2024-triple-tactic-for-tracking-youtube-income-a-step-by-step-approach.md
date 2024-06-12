@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Triple Tactic for Tracking YouTube Income  A Step-by-Step Approach\""
-date: 2024-05-31 13:12:49
-updated: 2024-06-01 11:25:40
+date: 2024-05-31T13:42:39.984Z
+updated: 2024-06-01T13:42:39.984Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

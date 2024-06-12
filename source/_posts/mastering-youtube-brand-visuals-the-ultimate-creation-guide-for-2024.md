@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering YouTube Brand Visuals  The Ultimate Creation Guide for 2024\""
-date: 2024-05-26 22:58:55
-updated: 2024-05-28 12:36:28
+date: 2024-05-31T13:51:21.189Z
+updated: 2024-06-01T13:51:21.189Z
 tags:
   - ai video
   - ai youtube
@@ -1530,3 +1530,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

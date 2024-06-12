@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Video Impact with YouTube Cards\""
-date: 2024-05-25 22:52:27
-updated: 2024-05-28 10:30:46
+date: 2024-05-31T13:51:30.456Z
+updated: 2024-06-01T13:51:30.456Z
 tags:
   - ai video
   - ai youtube
@@ -1594,3 +1594,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

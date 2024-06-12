@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula"
-date: 2024-05-24 18:44:52
-updated: 2024-05-27 10:34:46
+date: 2024-05-31T13:41:56.564Z
+updated: 2024-06-01T13:41:56.564Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

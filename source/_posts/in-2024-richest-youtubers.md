@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Richest YouTubers"
-date: 2024-05-28 14:46:11
-updated: 2024-05-31 11:55:15
+date: 2024-05-31T13:43:25.572Z
+updated: 2024-06-01T13:43:25.572Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

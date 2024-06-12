@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Novice to Vlogger  Professional Video Making on Mobile Devices\""
-date: 2024-05-26 13:18:14
-updated: 2024-05-27 11:55:39
+date: 2024-05-31T13:43:41.445Z
+updated: 2024-06-01T13:43:41.445Z
 tags:
   - ai video
   - ai youtube
@@ -348,3 +348,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

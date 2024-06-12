@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Obscured Views During YouTube Playback"
-date: 2024-05-28 19:17:24
-updated: 2024-05-29 11:49:37
+date: 2024-05-31T13:43:19.310Z
+updated: 2024-06-01T13:43:19.310Z
 tags:
   - ai video
   - ai youtube
@@ -946,3 +946,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

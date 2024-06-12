@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Global Voyages for Discovery Enthusiasts"
-date: 2024-05-28 23:35:35
-updated: 2024-05-31 10:54:57
+date: 2024-05-31T13:45:29.217Z
+updated: 2024-06-01T13:45:29.217Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

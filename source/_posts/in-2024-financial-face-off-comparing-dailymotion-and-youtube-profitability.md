@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Financial Face-Off  Comparing Dailymotion & YouTube Profitability\""
-date: 2024-05-23 16:35:58
-updated: 2024-05-26 12:24:57
+date: 2024-05-31T13:42:11.735Z
+updated: 2024-06-01T13:42:11.735Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

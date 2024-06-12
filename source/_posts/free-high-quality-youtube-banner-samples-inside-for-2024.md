@@ -1,7 +1,7 @@
 ---
 title: "\"Free High-Quality YouTube Banner Samples Inside for 2024\""
-date: 2024-05-24 17:36:24
-updated: 2024-05-27 11:13:12
+date: 2024-05-31T13:44:55.318Z
+updated: 2024-06-01T13:44:55.318Z
 tags:
   - ai video
   - ai youtube
@@ -2386,3 +2386,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

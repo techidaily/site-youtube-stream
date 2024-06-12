@@ -1,7 +1,7 @@
 ---
 title: "Mastering Creative Splitscreens in YouTube Filmmaking for 2024"
-date: 2024-05-25 23:51:16
-updated: 2024-05-28 10:30:39
+date: 2024-05-31T13:50:41.722Z
+updated: 2024-06-01T13:50:41.722Z
 tags:
   - ai video
   - ai youtube
@@ -1338,3 +1338,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

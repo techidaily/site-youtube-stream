@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Do's and Don'ts of Adding Tags to YouTube Videos\""
-date: 2024-05-28 11:44:11
-updated: 2024-05-31 11:24:25
+date: 2024-05-31T13:41:43.819Z
+updated: 2024-06-01T13:41:43.819Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

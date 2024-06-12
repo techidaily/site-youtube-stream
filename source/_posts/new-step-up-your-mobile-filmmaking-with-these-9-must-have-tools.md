@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Up Your Mobile Filmmaking with These 9 Must-Have Tools\""
-date: 2024-05-29 14:55:30
-updated: 2024-05-30 11:56:10
+date: 2024-05-31T13:44:34.950Z
+updated: 2024-06-01T13:44:34.950Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

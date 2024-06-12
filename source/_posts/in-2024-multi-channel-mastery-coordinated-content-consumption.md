@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Multi-Channel Mastery  Coordinated Content Consumption\""
-date: 2024-05-27 20:50:15
-updated: 2024-05-28 11:17:10
+date: 2024-05-31T13:41:49.579Z
+updated: 2024-06-01T13:41:49.579Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

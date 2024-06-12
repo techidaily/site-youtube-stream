@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tactics for Transforming YouTube List Layouts\""
-date: 2024-05-28 22:37:38
-updated: 2024-05-30 11:34:11
+date: 2024-05-31T13:45:19.702Z
+updated: 2024-06-01T13:45:19.702Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

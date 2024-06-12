@@ -1,7 +1,7 @@
 ---
 title: "[New] Mimicking Golden Age Filmmaking in Contemporary Videos"
-date: 2024-05-27 16:56:41
-updated: 2024-05-28 12:58:42
+date: 2024-05-31T13:47:31.875Z
+updated: 2024-06-01T13:47:31.875Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

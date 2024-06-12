@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Thumbnails That Attract  Techniques for YouTube Image Resizing\""
-date: 2024-05-28 18:17:43
-updated: 2024-05-31 12:40:23
+date: 2024-05-31T13:49:23.338Z
+updated: 2024-06-01T13:49:23.338Z
 tags:
   - ai video
   - ai youtube
@@ -1148,3 +1148,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

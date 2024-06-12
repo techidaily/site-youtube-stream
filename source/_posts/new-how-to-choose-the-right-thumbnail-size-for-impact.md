@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Choose the Right Thumbnail Size for Impact"
-date: 2024-05-25 11:44:23
-updated: 2024-05-27 11:50:56
+date: 2024-05-31T13:49:01.386Z
+updated: 2024-06-01T13:49:01.386Z
 tags:
   - ai video
   - ai youtube
@@ -752,3 +752,4 @@ Running a YouTube Channel is lucrative. Although it may take time to build a fol
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro List  Best Free Video Subtitles & Downloader\""
-date: 2024-05-28 18:16:51
-updated: 2024-05-29 12:10:30
+date: 2024-05-31T13:45:32.510Z
+updated: 2024-06-01T13:45:32.510Z
 tags:
   - ai video
   - ai youtube
@@ -784,3 +784,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

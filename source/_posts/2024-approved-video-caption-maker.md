@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Video Caption Maker\""
-date: 2024-05-31 20:21:17
-updated: 2024-06-01 11:17:48
+date: 2024-05-31T13:44:48.548Z
+updated: 2024-06-01T13:44:48.548Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pictorial Narration Framework"
-date: 2024-05-28 20:13:42
-updated: 2024-05-29 11:18:27
+date: 2024-05-31T13:43:46.922Z
+updated: 2024-06-01T13:43:46.922Z
 tags:
   - ai video
   - ai youtube
@@ -1514,3 +1514,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Filmmaker's Roadmap  Creating YouTube Trailers Using Filmora\""
-date: 2024-05-30 11:54:28
-updated: 2024-05-31 12:37:16
+date: 2024-05-31T13:41:03.808Z
+updated: 2024-06-01T13:41:03.808Z
 tags:
   - ai video
   - ai youtube
@@ -304,3 +304,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

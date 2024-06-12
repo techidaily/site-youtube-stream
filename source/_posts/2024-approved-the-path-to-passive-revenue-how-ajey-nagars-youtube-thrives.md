@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Path to Passive Revenue  How Ajey Nagar's YouTube Thrives\""
-date: 2024-05-30 14:54:35
-updated: 2024-05-31 12:57:55
+date: 2024-05-31T13:44:37.458Z
+updated: 2024-06-01T13:44:37.458Z
 tags:
   - ai video
   - ai youtube
@@ -645,3 +645,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

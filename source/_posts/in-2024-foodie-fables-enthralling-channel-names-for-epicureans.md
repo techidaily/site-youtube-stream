@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Foodie Fables  Enthralling Channel Names for Epicureans\""
-date: 2024-05-25 14:47:44
-updated: 2024-05-27 10:31:52
+date: 2024-05-31T13:49:00.833Z
+updated: 2024-06-01T13:49:00.833Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

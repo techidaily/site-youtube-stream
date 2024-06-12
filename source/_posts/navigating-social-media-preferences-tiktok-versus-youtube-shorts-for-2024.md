@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Social Media Preferences  TikTok Versus YouTube Shorts for 2024\""
-date: 2024-05-28 14:25:32
-updated: 2024-05-29 12:39:36
+date: 2024-05-31T13:51:36.793Z
+updated: 2024-06-01T13:51:36.793Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

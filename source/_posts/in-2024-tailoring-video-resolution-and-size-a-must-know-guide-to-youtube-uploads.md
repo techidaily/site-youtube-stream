@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailoring Video Resolution and Size  A Must Know Guide to YouTube Uploads\""
-date: 2024-05-29 15:33:11
-updated: 2024-05-30 12:39:23
+date: 2024-05-31T13:44:29.176Z
+updated: 2024-06-01T13:44:29.176Z
 tags:
   - ai video
   - ai youtube
@@ -1530,3 +1530,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

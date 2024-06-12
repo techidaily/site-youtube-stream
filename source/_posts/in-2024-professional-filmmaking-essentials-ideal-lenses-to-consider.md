@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professional Filmmaking Essentials  Ideal Lenses to Consider\""
-date: 2024-05-28 16:24:59
-updated: 2024-05-29 12:49:45
+date: 2024-05-31T13:44:11.091Z
+updated: 2024-06-01T13:44:11.091Z
 tags:
   - ai video
   - ai youtube
@@ -2784,3 +2784,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
