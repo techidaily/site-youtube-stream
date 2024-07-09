@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professional Filmmaking Essentials  Ideal Lenses to Consider\""
-date: 2024-05-31T13:44:11.091Z
-updated: 2024-06-01T13:44:11.091Z
+date: 2024-07-07T23:20:22.727Z
+updated: 2024-07-08T23:20:22.727Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes In 2024, Professional Filmmaking Essentials: Ideal Lenses to Consider\""
 excerpt: "\"This Article Describes In 2024, Professional Filmmaking Essentials: Ideal Lenses to Consider\""
 keywords: "\"Filmmaking Basics,Cinematography Gear,Prime Lens Selection,High-Quality Shots,Professional Camera Tech,Essential Filmmaking,Ideal Filming Equipment\""
-thumbnail: https://www.lifewire.com/thmb/VT-fnLFt14TMlyBDWWdX4cQQZwQ=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/android-phone-9eea685d77174a2fbab326fc95cdd2c0.jpg
+thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3851095557656d94288c8df5.jpg
 ---
 
 ## Professional Filmmaking Essentials: Ideal Lenses to Consider
@@ -89,15 +89,15 @@ Here are a couple great lenses that might be good fits for you and your YouTube 
 | **Tamron SP AF 17-50mm f/2.8**               | Standard Zoom | $299      | f/2.8        | 17 -50mm         |
 | **Sony 30mm f/3.5 Macro**                    | Macro         | $278      | f/3.5        | 30mm             |
 
-#### 1.[Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens](https://www.amazon.com/Canon-EF-S-10-18mm-4-5-5-6-Lens/dp/B00K899B9Y/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039090&sr=8-1&keywords=Canon+10-18mm+f/4.5-5.6&linkCode=sl1&tag=omnideals-20&linkId=81cf63202a546809712746fdac765188&linkCode=w61&imprToken=ZJIXM-O6nkoYz.L)
+#### 1. Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens
 
 Canon released this lens in 2014 and shortly after it has gained the reputation of one of the most reliable wide to **ultra-wide lenses** for Canon cameras. Like most STM lenses, it offers incredibly **fast autofocus technology** that makes it a great choice for fast-paced action videos. The lens is equipped with an **image stabilization system** which guarantees that your videos are going to remain **sharp** even if the camera wasn't perfectly still while you were recording. Somewhat smaller aperture range makes this lens **poor choice for low light scenes**, although you can get decent results if you manage to keep the camera still.
 
-#### 2. [Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens](https://www.amazon.com/Rokinon-Fisheye-Aperture-Exposure-AE8M-N/dp/B006O7158O/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039440&sr=8-2&keywords=Rokinon+8mm+f/3.5+Lens&linkCode=sl1&tag=omnideals-20&linkId=49cad7e243ca97acbda08212482dcbe5&linkCode=w61&imprToken=ZJIXM-O)
+#### 2. Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens
 
 **Outdoor videos** look much cooler when they are recorded with a **wide-angle lens** because the wider field of view enables you to capture more space in a shot. **Fisheye lenses** were made popular by GoPro cameras because they make the videos look more fun while producing high image quality. Rokinon 8mm lens allows you to **adjust focus and aperture manually** so you can fine-tune your shot before hitting the record button. To make things even better this model is **compatible with a wide range of cameras including Pentax, Canon or Nikon DSLRs.** It has a relatively **fast aperture** that enables it to deliver **solid performances under low light conditions**.
 
-#### 3.[Canon EF 50mm f/1.8 STM Lens](https://www.amazon.com/Canon-50mm-1-8-STM-Lens/dp/B00X8MRBCW/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-1&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=cd09588b67ac10e4e960ea45c87b3f06&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slotNum=4)
+#### 3. Canon EF 50mm f/1.8 STM Lens
 
 ![camera lens](https://images.wondershare.com/filmora/article-images/camera-lens-rec01.JPG)
 
@@ -105,11 +105,11 @@ The EF 50mm is a fixed lens with an f-stop of 1.8, which means it is great for b
 
 If you are looking for an inexpensive prime lens that lets you create sharp videos with shallow depth of field, you should look no further. This model is one of three Canon's 50mm prime lenses, although the [50mm f/1.4 USM](https://www.amazon.com/Canon-Standard-Medium-Telephoto-Cameras/dp/B00009XVCZ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-3&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=11bff1019e73f0462c30a04e98d4874f&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTe) and [50mm f/1.2 'L' USM](https://www.amazon.com/Canon-50mm-Lens-Digital-Cameras/dp/B000I1YIDQ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-4&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=d77bb813550f12e8aa72c8738dfaad81&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slot) models are much more expensive. You can use it to record a lot of different types of YouTube videos, like product reviews or makeup tutorials. The 50 mm f/1.8 STM lens doesn't have image stabilization technology so you should try to be as still as you can possibly be when shooting handheld videos in order to avoid recording footage that has a lot of camera shakes.
 
-#### 4.[Canon EF 135mm f/2L USM Lens](https://www.amazon.com/Canon-135mm-USM-Lens-Cameras/dp/B000053HC5/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439038618&sr=8-1&keywords=Canon+EF+135mm+f/2+L+USM+Lens&linkCode=sl1&tag=omnideals-20&linkId=3ef39fe6c476b0dab7cf573810e16103&linkCode=w61&imprToken=ZJIXM-O6nkoY)
+#### 4. Canon EF 135mm f/2L USM Lens
 
 Recording **moving objects** from a distance requires you to have a lens that allows you to smoothly track their movements while keeping the subject in focus. The Canon EF 135mm f2/L USM lens is perhaps one of the best telephoto lenses on the market because it uses L glass that is widely accepted as the best in the industry. The Canon's telephoto lens is compatible with ASP-C and Full Frame EF mount cameras. Keep in mind that this is also a prime lens and you can't increase or decrease its focal length, but even so, it is a perfect choice for documentary-style videos.
 
-#### 5.[Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens](https://www.amazon.com/Tamron-17-50mm-Aspherical-Canon-Cameras/dp/B000FZ3FY8)
+#### 5. Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens
 
 ![camera lens rec02](https://images.wondershare.com/filmora/article-images/camera-lens-rec02.JPG)
 
@@ -117,7 +117,7 @@ The Tamron's standard zoom lens offers good value at a very reasonable price. Th
 
 A lot of zoom lenses do not have wide enough apertures to create blurred backgrounds, but this Tamron lens is an exception at f/2.8\. This low f-stop also means that it performs better in poor lighting conditions than a lot of other zoom lenses. If your shooting conditions change a lot – if you often change locations, for example – then it will be good to have a sturdy, well-built, zoom lens like the AF 17-mm that can be quickly adapted to new angles and distances.
 
-#### 6.[Sony 30mm f/3.5 Macro](https://www.bhphotovideo.com/c/product/791322-REG/Sony%5FSEL30M35%5F30mm%5Ff%5F3%5F5%5FWide%5FAngle%5FLens.html)
+#### 6. Sony 30mm f/3.5 Macro
 
 All Sony's APS-C format E mount cameras are compatible with this multi-purpose lens. When mounted the 30mm lens provides a 45mm focal length equivalent, which means that you can use it to take macro shots of products or to record medium or close-up shots. This is a prime lens, so changing the focal length isn't really an option, but the 1:1 life-size magnification, as well as the 0.9-inch working distance, allow you to get close to the subjects in the video. The aperture range is between f/3.5 and f/22 which means that you can choose how shallow the depth of field in your shot should be.
 
@@ -200,15 +200,15 @@ Here are a couple great lenses that might be good fits for you and your YouTube 
 | **Tamron SP AF 17-50mm f/2.8**               | Standard Zoom | $299      | f/2.8        | 17 -50mm         |
 | **Sony 30mm f/3.5 Macro**                    | Macro         | $278      | f/3.5        | 30mm             |
 
-#### 1.[Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens](https://www.amazon.com/Canon-EF-S-10-18mm-4-5-5-6-Lens/dp/B00K899B9Y/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039090&sr=8-1&keywords=Canon+10-18mm+f/4.5-5.6&linkCode=sl1&tag=omnideals-20&linkId=81cf63202a546809712746fdac765188&linkCode=w61&imprToken=ZJIXM-O6nkoYz.L)
+#### 1. Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens
 
 Canon released this lens in 2014 and shortly after it has gained the reputation of one of the most reliable wide to **ultra-wide lenses** for Canon cameras. Like most STM lenses, it offers incredibly **fast autofocus technology** that makes it a great choice for fast-paced action videos. The lens is equipped with an **image stabilization system** which guarantees that your videos are going to remain **sharp** even if the camera wasn't perfectly still while you were recording. Somewhat smaller aperture range makes this lens **poor choice for low light scenes**, although you can get decent results if you manage to keep the camera still.
 
-#### 2. [Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens](https://www.amazon.com/Rokinon-Fisheye-Aperture-Exposure-AE8M-N/dp/B006O7158O/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039440&sr=8-2&keywords=Rokinon+8mm+f/3.5+Lens&linkCode=sl1&tag=omnideals-20&linkId=49cad7e243ca97acbda08212482dcbe5&linkCode=w61&imprToken=ZJIXM-O)
+#### 2. Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens
 
 **Outdoor videos** look much cooler when they are recorded with a **wide-angle lens** because the wider field of view enables you to capture more space in a shot. **Fisheye lenses** were made popular by GoPro cameras because they make the videos look more fun while producing high image quality. Rokinon 8mm lens allows you to **adjust focus and aperture manually** so you can fine-tune your shot before hitting the record button. To make things even better this model is **compatible with a wide range of cameras including Pentax, Canon or Nikon DSLRs.** It has a relatively **fast aperture** that enables it to deliver **solid performances under low light conditions**.
 
-#### 3.[Canon EF 50mm f/1.8 STM Lens](https://www.amazon.com/Canon-50mm-1-8-STM-Lens/dp/B00X8MRBCW/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-1&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=cd09588b67ac10e4e960ea45c87b3f06&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slotNum=4)
+#### 3. Canon EF 50mm f/1.8 STM Lens
 
 ![camera lens](https://images.wondershare.com/filmora/article-images/camera-lens-rec01.JPG)
 
@@ -216,11 +216,11 @@ The EF 50mm is a fixed lens with an f-stop of 1.8, which means it is great for b
 
 If you are looking for an inexpensive prime lens that lets you create sharp videos with shallow depth of field, you should look no further. This model is one of three Canon's 50mm prime lenses, although the [50mm f/1.4 USM](https://www.amazon.com/Canon-Standard-Medium-Telephoto-Cameras/dp/B00009XVCZ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-3&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=11bff1019e73f0462c30a04e98d4874f&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTe) and [50mm f/1.2 'L' USM](https://www.amazon.com/Canon-50mm-Lens-Digital-Cameras/dp/B000I1YIDQ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-4&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=d77bb813550f12e8aa72c8738dfaad81&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slot) models are much more expensive. You can use it to record a lot of different types of YouTube videos, like product reviews or makeup tutorials. The 50 mm f/1.8 STM lens doesn't have image stabilization technology so you should try to be as still as you can possibly be when shooting handheld videos in order to avoid recording footage that has a lot of camera shakes.
 
-#### 4.[Canon EF 135mm f/2L USM Lens](https://www.amazon.com/Canon-135mm-USM-Lens-Cameras/dp/B000053HC5/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439038618&sr=8-1&keywords=Canon+EF+135mm+f/2+L+USM+Lens&linkCode=sl1&tag=omnideals-20&linkId=3ef39fe6c476b0dab7cf573810e16103&linkCode=w61&imprToken=ZJIXM-O6nkoY)
+#### 4. Canon EF 135mm f/2L USM Lens
 
 Recording **moving objects** from a distance requires you to have a lens that allows you to smoothly track their movements while keeping the subject in focus. The Canon EF 135mm f2/L USM lens is perhaps one of the best telephoto lenses on the market because it uses L glass that is widely accepted as the best in the industry. The Canon's telephoto lens is compatible with ASP-C and Full Frame EF mount cameras. Keep in mind that this is also a prime lens and you can't increase or decrease its focal length, but even so, it is a perfect choice for documentary-style videos.
 
-#### 5.[Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens](https://www.amazon.com/Tamron-17-50mm-Aspherical-Canon-Cameras/dp/B000FZ3FY8)
+#### 5. Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens
 
 ![camera lens rec02](https://images.wondershare.com/filmora/article-images/camera-lens-rec02.JPG)
 
@@ -228,7 +228,7 @@ The Tamron's standard zoom lens offers good value at a very reasonable price. Th
 
 A lot of zoom lenses do not have wide enough apertures to create blurred backgrounds, but this Tamron lens is an exception at f/2.8\. This low f-stop also means that it performs better in poor lighting conditions than a lot of other zoom lenses. If your shooting conditions change a lot – if you often change locations, for example – then it will be good to have a sturdy, well-built, zoom lens like the AF 17-mm that can be quickly adapted to new angles and distances.
 
-#### 6.[Sony 30mm f/3.5 Macro](https://www.bhphotovideo.com/c/product/791322-REG/Sony%5FSEL30M35%5F30mm%5Ff%5F3%5F5%5FWide%5FAngle%5FLens.html)
+#### 6. Sony 30mm f/3.5 Macro
 
 All Sony's APS-C format E mount cameras are compatible with this multi-purpose lens. When mounted the 30mm lens provides a 45mm focal length equivalent, which means that you can use it to take macro shots of products or to record medium or close-up shots. This is a prime lens, so changing the focal length isn't really an option, but the 1:1 life-size magnification, as well as the 0.9-inch working distance, allow you to get close to the subjects in the video. The aperture range is between f/3.5 and f/22 which means that you can choose how shallow the depth of field in your shot should be.
 
@@ -311,15 +311,15 @@ Here are a couple great lenses that might be good fits for you and your YouTube 
 | **Tamron SP AF 17-50mm f/2.8**               | Standard Zoom | $299      | f/2.8        | 17 -50mm         |
 | **Sony 30mm f/3.5 Macro**                    | Macro         | $278      | f/3.5        | 30mm             |
 
-#### 1.[Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens](https://www.amazon.com/Canon-EF-S-10-18mm-4-5-5-6-Lens/dp/B00K899B9Y/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039090&sr=8-1&keywords=Canon+10-18mm+f/4.5-5.6&linkCode=sl1&tag=omnideals-20&linkId=81cf63202a546809712746fdac765188&linkCode=w61&imprToken=ZJIXM-O6nkoYz.L)
+#### 1. Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens
 
 Canon released this lens in 2014 and shortly after it has gained the reputation of one of the most reliable wide to **ultra-wide lenses** for Canon cameras. Like most STM lenses, it offers incredibly **fast autofocus technology** that makes it a great choice for fast-paced action videos. The lens is equipped with an **image stabilization system** which guarantees that your videos are going to remain **sharp** even if the camera wasn't perfectly still while you were recording. Somewhat smaller aperture range makes this lens **poor choice for low light scenes**, although you can get decent results if you manage to keep the camera still.
 
-#### 2. [Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens](https://www.amazon.com/Rokinon-Fisheye-Aperture-Exposure-AE8M-N/dp/B006O7158O/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039440&sr=8-2&keywords=Rokinon+8mm+f/3.5+Lens&linkCode=sl1&tag=omnideals-20&linkId=49cad7e243ca97acbda08212482dcbe5&linkCode=w61&imprToken=ZJIXM-O)
+#### 2. Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens
 
 **Outdoor videos** look much cooler when they are recorded with a **wide-angle lens** because the wider field of view enables you to capture more space in a shot. **Fisheye lenses** were made popular by GoPro cameras because they make the videos look more fun while producing high image quality. Rokinon 8mm lens allows you to **adjust focus and aperture manually** so you can fine-tune your shot before hitting the record button. To make things even better this model is **compatible with a wide range of cameras including Pentax, Canon or Nikon DSLRs.** It has a relatively **fast aperture** that enables it to deliver **solid performances under low light conditions**.
 
-#### 3.[Canon EF 50mm f/1.8 STM Lens](https://www.amazon.com/Canon-50mm-1-8-STM-Lens/dp/B00X8MRBCW/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-1&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=cd09588b67ac10e4e960ea45c87b3f06&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slotNum=4)
+#### 3. Canon EF 50mm f/1.8 STM Lens
 
 ![camera lens](https://images.wondershare.com/filmora/article-images/camera-lens-rec01.JPG)
 
@@ -327,11 +327,11 @@ The EF 50mm is a fixed lens with an f-stop of 1.8, which means it is great for b
 
 If you are looking for an inexpensive prime lens that lets you create sharp videos with shallow depth of field, you should look no further. This model is one of three Canon's 50mm prime lenses, although the [50mm f/1.4 USM](https://www.amazon.com/Canon-Standard-Medium-Telephoto-Cameras/dp/B00009XVCZ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-3&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=11bff1019e73f0462c30a04e98d4874f&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTe) and [50mm f/1.2 'L' USM](https://www.amazon.com/Canon-50mm-Lens-Digital-Cameras/dp/B000I1YIDQ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-4&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=d77bb813550f12e8aa72c8738dfaad81&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slot) models are much more expensive. You can use it to record a lot of different types of YouTube videos, like product reviews or makeup tutorials. The 50 mm f/1.8 STM lens doesn't have image stabilization technology so you should try to be as still as you can possibly be when shooting handheld videos in order to avoid recording footage that has a lot of camera shakes.
 
-#### 4.[Canon EF 135mm f/2L USM Lens](https://www.amazon.com/Canon-135mm-USM-Lens-Cameras/dp/B000053HC5/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439038618&sr=8-1&keywords=Canon+EF+135mm+f/2+L+USM+Lens&linkCode=sl1&tag=omnideals-20&linkId=3ef39fe6c476b0dab7cf573810e16103&linkCode=w61&imprToken=ZJIXM-O6nkoY)
+#### 4. Canon EF 135mm f/2L USM Lens
 
 Recording **moving objects** from a distance requires you to have a lens that allows you to smoothly track their movements while keeping the subject in focus. The Canon EF 135mm f2/L USM lens is perhaps one of the best telephoto lenses on the market because it uses L glass that is widely accepted as the best in the industry. The Canon's telephoto lens is compatible with ASP-C and Full Frame EF mount cameras. Keep in mind that this is also a prime lens and you can't increase or decrease its focal length, but even so, it is a perfect choice for documentary-style videos.
 
-#### 5.[Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens](https://www.amazon.com/Tamron-17-50mm-Aspherical-Canon-Cameras/dp/B000FZ3FY8)
+#### 5. Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens
 
 ![camera lens rec02](https://images.wondershare.com/filmora/article-images/camera-lens-rec02.JPG)
 
@@ -339,7 +339,7 @@ The Tamron's standard zoom lens offers good value at a very reasonable price. Th
 
 A lot of zoom lenses do not have wide enough apertures to create blurred backgrounds, but this Tamron lens is an exception at f/2.8\. This low f-stop also means that it performs better in poor lighting conditions than a lot of other zoom lenses. If your shooting conditions change a lot – if you often change locations, for example – then it will be good to have a sturdy, well-built, zoom lens like the AF 17-mm that can be quickly adapted to new angles and distances.
 
-#### 6.[Sony 30mm f/3.5 Macro](https://www.bhphotovideo.com/c/product/791322-REG/Sony%5FSEL30M35%5F30mm%5Ff%5F3%5F5%5FWide%5FAngle%5FLens.html)
+#### 6. Sony 30mm f/3.5 Macro
 
 All Sony's APS-C format E mount cameras are compatible with this multi-purpose lens. When mounted the 30mm lens provides a 45mm focal length equivalent, which means that you can use it to take macro shots of products or to record medium or close-up shots. This is a prime lens, so changing the focal length isn't really an option, but the 1:1 life-size magnification, as well as the 0.9-inch working distance, allow you to get close to the subjects in the video. The aperture range is between f/3.5 and f/22 which means that you can choose how shallow the depth of field in your shot should be.
 
@@ -422,15 +422,15 @@ Here are a couple great lenses that might be good fits for you and your YouTube 
 | **Tamron SP AF 17-50mm f/2.8**               | Standard Zoom | $299      | f/2.8        | 17 -50mm         |
 | **Sony 30mm f/3.5 Macro**                    | Macro         | $278      | f/3.5        | 30mm             |
 
-#### 1.[Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens](https://www.amazon.com/Canon-EF-S-10-18mm-4-5-5-6-Lens/dp/B00K899B9Y/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039090&sr=8-1&keywords=Canon+10-18mm+f/4.5-5.6&linkCode=sl1&tag=omnideals-20&linkId=81cf63202a546809712746fdac765188&linkCode=w61&imprToken=ZJIXM-O6nkoYz.L)
+#### 1. Canon EF-S 10-18mm f/4.5-5.6 IS STM Lens
 
 Canon released this lens in 2014 and shortly after it has gained the reputation of one of the most reliable wide to **ultra-wide lenses** for Canon cameras. Like most STM lenses, it offers incredibly **fast autofocus technology** that makes it a great choice for fast-paced action videos. The lens is equipped with an **image stabilization system** which guarantees that your videos are going to remain **sharp** even if the camera wasn't perfectly still while you were recording. Somewhat smaller aperture range makes this lens **poor choice for low light scenes**, although you can get decent results if you manage to keep the camera still.
 
-#### 2. [Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens](https://www.amazon.com/Rokinon-Fisheye-Aperture-Exposure-AE8M-N/dp/B006O7158O/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439039440&sr=8-2&keywords=Rokinon+8mm+f/3.5+Lens&linkCode=sl1&tag=omnideals-20&linkId=49cad7e243ca97acbda08212482dcbe5&linkCode=w61&imprToken=ZJIXM-O)
+#### 2. Rokinon 8mm Ultra Wide f/3.5 Fisheye Lens
 
 **Outdoor videos** look much cooler when they are recorded with a **wide-angle lens** because the wider field of view enables you to capture more space in a shot. **Fisheye lenses** were made popular by GoPro cameras because they make the videos look more fun while producing high image quality. Rokinon 8mm lens allows you to **adjust focus and aperture manually** so you can fine-tune your shot before hitting the record button. To make things even better this model is **compatible with a wide range of cameras including Pentax, Canon or Nikon DSLRs.** It has a relatively **fast aperture** that enables it to deliver **solid performances under low light conditions**.
 
-#### 3.[Canon EF 50mm f/1.8 STM Lens](https://www.amazon.com/Canon-50mm-1-8-STM-Lens/dp/B00X8MRBCW/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-1&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=cd09588b67ac10e4e960ea45c87b3f06&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slotNum=4)
+#### 3. Canon EF 50mm f/1.8 STM Lens
 
 ![camera lens](https://images.wondershare.com/filmora/article-images/camera-lens-rec01.JPG)
 
@@ -438,11 +438,11 @@ The EF 50mm is a fixed lens with an f-stop of 1.8, which means it is great for b
 
 If you are looking for an inexpensive prime lens that lets you create sharp videos with shallow depth of field, you should look no further. This model is one of three Canon's 50mm prime lenses, although the [50mm f/1.4 USM](https://www.amazon.com/Canon-Standard-Medium-Telephoto-Cameras/dp/B00009XVCZ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-3&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=11bff1019e73f0462c30a04e98d4874f&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTe) and [50mm f/1.2 'L' USM](https://www.amazon.com/Canon-50mm-Lens-Digital-Cameras/dp/B000I1YIDQ/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1438974280&sr=8-4&keywords=Canon+50+mm&linkCode=sl1&tag=omnideals-20&linkId=d77bb813550f12e8aa72c8738dfaad81&linkCode=w61&imprToken=ZJIXM-O6nkoYz.LvcTeAiw&slot) models are much more expensive. You can use it to record a lot of different types of YouTube videos, like product reviews or makeup tutorials. The 50 mm f/1.8 STM lens doesn't have image stabilization technology so you should try to be as still as you can possibly be when shooting handheld videos in order to avoid recording footage that has a lot of camera shakes.
 
-#### 4.[Canon EF 135mm f/2L USM Lens](https://www.amazon.com/Canon-135mm-USM-Lens-Cameras/dp/B000053HC5/ref=as%5Fli%5Fss%5Ftl?ie=UTF8&qid=1439038618&sr=8-1&keywords=Canon+EF+135mm+f/2+L+USM+Lens&linkCode=sl1&tag=omnideals-20&linkId=3ef39fe6c476b0dab7cf573810e16103&linkCode=w61&imprToken=ZJIXM-O6nkoY)
+#### 4. Canon EF 135mm f/2L USM Lens
 
 Recording **moving objects** from a distance requires you to have a lens that allows you to smoothly track their movements while keeping the subject in focus. The Canon EF 135mm f2/L USM lens is perhaps one of the best telephoto lenses on the market because it uses L glass that is widely accepted as the best in the industry. The Canon's telephoto lens is compatible with ASP-C and Full Frame EF mount cameras. Keep in mind that this is also a prime lens and you can't increase or decrease its focal length, but even so, it is a perfect choice for documentary-style videos.
 
-#### 5.[Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens](https://www.amazon.com/Tamron-17-50mm-Aspherical-Canon-Cameras/dp/B000FZ3FY8)
+#### 5. Tamron SP AF 17-50mm f/2.8 XR Di II LD Aspherical (IF) Lens
 
 ![camera lens rec02](https://images.wondershare.com/filmora/article-images/camera-lens-rec02.JPG)
 
@@ -450,7 +450,7 @@ The Tamron's standard zoom lens offers good value at a very reasonable price. Th
 
 A lot of zoom lenses do not have wide enough apertures to create blurred backgrounds, but this Tamron lens is an exception at f/2.8\. This low f-stop also means that it performs better in poor lighting conditions than a lot of other zoom lenses. If your shooting conditions change a lot – if you often change locations, for example – then it will be good to have a sturdy, well-built, zoom lens like the AF 17-mm that can be quickly adapted to new angles and distances.
 
-#### 6.[Sony 30mm f/3.5 Macro](https://www.bhphotovideo.com/c/product/791322-REG/Sony%5FSEL30M35%5F30mm%5Ff%5F3%5F5%5FWide%5FAngle%5FLens.html)
+#### 6. Sony 30mm f/3.5 Macro
 
 All Sony's APS-C format E mount cameras are compatible with this multi-purpose lens. When mounted the 30mm lens provides a 45mm focal length equivalent, which means that you can use it to take macro shots of products or to record medium or close-up shots. This is a prime lens, so changing the focal length isn't really an option, but the 1:1 life-size magnification, as well as the 0.9-inch working distance, allow you to get close to the subjects in the video. The aperture range is between f/3.5 and f/22 which means that you can choose how shallow the depth of field in your shot should be.
 
@@ -2785,3 +2785,36 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-flair-and-finesse-in-your-gaming-youtube-channel/"><u>[New] Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-handset-hack-for-youtube-filmmakers/"><u>2024 Approved  The Ultimate Handset Hack for YouTube Filmmakers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revamp-your-channels-image-amplify-your-subscription-count/"><u>2024 Approved  Revamp Your Channel's Image, Amplify Your Subscription Count</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-create-a-channel-that-dominates-the-business-world/"><u>In 2024, How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>2024 Approved  Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>In 2024, Unveiling Our Exclusive Package of Free YouTube Adornments</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-lights-youtubes-biggest-brands/"><u>2024 Approved  Leading Lights  YouTube's Biggest Brands</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-green-up-your-cta-strategy-with-tools/"><u>2024 Approved  Green Up Your CTA Strategy with Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-your-videos-top-7-rippers-explored/"><u>In 2024, Unlocking Your Videos  Top 7 Rippers Explored</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-lightning-fast-lights-out-youtube-videos-shattering-100mm-fastest/"><u>2024 Approved  Lightning-Fast Lights Out – YouTube Videos Shattering 100MM Fastest</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>[New] Navigating Best Options  Expert Picks From Top 9 Free Logomakers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-disrupters-guide-to-android-and-ios-music-shakers/"><u>2024 Approved  The Disrupter's Guide to Android & iOS Music Shakers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-frame-to-firm-selecting-your-mcn-partner-for-2024/"><u>From Frame to Firm  Selecting Your MCN Partner for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-cover-art-crafting-for-fighting-games/"><u>In 2024, Quick Cover Art Crafting for Fighting Games</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quality-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>In 2024, Quality Guffaws  Uncover the Top 15 YouTube Comedy Talents</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>In 2024, How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-safekeeping-your-online-space-youtube-channel-blocking-guide/"><u>2024 Approved  Safekeeping Your Online Space  Youtube Channel Blocking Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-youtubers-in-music-you-cant-miss/"><u>2024 Approved  Top Youtubers in Music You Can't Miss</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>[New] Perfect Pixels in a Minute  Quick Fixes with Studio Editor</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-complete-breakdown-inside-google-podcasts-application/"><u>[Updated] In 2024, Complete Breakdown  Inside Google Podcasts Application</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/techniques-for-softening-volume-in-logic-pro-mixing/"><u>Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unprecedented-capacity-choices-elite-cloud-services/"><u>[New] Unprecedented Capacity Choices  Elite Cloud Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-prime-gear-selection-must-have-supplementary-gopro-items/"><u>[Updated] In 2024, Prime Gear Selection  Must-Have Supplementary GoPro Items</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-tips-for-effective-instagram-video-conversations/"><u>[New] 2024 Approved  Essential Tips for Effective Instagram Video Conversations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-novice-to-pro-building-an-insta-highlight-showcase/"><u>[Updated] In 2024, From Novice to Pro  Building an Insta Highlight Showcase</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-next-level-play-the-best-gaming-tech-on-display/"><u>[Updated] Next-Level Play  The Best Gaming Tech on Display</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-streamlining-audio-addition-in-creative-cloud-suite/"><u>[New] In 2024, Streamlining Audio Addition in Creative Cloud Suite</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-asus-rog-phone-7-ultimate-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Asus ROG Phone 7 Ultimate? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo X90S | Dr.fone</u></a></li>
+</ul></div>

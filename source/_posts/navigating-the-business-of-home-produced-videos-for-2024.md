@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating the Business of Home-Produced Videos for 2024\""
-date: 2024-05-31T13:45:05.841Z
-updated: 2024-06-01T13:45:05.841Z
+date: 2024-07-07T23:25:51.580Z
+updated: 2024-07-08T23:25:51.580Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes Navigating the Business of Home-Produced Videos for 2024\""
 excerpt: "\"This Article Describes Navigating the Business of Home-Produced Videos for 2024\""
 keywords: "\"Video Business Growth,Homemade Video Marketing,Earnings Through Online Content,Profit From Personal Videos,DIY Video Production,Home-Based Video Work,Entrepreneurial Video Strategies\""
-thumbnail: https://www.lifewire.com/thmb/5HDHhmAU3Eyy1gIkDYFy4z3JLbQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alternate-route-plan-google-maps-1616470-90734d793e9743d596ade9b27be0b34b.png
+thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd3a27b7e0b7d3fec1332bd02.png
 ---
 
 ## Navigating the Business of Home-Produced Videos
@@ -417,21 +417,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -469,21 +469,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -521,21 +521,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -573,21 +573,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -612,3 +612,52 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>In 2024, Quality Video Sharing  Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spotlight-series-the-top-10-women-of-video-content/"><u>2024 Approved  Spotlight Series  The Top 10 Women of Video Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>In 2024, Flipping the Script  Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategize-music-mixes-your-guide-to-youtube-playlists/"><u>2024 Approved  Strategize Music Mixes  Your Guide to YouTube Playlists</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transcribing-online-master-the-art-of-free-youtube-conversion/"><u>2024 Approved  Transcribing Online  Master the Art of Free YouTube Conversion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-your-presence-advanced-tactics-for-youtube-live-visuals/"><u>2024 Approved  Perfect Your Presence  Advanced Tactics for YouTube Live Visuals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>2024 Approved  From Interest to Action  Formulating Video Topics with Google Trends</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>[New] From Streams to Statements  Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-surging-upstream-in-the-youtube-subscriber-pool/"><u>In 2024, Surging Upstream in the YouTube Subscriber Pool</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/is-hasty-subscription-a-gateway-to-better-viewing-habits-for-2024/"><u>Is Hasty Subscription a Gateway to Better Viewing Habits for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/"><u>2024 Approved  Unlock the Magic of Capturing YouTube Content - The No-Cost Way</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-features-to-improve-visuals/"><u>In 2024, Leveraging YouTube's Features to Improve Visuals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-at-vimeo-and-youtubes-market-strategies/"><u>In 2024, Inside Look at Vimeo and YouTube’s Market Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beat-drops-highlighting-this-years-best-music-vids/"><u>In 2024, The Beat Drops  Highlighting This Year's Best Music Vids</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>In 2024, Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-leading-free-stock-video-and-image-archives/"><u>In 2024, Unveiling the Leading Free Stock Video and Image Archives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigate-youtube-success-a-compreehensive-guide-to-analytics/"><u>2024 Approved  Navigate YouTube Success  A Compreehensive Guide to Analytics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>2024 Approved  Unlocking the Power of Thumbnails  Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-youtubes-complex-view-count-system/"><u>In 2024, Unveiling YouTube's Complex View Count System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-8-free-online-video-editors-for-youtube/"><u>In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-gamers-blueprint-for-money-making/"><u>[New] Gamer’s Blueprint for Money-Making</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>In 2024, Unleash Creativity  Filming & Editing on the Go with a Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-path-to-viewable-reach-responsibly/"><u>2024 Approved  Navigating the Path to Viewable Reach Responsibly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extended-review-uncomplicated-hdr-approach/"><u>[New] Extended Review  Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-visioncapture-prox-briefing/"><u>In 2024, VisionCapture ProX Briefing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screenshot-savvy-free-high-quality-capturing-tools-for-both-oses-for-2024/"><u>Screenshot Savvy  Free, High-Quality Capturing Tools for Both OSes for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixes-for-the-c1900101-setup-complication-during-win10-install/"><u>Fixes for the C1900101 Setup Complication During Win10 Install</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/minimalist-obs-adjustments-for-under-500-pcs-for-2024/"><u>Minimalist OBS Adjustments for Under-$500 PCs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-google-podcast-upload/"><u>[New] Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved  Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mouthwatering-marvels-leading-tiktok-eaters/"><u>[New] Mouthwatering Marvels  Leading TikTok Eaters</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-5-best-adobe-animate-courses-and-classes-beginners-complete-tutorial/"><u>Updated In 2024, 5 Best Adobe Animate Courses & Classes | Beginners Complete Tutorial</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-expert-guide-fast-forward-your-way-through-tiktok-videos-for-2024/"><u>[Updated] Expert Guide  Fast-Forward Your Way Through TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-easy-steps-to-translate-video-on-twitter/"><u>New Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stable-iphone-cinematography-three-tactics-inside/"><u>2024 Approved  Stable iPhone Cinematography  Three Tactics Inside</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-the-ultimate-guide-to-free-mobile-applications-transforming-audio-into-captivating-visuals-for-ios-and-android-users/"><u>In 2024, The Ultimate Guide to Free Mobile Applications Transforming Audio Into Captivating Visuals for iOS & Android Users</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-unique-characteristics-of-ai-computers/"><u>Delving Into Unique Characteristics of AI Computers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-stop-motion-in-the-cloud-era-software-strategies-and-success-stories/"><u>Updated In 2024, Stop Motion in the Cloud Era Software, Strategies, and Success Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-creating-humor-making-funny-parody-videos/"><u>[New] In 2024, Creating Humor  Making Funny Parody Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-kapwing-slow-motion-tutorial-a-beginners-guide-to-slowing-down-your-videos/"><u>New Kapwing Slow Motion Tutorial A Beginners Guide to Slowing Down Your Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-hidden-pathway-to-logging-in-depth-whatsapp-chats-for-2024/"><u>The Hidden Pathway to Logging In-Depth WhatsApp Chats for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-direction-whats-the-right-angle/"><u>2024 Approved  FB Video Direction  What's the Right Angle?</u></a></li>
+</ul></div>
