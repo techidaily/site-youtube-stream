@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Income  The Streamlined Three-Part Process for Calculating YouTube Profits for 2024\""
-date: 2024-06-20T05:52:00.985Z
-updated: 2024-06-21T05:52:00.985Z
+date: 2024-07-29T21:35:49.194Z
+updated: 2024-07-30T21:35:49.194Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,9 @@ So, if you don’t know how to check YouTube income, don’t worry, this article
 
 * [Hot FAQs on YouTube channel earnings check](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Follow the steps below to check your YouTube earnings
 
 The process of checking YouTube income is pretty straightforward. So, regardless of what device you’re using to check, we’ve briefly explained the step-by-step instructions to carry out your YouTube income check within a few clicks.
@@ -38,6 +41,9 @@ Step1 Open the browser app on your computer and sign in to your [YouTube Studio]
 
 Step2 Click Analytics from the left side of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to check youtube income on pc 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-1.jpg)
 
 Step3 On the Analytics screen, select Revenue from the top side of the screen to check your YouTube income.
@@ -52,14 +58,23 @@ The process of checking YouTube income on an Android or iOS device is also strai
 
 Step1 Make sure you have the latest version of the YouTube app on your phone. If not, you can install it from Google Play Store or App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-2.jpg)
 
 Step2 Log in to your YouTube account and tap on the Profile icon at the top side. Then, select Your Channel.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 2](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-3.jpg)
 
 Step3 Tap the Analytics icon from the middle menu. Your YouTube channel income and other data will be displayed on your phone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 3](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-4.jpg)
 
 **YouTube Studio App**
@@ -82,6 +97,9 @@ The information that you’ll find in the YouTube revenue analytics includes the
 * **Top Earnings;** It shows the data of the video with the highest estimated revenue.
 * **Ad Type;** This displays the percentage of revenue earned from the different types of ads.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How your YouTube earnings are calculated
 
 Having known how to check YouTube income, if you’re still wondering how your earnings are calculated, here, we’ve discussed all the necessary information you need to know about how YouTube earnings are calculated.
@@ -100,8 +118,20 @@ All the factors explained above will determine how your YouTube earnings are cal
 
 You can also calculate your YouTube channel total earnings by using the [YouTube calculator](https://www.tunepocket.com/youtube-money-calculator/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 6](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Part 3: How do you increase your YouTube earnings?
 
 ### 1\. Post quality videos
@@ -118,6 +148,9 @@ Step1 Install Filmora software on your computer.
 
 Step2 Use the Import button to upload the video you created for your YouTube channel. You can also drag-n-drop it to the interface of the software.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-8.jpg)
 
 Step3 Drag-n-drop the video you uploaded to the Timeline.
@@ -146,10 +179,18 @@ Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected 
 
 Step8 Preview the edited video. If you’re satisfied with the output, click the Export button at the top bar and choose Burn DVD from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-15.jpg)
 
 Step9 Enter file name in the box next to Label. Then, navigate to Folder Path and choose where you want the file to be saved. Afterward, click Export to Finish.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-16.jpg)
 
 ### 2\. Upload videos regularly
@@ -164,6 +205,9 @@ Promoting your YouTube videos is a great way to increase your YouTube earnings. 
 
 Let’s take a look at some frequently asked questions from users like you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Is monetizing on YouTube different from Google AdSense?
 
 YouTube monetization involves making money from videos you upload on your YouTube channel. And Google AdSense is a means of monetizing your YouTube channel.
@@ -172,6 +216,9 @@ YouTube monetization involves making money from videos you upload on your YouTub
 
 Monetizing YouTube as a creator is a great way to earn passive income just by uploading videos. Research shows that an average YouTuber has the potential of earning $10,000 in revenue per year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Which category is best for YouTube earnings?
 
 The average CPM you earn from videos you upload on YouTube all depends on the niche of your video. The following are the best 5 categories best for YouTube earnings in 2022;
@@ -206,6 +253,9 @@ Step1 Open the browser app on your computer and sign in to your [YouTube Studio]
 
 Step2 Click Analytics from the left side of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to check youtube income on pc 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-1.jpg)
 
 Step3 On the Analytics screen, select Revenue from the top side of the screen to check your YouTube income.
@@ -220,6 +270,9 @@ The process of checking YouTube income on an Android or iOS device is also strai
 
 Step1 Make sure you have the latest version of the YouTube app on your phone. If not, you can install it from Google Play Store or App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-2.jpg)
 
 Step2 Log in to your YouTube account and tap on the Profile icon at the top side. Then, select Your Channel.
@@ -228,6 +281,9 @@ Step2 Log in to your YouTube account and tap on the Profile icon at the top side
 
 Step3 Tap the Analytics icon from the middle menu. Your YouTube channel income and other data will be displayed on your phone screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 3](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-4.jpg)
 
 **YouTube Studio App**
@@ -250,6 +306,9 @@ The information that you’ll find in the YouTube revenue analytics includes the
 * **Top Earnings;** It shows the data of the video with the highest estimated revenue.
 * **Ad Type;** This displays the percentage of revenue earned from the different types of ads.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How your YouTube earnings are calculated
 
 Having known how to check YouTube income, if you’re still wondering how your earnings are calculated, here, we’ve discussed all the necessary information you need to know about how YouTube earnings are calculated.
@@ -268,8 +327,14 @@ All the factors explained above will determine how your YouTube earnings are cal
 
 You can also calculate your YouTube channel total earnings by using the [YouTube calculator](https://www.tunepocket.com/youtube-money-calculator/).
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to check youtube income on mobile phone 6](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How do you increase your YouTube earnings?
 
 ### 1\. Post quality videos
@@ -290,10 +355,16 @@ Step2 Use the Import button to upload the video you created for your YouTube cha
 
 Step3 Drag-n-drop the video you uploaded to the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-9.jpg)
 
 Step4 To remove unwanted background from your video, click Effects from the top side of the screen. Select AI Portrait from the left side of the screen and select a preferred AI Portrait effect that you’ll like to use in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select ai portrait filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-10.jpg)
 
 Step5 Next, drag-n-dop the chosen AI Portrait effect to the timeline. After that, adjust the AI Portrait effect from the timeline. You can also add multiple effects by dragging and dropping them to the timeline.
@@ -306,6 +377,9 @@ Step6 Double-click the AI Portrait effect from the Timeline. From the pop-up tha
 
 Step7 You can add Subscribe watermark by clicking the >> icon at the top of the screen, then select Element.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-13.jpg)
 
 Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
@@ -314,12 +388,22 @@ Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected 
 
 Step8 Preview the edited video. If you’re satisfied with the output, click the Export button at the top bar and choose Burn DVD from the drop-down list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-15.jpg)
 
 Step9 Enter file name in the box next to Label. Then, navigate to Folder Path and choose where you want the file to be saved. Afterward, click Export to Finish.
 
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Upload videos regularly
 
 Starting a YouTube channel can be quite hard from start, but make it a priority to upload at least two quality videos every week. Yes, the more quality videos you post, the more you attract the viewer to like your videos, and the higher your chances of getting new subscribers, thereby increasing your YouTube earnings.
@@ -340,6 +424,9 @@ YouTube monetization involves making money from videos you upload on your YouTub
 
 Monetizing YouTube as a creator is a great way to earn passive income just by uploading videos. Research shows that an average YouTuber has the potential of earning $10,000 in revenue per year.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Which category is best for YouTube earnings?
 
 The average CPM you earn from videos you upload on YouTube all depends on the niche of your video. The following are the best 5 categories best for YouTube earnings in 2022;
@@ -426,6 +513,9 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -437,6 +527,116 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: End Cards
+
+When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
+
+To keep viewers on your channel, you can create your End Card which recommends other content you have created.
+
+#### Elements of an End Card
+
+An end card includes clips from two or three of your videos, muted, and shrunk down to thumbnail-size. Using spotlight annotations you can make these thumbnails click-able.
+
+It is also important that your end card includes multiple calls to action. A call to action is meant to spur a viewer to some kind of action. Writing ‘Check out this video’ above one of your thumbnails is a call to action.
+
+You should also have a subscribe link somewhere in your end card, ideally a very noticeable button with a proven call to action like ‘Subscribe Now!’.
+
+Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
+
+#### How To Make an End Card
+
+1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
+2. Drag your background into your timeline at the end of your video.
+3. Import two or three of your previous videos and drag them into your picture in picture tracks. Each clip should be on its track.
+4. Trim the clips in your picture in picture track down to the same length as your end card.
+5. Shrink your clips down to thumbnail-size by dragging their corners in the preview window.
+6. Position your clips so they are spaced evenly by dragging them in the preview screen.
+7. Mute your clips.
+8. If your background does not include any calls to action, choose a title from the **Text/Titles** menu in Filmora and create at least two – one asking viewers to subscribe, and one asking them to watch your suggested videos.
+9. Export your video from Filmora and upload it to YouTube.
+10. Go to your **Video Manager** and select **Annotations** in the drop-down menu next to your video.
+11. Go to your end card in the previewer, as that is where you want to add your annotations.
+12. Click **Add Annotation** and add a spotlight annotation to your video. Stretch it over one of your thumbnails and then check the Link box under your Annotation’s timing. Insert a link to the video you are previewing.
+13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
+14. Click **Apply Changes**.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+[Part 1: Intros](#part1)
+
+[Elements of an Intro](#elements)
+
+[Top Intro Sites](#top)
+
+[Creating an Intro in Filmora](#creating)
+
+[Part 2: End Cards](#part2)
+
+[Elements of an End Card](#element)
+
+[How To Make an End Card](#how-to)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Part1: Intros
+
+#### Elements of an Intro
+
+Intros should only last about five seconds, and that can be cut down to two or three if you have a larger following.
+
+When your intro video is longer than five seconds viewers are more likely to click away. The first 15 seconds of a video is when viewers are most likely to decide to click on one of the recommended videos, or go back to their search results and choose something else. The odds of them leaving within these first 15 seconds are greater if you do not get right to the main point of your video. That is why long intro sequences are bad for your watch time.
+
+Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
+
+#### Top Intro Sites
+
+There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
+
+**FlixPress.com**
+
+This is probably the most popular intro site. There are a lot of great animated intros available for under $5, or even for free.
+
+**IntroMaker.net**
+
+This is another site with really professional looking intros for $5\. They only have two free options, though.
+
+#### Creating an Intro in Filmora
+
+You can create a simple intro card in **Filmora**.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
+2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
+3. If you have a logo, import it into Filmora and drag it into your picture-in-picture track.
+4. With your logo selected, click on the Green Screen icon. In the pop-up, select the background of your logo to make it transparent. For this to work your logo cannot be the same color as its background.
+5. Click on the editing icon with your logo selected and choose an animation.
+6. Go to the Text/Titles menu and choose an animated title that suits your channel. Drag it into your text track and edit it to include your name.
+7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
+8. Export your video and save it for use in all of your other videos.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -535,6 +735,9 @@ You can create a simple intro card in **Filmora**.
 7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
 8. Export your video and save it for use in all of your other videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -568,6 +771,9 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -596,6 +802,9 @@ Follow @Shanoon Cox
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -666,104 +875,14 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-[Part 1: Intros](#part1)
-
-[Elements of an Intro](#elements)
-
-[Top Intro Sites](#top)
-
-[Creating an Intro in Filmora](#creating)
-
-[Part 2: End Cards](#part2)
-
-[Elements of an End Card](#element)
-
-[How To Make an End Card](#how-to)
-
-## Part1: Intros
-
-#### Elements of an Intro
-
-Intros should only last about five seconds, and that can be cut down to two or three if you have a larger following.
-
-When your intro video is longer than five seconds viewers are more likely to click away. The first 15 seconds of a video is when viewers are most likely to decide to click on one of the recommended videos, or go back to their search results and choose something else. The odds of them leaving within these first 15 seconds are greater if you do not get right to the main point of your video. That is why long intro sequences are bad for your watch time.
-
-Whether it is better to put your intro at the very beginning of your video, or after you introduce your topic, will depend on your viewers. You may want to try it both ways and then look at your retention report (found in your YouTube Creator Studio under Analytics) to see which works best for you.
-
-#### Top Intro Sites
-
-There are a few different sites where you can download animated intros, customized to include your username or logo. Here are two of the best:
-
-**FlixPress.com**
-
-This is probably the most popular intro site. There are a lot of great animated intros available for under $5, or even for free.
-
-**IntroMaker.net**
-
-This is another site with really professional looking intros for $5\. They only have two free options, though.
-
-#### Creating an Intro in Filmora
-
-You can create a simple intro card in **Filmora**.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
-2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
-3. If you have a logo, import it into Filmora and drag it into your picture-in-picture track.
-4. With your logo selected, click on the Green Screen icon. In the pop-up, select the background of your logo to make it transparent. For this to work your logo cannot be the same color as its background.
-5. Click on the editing icon with your logo selected and choose an animation.
-6. Go to the Text/Titles menu and choose an animated title that suits your channel. Drag it into your text track and edit it to include your name.
-7. The last piece of your intro is sound. You can choose a song from Filmora’s library and cut it down to five seconds, or import your sound effect.
-8. Export your video and save it for use in all of your other videos.
-
-## Part 2: End Cards
-
-When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
-
-To keep viewers on your channel, you can create your End Card which recommends other content you have created.
-
-#### Elements of an End Card
-
-An end card includes clips from two or three of your videos, muted, and shrunk down to thumbnail-size. Using spotlight annotations you can make these thumbnails click-able.
-
-It is also important that your end card includes multiple calls to action. A call to action is meant to spur a viewer to some kind of action. Writing ‘Check out this video’ above one of your thumbnails is a call to action.
-
-You should also have a subscribe link somewhere in your end card, ideally a very noticeable button with a proven call to action like ‘Subscribe Now!’.
-
-Some creators will leave their end cards at that and play music overtop, but it can be even more effective to include a voiceover where you ask viewers to subscribe and watch your other videos.
-
-#### How To Make an End Card
-
-1. Choose a static background. You may want to download an end card template or create one in a drawing program. If you do, make sure to include calls to action like ‘Watch more!’ and ‘Subscribe’.
-2. Drag your background into your timeline at the end of your video.
-3. Import two or three of your previous videos and drag them into your picture in picture tracks. Each clip should be on its track.
-4. Trim the clips in your picture in picture track down to the same length as your end card.
-5. Shrink your clips down to thumbnail-size by dragging their corners in the preview window.
-6. Position your clips so they are spaced evenly by dragging them in the preview screen.
-7. Mute your clips.
-8. If your background does not include any calls to action, choose a title from the **Text/Titles** menu in Filmora and create at least two – one asking viewers to subscribe, and one asking them to watch your suggested videos.
-9. Export your video from Filmora and upload it to YouTube.
-10. Go to your **Video Manager** and select **Annotations** in the drop-down menu next to your video.
-11. Go to your end card in the previewer, as that is where you want to add your annotations.
-12. Click **Add Annotation** and add a spotlight annotation to your video. Stretch it over one of your thumbnails and then check the Link box under your Annotation’s timing. Insert a link to the video you are previewing.
-13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
-14. Click **Apply Changes**.
-
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -787,3 +906,50 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-excellence-in-editing-selecting-the-right-software/"><u>[New] Excellence in Editing  Selecting the Right Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[New] In 2024, Elevate Your Virtual Meetings  Mastering Zoom Filter Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[New] Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[New] Profitability Probe  DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>[New] Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-speedy-tactics-for-disorganized-youtube-song-listings/"><u>[New] Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-approach-to-dealing-with-youtube-copyright-claims/"><u>[New] Strategic Approach to Dealing With YouTube Copyright Claims</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-does-the-law-apply-to-video-sharing-on-facebook-for-2024/"><u>[Updated] How Does the Law Apply to Video Sharing on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expanding-youtube-audience-through-perpetual-creative-commons/"><u>2024 Approved  Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fifa-footage-analysis-trendy-video-patterns/"><u>2024 Approved  FIFA Footage Analysis  Trendy Video Patterns</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>2024 Approved  Filmmaking Made Simple  A Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>2024 Approved  From Novice to Pro  Your Step-by-Step Guide to YouTube Live Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>2024 Approved  Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-living-by-the-youtube-number-game-understanding-your-view-requirements/"><u>2024 Approved  Living by the YouTube Number Game  Understanding Your View Requirements</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>2024 Approved  Mastering the Art of Design  Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-revenue-a-complete-playbook/"><u>2024 Approved  Mastering Youtube Revenue   A Complete Playbook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-private-yt-content-with-google-login/"><u>2024 Approved  Step-by-Step Guide  Private YT Content with Google Login</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-audio-advantage-elevating-sound-quality-in-youtube-productions/"><u>2024 Approved  The Audio Advantage  Elevating Sound Quality in YouTube Productions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-step-by-step-pathway-to-youtube-mastery/"><u>2024 Approved  The Step-by-Step Pathway to YouTube Mastery</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-for-youtube-short-success/"><u>2024 Approved  The Ultimate Checklist for YouTube Short Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-fact-sheet-for-youtube-premium-users/"><u>2024 Approved  The Ultimate Fact Sheet for YouTube Premium Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-years-most-memorable-youtube-music-dance-clips/"><u>2024 Approved  The Year's Most Memorable YouTube Music Dance Clips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-educational-youtube-channels/"><u>2024 Approved  Top 10 Educational YouTube Channels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-simple-strategies-for-establishing-successful-biz-youtubes/"><u>2024 Approved  Top 10 Simple Strategies for Establishing Successful Biz YouTubes</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-linkedins-gaming-addiction-bait-trap/"><u>Avoid LinkedIn's Gaming Addiction Bait Trap</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/generating-an-effective-youtube-subscribe-link-for-2024/"><u>Generating an Effective YouTube Subscribe Link for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturewin10-top-tier-recorder/"><u>In 2024, CaptureWin10  Top-Tier Recorder</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a38-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A38 Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ios-and-android-tips-for-silent-youtube-viewing/"><u>In 2024, IOS & Android Tips for Silent YouTube Viewing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-juggling-youtube-success-and-full-time-work-a-guide/"><u>In 2024, Juggling YouTube Success & Full-Time Work  A Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-keep-watching-youtube-in-the-background-with-ease/"><u>In 2024, Keep Watching YouTube in the Background with Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-key-video-makers-in-the-asmr-space/"><u>In 2024, Key Video Makers in the ASMR Space</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-lead-the-pack-with-these-top-7-android-tools-against-ads/"><u>In 2024, Lead the Pack with These Top 7 Android Tools Against Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monthly-revenue-streams-for-video-content-creators/"><u>In 2024, Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>In 2024, Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>In 2024, Secrets to Effective Video Tagging Revealed Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-slash-length-amplify-impact-youtube-video-editing/"><u>In 2024, Slash Length, Amplify Impact  YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-rapid-deletion-of-youtube-feedback/"><u>In 2024, Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>Instant iPhone Success  Proven Tips for Making Professional Photo Collagues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/iosplusandroid-tips-for-uninterrupted-youtube-viewing-for-2024/"><u>IOS+Android Tips for Uninterrupted YouTube Viewing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/restoring-sound-linkage-in-obs-broadcasts/"><u>Restoring Sound Linkage in OBS Broadcasts</u></a></li>
+</ul></div>

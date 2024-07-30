@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sound Savings Guide  Youtuber's Selection of Affordable Mics\""
-date: 2024-05-31T13:42:16.488Z
-updated: 2024-06-01T13:42:16.488Z
+date: 2024-07-29T20:59:55.048Z
+updated: 2024-07-30T20:59:55.048Z
 tags:
   - ai video
   - ai youtube
@@ -11,13 +11,16 @@ categories:
 description: "\"This Article Describes In 2024, Sound Savings Guide: Youtuber's Selection of Affordable Mics\""
 excerpt: "\"This Article Describes In 2024, Sound Savings Guide: Youtuber's Selection of Affordable Mics\""
 keywords: "\"Mic Savings Tips,Budget Microphones,Cheap Audio Equipment,DIY Recording Gear,Affordable Mics Guide,Sound Investments,Low-Cost Studio Setup\""
-thumbnail: https://www.lifewire.com/thmb/ib-rGV2vMJ5PAWG7hZQwNTOKiQI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Self-Service-Repair-iPhone-6617e65293a04de7916169bea41d286f.jpg
+thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb1025ad045c8786c79687920a30.jpg
 ---
 
 ## Sound Savings Guide: Youtuber's Selection of Affordable Mics
 
 # Cheap Microphones for Youtubers on a Budget
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -44,12 +47,18 @@ As for keeping with your financial needs, we aren’t going to be looking at any
 
 **Disclaimer:** Prices are subjected to change.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $20**
 
 #### **BOYA BY-M1 - $16.99**
 
 **The[BOYA BY-M1](https://www.amazon.com/BOYA-Microphone-Windscreen-Windshield-Smartphones/dp/B01M2VC8GF/) is a lavalier microphone (a hand-free mic that clips onto your clothing) that connects to smartphones, DSLR, computers, and other audio recorders.**
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boya-by-m1](https://images.wondershare.com/boya-by-m1.jpg)
 
 **Pro**: As an omnidirectional condenser microphone, it will be able to pick up audio from 360 degrees, and with 20 feet (6 meters) of cable, you can have a significant range movement even if you are connected to the camera.
@@ -96,6 +105,9 @@ It is designed to be able to clip onto a flat surface such as your computer scre
 
 The[XIAOKOA](https://www.amazon.com/Portable-Condenser-Microphone-Recording-XIAOKOA/dp/B074GZJ4RP/)portable mini condenser microphone is compatible with smartphones, computers, and any devices using 3.5mm recording jacks.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xiaokoa-mini-condenser-microphone-with-stand](https://images.wondershare.com/xiaokoa-mini-condenser-microphone-with-stand.jpg)
 
 **Pro:** With a cardioid pickup, this condenser microphone will do a fine job picking up vocals. If you are a YouTuber who does a lot of singing videos, this is definitely an affordable microphone to check out.
@@ -150,6 +162,9 @@ The [Marantz Professional MPM-1000U](https://www.amazon.com/Marantz-Professional
 
 **Con**: May pick up extraneous noises if you are recording vocals while there are movements in your surrounding, but otherwise, this is an excellent microphone in its price range.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Final Thoughts**
 
 When looking for microphones under $100, the difference in audio quality is not going to be drastic. What you need to consider is how you are going to be using this piece of equipment.
@@ -164,8 +179,14 @@ What are you looking for in a budget microphone? Let us know in the comments bel
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -216,12 +237,18 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [TONOR](https://www.amazon.com/TONOR-Microphone-Condenser-Recording-Podcasting/dp/B01142EPO4/)is an easy-to-setup condenser microphone that you can connect to your computer via USB and start recording in seconds.**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 **![tonor-pc-microphone-computer-condenser](https://images.wondershare.com/tonor-pc-microphone-computer-condenser.jpg)**
 
  **Pro:** The value of this microphone is in its ease of use. With a flexible, foldable stand, you can adjust the TONOR PC microphone the way it suits your setup. The legs of the stand are retractable, which makes it easy for you to store. If you are a gamer or creating videos primarily from your desk, this is a perfectly suitable microphone for you to start your YouTube journey with.
 
 **Con:** The audio quality of this mic can help you get the job done, but it won’t blow you away. The cable is attached to the microphone and is 6.5 feet (2 meters) long, which isn’t a wide range. It’s pretty much restricted to the desk with your computer. This microphone has limitations, and high-achieving YouTubers will certainly grow out of it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $50**
 
 #### **Purple Panda Lavalier Microphone - $23.99**
@@ -238,6 +265,9 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [Samson Go](https://www.amazon.com/Samson-Mic-Portable-Condenser-Microphone/dp/B001R76D42) microphone is the kind of mic that can fit in your pocket and be taken with you anywhere.**
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samson-go-mic-portable-usb-condenser-microphone](https://images.wondershare.com/samson-go-mic-portable-usb-condenser-microphone.jpg)
 
 **Pro:** This microphone has both a cardioid and an omnidirectional mode. This means that you can choose to have your microphone focused more on the subject speaking by switching to cardio or switch to Omni-directional to capture audio from the entire surrounding.
@@ -260,6 +290,9 @@ The[XIAOKOA](https://www.amazon.com/Portable-Condenser-Microphone-Recording-XIAO
 
 The [TAKSTAR SGC](https://www.amazon.com/TAKSTAR-SGC-598-Interview-Microphone-Camcorder/dp/B00E58AA0I)is a condenser microphone, and it can be fixed onto your camera, which simplifies your YouTube setup. This camera can plug directly into your camera, reducing the audio tracks you need to manage when editing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![takstar-sgc-598](https://images.wondershare.com/takstar-sgc-598.jpg)
 
 **Pro:** The camera-mounted microphone has a shock-resistant design that reduces noise when the camera is moved. The cardioid microphone will be able to pick up audio in the direction it is pointed in, reducing noise capturing from behind the camera. This is a good microphone for vlogging or interviews.
@@ -270,6 +303,9 @@ Limited to a vocal subject standing 4-5 feet away, any more and the microphone w
 
 The design requires it to be mounted to the camera. If you want to separate it from the camera and still have it recorded, a bit of creativity is required to keep it standing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $100**
 
 ####  
@@ -278,6 +314,9 @@ The design requires it to be mounted to the camera. If you want to separate it f
 
 The [Behringer C-1U](https://www.amazon.com/Behringer-C-1U-BEHRINGER/dp/B001QXCYZY/) is a condenser microphone with a cardioid pickup pattern that connects to your computer via USB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![behringer-c-1u](https://images.wondershare.com/behringer-c-1u.jpg)
 
 **Pro:** This microphone has a solid metal build and has a good weight. It is quick and easy to set up and is a good microphone for anyone wanting a simple solution for better audio on YouTube.
@@ -298,6 +337,9 @@ The [Blue Microphones Snowball iCE](https://www.amazon.com/Blue-Microphones-Snow
 
 The [Marantz Professional MPM-1000U](https://www.amazon.com/Marantz-Professional-MPM-1000U-Microphone-Podcasting/dp/B01GHOM67W/)is a condenser microphone that records in a cardioid polar pattern that connects to your computer via USB.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![marantz-professional-mpm-1000u](https://images.wondershare.com/marantz-professional-mpm-1000u.jpg)
 
 **Pro**: This budget microphone has excellent all-metal construction. It has a plug-and-play setup and doesn’t require any drivers or installations. It records great instrumentals and would recommend it to those who are recording music for YouTube.
@@ -352,6 +394,9 @@ As for keeping with your financial needs, we aren’t going to be looking at any
 
 **Disclaimer:** Prices are subjected to change.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $20**
 
 #### **BOYA BY-M1 - $16.99**
@@ -370,6 +415,9 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [TONOR](https://www.amazon.com/TONOR-Microphone-Condenser-Recording-Podcasting/dp/B01142EPO4/)is an easy-to-setup condenser microphone that you can connect to your computer via USB and start recording in seconds.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 **![tonor-pc-microphone-computer-condenser](https://images.wondershare.com/tonor-pc-microphone-computer-condenser.jpg)**
 
  **Pro:** The value of this microphone is in its ease of use. With a flexible, foldable stand, you can adjust the TONOR PC microphone the way it suits your setup. The legs of the stand are retractable, which makes it easy for you to store. If you are a gamer or creating videos primarily from your desk, this is a perfectly suitable microphone for you to start your YouTube journey with.
@@ -382,6 +430,9 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [Purple Panda](https://www.amazon.com/Purple-Panda-Lavalier-Lapel-Microphone/dp/B01MSKI46R) lavalier microphone comes with multiple adapters and is compatible with nearly all devices, including smartphone, DSLR, computers, and even GoPro cameras. The only device where you will need an[additional adapter](https://www.apple.com/ca/shop/product/MMX62AM/A/lightning-to-35mm-headphone-jack-adapter) is if you have an iPhone 7.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 **![purple-panda-lavalier-microphone](https://images.wondershare.com/purple-panda-lavalier-microphone.jpg)**
 
 **Pro:** This microphone is a versatile option for YouTubers who create a variety of content. It doesn’t require any battery and is powered by whatever device it is plugged into, which is great for YouTubers with already so many devices to keep charged.
@@ -392,6 +443,9 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [Samson Go](https://www.amazon.com/Samson-Mic-Portable-Condenser-Microphone/dp/B001R76D42) microphone is the kind of mic that can fit in your pocket and be taken with you anywhere.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![samson-go-mic-portable-usb-condenser-microphone](https://images.wondershare.com/samson-go-mic-portable-usb-condenser-microphone.jpg)
 
 **Pro:** This microphone has both a cardioid and an omnidirectional mode. This means that you can choose to have your microphone focused more on the subject speaking by switching to cardio or switch to Omni-directional to capture audio from the entire surrounding.
@@ -424,6 +478,9 @@ Limited to a vocal subject standing 4-5 feet away, any more and the microphone w
 
 The design requires it to be mounted to the camera. If you want to separate it from the camera and still have it recorded, a bit of creativity is required to keep it standing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $100**
 
 ####  
@@ -452,12 +509,18 @@ The [Blue Microphones Snowball iCE](https://www.amazon.com/Blue-Microphones-Snow
 
 The [Marantz Professional MPM-1000U](https://www.amazon.com/Marantz-Professional-MPM-1000U-Microphone-Podcasting/dp/B01GHOM67W/)is a condenser microphone that records in a cardioid polar pattern that connects to your computer via USB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![marantz-professional-mpm-1000u](https://images.wondershare.com/marantz-professional-mpm-1000u.jpg)
 
 **Pro**: This budget microphone has excellent all-metal construction. It has a plug-and-play setup and doesn’t require any drivers or installations. It records great instrumentals and would recommend it to those who are recording music for YouTube.
 
 **Con**: May pick up extraneous noises if you are recording vocals while there are movements in your surrounding, but otherwise, this is an excellent microphone in its price range.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Final Thoughts**
 
 When looking for microphones under $100, the difference in audio quality is not going to be drastic. What you need to consider is how you are going to be using this piece of equipment.
@@ -472,6 +535,9 @@ What are you looking for in a budget microphone? Let us know in the comments bel
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -512,6 +578,9 @@ As for keeping with your financial needs, we aren’t going to be looking at any
 
 **The[BOYA BY-M1](https://www.amazon.com/BOYA-Microphone-Windscreen-Windshield-Smartphones/dp/B01M2VC8GF/) is a lavalier microphone (a hand-free mic that clips onto your clothing) that connects to smartphones, DSLR, computers, and other audio recorders.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boya-by-m1](https://images.wondershare.com/boya-by-m1.jpg)
 
 **Pro**: As an omnidirectional condenser microphone, it will be able to pick up audio from 360 degrees, and with 20 feet (6 meters) of cable, you can have a significant range movement even if you are connected to the camera.
@@ -530,12 +599,18 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **Con:** The audio quality of this mic can help you get the job done, but it won’t blow you away. The cable is attached to the microphone and is 6.5 feet (2 meters) long, which isn’t a wide range. It’s pretty much restricted to the desk with your computer. This microphone has limitations, and high-achieving YouTubers will certainly grow out of it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## **YouTube Microphones for Under $50**
 
 #### **Purple Panda Lavalier Microphone - $23.99**
 
 **The [Purple Panda](https://www.amazon.com/Purple-Panda-Lavalier-Lapel-Microphone/dp/B01MSKI46R) lavalier microphone comes with multiple adapters and is compatible with nearly all devices, including smartphone, DSLR, computers, and even GoPro cameras. The only device where you will need an[additional adapter](https://www.apple.com/ca/shop/product/MMX62AM/A/lightning-to-35mm-headphone-jack-adapter) is if you have an iPhone 7.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 **![purple-panda-lavalier-microphone](https://images.wondershare.com/purple-panda-lavalier-microphone.jpg)**
 
 **Pro:** This microphone is a versatile option for YouTubers who create a variety of content. It doesn’t require any battery and is powered by whatever device it is plugged into, which is great for YouTubers with already so many devices to keep charged.
@@ -546,6 +621,9 @@ The BOYA BY-M1 is a terrific choice for YouTubers on a budget that is frequently
 
 **The [Samson Go](https://www.amazon.com/Samson-Mic-Portable-Condenser-Microphone/dp/B001R76D42) microphone is the kind of mic that can fit in your pocket and be taken with you anywhere.**
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samson-go-mic-portable-usb-condenser-microphone](https://images.wondershare.com/samson-go-mic-portable-usb-condenser-microphone.jpg)
 
 **Pro:** This microphone has both a cardioid and an omnidirectional mode. This means that you can choose to have your microphone focused more on the subject speaking by switching to cardio or switch to Omni-directional to capture audio from the entire surrounding.
@@ -586,6 +664,10 @@ The design requires it to be mounted to the camera. If you want to separate it f
 
 The [Behringer C-1U](https://www.amazon.com/Behringer-C-1U-BEHRINGER/dp/B001QXCYZY/) is a condenser microphone with a cardioid pickup pattern that connects to your computer via USB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![behringer-c-1u](https://images.wondershare.com/behringer-c-1u.jpg)
 
 **Pro:** This microphone has a solid metal build and has a good weight. It is quick and easy to set up and is a good microphone for anyone wanting a simple solution for better audio on YouTube.
@@ -652,6 +734,9 @@ Follow @Richard Bennett
 
 # How to Animate and Make Your Own Effects
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -680,10 +765,16 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
@@ -694,6 +785,9 @@ What’s great about this course is that it assumes you have no animation experi
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Video Copilot](http://www.videocopilot.net/)**
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
@@ -742,14 +836,24 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## **[Video Copilot](http://www.videocopilot.net/)**
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -788,6 +892,9 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
@@ -802,6 +909,9 @@ What’s great about this course is that it assumes you have no animation experi
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -836,20 +946,32 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **[Video Copilot](http://www.videocopilot.net/)**
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
@@ -875,3 +997,45 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[New] 2024 Approved  Stream Like a Pro  Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-step-by-step-guide-to-youtube-comms-management/"><u>[New] In 2024, A Step-by-Step Guide to YouTube Comms Management</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-pioneering-techniques-in-documentary-scripting/"><u>[New] In 2024, Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>[New] Quick Step-By-Step  Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-shield-yourself-online-a-step-by-step-guide-for-smoothing-images/"><u>[New] Shield Yourself Online  A Step-by-Step Guide for Smoothing Images</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-in-selecting-premium-hdr-cameras/"><u>2024 Approved  Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-the-perks-and-pitfalls-of-mcn-alliances/"><u>2024 Approved  Exploring the Perks and Pitfalls of MCN Alliances</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-reverse-youtube-video-in-creative-ways/"><u>2024 Approved  How to Reverse YouTube Video in Creative Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-macs-2023-update-youtube-audio-to-mp3-step-by-step/"><u>2024 Approved  Mac's 2023 Update  YouTube Audio to MP3 Step-by-Step</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-youtube-video-formats-a-comprehensive-guide/"><u>2024 Approved  Optimal YouTube Video Formats  A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneer-your-way-through-youtube-shorts-production/"><u>2024 Approved  Pioneer Your Way Through YouTube Shorts Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rapid-rendering-of-fortnite-icons/"><u>2024 Approved  Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-profitability-on-yt-post-monetization-financial-steps/"><u>2024 Approved  Streamline Profitability on YT – Post-Monetization Financial Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>2024 Approved  Swift Technique  Coding Images for YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-creating-compelling-youtube-video-outlines/"><u>2024 Approved  The Art of Creating Compelling YouTube Video Outlines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-top-10-accelerating-youtube-platforms-for-motivation-and-inspiration/"><u>2024 Approved  The Top 10 Accelerating YouTube Platforms for Motivation and Inspiration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-linux-screen-capture-software-ranked/"><u>Best Linux Screen Capture Software Ranked</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-viewing-pleasure-no-more-lags/"><u>Enhance Viewing Pleasure - No More Lags</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/harness-youtube-movie-maker-for-impactful-videos-for-2024/"><u>Harness YouTube Movie Maker for Impactful Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-tecno-spark-10-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 8?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-easy-to-use-online-editors-for-quick-postings/"><u>In 2024, Free, Easy-to-Use Online Editors for Quick Postings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-mobile-smartphones-and-youtube-success/"><u>In 2024, Maximizing Mobile  Smartphones & YouTube Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>In 2024, Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-world-of-webcams-for-high-quality-streams/"><u>In 2024, Navigating the World of Webcams for High-Quality Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revenue-revolution-joining-elite-at-500-subs-level/"><u>In 2024, Revenue Revolution  Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>In 2024, Shocking Stats  Mind-Bending Youtube Visual Facts ('17)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-smartphone-accessories-for-making-videos/"><u>In 2024, Smartphone Accessories for Making Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-syncopated-patterns-in-youtube-music-collections/"><u>In 2024, Syncopated Patterns in YouTube Music Collections</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/"><u>In 2024, The Best of YT  A Deep Dive Into Music Dance Clips, '23</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-top-3d-introduction-software/"><u>In 2024, The Ultimate Guide  Top 3D Introduction Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/infusing-creative-edge-in-your-youtube-trailer-production-for-2024/"><u>Infusing Creative Edge in Your YouTube Trailer Production for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor FRP Without Computer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-guide-to-finding-cheap-transcript-extractors-for-2024/"><u>Master Guide to Finding Cheap Transcript Extractors for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-and-tiktok-integration-a-step-by-step-guide-for-2024/"><u>Mastering YouTube & TikTok Integration  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastery-in-captioning-a-youtube-creators-handbook-for-2024/"><u>Mastery in Captioning  A YouTube Creator's Handbook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pros-playlist-shuffle-manual-for-2024/"><u>The Pro's Playlist Shuffle Manual for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-companion-for-snapchat-enthusiasts-for-2024/"><u>The Ultimate Zoom Companion for Snapchat Enthusiasts for 2024</u></a></li>
+</ul></div>

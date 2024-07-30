@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expert Advice  Incorporating Narrative Elements Into YouTube Videos\""
-date: 2024-06-11T08:09:45.828Z
-updated: 2024-06-12T08:09:45.828Z
+date: 2024-07-29T22:21:37.944Z
+updated: 2024-07-30T22:21:37.944Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/287414ff43ab53f27880b8114eed3693184381a70
 
 # How to Add Text to YouTube Video Before or After Uploading
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -46,6 +49,9 @@ There are plenty of Text effects built in Filmora, you can apply motions and ani
 * To change the color of your text, go into the **Customize**  menu. You will find it near the top left of your screen. While you are in **Customize** there will be a section called **Fill**. This is where you select the color of your text. You can even change the fill type to ‘gradient fill’ and have your text transition between two colors.
 * All of Filmora’s text options are animated – they fade, move around the screen, or perform some other type of action as they appear and disappear. To change the animation of your text select **Animation** next to **Customize**. A selection of different animations will appear. Double click on the one you want to apply to your text.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Check the detailed steps of how to add text to video in Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -96,12 +102,18 @@ Of course, you can only add and edit texts and captions to the video under your 
 * Click the **Video Manager** tab and in Videos section you will see all your videos uploaded to YouTube. Select the video that you want to add captions to and then select **Subtitles/CC** after clicking Edit button.
 * Add Captions/Subtitles
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ Add Text to Video ](https://images.wondershare.com/filmora/article-images/add-text-youtube-video-editor.jpg)
 
 While YouTube may have already created the subtitles automatically for your video with its speech recognition technology. If it does, you will see something like Published: English (Automatic) to the right of your video. If the automatically generated subtitles is not correct, you can edit it to improve the accuracy. Select the line that needs modification to make the edits.
 
 If there is no auto-subtitles, you can choose from 3 ways to add subtitles and closed captions to the video: Upload a file, Transcribe and auto-sync and create new subtitles or CC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![ Add Text to Video ](https://images.wondershare.com/filmora/article-images/3-ways-to-add-youtube-subtitles.jpg)
 
 **Upload a file:** upload a text transcript or timed subtitles file.
@@ -120,6 +132,9 @@ When you make use of this editor, you cannot shorten the clips for music. Moreov
 
 From 20th September 2017 users will no longer be able to use the complementary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide to find out more YouTube video editor alternatives if you want to add text to video with more features and customization.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Top 3 Tips for Adding Text to YouTube Videos
 
 #### 1\. Leave Room
@@ -140,6 +155,9 @@ Text is a great tool for making something stand out. However, if you try to use 
 
 Try to use text to emphasize only the most important things you say.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -158,3 +176,41 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-best-ios-video-editing-cameo-vs-filmorago-for-2024/"><u>[New] Best iOS Video Editing  Cameo Vs. FilmoraGo for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] Exclusive YouTube Snippet Access - High Quality, Free Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] Get Going on YouTube  Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps/"><u>[New] Get More From Tiny Screens  Top 6 YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-full-time-workers-who-create-videos/"><u>[New] Strategies for Full-Time Workers Who Create Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>[New] Turn Up the Volume  A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-effective-obs-transitions-to-facebook-live/"><u>[Updated] 2024 Approved  Effective OBS Transitions to Facebook Live</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>[Updated] 2024 Approved  The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-strategy-supreme-the-top-7-battlefield-commanders/"><u>[Updated] In 2024, Strategy Supreme  The Top 7 Battlefield Commanders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[Updated] Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>[Updated] Tailoring Video Edits  The Reason for iMovie Cropping</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>2024 Approved  Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flv-to-youtube-unveiling-the-top-10-tools-for-video-conversion/"><u>2024 Approved  FLV to YouTube  Unveiling the Top 10 Tools for Video Conversion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-medias-closing-chapters/"><u>2024 Approved  Mastering Media's Closing Chapters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>2024 Approved  Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-wealth-of-mr-beast/"><u>2024 Approved  The Wealth of Mr. Beast</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analytics-mastery-measuring-success-on-your-instagram-videos-for-2024/"><u>Analytics Mastery  Measuring Success on Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celebrating-redditenas-top-ten-upvoted-discussions/"><u>Celebrating Reddit'enas  Top Ten Upvoted Discussions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/constructing-emotional-resonance-trailer-sound-selection-guide/"><u>Constructing Emotional Resonance  Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-mix-text-and-video-on-a-shoestring-budget-for-2024/"><u>How to Mix Text & Video on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-search-comments-on-youtube-quickly-for-2024/"><u>How to Search Comments on YouTube Quickly for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-use-youtube-cards-and-annotations-in-2024/"><u>How to Use YouTube Cards and Annotations, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-infinix-note-30-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Infinix Note 30 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-method-for-removing-downloaded-youtube-videos/"><u>In 2024, Method for Removing Downloaded YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>In 2024, Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revamp-your-channels-smart-tips-for-yt-profiles/"><u>In 2024, Revamp Your Channels  Smart Tips for YT Profiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-tactics-for-channel-spotlighting-on-youtube/"><u>In 2024, The Essential Tactics for Channel Spotlighting on Youtube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-youtube-seo-techniques/"><u>In 2024, The Ultimate Guide to YouTube SEO Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unpacking-the-best-youtube-music-reactions-2023/"><u>In 2024, Unpacking the Best YouTube Music Reactions, 2023</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-top-7-adblocker-apps-for-android-users/"><u>In 2024, Unveiling Top 7 AdBlocker Apps for Android Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterful-ad-blocking-select-from-these-top-7-android-apps-for-2024/"><u>Masterful Ad Blocking  Select From These Top 7 Android Apps for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-world-of-hashtags-to-boost-your-gaming-video-yields-for-2024/"><u>Navigating the World of Hashtags to Boost Your Gaming Video Yields for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-web-wanderers-list-of-mystery-boxes-shopping-hubs/"><u>The Ultimate Web Wanderer's List of Mystery Boxes Shopping Hubs</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleashing Radiance  Skincare and Haircare Secrets\""
-date: 2024-06-20T05:51:11.754Z
-updated: 2024-06-21T05:51:11.754Z
+date: 2024-07-29T22:08:01.426Z
+updated: 2024-07-30T22:08:01.426Z
 tags:
   - ai video
   - ai youtube
@@ -57,6 +57,9 @@ Another way you could find a niche is by taking on a specific area of interest, 
 
   SunKissAlba has a lifestyle channel that focuses on a ‘natural’ niche. She posts videos about every aspect of her lifestyle from putting on makeup to cooking, but natural/non-toxic products are a constant theme through everything she does. By niching her channel she hasn’t limited what kinds of videos she can do at all - she posts a huge variety of different types of videos. What she has done is to make her channel particularly valuable to audiences interested in things that are natural or organic.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Types of Beauty Videos – Your Content Strategy**
 
 It’s a lot easier to come up with weekly video ideas when you have an overarching strategy.
@@ -116,6 +119,9 @@ Here are 4 tips for getting free products for review:
 Make sure to link to your channel so they can verify what you say (do not hide your subscriber count).  
 Emphasize what value you could provide the brand with (i.e. ‘I’ve had a lot of success with videos on managing acne and I’m sure my subscribers would love to see a review of your cream’) and outline what kind of video you’d like to make (i.e. a five-minute review focusing on the product, or a short feature in a longer makeup tutorial).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Simple Camera Setup for Beauty Vloggers**
 
 There are a lot of different ways to set up your camera for a ‘talking head’ video (anything that is primarily you talking to the camera). Keep reading to learn about a popular ring-light setup for beauty videos, or [click here to learn 4 different camera setups](https://www.filmora.io/community-blog/4-ways-to-set-up-your-talking-head-shots-for-youtube-431.html).
@@ -139,6 +145,9 @@ You might want to experiment with sitting at different distances to see how the 
 
 **_Step 2:_** Set your camera up a bit higher than your face and tilt it down towards yourself (shooting from slightly above is always more flattering). It should be set up at about a 15° angle to you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![tilt down your camera](https://images.wondershare.com/filmora/article-images/tilt-down-camera1.jpg)
 
 **_Step 3:_** Check your frame (this is easiest if your camera has a screen that flips out) to make sure there’s not too much empty space in your shot.
@@ -161,6 +170,9 @@ ISO 400 should be a happy medium for shooting inside with your ring light, but y
 
 For more info on [camera settings for beauty videos, click here](https://www.filmora.io/video-tutorials/how-to-set-up-your-camera-%E2%80%93-the-makeup-series-12.html).
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Lighting for Beauty**
 
 The key to achieving a high-quality picture for your beauty video is having a lot of light.
@@ -173,6 +185,9 @@ There are, however, some reasons you might want additional light:
 
 If you only have a ring light/front light then you may end up looking like you’re surrounded by shadows. If you want more light for your space you can use windows, household lamps, or professional video lights like softboxes or LED panels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![light background](https://images.wondershare.com/filmora/article-images/light-background4.jpg)
 
 #### **To Stand Out Against your Background (‘Backlighting’)**
@@ -242,6 +257,9 @@ This is your ring light. Continue to step 5 if you want it to have a stand (you 
 
 **_Step 5:_** Fasten your ring light tightly to your paper towel stand securely with several zip ties. Make sure to fasten it at the bottom (where the excess rope light is coming out of your ring light). Cut off the tails of the zip ties.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – Before You Start**
 
 Before you start recording your makeup tutorial there are a few things you should do.
@@ -252,6 +270,9 @@ Before you start recording your makeup tutorial there are a few things you shoul
  4. **_Do a video test._** Before you start your video for real, start recording and shoot some test footage. Watch that back to make sure you like the look of your frame, your face is never blurry, and you’re happy with the overall look of things.
  5. **_Do an audio test._** If you’re going to be talking in your video instead of recording a voiceover after, do an audio test to make sure your audience will be able to hear you clearly.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – Recording**
 
 Here are some things to keep in mind while you record your makeup tutorial:
@@ -261,6 +282,9 @@ If you’re using autofocus, you can hold products up to the screen and wait for
 2. **_Highlight small details._** Describe what you’re doing in a lot of detail and don’t gloss over anything. Assume the person watching your tutorial doesn’t know anything about putting on makeup.
 3. **_Take stills for your thumbnail._** Remember to take some still photos of your finished makeup to use in your YouTube thumbnail.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How to Make a Makeup Tutorial – After Shooting**
 
 Once you’ve finished recording and put away all your camera gear, there’s still work to do. You still need to edit your video and post it on YouTube. Here are some tips for that:
@@ -275,6 +299,9 @@ Remember to include what type of video you made, i.e. ‘tutorial’, ‘review�
 
  Are you already making beauty videos? If so, let us know if you have any of your own tips!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -291,3 +318,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] 2024 Approved  Harnessing Home Content  A Commercialized Vlog Journey</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-youtube-frames-top-5-cost-free-techniques/"><u>[New] Mastering YouTube Frames  Top 5 Cost-Free Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pinpointing-potential-a-youtube-niche-journey/"><u>[New] Pinpointing Potential  A Youtube Niche Journey</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pioneering-your-virtual-identity-in-entertainment-industry/"><u>[New] Pioneering Your Virtual Identity in Entertainment Industry</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-protecting-video-content-during-youtube-to-mp4-transfer/"><u>[New] Protecting Video Content During YouTube-to-MP4 Transfer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speaking-into-the-future-iphone-recordings/"><u>[New] Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-archive-powerpoint-into-video-repository-for-2024/"><u>[Updated] Archive PowerPoint Into Video Repository for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fashion-your-snaps-top-trendy-augmentations-revealed/"><u>[Updated] Fashion Your Snaps  Top Trendy Augmentations Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-your-free-tool-to-record-androids-precision/"><u>[Updated] In 2024, Your Free Tool to Record Android's Precision</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-iphone-apps-for-daily-podcasts/"><u>[Updated] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-understanding-and-controlling-safaris-pip-feature-for-2024/"><u>[Updated] Understanding and Controlling Safari's PIP Feature for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-quality-hd-screensaver-recorders/"><u>2024 Approved  Best Quality HD Screensaver Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>2024 Approved  Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-illuminate-a-guide-to-great-vlog-images/"><u>2024 Approved  How to Illuminate  A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-social-strategies-for-budget-brands/"><u>2024 Approved  Infographic  Social Strategies for Budget Brands</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-monitoring-and-alerts/"><u>2024 Approved  Monitoring and Alerts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp4-conversion-mastering-youtube-shorts-editing/"><u>2024 Approved  MP4 Conversion  Mastering YouTube Shorts Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-full-time-employees-guide-to-video-content-success/"><u>2024 Approved  The Full-Time Employee's Guide to Video Content Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-top-free-youtube-video-openers/"><u>2024 Approved  Ultimate Guide  Top Free YouTube Video Openers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>2024 Approved  Unlocking Facebook's Full Potential  4 Sharing Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-free-content-creation-blending-text-and-video/"><u>2024 Approved  Unlocking Free Content Creation  Blending Text & Video</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-video-to-animation-easy-youtube-gif-creation-tips-for-2024/"><u>From Video to Animation  Easy YouTube GIF Creation Tips for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-motorola-moto-g14-screen-sharing-drfone-by-drfone-android/"><u>How To Do Motorola Moto G14 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-poco-m6-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Poco M6 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-implementing-video-transcripts-via-youtube-captions/"><u>In 2024, Implementing Video Transcripts via YouTube Captions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-journey-to-discovering-your-personal-youtube-musical-realm/"><u>In 2024, Journey to Discovering Your Personal Youtube Musical Realm</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-creator-space-a-comprehensible-guide/"><u>In 2024, Navigating the Creator Space  A Comprehensible Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-mixing-on-youtube-music/"><u>In 2024, The Art of Mixing on YouTube Music</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-future-of-content-creation-profitability-on-youtube/"><u>In 2024, The Future of Content Creation  Profitability on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>In 2024, The Science of Visual Appeal  Crafting Stunning YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-revenue-with-review-videos-of-household-items/"><u>In 2024, Unleashing Revenue with Review Videos of Household Items</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal-for-2024/"><u>Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-your-music-collection-accessible-worldwide-for-2024/"><u>Making Your Music Collection Accessible Worldwide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterclass-in-length-management-youtube-vids-for-2024/"><u>Masterclass in Length Management  YouTube Vids for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-browser-black-screens-with-ease-for-2024/"><u>Navigate Browser Black Screens with Ease for 2024</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-13t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my 13T Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vectors-decoded-for-newbies-diverse-forms-and-tool-options/"><u>Vectors Decoded for Newbies  Diverse Forms and Tool Options</u></a></li>
+</ul></div>

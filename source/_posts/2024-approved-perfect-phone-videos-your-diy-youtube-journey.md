@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Phone Videos  Your DIY YouTube Journey\""
-date: 2024-05-31T13:42:16.023Z
-updated: 2024-06-01T13:42:16.023Z
+date: 2024-07-29T20:59:43.517Z
+updated: 2024-07-30T20:59:43.517Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Perfect Phone Videos: Your DIY YouTube Journey\""
 excerpt: "\"This Article Describes 2024 Approved: Perfect Phone Videos: Your DIY YouTube Journey\""
 keywords: "\"Video Perfection Tips,DIY Filming Guide,YouTube Creation Secrets,Mobile Cinematic Techniques,Professional Phone Recording,Audio-Visual Quality,DIY Videographer's Path\""
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Perfect Phone Videos: Your DIY YouTube Journey
@@ -54,6 +54,9 @@ thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/fi
 
  After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -68,6 +71,9 @@ Follow @Richard Bennett
 
  It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How To Make YouTube Videos on Your Smartphone
 
  Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
@@ -96,6 +102,9 @@ Follow @Richard Bennett
 
  After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -110,6 +119,18 @@ Follow @Richard Bennett
 
  It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Make YouTube Videos on Your Smartphone
 
  Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
@@ -225,6 +246,9 @@ Here are 6 outro maker sites where you can get outros and end cards. Check the b
 > * [The #1 Pick!](#one)
 > * [Wondershare Filmora](#filmora)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6 YouTube Outro Makers With Templates
 
 For even more End Screen Templates, [click here](https://www.filmora.io/community-blog/free-youtube-end-screen-templates%21-plus%3B-how-to-build-your-301.html).
@@ -279,8 +303,14 @@ Although things do go on sale, they tend to charge $5 for a 720p clip.
 
 Wondershare Filmora is a great video editor for all creators. It has a large collection of video transitions, filters, overlays and text templates which can also help you customize your own templates. And its intuitive interface and easy-to-use editing tools will make your editing more efficient and quick! Let's achieve a refined look with endless effects with Wondershare Filmora!
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -358,10 +388,16 @@ As the name suggests, Intro Cave has a focus on intro videos. However, you can s
 
 Although things do go on sale, they tend to charge $5 for a 720p clip.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## YouTube Outro Maker Alternative-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Wondershare Filmora is a great video editor for all creators. It has a large collection of video transitions, filters, overlays and text templates which can also help you customize your own templates. And its intuitive interface and easy-to-use editing tools will make your editing more efficient and quick! Let's achieve a refined look with endless effects with Wondershare Filmora!
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -391,6 +427,10 @@ Here are 6 outro maker sites where you can get outros and end cards. Check the b
 > * [The #1 Pick!](#one)
 > * [Wondershare Filmora](#filmora)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 6 YouTube Outro Makers With Templates
 
 For even more End Screen Templates, [click here](https://www.filmora.io/community-blog/free-youtube-end-screen-templates%21-plus%3B-how-to-build-your-301.html).
@@ -441,12 +481,22 @@ As the name suggests, Intro Cave has a focus on intro videos. However, you can s
 
 Although things do go on sale, they tend to charge $5 for a 720p clip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## YouTube Outro Maker Alternative-[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Wondershare Filmora is a great video editor for all creators. It has a large collection of video transitions, filters, overlays and text templates which can also help you customize your own templates. And its intuitive interface and easy-to-use editing tools will make your editing more efficient and quick! Let's achieve a refined look with endless effects with Wondershare Filmora!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -551,3 +601,50 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-bite-sized-urls-essential-tools-for-youtubers-to-streamline-sharing/"><u>[New] 2024 Approved  Bite-Sized URLs  Essential Tools for Youtubers to Streamline Sharing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator-for-2024/"><u>[New] Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-audio-extraction-methods-from-online-videos-for-2024/"><u>[New] Easy Audio Extraction Methods From Online Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>[New] From Novice to Expert  Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pixelperfect-the-modern-recorder-diagnosis/"><u>[New] In 2024, 'PixelPerfect'  The Modern Recorder Diagnosis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-obs-101-youtube-live-stream-setup-tutorial/"><u>[New] OBS 101  Youtube Live Stream Setup Tutorial</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-permitted-recording-youtube-video-screenshots/"><u>[New] Permitted  Recording YouTube Video Screenshots?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-procedural-guide-constructing-timer-circuits-for-broadcasts/"><u>[New] Procedural Guide  Constructing Timer Circuits for Broadcasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rising-above-internet-naysayers-and-detractors/"><u>[New] Rising Above Internet Naysayers and Detractors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-roadmap-to-financial-freedom-via-youtube/"><u>[New] Sourav Joshi's Roadmap to Financial Freedom via YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-defining-your-aesthetic/"><u>[New] Step-by-Step Guide to Defining Your Aesthetic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-video-recording-titans-obs-studio-vs-fraps-face-off/"><u>[New] Video Recording Titans  OBS Studio vs Fraps Face-Off</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-techniques-to-surpass-instagrams-typical-video-limits/"><u>[Updated] 2024 Approved  Techniques to Surpass Instagram's Typical Video Limits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-professional-techniques-for-sims-4-live-action/"><u>[Updated] In 2024, Professional Techniques for Sims 4 Live-Action</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[Updated] Influence Unleashed  5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapture-studio-chrome-os-snapper-for-2024/"><u>[Updated] QuickCapture Studio  Chrome OS Snapper for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g34-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G34 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>2024 Approved  Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>2024 Approved  Fresh Footage, Frequent Flows  Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/1717050523638-2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>2024 Approved  How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-tv-a-step-by-step-guide/"><u>2024 Approved  Mastering YouTube TV  A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>2024 Approved  Navigating the Seas of Success  Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>2024 Approved  Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-precision-and-proficiency-youtube-edits-in-adobe-premiere/"><u>2024 Approved  Precision & Proficiency  YouTube Edits in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>2024 Approved  Turning Time on Its Ear  Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cleaner-frames-with-advanced-webcam-tech-for-2024/"><u>Cleaner Frames with Advanced Webcam Tech for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone XR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-in-depth-look-at-voice-altering-software-for-video-makers/"><u>In 2024, In-Depth Look at Voice Altering Software for Video Makers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instant-adjustment-match-youtube-to-mac-aspects/"><u>In 2024, Instant Adjustment  Match YouTube to Mac Aspects</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>In 2024, Mastering the Art of Shorts Imagery  Quick, Smart Updates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-video-edits-with-imovie-a-step-by-step-guide/"><u>In 2024, Mastering YouTube Video Edits with iMovie  A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-wiping-out-youtube-video-downloads/"><u>In 2024, Step by Step  Wiping Out YouTube Video Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-thriving-online-a-strategy-guide-for-building-youtube-links/"><u>In 2024, Thriving Online  A Strategy Guide for Building YouTube Links</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>In 2024, Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-user-reviews-youtube-app-performance-on-phones/"><u>In 2024, User Reviews  YouTube App Performance on Phones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/is-a-brief-subscribe-beneficial-for-content-consumption-in-2024/"><u>Is a Brief Subscribe Beneficial for Content Consumption, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-money-with-8-youtube-aspects-for-2024/"><u>Mastering Money with 8 YouTube Aspects for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>Navigating Video Sharing  From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-tactical-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Tactical Edition? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shape-business-visions-no-money-just-templates-for-2024/"><u>Shape Business Visions - No Money, Just Templates for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-c51-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco C51? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>

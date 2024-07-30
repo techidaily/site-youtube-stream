@@ -1,7 +1,7 @@
 ---
 title: "\"Fostering Self-Assurance Against Virtual Hostility for 2024\""
-date: 2024-05-31T13:42:16.173Z
-updated: 2024-06-01T13:42:16.173Z
+date: 2024-07-29T20:59:47.788Z
+updated: 2024-07-30T20:59:47.788Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes Fostering Self-Assurance Against Virtual Hostility for 2024\""
 excerpt: "\"This Article Describes Fostering Self-Assurance Against Virtual Hostility for 2024\""
 keywords: "\"Virtual Confidence Building,Online Safety Assurance,Cyber Resilience Growth,Digital Strength Fortification,Internet Self-Esteem Boost,Virtual Threat Combat,Net Security Assertiveness\""
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Fostering Self-Assurance Against Virtual Hostility
@@ -66,6 +66,9 @@ Follow @Richard Bennett
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -92,6 +95,9 @@ Follow @Richard Bennett
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -146,6 +152,10 @@ Follow @Richard Bennett
 
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -172,6 +182,10 @@ Follow @Richard Bennett
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -192,6 +206,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Spread the Rhythm: Sharing Playlists in Minutes
 
 YouTube has become the most popular video-sharing platform on the internet, with users from all over the world uploading and watching videos daily. You can find content on just about any topic you can think of on YouTube, making it an excellent resource for entertainment and education.
@@ -212,6 +229,9 @@ Step2
 * Go to **"Library."**
 * Scroll down to the **"Playlist"** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![changing playlist visibility](https://images.wondershare.com/filmora/article-images/2023/03/changing-playlist-visibility.png)
 
 Step3 Select your playlist labeled as **"Private."** On the next page, click the **"Private"** option in the playlist details section and select **"Public"** to change the visibility of your playlist.
@@ -236,6 +256,9 @@ This is especially helpful if you have a series of videos that you want viewers 
 
 Step1 Visit the **YouTube website** using a browser on your computer and sign in to your account. Click your **Profile** in the top-right of the screen and select **"Your Channel"** from the drop-down menu, which will take you to your YouTube channel's dashboard.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![accessing youtube channel to share playlist](https://images.wondershare.com/filmora/article-images/2023/03/accessing-youtube-channel-to-share-playlist.png)
 
 Step2 Next, go to the **"Playlist"** tab and click the **"View Full Playlist"** option under your playlist to access it.
@@ -288,16 +311,25 @@ Step3 In the next step, click the **"View Full Playlist"** option under your pre
 
 Step4 In the details section of your YouTube playlist on the playlist page, click the **three dots (ellipsis)** icon and select the **"Collaborate"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sharing youtube playlist link to collaborate](https://images.wondershare.com/filmora/article-images/2023/03/sharing-youtube-playlist-link-to-collaborate.png)
 
 Step5 A pop-up window will appear on your screen. Toggle on the **"Collaborators can add videos to this playlist"** option to enable it, and the **"Allow new collaborators"** option will appear.
 
 Toggle on the **"Allow new collaborators"** option, click **"Copy"** to save the URL to your clipboard, and click **"Done"** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![allowing collaboration on youtube playlist](https://images.wondershare.com/filmora/article-images/2023/03/allowing-collaboration-on-youtube-playlist.png)
 
 That's about it! You can now share the playlist link with your friends, who can now add videos to it.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. For iOS and Android
 
 If you want to quickly share a YouTube playlist using your iOS or Android device, follow these instructions step-by-step:
@@ -312,10 +344,16 @@ Step2 On the app's main interface/Home screen, tap the **"Library"** option at t
 
 Step3 Now, scroll down to the **"Playlists"** section and open the playlist you wish to share with your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sharing youtube playlist from mobile](https://images.wondershare.com/filmora/article-images/2023/03/sharing-youtube-playlist-from-mobile.png)
 
 Step4 In the playlist's details section, tap the **"Share"** icon above the **"Play All"** button. Now, tap the **"Copy"** icon to save the playlist's URL on your clipboard, or use other available options to share the playlist directly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus: Do You Want To Create Your Own YouTube Videos?
 
 We hope you have found the solution to share your YouTube Playlist. Supposing you are a common YouTube user and like to share the fantastic things you found on this platform, are you interested in making a YouTube video by yourself? If yes, please watch the video below to start editing your own videos with a user-friendly video editor - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can create your video with ease:
@@ -324,6 +362,9 @@ We hope you have found the solution to share your YouTube Playlist. Supposing yo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we've explored why the share function in the playlist is not working and **how to share a YouTube playlist** using your computer and mobile device.
@@ -338,6 +379,9 @@ Step3 Now, scroll down to the **"Playlists"** section and open the playlist you 
 
 Step4 In the playlist's details section, tap the **"Share"** icon above the **"Play All"** button. Now, tap the **"Copy"** icon to save the playlist's URL on your clipboard, or use other available options to share the playlist directly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: Do You Want To Create Your Own YouTube Videos?
 
 We hope you have found the solution to share your YouTube Playlist. Supposing you are a common YouTube user and like to share the fantastic things you found on this platform, are you interested in making a YouTube video by yourself? If yes, please watch the video below to start editing your own videos with a user-friendly video editor - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). With it, you can create your video with ease:
@@ -363,3 +407,43 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-ideal-acquisitions-starting-off-with-profitable-youtube-channel-buys/"><u>[New] Ideal Acquisitions  Starting Off with Profitable YouTube Channel Buys</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-custom-scored-youtube-tunes/"><u>[New] In 2024, Finding Your Custom-Scored YouTube Tunes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>[New] Personalize Your Pixelated World  The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-your-content-tips-for-trending-videos/"><u>[New] Skyrocket Your Content  Tips for Trending Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-guide-to-navigating-and-hosting-google-meet-sessions-effectively/"><u>[Updated] In 2024, Free Guide to Navigating and Hosting Google Meet Sessions Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-maintaining-confidentiality-with-professional-zoom-recordings/"><u>[Updated] In 2024, Maintaining Confidentiality with Professional Zoom Recordings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tips-for-extending-instagram-videos-beyond-limits/"><u>[Updated] Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-paying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits/"><u>2024 Approved  Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-yt-analytics-counting-eyeballs-and-cash/"><u>2024 Approved  Mastering YT Analytics  Counting Eyeballs & Cash</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>2024 Approved  Maximizing Your Channel's Earnings  A Guide to Creating Impactful Trailers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-metrics-with-ease/"><u>2024 Approved  Navigating YouTube Metrics with Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimizing-hashtags-for-youtube-traffic-triplets/"><u>2024 Approved  Optimizing Hashtags for YouTube Traffic Triplets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-recipes-that-resonate-best-practices-for-eating-themed-titles/"><u>2024 Approved  Recipes That Resonate  Best Practices for Eating-Themed Titles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-shooting-spectacular-igtv-videos-with-your-phone-or-dslr/"><u>2024 Approved  Shooting Spectacular IGTV Videos with Your Phone or DSLR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-smooth-cinematography-best-stabilizers-listed/"><u>2024 Approved  Smooth Cinematography  Best Stabilizers Listed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-connoisseurs-guide-to-adding-precise-dates-on-images/"><u>2024 Approved  The Connoisseur's Guide to Adding Precise Dates on Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>2024 Approved  Unlock YouTube's Potential  Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/balancing-acts-in-youtube-music-mixes-for-2024/"><u>Balancing Acts in YouTube Music Mixes for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-video-embedding-techniques-for-online-articles-for-2024/"><u>Free Video Embedding Techniques for Online Articles for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-filming-to-sharing-a-youtube-video-edition-for-2024/"><u>From Filming to Sharing  A YouTube Video Edition for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure  Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instantaneous-pro-thumbnail-creation-valorant-edition/"><u>In 2024, Instantaneous Pro Thumbnail Creation - Valorant Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-thumbnail-sizes-for-youtube-content-excellence/"><u>In 2024, Navigating Thumbnail Sizes for YouTube Content Excellence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-revenue-tools-for-mobile-creators/"><u>In 2024, Navigating YouTube's Revenue Tools for Mobile Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-harmony-strategies-for-top-tier-audio-recording/"><u>In 2024, Perfect Harmony  Strategies for Top-Tier Audio Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-online-listening-experience-with-direct-capture/"><u>In 2024, Streamline Your Online Listening Experience with Direct Capture</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-8-real-world-promotion-tools-for-videos/"><u>In 2024, The Ultimate Guide  8 Real-World Promotion Tools for Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>In 2024, The Ultimate Playbook  Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtube-insights-via-social-blade-mastering-your-video-metrics/"><u>In 2024, Unlock YouTube Insights via Social Blade  Mastering Your Video Metrics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/instantaneous-timestamping-for-your-youtube-urls-for-2024/"><u>Instantaneous Timestamping for Your YouTube URLs for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/is-hasty-subscription-a-gateway-to-better-viewing-habits-in-2024/"><u>Is Hasty Subscription a Gateway to Better Viewing Habits, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keyword-mastery-the-10-best-online-resources-to-increase-views-for-2024/"><u>Keyword Mastery  The 10 Best Online Resources to Increase Views for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leading-least-expensive-stock-images-online-for-2024/"><u>Leading Least Expensive Stock Images Online for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-realty-mounts-and-panoramic-setups/"><u>Virtual Realty Mounts & Panoramic Setups</u></a></li>
+</ul></div>

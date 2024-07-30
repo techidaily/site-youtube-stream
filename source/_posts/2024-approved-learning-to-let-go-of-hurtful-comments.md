@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learning to Let Go of Hurtful Comments\""
-date: 2024-05-31T13:49:50.814Z
-updated: 2024-06-01T13:49:50.814Z
+date: 2024-07-29T22:18:21.599Z
+updated: 2024-07-30T22:18:21.599Z
 tags:
   - ai video
   - ai youtube
@@ -11,13 +11,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Learning to Let Go of Hurtful Comments\""
 excerpt: "\"This Article Describes 2024 Approved: Learning to Let Go of Hurtful Comments\""
 keywords: "Letting Go Of Criticism,Comforting Negative Feedback,Healing From Harsh Words,Ignoring Insults Wisely,Overcoming Hurt Comments,Resilience Against Judgement,Emotional Freedom From Words"
-thumbnail: https://www.lifewire.com/thmb/4isEQKIP0BBLbseoVfsufDPeK90=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MGigsEvent-00211-2b5de5ae028e447aad969c50f63a9b5f.jpg
+thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d640a76c9d9df4c625ff11a27.jpg
 ---
 
 ## Learning to Let Go of Hurtful Comments
 
 # How To Deal with YouTube Trolls and Negative Comments
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -92,6 +95,9 @@ Follow @Richard Bennett
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -132,6 +138,9 @@ Follow @Richard Bennett
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -192,6 +201,9 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Viral Video Vanguard: YouTube's Powerful Personalities
 
 ##### Create High-Quality Video - Wondershare Filmora
@@ -292,6 +304,9 @@ There are 62.5 million subscribers. This is Konrad's music channel; he is a musi
 
 There are 60.8 million subscribers. Vlad and Niki maintain the popularity of children's YouTube channels. The channel features brothers Vlad and Niki's unique personalities and antics, which are exhibited in nonstop fun and wacky escapades. They are unquestionably gifted young creators. They debuted their initial channel in 2018 and have since expanded to include Vlad and Niki Arabic, Vlad and Niki ARA, Vlad and Niki IDN, and Sweet Songs – Nursery Rhymes, among others. Every episode mixes live-action, animation, and music to create amusing videos for children under the age of six.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![top 10 youtuber with most subscribers - vlad and naki](https://images.wondershare.com/filmora/article-images/2021/top-10-youtuber-2.jpg)
 
 ## Conclusion
@@ -304,6 +319,9 @@ YouTube is the most popular video streaming platform on the earth, with over 2 b
 
 If you're looking for some of the best and most well-known YouTubers, this is the post for you. Here's a list of some of the most well-known YouTubers to watch. The most popular YouTubers will have changed dramatically by the time this article was read in 2020\. Even the number one place has altered, with T-Series displacing PewDiePie. As 2020 becomes the year of the lockdown, people's perspectives and appreciations have widened significantly. Of course, not all fame and money go hand in hand, so here is a list of the highest-paid YouTube stars.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![top 10 youtuber in the world](https://images.wondershare.com/filmora/article-images/2021/top-10-youtuber-1.jpg)
 
 #### Is It True That Being a Youtuber Is a Simple and Enjoyable Profession?
@@ -318,6 +336,9 @@ On the other hand, being a famous YouTuber is a difficult task. Every famous You
 
 03 [Tutorial for How to Record on GarageBand](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Ultimate Checklist for Becoming a Youtuber
 
 #### \- Make A Decision on Your Niche
@@ -334,6 +355,9 @@ What do you want to achieve with your YouTube channel? Do you want to make instr
 
 #### It will be easier to maintain consistency if you have a regular schedule. It assures your subscribers that new videos will be released on the scheduled dates. It also includes a thorough timeline that you can use to plan your activities and keep on track
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 10 YouTuber in the world
 
 Here's a list of the most popular youtubers below. The list is quite diverse.
@@ -390,6 +414,9 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
 
 ![top 10 youtuber with most subscribers - vlad and naki](https://images.wondershare.com/filmora/article-images/2021/top-10-youtuber-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● These are some of the most well-known YouTubers globally who provide their viewers with fascinating and fun content. So, what do you have to lose? Look through their channels to see which ones you prefer.
@@ -414,6 +441,9 @@ On the other hand, being a famous YouTuber is a difficult task. Every famous You
 
 03 [Tutorial for How to Record on GarageBand](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Ultimate Checklist for Becoming a Youtuber
 
 #### \- Make A Decision on Your Niche
@@ -430,6 +460,9 @@ What do you want to achieve with your YouTube channel? Do you want to make instr
 
 #### It will be easier to maintain consistency if you have a regular schedule. It assures your subscribers that new videos will be released on the scheduled dates. It also includes a thorough timeline that you can use to plan your activities and keep on track
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Top 10 YouTuber in the world
 
 Here's a list of the most popular youtubers below. The list is quite diverse.
@@ -484,6 +517,9 @@ There are 62.5 million subscribers. This is Konrad's music channel; he is a musi
 
 There are 60.8 million subscribers. Vlad and Niki maintain the popularity of children's YouTube channels. The channel features brothers Vlad and Niki's unique personalities and antics, which are exhibited in nonstop fun and wacky escapades. They are unquestionably gifted young creators. They debuted their initial channel in 2018 and have since expanded to include Vlad and Niki Arabic, Vlad and Niki ARA, Vlad and Niki IDN, and Sweet Songs – Nursery Rhymes, among others. Every episode mixes live-action, animation, and music to create amusing videos for children under the age of six.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![top 10 youtuber with most subscribers - vlad and naki](https://images.wondershare.com/filmora/article-images/2021/top-10-youtuber-2.jpg)
 
 ## Conclusion
@@ -510,6 +546,9 @@ On the other hand, being a famous YouTuber is a difficult task. Every famous You
 
 03 [Tutorial for How to Record on GarageBand](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## The Ultimate Checklist for Becoming a Youtuber
 
 #### \- Make A Decision on Your Niche
@@ -526,6 +565,18 @@ What do you want to achieve with your YouTube channel? Do you want to make instr
 
 #### It will be easier to maintain consistency if you have a regular schedule. It assures your subscribers that new videos will be released on the scheduled dates. It also includes a thorough timeline that you can use to plan your activities and keep on track
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 10 YouTuber in the world
 
 Here's a list of the most popular youtubers below. The list is quite diverse.
@@ -599,3 +650,54 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-filmmaking-skills-on-youtube-and-diverse-platforms/"><u>[New] Expert Filmmaking Skills on YouTube and Diverse Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[New] Explore Our Collection  50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-moments-snappy-storytime/"><u>[New] In 2024, FB Moments  Snappy Storytime</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ayered-comfort-selecting-snug-winter-themes-for-filming/"><u>[New] Layered Comfort  Selecting Snug Winter Themes for Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-music-video-shoot-estimated-financial-outlay/"><u>[New] Music Video Shoot - Estimated Financial Outlay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-and-clear-swap-clown-fins-voices-on-pcs/"><u>[New] Quick & Clear  Swap Clown Fins' Voices on PCs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revisiting-lost-content-2-methods-for-retrieving-yt-deletions/"><u>[New] Revisiting Lost Content  2 Methods for Retrieving YT Deletions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-selecting-snug-winter-scenes-as-video-sets/"><u>[New] Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-blueprint-for-youtube-2024-income/"><u>[New] Sourav Joshi's Blueprint for YouTube 2024 Income</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-screening-youtubes-most-liked-creators/"><u>[New] The Ultimate Screening  YouTube's Most Liked Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>[Updated] Exclusive Roundup  Affordable, High-Quality Live Streaming Services</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-video-file-processing-movs-in-windows-11-edition/"><u>[Updated] In 2024, Mastering Video File Processing  MOVs in Windows 11 Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>2024 Approved  Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flv-video-unification-techniques/"><u>2024 Approved  FLV Video Unification Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>2024 Approved  How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-editing-to-boost-youtube-profile-impact/"><u>2024 Approved  Leverage Editing to Boost YouTube Profile Impact</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-engagement-learn-from-tubebuddy-experts/"><u>2024 Approved  Maximize Engagement - Learn From TubeBuddy Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>2024 Approved  The Ultimate Guide to Inspiring YouTube Names</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>2024 Approved  Unseen YouTube Videos  The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>2024 Approved  Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hot-ticket-video-countdown-of-the-hour-for-2024/"><u>Hot Ticket  Video Countdown of the Hour for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-13-ultra-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from 13 Ultra.</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s23-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S23 phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>In 2024, Blending Words with Pictures  Adding Text to Images, Windows/Mac</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-trending-video-reactions/"><u>In 2024, Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-13t-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi 13T Pro Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographics-boosting-buzz-through-social-videos/"><u>In 2024, Infographics  Boosting Buzz Through Social Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-animated-gifs-creating-from-youtube-videos-online/"><u>In 2024, Mastering Animated GIFs  Creating From Youtube Videos Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-gifs-leading-platforms-reviewed/"><u>In 2024, Mastering GIFs  Leading Platforms Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-match-up-with-moguls-six-questions-to-identify-youtubers/"><u>In 2024, Match Up With Moguls  Six Questions to Identify YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-your-preferred-youtube-viewing-pace/"><u>In 2024, Navigating Through Your Preferred YouTube Viewing Pace</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-youtube-shorts-knowledge/"><u>In 2024, Navigating Through YouTube Shorts Knowledge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-your-shoot-selecting-quality-equipment/"><u>In 2024, Perfecting Your Shoot  Selecting Quality Equipment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>In 2024, Personalized Melodies Made Easy  Building a YouTube Music Collection on Web/Mobile</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quash-unwanted-youtube-suggested-videos/"><u>In 2024, Quash Unwanted YouTube Suggested Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-redefining-digital-space-alternative-video-hosting-sites/"><u>In 2024, Redefining Digital Space  Alternative Video Hosting Sites</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-securing-your-youtube-profile-a-guide/"><u>In 2024, Securing Your YouTube Profile  A Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-significant-details-in-asmr-recording-art/"><u>In 2024, Significant Details in ASMR Recording Art</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-building-a-hit-youtube-video-preview/"><u>In 2024, Strategies for Building a Hit YouTube Video Preview</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>In 2024, The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>In 2024, Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing/"><u>In 2024, Unleash Creativity  Learning Sony Vegas Techniques for YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/insider-look-at-youtube-revenue-policies-for-2024/"><u>Insider Look at YouTube Revenue Policies for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/momentum-masters-youtubes-freshly-watched-hits-for-2024/"><u>Momentum Masters  Youtube’s Freshly Watched Hits for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-9-ai-voice-generators-that-will-save-your-day/"><u>New 2024 Approved Best 9 AI Voice Generators That Will Save Your Day</u></a></li>
+</ul></div>

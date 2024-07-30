@@ -1,7 +1,7 @@
 ---
 title: "\"How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts for 2024\""
-date: 2024-06-11T08:10:08.115Z
-updated: 2024-06-12T08:10:08.115Z
+date: 2024-07-29T22:01:35.702Z
+updated: 2024-07-30T22:01:35.702Z
 tags:
   - ai video
   - ai youtube
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I learned from those mistakes and have helped many new YouTubers start their own channels. Here is a list of eight common mistakes that new YouTubers should avoid, along with tips to do things in a better way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
 ###  
@@ -38,6 +41,9 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
@@ -58,6 +64,9 @@ New YouTubers tend to think about their thumbnail images after they’ve finishe
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Making weak intros
 
 After you’ve managed to get someone to click on your video through your effective title and thumbnail image strategy, the next challenge is to keep that person watching your video without closing it too early. A typical viewer on YouTube decides within the first ten to fifteen seconds of landing on a video whether or not he or she will stay or leave. This short window of time is so important to set the tone of the rest of your video and build excitement and curiosity in your viewer with an effective, high-energy intro.
@@ -66,18 +75,27 @@ New YouTubers often make the mistake of having weak intros. Starting at the begi
 
 To read more on how some of the most successful YouTubers effectively do their intros, check out my blogpost on “[How To Edit YouTube Videos Like a YouTuber](https://tools.techidaily.com/wondershare/filmora/download/).”
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Forgetting to engage with subscribers
 
 An important thing to do as a new YouTuber is engaging with your subscribers. Some new YouTubers, though, are so focused and busy with the production side of things that they forget to do the community side of things, including responding to comments. By not responding to comments as a new YouTuber, you hurt your potential to get more comments consistently from your subscribers. If your video’s comments section is very active, YouTube ranks your video higher in the videos it recommends to viewers.
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Not promoting with social media
 
 YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
 
 New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Spamming comments
 
 Commenting on other YouTube videos is another way to get your channel discovered from people reading over comments. If your profile picture and comment appears interesting enough, out of curiosity, people just might click your username to have a look at your channel.
@@ -102,3 +120,39 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[New] 2024 Approved  Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-leveraging-edit-tools-for-youtube-videos-post-publishment/"><u>[New] 2024 Approved  Leveraging Edit Tools for YouTube Videos Post-Publishment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-androidios-techniques-screening-google-meets/"><u>[New] In 2024, Android/iOS Techniques  Screening Google Meets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-photography-meets-canva-exclusive-editing-secrets/"><u>[New] Pro Photography Meets Canva  Exclusive Editing Secrets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-producing-teaser-videos-with-a-twist/"><u>[New] Producing Teaser Videos with a Twist</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-youtube-playlist-in-html/"><u>[New] Step-by-Step Guide to YouTube Playlist in HTML</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>[Updated] In 2024, Cut Out Facebook Stories  Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-8-truly-effective-video-marketing-strategies/"><u>2024 Approved  Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonycuts-editor-the-best-video-music-blend-on-pc/"><u>2024 Approved  HarmonyCuts Editor  The Best Video-Music Blend on PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>2024 Approved  Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved  Minecraft Banner Templates  Get Them Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-info-on-short-form-media/"><u>2024 Approved  Quick Info on Short Form Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-content-efficiently-adding-youtube-captions/"><u>2024 Approved  Streamline Your Content  Efficiently Adding YouTube Captions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-for-establishing-a-distinctive-online-self/"><u>2024 Approved  The Ultimate Checklist for Establishing a Distinctive Online Self</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-unique-content-for-youtubes-spotlight/"><u>2024 Approved  Unearthing Unique Content for Youtube's Spotlight</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings/"><u>2024 Approved  Unravel the Mystery of the Overly Green Hue in Mac Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>Asus ProArt PA 329Q  The Pinnacle in High-Definition Viewing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-humble-beginnings-surging-subscribers-and-views-in-youtube-world-for-2024/"><u>From Humble Beginnings  Surging Subscribers & Views in Youtube World for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gamer-wealth-wave-the-year-ahead-for-2024/"><u>Gamer Wealth Wave  The Year Ahead for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic 6 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>In 2024, Full Spectrum Review  Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>In 2024, Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>In 2024, How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kid-tested-wet-weather-videography-gear-for-newbies/"><u>In 2024, Kid-Tested Wet Weather Videography Gear for Newbies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List  Best Free Video Subtitles & Downloader</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-stardom-secrets-to-viral-video-success/"><u>In 2024, Rise to Stardom  Secrets to Viral Video Success</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-step-up-your-home-cinema-game-with-these-essential-tips/"><u>In 2024, Step Up Your Home Cinema Game with These Essential Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-trend-analysis-through-infographics/"><u>In 2024, Trend Analysis Through Infographics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>In 2024, Unveiling the Best Cinematic Love  Top 8 Premium Wedding Videos Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pot-player-review-for-2024/"><u>POT Player Review for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>Taming Soundscapes  Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-rated-apps-to-elevate-instagram-imagery-for-2024/"><u>Top-Rated Apps to Elevate Instagram Imagery for 2024</u></a></li>
+</ul></div>
