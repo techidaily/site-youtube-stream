@@ -1,7 +1,7 @@
 ---
 title: "\"Graph Gala 2017  An Illuminated Expedition Into YT Data for 2024\""
-date: 2024-09-05T22:25:33.798Z
-updated: 2024-09-06T22:25:33.798Z
+date: 2024-09-10T11:45:08.545Z
+updated: 2024-09-11T11:45:08.545Z
 tags:
   - ai video
   - ai youtube
@@ -72,12 +72,6 @@ In 2017, more than 500 hours of video content are being uploaded to [YouTube](ht
 
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
 
 * **YouTube has just 0,5 billion users less than Facebook**
@@ -120,12 +114,6 @@ In 2017, more than 500 hours of video content are being uploaded to [YouTube](ht
 
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
 
 * **YouTube has just 0,5 billion users less than Facebook**
@@ -168,12 +156,6 @@ In 2017, more than 500 hours of video content are being uploaded to [YouTube](ht
 
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
 
 * **YouTube has just 0,5 billion users less than Facebook**
@@ -200,12 +182,6 @@ Let us know what you think about these interesting facts about YouTube in the co
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -252,15 +228,37 @@ Follow @Richard Bennett
 
 ![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
 
 ![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #### 3 Directly Upload MP3s to YouTube
 
@@ -268,18 +266,40 @@ Follow @Richard Bennett
 
 ![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Tip:**
 Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
 
  See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -301,12 +321,6 @@ Follow @Richard Bennett
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 1 Import Files to Audio Converter
 
  Before upload MP3 to YouTube, you can collect the relevant image, album cover or band picture to your music. Then run this MP3 to YouTube converter and choose 16:9 or 4:3 ratio according to your needs. After that, click “Import” to add the MP3 file and the pictures to the program. Then all the imported files will be displayed as thumbnails in the Media library.
@@ -317,28 +331,30 @@ Follow @Richard Bennett
 
 ![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
 
 ![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3 Directly Upload MP3s to YouTube
 
  Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
 
 ![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Tip:**
 Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
 
@@ -346,26 +362,42 @@ Besides uploading to YouTube, you can also save your creation to various formats
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -394,22 +426,38 @@ Follow @Richard Bennett
 
 ![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
 
 ![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #### 3 Directly Upload MP3s to YouTube
 
  Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
@@ -425,12 +473,6 @@ Besides uploading to YouTube, you can also save your creation to various formats
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -449,59 +491,83 @@ Follow @Richard Bennett
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-#### 1 Import Files to Audio Converter
 
- Before upload MP3 to YouTube, you can collect the relevant image, album cover or band picture to your music. Then run this MP3 to YouTube converter and choose 16:9 or 4:3 ratio according to your needs. After that, click “Import” to add the MP3 file and the pictures to the program. Then all the imported files will be displayed as thumbnails in the Media library.
 
-#### 2 Add Pictures to MP3 Files
 
- Drag and drop your MP3 file to the music layer, and the picture to the video layer. These will be located under the timeline bar. Then choose the picture and move your mouse to expand the picture exposure time frame exactly as long as your MP3 file. If less, the remaining part will be blacked out, while too long will create silence in the overextended portions of the video.
-
-![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
-
-![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
-
-#### 3 Directly Upload MP3s to YouTube
-
- Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
-
-![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Tip:**
-Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
-
- See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
+<span id="1975555">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+#### 1 Import Files to Audio Converter
+
+ Before upload MP3 to YouTube, you can collect the relevant image, album cover or band picture to your music. Then run this MP3 to YouTube converter and choose 16:9 or 4:3 ratio according to your needs. After that, click “Import” to add the MP3 file and the pictures to the program. Then all the imported files will be displayed as thumbnails in the Media library.
+
+#### 2 Add Pictures to MP3 Files
+
+ Drag and drop your MP3 file to the music layer, and the picture to the video layer. These will be located under the timeline bar. Then choose the picture and move your mouse to expand the picture exposure time frame exactly as long as your MP3 file. If less, the remaining part will be blacked out, while too long will create silence in the overextended portions of the video.
+
+![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
+
+![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
+
+#### 3 Directly Upload MP3s to YouTube
+
+ Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
+
+![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+**Tip:**
+Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
+
+ See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.

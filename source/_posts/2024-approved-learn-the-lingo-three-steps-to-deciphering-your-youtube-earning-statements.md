@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn the Lingo  Three Steps to Deciphering Your YouTube Earning Statements\""
-date: 2024-09-05T22:25:46.737Z
-updated: 2024-09-06T22:25:46.737Z
+date: 2024-09-10T11:45:21.543Z
+updated: 2024-09-11T11:45:21.543Z
 tags:
   - ai video
   - ai youtube
@@ -14,12 +14,6 @@ keywords: "YouTube Earnings Guide,YT Revenue Analysis,Understanding YT Statement
 thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98f5f309c7652fc768db4746d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Learn the Lingo: Three Steps to Deciphering Your YouTube Earning Statements
 
 There have been lots of user queries similar to the one above about how to check YouTube income lately. Honestly, YouTube has made it easy for users to track their revenue analytics on the platform, thus making it easy for creators to track how much they make and other revenue data.
@@ -32,15 +26,23 @@ So, if you don’t know how to check YouTube income, don’t worry, this article
 
 * [Hot FAQs on YouTube channel earnings check](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Follow the steps below to check your YouTube earnings
 
 The process of checking YouTube income is pretty straightforward. So, regardless of what device you’re using to check, we’ve briefly explained the step-by-step instructions to carry out your YouTube income check within a few clicks.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Check on a computer
 
@@ -52,22 +54,38 @@ Step2 Click Analytics from the left side of the screen.
 
 ![how to check youtube income on pc 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-1.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
   <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Step3 On the Analytics screen, select Revenue from the top side of the screen to check your YouTube income.
 
 There, you’ll find your YouTube income and other necessary data that you might need.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Check on a Mobile Device
 
 The process of checking YouTube income on an Android or iOS device is also straightforward, and you can use either the YouTube app or the YouTube Studio app to perform the operation. The steps below explain the procedure;
@@ -82,22 +100,44 @@ Step2 Log in to your YouTube account and tap on the Profile icon at the top side
 
 ![how to check youtube income on mobile phone 2](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-3.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Step3 Tap the Analytics icon from the middle menu. Your YouTube channel income and other data will be displayed on your phone screen.
 
 ![how to check youtube income on mobile phone 3](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-4.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **YouTube Studio App**
 
 Step1 Launch the YouTube Studio app on your Android or iPhone.
@@ -107,6 +147,20 @@ Step1 Launch the YouTube Studio app on your Android or iPhone.
 Step2 Tap Analytics from the bottom menu and select Revenue from the top of the screen.
 
 ![how to check youtube income on mobile phone 5](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-6.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 The information that you’ll find in the YouTube revenue analytics includes the following;
 
@@ -118,12 +172,6 @@ The information that you’ll find in the YouTube revenue analytics includes the
 * **Top Earnings;** It shows the data of the video with the highest estimated revenue.
 * **Ad Type;** This displays the percentage of revenue earned from the different types of ads.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How your YouTube earnings are calculated
 
 Having known how to check YouTube income, if you’re still wondering how your earnings are calculated, here, we’ve discussed all the necessary information you need to know about how YouTube earnings are calculated.
@@ -144,19 +192,41 @@ You can also calculate your YouTube channel total earnings by using the [YouTube
 
 ![how to check youtube income on mobile phone 6](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-7.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ## Part 3: How do you increase your YouTube earnings?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 1\. Post quality videos
 
@@ -178,22 +248,10 @@ Step3 Drag-n-drop the video you uploaded to the Timeline.
 
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 To remove unwanted background from your video, click Effects from the top side of the screen. Select AI Portrait from the left side of the screen and select a preferred AI Portrait effect that you’ll like to use in the video.
 
 ![select ai portrait filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5 Next, drag-n-dop the chosen AI Portrait effect to the timeline. After that, adjust the AI Portrait effect from the timeline. You can also add multiple effects by dragging and dropping them to the timeline.
 
 ![drag n drop ai portrait to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-11.jpg)
@@ -205,6 +263,20 @@ Step6 Double-click the AI Portrait effect from the Timeline. From the pop-up tha
 Step7 You can add Subscribe watermark by clicking the >> icon at the top of the screen, then select Element.
 
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-13.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
 
@@ -218,24 +290,20 @@ Step9 Enter file name in the box next to Label. Then, navigate to Folder Path an
 
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-16.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 2\. Upload videos regularly
 
 Starting a YouTube channel can be quite hard from start, but make it a priority to upload at least two quality videos every week. Yes, the more quality videos you post, the more you attract the viewer to like your videos, and the higher your chances of getting new subscribers, thereby increasing your YouTube earnings.
@@ -244,25 +312,61 @@ Starting a YouTube channel can be quite hard from start, but make it a priority 
 
 Promoting your YouTube videos is a great way to increase your YouTube earnings. Once you post a new video on YouTube, you can share it to your other social media profiles or websites to increase views and attract new folks to watch the video. The more views you get the more money you’ll make.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Part 4: Hot FAQs on YouTube channel earnings check
 
 Let’s take a look at some frequently asked questions from users like you.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 1\. Is monetizing on YouTube different from Google AdSense?
 
 YouTube monetization involves making money from videos you upload on your YouTube channel. And Google AdSense is a means of monetizing your YouTube channel.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 2\. Why should you consider monetizing on YouTube creator?
 
@@ -282,18 +386,20 @@ Educational Videos - $9.89
 
 Photography & Film Making - $7.31
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Final Words
 
 Checking YouTube income is not a big deal. This article has covered every necessary detail you need to know about checking your YouTube income on a PC or mobile phone. Also, if you don’t understand how YouTube earnings are calculated, we touched on that, and don’t hesitate to employ the tips discussed to increase your YouTube earnings.
@@ -320,12 +426,6 @@ Step3 On the Analytics screen, select Revenue from the top side of the screen to
 
 There, you’ll find your YouTube income and other necessary data that you might need.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check on a Mobile Device
 
 The process of checking YouTube income on an Android or iOS device is also straightforward, and you can use either the YouTube app or the YouTube Studio app to perform the operation. The steps below explain the procedure;
@@ -336,12 +436,6 @@ Step1 Make sure you have the latest version of the YouTube app on your phone. If
 
 ![how to check youtube income on mobile phone 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Log in to your YouTube account and tap on the Profile icon at the top side. Then, select Your Channel.
 
 ![how to check youtube income on mobile phone 2](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-3.jpg)
@@ -350,28 +444,58 @@ Step3 Tap the Analytics icon from the middle menu. Your YouTube channel income a
 
 ![how to check youtube income on mobile phone 3](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-4.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **YouTube Studio App**
 
 Step1 Launch the YouTube Studio app on your Android or iPhone.
 
 ![how to check youtube income on mobile phone 4](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-5.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Step2 Tap Analytics from the bottom menu and select Revenue from the top of the screen.
 
 ![how to check youtube income on mobile phone 5](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-6.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 The information that you’ll find in the YouTube revenue analytics includes the following;
 
 * **RPM (Revenue Per Mile);** This is the metric that displays how much a creator has earned per 1000 video views.
@@ -381,6 +505,20 @@ The information that you’ll find in the YouTube revenue analytics includes the
 * **Transaction Revenue;** The transaction revenue metric is a breakdown of how much a creator has earned from membership and merch.
 * **Top Earnings;** It shows the data of the video with the highest estimated revenue.
 * **Ad Type;** This displays the percentage of revenue earned from the different types of ads.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Part 2: How your YouTube earnings are calculated
 
@@ -402,14 +540,42 @@ You can also calculate your YouTube channel total earnings by using the [YouTube
 
 ![how to check youtube income on mobile phone 6](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-7.jpg)
 
-## Part 3: How do you increase your YouTube earnings?
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+## Part 3: How do you increase your YouTube earnings?
+
 ### 1\. Post quality videos
 
 If your video is of low quality, then viewers might not find it interesting. For this reason, it’s important you post quality videos, and you need the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software for such an operation.
@@ -426,25 +592,27 @@ Step2 Use the Import button to upload the video you created for your YouTube cha
 
 ![import video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Drag-n-drop the video you uploaded to the Timeline.
 
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 To remove unwanted background from your video, click Effects from the top side of the screen. Select AI Portrait from the left side of the screen and select a preferred AI Portrait effect that you’ll like to use in the video.
 
 ![select ai portrait filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-10.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Step5 Next, drag-n-dop the chosen AI Portrait effect to the timeline. After that, adjust the AI Portrait effect from the timeline. You can also add multiple effects by dragging and dropping them to the timeline.
 
@@ -454,55 +622,67 @@ Step6 Double-click the AI Portrait effect from the Timeline. From the pop-up tha
 
 ![adjust ai portrait effect filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-12.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Step7 You can add Subscribe watermark by clicking the >> icon at the top of the screen, then select Element.
 
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-13.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
 
 ![add subscribe watermark filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step8 Preview the edited video. If you’re satisfied with the output, click the Export button at the top bar and choose Burn DVD from the drop-down list.
 
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step9 Enter file name in the box next to Label. Then, navigate to Folder Path and choose where you want the file to be saved. Afterward, click Export to Finish.
 
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Upload videos regularly
 
 Starting a YouTube channel can be quite hard from start, but make it a priority to upload at least two quality videos every week. Yes, the more quality videos you post, the more you attract the viewer to like your videos, and the higher your chances of getting new subscribers, thereby increasing your YouTube earnings.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 3\. Promote your Videos
 
@@ -512,12 +692,20 @@ Promoting your YouTube videos is a great way to increase your YouTube earnings. 
 
 Let’s take a look at some frequently asked questions from users like you.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### 1\. Is monetizing on YouTube different from Google AdSense?
 
 YouTube monetization involves making money from videos you upload on your YouTube channel. And Google AdSense is a means of monetizing your YouTube channel.
@@ -525,6 +713,20 @@ YouTube monetization involves making money from videos you upload on your YouTub
 ### 2\. Why should you consider monetizing on YouTube creator?
 
 Monetizing YouTube as a creator is a great way to earn passive income just by uploading videos. Research shows that an average YouTuber has the potential of earning $10,000 in revenue per year.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### 3\. Which category is best for YouTube earnings?
 
@@ -560,294 +762,352 @@ Checking YouTube income is not a big deal. This article has covered every necess
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## In-Depth Guide on Using Annotations for Marketing
 
 # How to Use YouTube Cards and Annotations?
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
 
- Oct 26, 2023• Proven solutions
 
-[0](#commentsBoxSeoTemplate)
 
-YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
-
-Annotations are not clickable on mobile devices.
-
-You cannot choose the size or positioning of Cards.
-
-This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
-
-**Part 1: Annotations**
-
-Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
-
-**Section 1: Types of Annotations**
-
-There are five types of YouTube annotations:
-
-**Notes** are colored boxes placed over the top of your videos.
-
-**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
-
-**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
-
-**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
-
-Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
-
-**Section 2: How to Use Annotations**
-
-\*Note: the above video mentions Pause annotations, which are no longer available.
-
-Here are two of the best uses for annotations:
-
-**Clickable End Cards / Outros**
-
-One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
-
-When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
-
-Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
-
-This is one use for annotations that cannot be duplicated with cards.
-
-**Promoting Your Videos**
-
-You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
-
-This works especially well if you link to videos on similar subjects to the one you are annotating.
-
-Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
-
-You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
-
-Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
-
-#### **Part 2: YouTube Cards**
-
-YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
-
-When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
-
-**Section 1: When to Use Cards**
-
-A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
-
-Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
-
-When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
-
-Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
-
-Annotations are not clickable on mobile devices.
-
-You cannot choose the size or positioning of Cards.
-
-This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
-
-**Part 1: Annotations**
-
-Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
-
-**Section 1: Types of Annotations**
-
-There are five types of YouTube annotations:
-
-**Notes** are colored boxes placed over the top of your videos.
-
-**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
-
-**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
-
-**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
-
-Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
-
-**Section 2: How to Use Annotations**
-
-\*Note: the above video mentions Pause annotations, which are no longer available.
-
-Here are two of the best uses for annotations:
-
-**Clickable End Cards / Outros**
-
-One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
-
-When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
-
-Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
-
-This is one use for annotations that cannot be duplicated with cards.
-
-**Promoting Your Videos**
-
-You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
-
-This works especially well if you link to videos on similar subjects to the one you are annotating.
-
-Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
-
-You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
-
-Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
-
-#### **Part 2: YouTube Cards**
-
-YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
-
-When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
-
-**Section 1: When to Use Cards**
-
-A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
-
-Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
-
-When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
-
-Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
-
-Annotations are not clickable on mobile devices.
-
-You cannot choose the size or positioning of Cards.
-
-This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
-
-**Part 1: Annotations**
-
-Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
-
-**Section 1: Types of Annotations**
-
-There are five types of YouTube annotations:
-
-**Notes** are colored boxes placed over the top of your videos.
-
-**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
-
-**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
-
-**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
-
-Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
-
-**Section 2: How to Use Annotations**
-
-\*Note: the above video mentions Pause annotations, which are no longer available.
-
-Here are two of the best uses for annotations:
-
-**Clickable End Cards / Outros**
-
-One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
-
-When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
-
-Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
-
-This is one use for annotations that cannot be duplicated with cards.
-
-**Promoting Your Videos**
-
-You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
-
-This works especially well if you link to videos on similar subjects to the one you are annotating.
-
-Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
-
-You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
-
-Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
-
-#### **Part 2: YouTube Cards**
-
-YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
-
-When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
-
-**Section 1: When to Use Cards**
-
-A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
-
-Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
-
-When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
-
-Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
+
+Annotations are not clickable on mobile devices.
+
+You cannot choose the size or positioning of Cards.
+
+This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
+
+**Part 1: Annotations**
+
+Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
+
+**Section 1: Types of Annotations**
+
+There are five types of YouTube annotations:
+
+**Notes** are colored boxes placed over the top of your videos.
+
+**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
+
+**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
+
+**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
+
+Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
+
+**Section 2: How to Use Annotations**
+
+\*Note: the above video mentions Pause annotations, which are no longer available.
+
+Here are two of the best uses for annotations:
+
+**Clickable End Cards / Outros**
+
+One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
+
+When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
+
+Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
+
+This is one use for annotations that cannot be duplicated with cards.
+
+**Promoting Your Videos**
+
+You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
+
+This works especially well if you link to videos on similar subjects to the one you are annotating.
+
+Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
+
+You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
+
+Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
+
+#### **Part 2: YouTube Cards**
+
+YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
+
+When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
+
+**Section 1: When to Use Cards**
+
+A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
+
+Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
+
+When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
+
+Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
+
+Annotations are not clickable on mobile devices.
+
+You cannot choose the size or positioning of Cards.
+
+This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
+
+**Part 1: Annotations**
+
+Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
+
+**Section 1: Types of Annotations**
+
+There are five types of YouTube annotations:
+
+**Notes** are colored boxes placed over the top of your videos.
+
+**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
+
+**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
+
+**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
+
+Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
+
+**Section 2: How to Use Annotations**
+
+\*Note: the above video mentions Pause annotations, which are no longer available.
+
+Here are two of the best uses for annotations:
+
+**Clickable End Cards / Outros**
+
+One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
+
+When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
+
+Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
+
+This is one use for annotations that cannot be duplicated with cards.
+
+**Promoting Your Videos**
+
+You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
+
+This works especially well if you link to videos on similar subjects to the one you are annotating.
+
+Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
+
+You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
+
+Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
+
+#### **Part 2: YouTube Cards**
+
+YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
+
+When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
+
+**Section 1: When to Use Cards**
+
+A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
+
+Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
+
+When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
+
+Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube Annotations and Cards are both tools for linking viewers to your other videos or to off-YouTube webpages. Two of the major differences between them are:
+
+Annotations are not clickable on mobile devices.
+
+You cannot choose the size or positioning of Cards.
+
+This article will teach you about both Cards and Annotations and discuss the best uses for each of them.
+
+**Part 1: Annotations**
+
+Annotations are messages that float overtop of your videos in the YouTube player. Usually, annotations are clickable and take users to other content created by you.
+
+**Section 1: Types of Annotations**
+
+There are five types of YouTube annotations:
+
+**Notes** are colored boxes placed over the top of your videos.
+
+**Speech Bubbles** look like dialogue boxes in a comic strip. They have tails that you can adjust so it looks like one of the people in your video is saying what is written in the annotation.
+
+**Spotlights** have a subtle border and are completely clear inside. Your text only appears when a viewer’s cursor hovers over top of these annotations.
+
+**Labels** are like spotlights except that viewers do not have to hover over them for your text to be visible.
+
+Any of these annotations can be used to link viewers to other videos, or as subscribe links. You can also add a simple **Title** to your video through the Annotations menu.
+
+**Section 2: How to Use Annotations**
+
+\*Note: the above video mentions Pause annotations, which are no longer available.
+
+Here are two of the best uses for annotations:
+
+**Clickable End Cards / Outros**
+
+One of the best ways you can use spotlight annotations is to create clickable end cards for your videos.
+
+When your video finishes playing the YouTube player will display a selection of suggested videos that might direct viewers away from your channel. You can keep more of these viewers watching your content by creating your own ‘suggested videos’ card and putting it at the end of your videos.
+
+Put thumbnails of two or three of your other videos on your end card, or use ‘picture-in-picture’ to actually imbed footage from them. Then, after you upload your video, go in and place clickable spotlight annotations over top of your video thumbnails.
+
+This is one use for annotations that cannot be duplicated with cards.
+
+**Promoting Your Videos**
+
+You should not wait until the end of your video to start linking viewers to other content. Many viewers will click away before they see your end card because your video is not exactly what they were looking for. By placing note or speech bubble annotations occasionally throughout your videos you can catch some of these people before they click off of your channel.
+
+This works especially well if you link to videos on similar subjects to the one you are annotating.
+
+Instead of just linking to another video of yours, try to link to that video on a playlist. Once a viewer is on a playlist your videos will auto-play after each other, which is good for both your view count and watch time.
+
+You can also use the newer YouTube Cards for this, but Annotations might still be a better choice because viewers only need to click once vs. twice for Cards.
+
+Try both and see which performs best for your channel. It might be in your best interest to keep on using both as they target different audiences – Cards are clickable on mobile devices, for example, but Annotations are not.
+
+#### **Part 2: YouTube Cards**
+
+YouTube Cards are newer than annotations and a lot of people believe they will one day replace Annotations. While there are benefits to Cards – like embedding images to represent your links – you cannot choose the shape, size, or placement of them. This means they have limited uses.
+
+When viewers click on a Card they are shown additional information and a thumbnail representing the page they will be taken to if they choose to click again. This extra step could be either help viewers decide to click your links or give them a second chance to decide they would rather not.
+
+**Section 1: When to Use Cards**
+
+A linked Annotation is simply a call to action viewers can click on. A Card is a call to action as well, but instead of taking the viewer directly to where its link leads when it is clicked a Card opens up into a larger version of itself with a thumbnail image.
+
+Crowdfunding pages (Patreon is a great choice for video creators), charity fundraising pages, and merchandise stores are all examples of links that benefit from the format of YouTube Cards.
+
+When you link a viewer to a non-YouTube page you break up their session time, which negatively impacts your watch time and SEO ranking. You want to make sure that the viewers you are directing away from YouTube are the ones most likely to convert after they leave. By ‘convert’ we mean to contribute to your Patreon campaign, donate to the charity you are promoting, or buy some of your merchandise.
+
+Giving viewers more information and a thumbnail through a Card can help ensure the most interested viewers are the ones clicking your links.
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **_[Wondershare Filmstock](https://www.filmstocks.com/?fs%5Fchannel=ws)_** and will definitely enhance your productivity and helps you to make money by making videos much easier.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
