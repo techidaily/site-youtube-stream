@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2024-09-10T11:45:04.514Z
-updated: 2024-09-11T11:45:04.514Z
+date: 2024-09-15T17:07:54.980Z
+updated: 2024-09-16T17:04:13.301Z
 tags:
   - ai video
   - ai youtube
@@ -41,39 +41,11 @@ They say that less is more, so let's have a look at how you can apply this princ
 9. [10 Things About You](#nine)
 10. [Video Rant](#ten)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 1\. Introduce Yourself
 
 Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
 
 These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. Vlog About Your Day
 
@@ -89,19 +61,12 @@ Opinion videos are great conversation starters. Expressing an opinion through a 
 
 You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 4\. Review Anything
 
@@ -109,45 +74,18 @@ Everywhere around you, there are items you can review. The Apple Watch and the l
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. Your Favorite Songs / Movies / Etc
 
 Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 6\. What’s on Your Phone?
 
@@ -166,6 +104,13 @@ If you are a photography enthusiast you can also plan the entire slideshow in ad
 Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. 10 Things About You
 
@@ -187,27 +132,14 @@ If you start your YouTube channel but have no video editing experience, Wondersh
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -215,49 +147,22 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-matches-best-8-stability-systems-for-4k-cameras/"><u>[New] In 2024, Elite Matches  Best 8 Stability Systems for 4K Cameras</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet/"><u>[New] In 2024, How to Captivate Audiences with PPT on Mobile/Laptop in GMeet</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-time-the-finest-history-youtube-sources-for-students/"><u>[New] Navigating Through Time  The Finest History YouTube Sources for Students</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-prime-top-10-free-transcript-harvesters-for-videos/"><u>[New] Prime Top 10 Free Transcript Harvesters for Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-ranked-the-fastest-growing-youtube-platforms-for-encouragement/"><u>[New] Ranked  The Fastest Growing YouTube Platforms for Encouragement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snicker-spinner-picture-editor/"><u>[New] Snicker Spinner  Picture Editor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[New] The Key to More Views  Expert Backlink Methods for YouTubers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>[Updated] 2024 Approved  Mastering Instagram  The Ultimate Video Cropping Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-perfect-your-iphone-photography-top-tier-filming-aids-for-2024/"><u>[Updated] Perfect Your iPhone Photography  Top-Tier Filming Aids for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>2024 Approved  Masterclass  Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mind-blown-by-numbers-yearly-youtube-insights-in-2017/"><u>2024 Approved  Mind Blown by Numbers  Yearly YouTube Insights in 2017</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-neat-screen-capture-utility-win10/"><u>2024 Approved  Neat Screen Capture Utility, Win10</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-scaling-your-influence-with-youtube-shorts-strategy/"><u>2024 Approved  Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-selecting-snug-winter-scenes-as-video-sets/"><u>2024 Approved  Selecting Snug Winter Scenes as Video Sets</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>2024 Approved  The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>2024 Approved  Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-value-in-sport-photography-cameras-for-the-price-conscious-for-2024/"><u>Finding Value in Sport Photography – Cameras for the Price-Conscious for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-iciness-to-comfort-five-warm-backdrops-ideas-for-2024/"><u>From Iciness to Comfort  Five Warm Backdrops Ideas for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-8t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 8T to iPad | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-audible-mac-visual-record-functionality/"><u>In 2024, Audible Mac Visual Record Functionality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-yt-clip-sharing-using-your-google-id/"><u>In 2024, Expert Advice  YT Clip Sharing Using Your Google ID</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-an-impact-professional-thumbnail-design-for-youtube/"><u>In 2024, Making an Impact  Professional Thumbnail Design for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-cross-platform-content-distribution-twitch-and-youtube/"><u>In 2024, Mastering Cross-Platform Content Distribution  Twitch & YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-start-leading-free-video-openers-listed/"><u>In 2024, Perfect Start  Leading Free Video Openers Listed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-playlist-on-a-page-embedding-yt-videos-online/"><u>In 2024, Playlist on a Page  Embedding YT Videos Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-precise-codex-of-conduct-in-the-digital-realm/"><u>In 2024, Precise Codex of Conduct in the Digital Realm</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-trimming-tactics-for-time-strapped-youtubers/"><u>In 2024, Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-photo-restoration-made-easy-with-stellars-phoenix-solution/"><u>Mac Photo Restoration Made Easy with Stellar's Phoenix Solution</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mobilize-your-storytelling-crafting-content-with-a-phone-for-2024/"><u>Mobilize Your Storytelling  Crafting Content with a Phone for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-through-non-displaying-thumbnails-on-your-shorts-for-2024/"><u>Navigating Through Non-Displaying Thumbnails on Your Shorts for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-offline-watching-made-simple-youtube-videos-for-ios-users/"><u>[New] Offline Watching Made Simple YouTube Videos for iOS Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-palworld-stability-issues-and-avoiding-pc-freezes/"><u>Effective Solutions for Palworld Stability Issues and Avoiding PC Freezes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-resolving-outlooks-connectivity-woes/"><u>Effective Solutions for Resolving Outlook's Connectivity Woes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-ipad-compare-to-ipad-air-key-factors-revealed/"><u>How Does iPad Compare to iPad Air?: Key Factors Revealed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-soundtracks-law-and-ethics/"><u>In 2024, Instagram Soundtracks Law & Ethics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/resolving-last-epoch-release-issues-on-pc-for-players/"><u>Resolving 'Last Epoch' Release Issues on PC for Players</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/transform-your-avchd-files-top-5-no-cost-methods-to-conversion-into-mp4-format-on-windows-10/"><u>Transform Your AVCHD Files: Top 5 No-Cost Methods to Conversion Into MP4 Format on Windows 10</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From YouTube to IGTV  Top Methods Unveiled\""
-date: 2024-09-10T11:45:03.268Z
-updated: 2024-09-11T11:45:03.268Z
+date: 2024-09-14T17:42:53.386Z
+updated: 2024-09-16T17:21:06.957Z
 tags:
   - ai video
   - ai youtube
@@ -38,45 +38,11 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 If you don’t already have the original file of the video you’d like to upload to your IGTV channel, you can [download a video from YouTube](https://tools.techidaily.com/wondershare/filmora/download/), but keep in mind that you can’t use any content without permission from its owner.
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
 
@@ -98,34 +64,6 @@ You can watch the video below to find out more information about the Auto-Refram
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Part 2: Use Kapwing to Convert YouTube to IGTV Online
 
 YouTubers who already have lots of videos on their channel can use online video editing platforms, like [Kapwing](https://www.kapwing.com/) to edit the content they want to post on IGTV. This online video editor offers a number of video editing tools that let you polish your videos before posting them on social media.
@@ -138,37 +76,9 @@ Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose
 
 ![Kapwing  Rotate YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-convert-to-igtv.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 A growing number of IGTV users choose to rotate their videos, instead of resizing them, so if you already have a YouTube video with a 16:9 aspect ratio you can just rotate it and get a video with a 9:16 aspect ratio. Click on the **Rotate**  option and then rotate it **90 degrees clockwise or counterclockwise** and click on the **Create button**. If you opt for this method of creating a vertical video for IGTV, your video will remain the same size, but the viewers will have to hold their phones horizontally in order to view it properly.
 
 **You may also like:** [ How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Part 3: Changing the Aspect Ratio of a YouTube Video with Final Cut Pro
 
@@ -190,60 +100,34 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-explore-eco-films-learn-and-innovate-with-yts-green-screens/"><u>[New] Explore Eco-Films  Learn & Innovate with YT's Green Screens</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts-for-2024/"><u>[New] Final Cut Pro X Insider' Market  Vertical Videos for Instagram Enthusiasts for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-creators-to-profit-makers-the-2024-youtube-monetization-playbook/"><u>[New] From Creators to Profit-Makers  The 2024 YouTube Monetization Playbook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[New] Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-explore-the-top-15-scientific-channels-to-grow-wisdom/"><u>[New] In 2024, Explore the Top 15 Scientific Channels to Grow Wisdom</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-impressive-array-of-mobile-text-options/"><u>[New] In 2024, Impressive Array of Mobile Text Options</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-introduction-to-plot-and-character-dynamics/"><u>[New] In 2024, Introduction to Plot and Character Dynamics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-the-process-of-verifying-your-youtube-id/"><u>[New] Navigating the Process of Verifying Your YouTube ID</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rapid-relay-youtube-playlists-to-the-public/"><u>[New] Rapid Relay  Youtube Playlists to the Public</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-method-to-personalize-iphone-ringtones/"><u>[New] Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-directing-content-destination-from-imovie-files-to-youtube-platform/"><u>[Updated] In 2024, Directing Content Destination  From iMovie Files To YouTube Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-mastering-igtv-content-creation/"><u>[Updated] In 2024, The Ultimate Guide to Mastering IGTV Content Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-theyoucamguidetoeffectivewebcapture/"><u>[Updated] In 2024, TheYouCamGuideToEffectiveWebCapture</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[Updated] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>2024 Approved  From Raw Footage to Polished Content  YouTube Studio Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-device-choose-from-the-7-best-android-adblockers/"><u>2024 Approved  Maximize Your Device  Choose From the 7 Best Android AdBlockers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>2024 Approved  Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status/"><u>2024 Approved  Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-building-youtube-music-playlists/"><u>2024 Approved  The Essential Guide to Building YouTube Music Playlists</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-on-short-video-profits-youtubes-money-making-guide/"><u>2024 Approved  Thriving on Short Video Profits  YouTube's Money-Making Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags/"><u>2024 Approved  Unlocking Success  Optimizing Gaming Videos via Smart Use of Hashtags</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-100-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cured-xbox-series-graphics-hiccup/"><u>Cured Xbox Series Graphics Hiccup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y02t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y02T to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/imovie-essentials-making-your-youtube-openers-stand-out-for-2024/"><u>IMovie Essentials  Making Your YouTube Openers Stand Out for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-f5-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco F5 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-find-your-favorites-ranking-of-8-preferred-mp3-extractors-android/"><u>In 2024, Find Your Favorites  Ranking of 8 Preferred MP3 Extractors (Android)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-fundamental-equipment-for-channel-foundations/"><u>In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-video-game-earnings/"><u>In 2024, Maximizing Video Game Earnings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pair-off-in-perfection-7-stunning-wedding-films-from-youtube-plus-vimeo/"><u>In 2024, Pair Off in Perfection  7 Stunning Wedding Films From Youtube + Vimeo</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-guide-to-google-meet-on-youtube-broadcasting/"><u>In 2024, Simplified Guide to Google Meet on YouTube Broadcasting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>In 2024, Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-streamlining-your-videography-with-adobe-connects-features/"><u>In 2024, Streamlining Your Videography with Adobe Connect's Features</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-sustaining-a-day-job-while-building-your-online-presence/"><u>In 2024, Sustaining a Day Job While Building Your Online Presence</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ethical-way-to-grow-your-fan-base-effectively/"><u>In 2024, The Ethical Way to Grow Your Fan Base Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-moto-g23-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Moto G23 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>In 2024, Unique Coverage Awaits  Crafting Your Own Custom YouTube Shorts Images</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-the-secrets-to-perfect-zoom-recordings/"><u>In 2024, Unlocking the Secrets to Perfect Zoom Recordings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-your-signature-look-a-beginners-blueprint/"><u>In 2024, Unveiling Your Signature Look  A Beginner's Blueprint</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-collage-concepts-lighting-up-your-life-for-2024/"><u>Innovative Collage Concepts  Lighting Up Your Life for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/is-youtubes-monetization-routine-in-2024/"><u>Is YouTube’s Monetization Routine, In 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/layered-comfort-selecting-snug-winter-themes-for-filming-for-2024/"><u>Layered Comfort  Selecting Snug Winter Themes for Filming for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-video-impact-post-upload-edit-tips-for-youtube-for-2024/"><u>Maximizing Video Impact  Post-Upload Edit Tips for YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-original-directory-display-preferences/"><u>Regaining Original Directory Display Preferences</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-fold-5-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy Z Fold 5 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://extra-resources.techidaily.com/toppest-ios-video-capture-aids/"><u>Toppest iOS Video Capture Aids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clearsightcapture-straightforward-desktop-to-video-conversion-for-2024/"><u>[New] ClearSightCapture Straightforward Desktop to Video Conversion for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-enhance-video-speed-in-minutes-on-tiktok-filming/"><u>[New] Enhance Video Speed in Minutes on TikTok Filming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-seamless-browsing-try-these-7-android-adblockers/"><u>[Updated] Seamless Browsing? Try These 7 Android AdBlockers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-short-storyboard-scheme/"><u>2024 Approved Short Storyboard Scheme</u></a></li>
+<li><a href="https://win-able.techidaily.com/converting-mov-files-to-mp4-format-easy-guide-for-both-online-and-offline-methods/"><u>Converting MOV Files to MP4 Format - Easy Guide for Both Online and Offline Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/customizing-your-channel-icon-banner-and-thumbnail-ideas-for-2024/"><u>Customizing Your Channel Icon, Banner & Thumbnail Ideas for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fix-your-frozen-chrome-browser-instantly-in-windows-11-top-tips-and-tricks/"><u>Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-asus-rog-phone-8-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Asus ROG Phone 8 Pro? Try These Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guide-to-resolving-audio-glitches-in-resident-evil-village-game/"><u>Guide to Resolving Audio Glitches in Resident Evil Village Game</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-subscription-the-art-of-positive-engagement/"><u>In 2024, Mastering Subscription The Art of Positive Engagement</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/top-solutions-fixing-the-persistent-black-screen-problem-in-zoom/"><u>Top Solutions: Fixing the Persistent Black Screen Problem in Zoom</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/transform-your-browsing-a-guide-to-agentgpts-ais/"><u>Transform Your Browsing - A Guide to AgentGPT's AIs</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
