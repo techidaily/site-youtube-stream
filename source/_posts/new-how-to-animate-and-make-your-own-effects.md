@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Animate and Make Your Own Effects"
-date: 2024-09-11T18:00:51.134Z
-updated: 2024-09-16T16:07:52.338Z
+date: 2024-09-19T18:27:58.094Z
+updated: 2024-09-21T16:22:04.513Z
 tags:
   - ai video
   - ai youtube
@@ -61,10 +61,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -74,10 +74,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -95,18 +95,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/arnessing-youtube-content-for-engaging-animation-gifs/"><u>[New] Harnessing YouTube Content for Engaging Animation GIFs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterclass-in-capturing-conversations-for-later-review/"><u>[Updated] Masterclass in Capturing Conversations for Later Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-skyrocketing-earnings-through-video-affiliates/"><u>[Updated] Skyrocketing Earnings Through Video Affiliates</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>2024 Approved Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guide-to-resolving-audio-glitches-in-resident-evil-village-game/"><u>Guide to Resolving Audio Glitches in Resident Evil Village Game</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 12?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-depth-review-of-the-fintie-laptop-sleeve-for-macbook-pro-13-balancing-cost-and-longevity/"><u>In-Depth Review of the Fintie Laptop Sleeve for MacBook Pro 13 - Balancing Cost & Longevity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplify-transcribing-the-word-guide-to-speech-to-text/"><u>Simplify Transcribing The Word Guide to Speech-to-Text</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/step-by-step-guide-to-solving-hdmi-access-problems-during-application-use/"><u>Step-by-Step Guide to Solving HDMI Access Problems During Application Use</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/tech-showcase-immersive-test-drive-of-the-elite-dell-monitor-supreme-anc-hearing-gear-and-exceptional-webcam-clarity/"><u>Tech Showcase: Immersive Test Drive of the Elite Dell Monitor, Supreme ANC Hearing Gear & Exceptional Webcam Clarity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976842408-troubleshooting-tips-and-winning-strategies-to-download-mouse-driver-for-windows-7-proven-solutions-inside/"><u>Troubleshooting Tips & Winning Strategies to Download Mouse Driver for Windows 7 – Proven Solutions Inside!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-action-into-portraits-motion-blur-with-picsart/"><u>[Updated] Infusing Action Into Portraits Motion Blur with Picsart</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovate-your-farming-journey-with-these-stardews-top-7-mods/"><u>2024 Approved Innovate Your Farming Journey with These Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-through-youtube-shorts-knowledge/"><u>2024 Approved Navigating Through YouTube Shorts Knowledge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>2024 Approved Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-mixing-on-youtube-music/"><u>2024 Approved The Art of Mixing on YouTube Music</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-verdict-on-your-next-step-with-youtube-mncs/"><u>2024 Approved The Verdict on Your Next Step with YouTube MNCs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-vision-youtubes-innovative-green-screen-solutions/"><u>2024 Approved Transform Your Vision – YouTube's Innovative Green Screen Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581668726-how-to-say-good-morning-in-10-different-languages/"><u>How to Say Good Morning in 10 Different Languages</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-top-10-steps-youtube-to-mp3mpeg-conversion-process/"><u>In 2024, Top 10 Steps YouTube to MP3/MPEG Conversion Process</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-xiaomi-13t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Xiaomi 13T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-views-with-these-top-20-thumbnail-fonts-for-2024/"><u>Maximize Views with These Top 20 Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recording-excellence-the-top-screen-recorder-list/"><u>Recording Excellence The Top Screen Recorder List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-samsung-savings-unbeatable-black-friday-and-cyber-monday-offers/"><u>Top Notch Samsung Savings: Unbeatable Black Friday & Cyber Monday Offers</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-the-role-and-ensuring-xinput13dlls-presence/"><u>Unveiling the Role & Ensuring XINPUT1_3.dll's Presence</u></a></li>
 </ul></div>
 

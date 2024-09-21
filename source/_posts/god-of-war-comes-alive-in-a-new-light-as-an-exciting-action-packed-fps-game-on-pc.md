@@ -1,7 +1,7 @@
 ---
 title: God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!
-date: 2024-09-10T16:55:21.059Z
-updated: 2024-09-16T16:57:21.137Z
+date: 2024-09-19T17:08:43.867Z
+updated: 2024-09-21T16:32:48.317Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Change Windows power plan
 
  A power plan is a set of system and hardware settings on Windows OS. It’s designed to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -85,6 +78,14 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -120,10 +121,10 @@ There are mainly two methods for you to update the graphics driver:
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -150,10 +151,10 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
@@ -168,13 +169,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -193,13 +187,20 @@ There are mainly two methods for you to update the graphics driver:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
@@ -226,17 +227,19 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-video-audio-mastering-the-srt-mp4-duo-for-2024/"><u>[New] Enhancing Video Audio Mastering the SRT-MP4 Duo for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/anking-reign-supreme-with-these-11-video-seo-techniques-on-youtube-for-2024/"><u>[New] Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-webcam-chat/"><u>[Updated] 2024 Approved Easy Ways to Record Webcam Chat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-ultimate-guide-top-101-personal-profiles-on-facebook-for-2024/"><u>[Updated] Ultimate Guide Top 101 Personal Profiles on Facebook for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-step-by-step-screen-capture-on-apple-device/"><u>2024 Approved Step-by-Step Screen Capture on Apple Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-venture-made-easy-the-most-accessible-biz-channel-ideas-ranked/"><u>2024 Approved YouTube Venture Made Easy The Most Accessible Biz Channel Ideas Ranked</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-8-multimedia-online-player-apps-compatible-with-windows-10-mac-os-android-and-ios-devices/"><u>Best 8 Multimedia Online Player Apps Compatible with Windows 10, Mac OS, Android & iOS Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guide-to-resolving-audio-glitches-in-resident-evil-village-game/"><u>Guide to Resolving Audio Glitches in Resident Evil Village Game</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/step-by-step-guide-to-solving-hdmi-access-problems-during-application-use/"><u>Step-by-Step Guide to Solving HDMI Access Problems During Application Use</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/top-solutions-fixing-the-persistent-black-screen-problem-in-zoom/"><u>Top Solutions: Fixing the Persistent Black Screen Problem in Zoom</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-webcam-and-cam-tech-on-the-windows-11-market-for-2024/"><u>Top Webcam & Cam Tech on the Windows 11 Market for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-fixing-page-not-loading-errors-on-manycam-platform/"><u>Troubleshooting Guide: Fixing 'Page Not Loading' Errors on ManyCam Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-stepwise-process-for-capturing-live-soundtracks-online/"><u>[New] 2024 Approved Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-essential-list-of-macs-top-snipping-apps/"><u>[New] 2024 Approved The Essential List of Mac's Top Snipping Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[New] Mini Magnate Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-facebook-and-youtube-video-integration/"><u>2024 Approved The Ultimate Checklist Facebook & YouTube Video Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-tales-at-the-top-engaging-openers/"><u>2024 Approved Thrilling Tales at the Top Engaging Openers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-step-by-step-guide-on-adapting-older-dvds-aspect-ratio-from-43-to-modern-169-widescreen/"><u>A Step-by-Step Guide on Adapting Older DVD's Aspect Ratio From 4:3 to Modern 16:9 Widescreen</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-best-practices-twitch-facebook-integration/"><u>Broadcasting Best Practices Twitch-Facebook Integration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-creators-profit-from-youtube-shorts-for-2024/"><u>How Creators Profit From YouTube Shorts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-slicedmedia-studio/"><u>In 2024, SlicedMedia Studio</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-ins-and-outs-of-youtube-premium-for-2024/"><u>Navigating the Ins and Outs of YouTube Premium for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y27s-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y27s Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-13-videa-gopro-editing-programy-najlepsi-pristup-k-software-s-pripravenim-obrazu/"><u>Top 13 Videa GoPro Editing Programy: Najlepší Prístup K Software S Přípravením Obrazů</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/story-your-stage-youtube-video-mastery/"><u>Your Story, Your Stage YouTube Video Mastery</u></a></li>
 </ul></div>
 

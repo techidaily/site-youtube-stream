@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Luminous Techniques for Engaging Vlogs"
-date: 2024-09-14T17:52:29.133Z
-updated: 2024-09-16T17:08:24.208Z
+date: 2024-09-20T16:54:28.698Z
+updated: 2024-09-21T16:43:52.138Z
 tags:
   - ai video
   - ai youtube
@@ -99,15 +99,22 @@ One of the best things you can do for your video quality is to ensure you have g
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -122,6 +129,13 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -193,13 +207,6 @@ The final step to creating three point lighting is to set up another light behin
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lightning Tips for Aspiring YouTube Videographers
 
 Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
@@ -231,6 +238,13 @@ If your strong main light is too hard on your eyes then you can use a translucen
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
@@ -332,13 +346,6 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -350,13 +357,6 @@ Follow @Richard Bennett
  With it, you can not only add pictures to your MP3 files but also retouch them with various fantastic effects. Now follow the steps below to check out how to achieve it.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 1 Import Files to Audio Converter
 
@@ -425,13 +425,6 @@ Follow @Richard Bennett
 
 ![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Tip:**
 Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
 
@@ -485,6 +478,13 @@ Besides uploading to YouTube, you can also save your creation to various formats
  See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -556,17 +556,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hours-to-gigabytes-a-guide-for-filmmakers/"><u>[New] Hours to Gigabytes A Guide for Filmmakers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[Updated] 2024 Approved From Video Content to Cash Flow YouTube's Profit Mechanics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-x-fold-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo X Fold 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-chatgpts-groundbreaking-features-revealed/"><u>Beyond Boundaries: ChatGPT’s Groundbreaking Features Revealed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/exploring-superior-performance-on-the-apple-iphone-12-pro-max-going-big-has-its-perks/"><u>Exploring Superior Performance on the Apple iPhone 12 Pro Max - Going Big Has Its Perks!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/god-of-war-comes-alive-in-a-new-light-as-an-exciting-action-packed-fps-game-on-pc/"><u>God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-without-password-by-drfone-android/"><u>How To Unlock Realme GT Neo 5 Phone Without Password?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-c55-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme C55 Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplifying-creative-workflow-adding-text-to-photography-files/"><u>In 2024, Simplifying Creative Workflow Adding Text to Photography Files</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/microsoft-fsx-gold-edition-analysis-top-choice-in-commercial-aviation-simulation/"><u>Microsoft FSX: Gold Edition Analysis - Top Choice in Commercial Aviation Simulation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/troubleshooting-cs2-effective-solutions-to-combat-lag-frame-rate-issues-and-unresponsive-gameplay/"><u>Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/unveiling-the-michael-kors-access-gen-5e-mkgo-timepiece-a-blend-of-luxury-and-clever-designs/"><u>Unveiling The Michael Kors Access Gen 5E MKGO Timepiece: A Blend of Luxury and Clever Designs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-pushing-past-vimeos-limits-with-top-10-editors/"><u>[New] In 2024, Pushing Past Vimeo's Limits with Top 10 Editors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[New] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-regulatory-guidelines-youtube-video-recording/"><u>[New] Regulatory Guidelines YouTube Video Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-monetization-for-game-streams/"><u>[New] Strategic Monetization for Game Streams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-passive-viewers-to-profitable-partners-on-vimeo/"><u>[Updated] From Passive Viewers to Profitable Partners on Vimeo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-the-power-of-google-meet-with-your-tech/"><u>[Updated] In 2024, Unlocking the Power of Google Meet with Your Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scripting-signal-sequences/"><u>2024 Approved Scripting Signal Sequences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-igtv-vs-youtube-a-comprehensive-feature-breakdown/"><u>2024 Approved Understanding IGTV Vs. YouTube A Comprehensive Feature Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-secure-communication-with-chatgpt-during-work-projects/"><u>Best Practices for Secure Communication with ChatGPT During Work Projects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-creating-top-quality-edu-videos-for-learning-platforms/"><u>In 2024, Mastering the Art of Creating Top-Quality Edu-Videos for Learning Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-premium-film-experiences-yts-best-of-lists/"><u>In 2024, Premium Film Experiences YT's Best Of Lists</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-ultimate-list-of-best-mac-audio-tagging-applications-reviewed/"><u>In 2024, The Ultimate List of Best Mac Audio Tagging Applications Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagram-posting-tips-to-boost-your-podcast-exposure/"><u>Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enabling-bluetooth-functionality-on-your-pc-with-windows/"><u>Step-by-Step Tutorial: Enabling Bluetooth Functionality on Your PC with Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stepwise-adjustment-fins-speech-on-win-os-devices-for-2024/"><u>Stepwise Adjustment Fins Speech on Win-OS Devices for 2024</u></a></li>
 </ul></div>
 

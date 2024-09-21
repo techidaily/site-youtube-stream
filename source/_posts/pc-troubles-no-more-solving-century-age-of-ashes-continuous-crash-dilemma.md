@@ -1,7 +1,7 @@
 ---
 title: "PC Troubles No More - Solving 'Century: Age of Ashes' Continuous Crash Dilemma"
-date: 2024-09-14T16:39:23.935Z
-updated: 2024-09-16T16:26:45.980Z
+date: 2024-09-15T16:36:09.066Z
+updated: 2024-09-21T17:56:43.777Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -99,13 +106,6 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
@@ -127,21 +127,14 @@ There’re mainly two ways you can update your graphics drivers:
 2. Click**OK** to delete all files from your disk cache.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -157,20 +150,20 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
-If After Effects still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -181,6 +174,13 @@ If After Effects still crashes, try the next fix, below.
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,20 +210,16 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-zoom-into-action-capturing-your-desktop-ezvide-style/"><u>[Updated] In 2024, Zoom Into Action Capturing Your Desktop, EZvide Style</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-enable-youtube-videos-to-self-play-on-facebook/"><u>2024 Approved How to Enable Youtube Videos to Self-Play on Facebook</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazons-fire-hd-8-a-competitively-priced-highly-capable-first-time-tablet/"><u>Amazon's Fire HD 8 : A Competitively Priced, Highly Capable First-Time Tablet</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-palworld-stability-issues-and-avoiding-pc-freezes/"><u>Effective Solutions for Palworld Stability Issues and Avoiding PC Freezes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722883800075-experience-next-gen-streaming-with-apples-new-4k-smart-tv-stick-series-6-reviewed-here/"><u>Experience Next-Gen Streaming with Apple's New 4K Smart TV Stick (Series 6) Reviewed Here</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fix-your-frozen-chrome-browser-instantly-in-windows-11-top-tips-and-tricks/"><u>Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guide-to-resolving-audio-glitches-in-resident-evil-village-game/"><u>Guide to Resolving Audio Glitches in Resident Evil Village Game</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-fix-persistent-crashes-in-the-nioh-2-complete-edition-a-comprehensive-tutorial/"><u>How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-30i-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 30i Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-public-domain-video-heaven-top-sites-for-free-downloads/"><u>New In 2024, Public Domain Video Heaven Top Sites for Free Downloads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/resolving-last-epoch-release-issues-on-pc-for-players/"><u>Resolving 'Last Epoch' Release Issues on PC for Players</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-epson-driver-setup-and-firmware-updates-for-windows-users/"><u>Seamless Epson Driver Setup and Firmware Updates for Windows Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-the-flexible-and-beautifully-designed-dell-xps-13-7390-ultrabook-2in1/"><u>Top Review of the Flexible and Beautifully Designed Dell XPS 13 (7390) Ultrabook-2in1</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/top-solutions-fixing-the-persistent-black-screen-problem-in-zoom/"><u>Top Solutions: Fixing the Persistent Black Screen Problem in Zoom</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/transform-your-browsing-a-guide-to-agentgpts-ais/"><u>Transform Your Browsing - A Guide to AgentGPT's AIs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unlock-the-potential-of-your-video-platform-growth/"><u>[New] In 2024, Unlock the Potential of Your Video Platform Growth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>[Updated] Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-locating-your-own-melodic-treasure-trove-in-youtubes-vault/"><u>2024 Approved Locating Your Own Melodic Treasure Trove in YouTube's Vault</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-playlist-downloads-a-comprehensive-guide/"><u>2024 Approved Mastering YouTube Playlist Downloads A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>2024 Approved Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-fingerprint-driver-downloader-and-updater-tool-for-windows-pcs/"><u>Free Fingerprint Driver Downloader and Updater Tool for Windows PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/getting-comfortable-with-zoom-a-beginners-tutorial/"><u>Getting Comfortable with Zoom A Beginner’s Tutorial</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-ace-2-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus Ace 2 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-regulations-on-capturing-youtube-playbacks/"><u>In 2024, Regulations on Capturing YouTube Playbacks</u></a></li>
 </ul></div>
 

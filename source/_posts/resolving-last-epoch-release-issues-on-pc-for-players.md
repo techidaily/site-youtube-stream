@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2024-09-13T17:44:17.289Z
-updated: 2024-09-16T17:39:01.344Z
+date: 2024-09-15T18:19:41.244Z
+updated: 2024-09-21T17:26:49.530Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -72,14 +72,14 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -92,20 +92,13 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -128,10 +121,16 @@ There are mainly two ways you can do this:
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
@@ -139,6 +138,13 @@ There are mainly two ways you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -163,20 +169,16 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>[New] 2024 Approved Excellence in Meeting Capture The Best Streaming Gadgets Ranked</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-navigating-youtube-rights-an-experts-handbook/"><u>[New] In 2024, Navigating YouTube Rights An Expert's Handbook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-shutter-excellence-roundup-top-6-incredible-4k-dslrs-for-2024/"><u>[New] Shutter Excellence Roundup Top 6 Incredible 4K DSLRs for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-sound-levels-in-recordings-step-by-step-guide/"><u>[Updated] In 2024, Perfecting Sound Levels in Recordings Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>[Updated] Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-palworld-stability-issues-and-avoiding-pc-freezes/"><u>Effective Solutions for Palworld Stability Issues and Avoiding PC Freezes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/effective-solutions-for-resolving-outlooks-connectivity-woes/"><u>Effective Solutions for Resolving Outlook's Connectivity Woes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/extending-wifi-reach-like-never-before-the-premier-routers-of-2024-reviewed/"><u>Extending WiFi Reach Like Never Before: The Premier Routers of 2024 Reviewed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fix-your-frozen-chrome-browser-instantly-in-windows-11-top-tips-and-tricks/"><u>Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fixing-windows-audio-pops-and-unexpected-sounds-simple-tips-and-tricks/"><u>Fixing Windows Audio Pops & Unexpected Sounds - Simple Tips & Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-fix-persistent-crashes-in-the-nioh-2-complete-edition-a-comprehensive-tutorial/"><u>How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-google-pixel-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Google Pixel 8 Pro Phone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>In 2024, Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/transform-your-browsing-a-guide-to-agentgpts-ais/"><u>Transform Your Browsing - A Guide to AgentGPT's AIs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[New] Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-twisting-the-norm-your-instagram-video-transformation/"><u>[New] Twisting the Norm Your Instagram Video Transformation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-speeding-up-youtube-quick-video-rendering-and-transfer-tips/"><u>2024 Approved Speeding Up YouTube Quick Video Rendering & Transfer Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-streaming-experience-via-youtubes-av1-feature/"><u>2024 Approved Transform Your Streaming Experience via YouTube's AV1 Feature</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsche-verantwortungsausdrucke-lernen/"><u>Deutsche Verantwortungsausdrücke Lernen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/flv-mpegmp4-movavi/"><u>FLV 포워드에 적합한 MPEG/MP4 파일의 오픈소스 변환 - Movavi 속도화</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-ensure-privacy-how-not-to-let-chatgpt-remember-our-talks/"><u>Guide to Ensure Privacy: How Not to Let ChatGPT Remember Our Talks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-pop-7-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Pop 7 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-combine-movie-tracks-in-youtube-repertoire/"><u>In 2024, Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-k11x-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo K11x</u></a></li>
 </ul></div>
 

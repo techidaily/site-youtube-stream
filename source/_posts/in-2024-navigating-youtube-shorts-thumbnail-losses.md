@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Shorts Thumbnail Losses"
-date: 2024-09-10T11:45:14.302Z
-updated: 2024-09-11T11:45:14.302Z
+date: 2024-09-19T17:45:13.223Z
+updated: 2024-09-21T16:39:41.731Z
 tags:
   - ai video
   - ai youtube
@@ -45,26 +45,6 @@ Adding a custom thumbnail for YouTube Shorts is the same as adding one for long-
 
 ![changing shorts thumbnail on youtube studio](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-change-thumbnail-5.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Q2\. Why Are YouTube Shorts Thumbnails Not Showing?
 
 It's not you who's the only one with Shorts thumbnails not showing. Many short-form content creators on the platform are also facing this issue. A YouTuber took to Reddit to complain about how he uploaded custom thumbnails for all his videos. The thumbnails are correct in the editor. However, YouTube still displays a random frame as the thumbnail on the Shorts shelf.
@@ -75,55 +55,13 @@ _"They ALL have randomly selected different parts of each video I have uploaded 
 
 The reason behind this is the difference in the thumbnail size. Regular YouTube video thumbnails are in the ratio of 16:9\. Meanwhile, Shorts uses a ratio of 9:16\. The thing is that YouTube does not yet allow you to upload 9:16 thumbnails. Thus, the thumbnail for Shorts may show correctly on the video section but not on the Shorts shelf.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Q3\. How to Fix YouTube Shorts Thumbnail Problem?
 
 ![fix youtube shorts thumbnail not showing problem](https://images.wondershare.com/filmora/article-images/fix-youtube-shorts-thumbnail-not-showing.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Unfortunately, there is no reliable fix to this problem yet. YouTubers have tried different things in hopes that YouTube will display the correct thumbnail for their Shorts.
 
 Some YouTubers have tried using different images. Others have experimented with changing the aspect ratio of the thumbnail or using Adobe editor for ratios. Clearing histories and cache, using different browsers, resizing, and changing the images' resolution have also been done. Sadly, these are all failed attempts.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Q4\. How To Boost Views When I Have no Control Over YouTube Shorts Thumbnails?
 
@@ -143,26 +81,6 @@ Of course, ensuring that the video quality is high is key to getting more views.
 
 ![filmora mobile feature showcase](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-filmora.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 The best thing is that you don't need to transfer the video from your phone to your computer and back. Wondershare Filmora is available on mobile. And it's one of the best tools for enhancing a short-form video.
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
@@ -175,23 +93,16 @@ Luckily, that's going to change. Starting this year, Shorts will be a part of th
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
 You can watch Shorts like normal YouTube videos where you can rewind when you want to. Follow these steps.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### On a Desktop Computer
 
@@ -199,37 +110,9 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![shorts tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-1.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * Pause the video.
 
 ![paused a shorts video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-2.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 * Click "Library" on the left panel.
 
@@ -238,20 +121,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts you just watched. It should be on the top and first on the list.
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### On a Mobile Phone
 
@@ -263,59 +132,24 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Tap "Library"
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 * Scroll down to find "Liked Videos." Click on it.
 
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Conclusion
 
@@ -343,57 +177,15 @@ YouTube also adjusted the requirements to qualify for the YPP. They made it easi
 
 You can watch Shorts like normal YouTube videos where you can rewind when you want to. Follow these steps.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### On a Desktop Computer
 
 * Open a Shorts video on YouTube.
 
 ![shorts tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-1.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * Pause the video.
 
 ![paused a shorts video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-2.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 * Click "Library" on the left panel.
 
@@ -417,61 +209,26 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * Scroll down to find "Liked Videos." Click on it.
 
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Conclusion
 
@@ -491,20 +248,6 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Social Media Forecasting Through Data Visualization
 
 # Infographic - Social Media Trends
@@ -521,79 +264,24 @@ Scroll down to find out this infographic made by [Filmora](https://tools.techida
 
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
-In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
-
-**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
-
-One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
-
-**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
-
-As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
-
-Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
-
-![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
-
-In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
-
-**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
-
-One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
-
-**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
-
-As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
 
+**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
 
+One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
+
+**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
+
+As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -623,25 +311,12 @@ As of today **Generation Z** already has $44 billion of buying power and this nu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Richard Bennett
 
@@ -659,19 +334,33 @@ Scroll down to find out this infographic made by [Filmora](https://tools.techida
 
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
+In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
 
+**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
 
+One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
 
+**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+Richard Bennett
 
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
+
+Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
+
+![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
 
@@ -704,49 +393,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-100plus-gaming-channel-names-for-every-gamer-filmora/"><u>[New] 100+ Gaming Channel Names for Every Gamer - Filmora</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-joining-the-social-tv-revolution-fb-live-and-roku-interactions/"><u>[New] 2024 Approved  Joining the Social TV Revolution  FB Live & Roku Interactions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[New] From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-translate-speech-to-text-the-right-way-with-google-translate/"><u>[New] How to Translate Speech to Text the Right Way with Google Translate</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-earnings-exploration-how-youtube-turns-viewers-into-cash/"><u>[Updated] Earnings Exploration  How YouTube Turns Viewers Into Cash</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>[Updated] Laughing Lineup  Step-by-Step Guide to Funny Memes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-mac-animation-storer-for-2024/"><u>[Updated] Optimal Mac Animation Storer for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-year-ahead-social-media-infographic-insights/"><u>[Updated] The Year Ahead  Social Media Infographic Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>2024 Approved  Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>2024 Approved  From Zero to Hero  Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>2024 Approved  Get Started with YouTube Video Ad Building Without Spending</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>2024 Approved  Global Viewer Count Triumphs  Play Button Honors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>2024 Approved  Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>2024 Approved  Rise to the Top  Mastering YouTube Descriptions with Customizable Templates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-your-spotify-to-youtube-music-library-transition/"><u>2024 Approved  Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-algorithm-behind-youtubes-post-upload-logic/"><u>2024 Approved  The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-essential-2023-techniques-for-ios-screen-recording/"><u>2024 Approved  The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-8-youtube-platforms-with-stellar-rapid-rise/"><u>2024 Approved  Unearthing 8 YouTube Platforms with Stellar Rapid Rise</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-secrets-to-earning-from-viral-snippets/"><u>2024 Approved  Unlocking the Secrets to Earning From Viral Snippets</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-11-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 11 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-choice-in-motion-typography-designs/"><u>Best Choice in Motion Typography Designs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-strategies-for-exceptional-live-thumbnail-appeal-for-2024/"><u>Expert Strategies for Exceptional Live Thumbnail Appeal for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/game-masters-youtube-money-hacks-for-2024/"><u>Game Masters  YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-zte-nubia-flip-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Ace 2</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flipping-scripts-generating-parody-content/"><u>In 2024, Flipping Scripts  Generating Parody Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-step-by-step-turning-pictures-into-youtube-desktop-thumbnails/"><u>In 2024, Quick Step-By-Step  Turning Pictures Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>In 2024, Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>In 2024, The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-the-leaders-1-6-in-global-short-video-clips/"><u>In 2024, Uncover the Leaders  #1-#6 in Global Short Video Clips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/insiders-manual-reacting-on-twitter-videos-for-2024/"><u>Insider’s Manual  Reacting on Twitter Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lg-bp550-review-2023-update-for-2024/"><u>LG BP550 Review - 2023 Update for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-11-5-ways-to-get-into-a-locked-apple-iphone-11-by-drfone-ios/"><u>Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/making-your-channels-subscribe-button-pop-for-2024/"><u>Making Your Channel's Subscribe Button Pop for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mediamasher-suite-for-2024/"><u>MediaMasher Suite for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-zoom-effectively-on-chrome-devices-for-2024/"><u>Navigating Zoom Effectively on Chrome Devices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reveal-the-rare-5-effortless-ways-to-enhance-views-for-2024/"><u>Reveal the Rare  5 Effortless Ways to Enhance Views for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/reveal-the-secrets-top-12-ways-to-bring-non-showing-fb-vids-into-view/"><u>Reveal the Secrets  Top 12 Ways to Bring Non-Showing FB Vids Into View</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android-for-2024/"><u>The Complete Handbook for Saving Movies on Desktop, Laptop & Android for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ai-powered-virtual-patient-interactions/"><u>[New] AI-Powered Virtual Patient Interactions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-secrets-unveiled-learn-to-hide-oneself-on-video/"><u>[New] Secrets Unveiled? Learn to Hide Oneself on Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tactics-for-transformative-first-moments-in-your-podcasts/"><u>[New] Tactics for Transformative First Moments in Your Podcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-companion-for-creating-unique-metaverse-avatars-for-2024/"><u>[Updated] The Ultimate Companion for Creating Unique Metaverse Avatars for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-sandbox-titles-everyone-should-own/"><u>2024 Approved Essential Sandbox Titles Everyone Should Own</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quietly-stream-youtube-on-iphone-and-android/"><u>2024 Approved Quietly Stream YouTube on iPhone & Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expressive-youtube-aesthetics-at-no-cost-for-2024/"><u>Expressive YouTube Aesthetics at No Cost for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fusing-genres-a-youtube-music-strategy-for-2024/"><u>Fusing Genres A YouTube Music Strategy for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-galaxy-m34-5gs-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Galaxy M34 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-find-my-playlist-on-youtube/"><u>In 2024, How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-memes-take-over-video-hits-on-twitters-map/"><u>In 2024, Memes Take Over Video Hits on Twitter's Map</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>In 2024, The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-alternative-movies-to-watch-ranked-7/"><u>In 2024, Top Alternative Movies to Watch, Ranked #7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macmacx-dvd-ripper-pro-v20/"><u>Macユーザー向け最強リッピングツール「Macx DVD Ripper Pro V2.0」アップデート披露</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-repair-process-of-directx-dll-file-directinput-issues-addressed/"><u>Mastering the Repair Process of DirectX DLL File: Directinput Issues Addressed</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-silencing-soundscape-guiding-you-to-audio-deletion-in-mov-files-for-both-operating-systems-for-2024/"><u>New Silencing Soundscape Guiding You to Audio Deletion in MOV Files for Both Operating Systems for 2024</u></a></li>
 </ul></div>
+
