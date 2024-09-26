@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2024-09-17T16:44:32.864Z
-updated: 2024-09-21T18:28:48.969Z
+date: 2024-09-25T18:59:23.867Z
+updated: 2024-09-26T18:08:14.526Z
 tags:
   - win11
   - win10
@@ -39,11 +39,33 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -82,13 +104,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
@@ -97,10 +112,10 @@ There are mainly two ways you can update the graphics driver:
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
@@ -118,10 +133,10 @@ There are mainly two ways you can update the graphics driver:
 4. Close the window and launch Outriders.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
@@ -142,10 +157,10 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
@@ -171,5 +186,26 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-2023s-premier-action-cameras-for-ocean-thrills/"><u>[New] 2024 Approved 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparing-magix-audio-tools/"><u>[Updated] Comparing MAGIX Audio Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-animate-and-make-your-own-effects/"><u>2024 Approved How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-insight-into-top-10-youtube-mp3-downloader-apps/"><u>2024 Approved Insight Into Top 10 YouTube MP3 Downloader Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-art-of-youtube-visibility-two-steps/"><u>2024 Approved Master the Art of YouTube Visibility (Two Steps)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-money-via-online-video-platforms/"><u>2024 Approved Maximizing Money via Online Video Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactical-tagging-for-towering-youtube-traction/"><u>2024 Approved Tactical Tagging for Towering YouTube Traction</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-7-android-adblockers-seamless-browsing-experience/"><u>2024 Approved Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-pc-malfunctions-strategies-to-fix-frequent-super-pc-errors/"><u>Avoid PC Malfunctions: Strategies to Fix Frequent Super-PC Errors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/find-friends-in-fandoms-forums-for-2024/"><u>Find Friends in Fandom's Forums for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sparkle-with-screenshots-vlogging-for-value-creation/"><u>In 2024, Sparkle with Screenshots Vlogging for Value Creation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essence-of-youtubes-new-shorts-investment-scheme/"><u>In 2024, The Essence of YouTube's New Shorts Investment Scheme</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-20-adobe-premiere-intro-templates-free-download/"><u>New In 2024, Best 20 Adobe Premiere Intro Templates Free Download</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-subtitle-edit-for-mac-not-working-try-these-alternatives-for-2024/"><u>New Subtitle Edit for Mac Not Working? Try These Alternatives for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-adding-images-inside-cells-on-google-sheets/"><u>Step-by-Step Guide: Adding Images Inside Cells on Google Sheets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-science-of-sensor-based-hands-monitoring/"><u>The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-pova-5-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Pova 5? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

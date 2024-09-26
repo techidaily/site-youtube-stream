@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Instructions  Producing Alluring Video Thumbnails on YouTube\""
-date: 2024-09-17T16:36:29.298Z
-updated: 2024-09-21T18:04:23.233Z
+date: 2024-09-25T18:51:49.431Z
+updated: 2024-09-26T16:50:48.528Z
 tags:
   - ai video
   - ai youtube
@@ -42,92 +42,13 @@ Here are 5 easy tips for creating thumbnails that get views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-## 1\. Have a Consistent Layout
-
-Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
-
-An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
-
-![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
-
-## **2\. Use Your Face**
-
-People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
-
-## 3\. Use Graphics/Emojis that are On Topic
-
-Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
-
-Make sure the images you choose are relevant to the topic of your video.
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 4\. Make Your Text Huge
-
-If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
-
-Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
-
-## 5\. Keep it Clutter-Free
-
-It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
-
-A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
-
- [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
-
-Here are 5 easy tips for creating thumbnails that get views.
-
-1. **[Have a Consistent Layout](#one)**
-2. **[Use Your Face](#two)**
-3. **[Use Graphics/Emojis That is On Topic](#three)**
-4. **[Make Your Text Huge](#four)**
-5. **[Keep It Clutter-Free!](#five)**
-
- _Contest now closed._
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-## Edit Your Videos Before Creating Video Thumbnails
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
 ## 1\. Have a Consistent Layout
 
 Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
@@ -135,6 +56,13 @@ Your thumbnails all must look like part of the same set. You want viewers to rec
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Use Your Face**
 
@@ -267,6 +195,79 @@ Your thumbnails all must look like part of the same set. You want viewers to rec
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+## **2\. Use Your Face**
+
+People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
+
+## 3\. Use Graphics/Emojis that are On Topic
+
+Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
+
+Make sure the images you choose are relevant to the topic of your video.
+
+## 4\. Make Your Text Huge
+
+If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
+
+Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+## 5\. Keep it Clutter-Free
+
+It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
+
+A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
+
+ [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
+
+Here are 5 easy tips for creating thumbnails that get views.
+
+1. **[Have a Consistent Layout](#one)**
+2. **[Use Your Face](#two)**
+3. **[Use Graphics/Emojis That is On Topic](#three)**
+4. **[Make Your Text Huge](#four)**
+5. **[Keep It Clutter-Free!](#five)**
+
+ _Contest now closed._
+
+## Edit Your Videos Before Creating Video Thumbnails
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. Have a Consistent Layout
+
+Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
+
+An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
+
+![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Use Your Face**
 
@@ -317,10 +318,10 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Watch 9 Free Full Length Christmas Movies On YouTube
@@ -439,16 +440,16 @@ If you are looking for Christmas entertainment this season you may be quick to l
 
 The Nutcracker is a holiday classic that many people seek out every year on the stage. This family ballet classic was filmed by the Pacific Northwest ballet in a huge and lavish version of the production in 1986\. This still stands as one of the best versions of the Nutcracker ever captured on film and you can watch it for free on YouTube. You can find the Nutcracker at :
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. A smoky mountain Christmas
 
 A Smoky Mountain Christmas is a film from 1986 directed by Harry Winkler and starring Lee Majors and Dolly Parton. The full musical fairy tale can be found online on YouTube and it's about a country singer who is trying to spend a quiet Christmas holiday at home. She suddenly becomes involved with a mysterious mountain man, an evil witch and is forced to protect seven orphans over the holidays. This film can be found at:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. Ernest saves Christmas
 
@@ -481,10 +482,10 @@ In this recreation of the original film from 1947 this shortened full-length ver
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -502,6 +503,13 @@ If you are looking for Christmas entertainment this season you may be quick to l
 ### 1. The nutcracker 1990
 
 The Nutcracker is a holiday classic that many people seek out every year on the stage. This family ballet classic was filmed by the Pacific Northwest ballet in a huge and lavish version of the production in 1986\. This still stands as one of the best versions of the Nutcracker ever captured on film and you can watch it for free on YouTube. You can find the Nutcracker at :
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. A smoky mountain Christmas
 
@@ -522,6 +530,13 @@ In this film from 1998 we hear the story of the richest kid in the world on Chri
 ### 6. On the second day of Christmas
 
 This film stars the hulk Mark Ruffalo in one of his earlier roles as a store employee who catches a con woman trying to steal from a department store on Christmas. His character agrees to be responsible for the con woman and her niece over the holidays to prevent them from staying with social services. A romance develops! This 1997 film can be found at:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7. Santa Who?
 
@@ -556,5 +571,21 @@ Follow @Shanoon Cox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-best-photo-display-tools-for-iphone-series-upgrades/"><u>[New] In 2024, Best Photo Display Tools For iPhone Series Upgrades</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategy-cradle-nurturing-market-gains-for-2024/"><u>[New] Strategy Cradle Nurturing Market Gains for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>[Updated] In 2024, Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-energy-savings-calculations-while-not-directly-impacting-installation-cost-understanding-potential-energy-savings-is-crucial-for-long-term-roi/"><u>2024 Approved __Energy Savings Calculations__ While Not Directly Impacting Installation Cost, Understanding Potential Energy Savings Is Crucial for Long-Term ROI Analysis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>2024 Approved From Idea to Execution Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-earnings-a-monetization-checklist/"><u>2024 Approved Mastering YouTube Earnings A Monetization Checklist</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-content-creator-to-cash-magnet-instagrams-guide-for-2024/"><u>From Content Creator to Cash Magnet Instagram's Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-locating-and-unveiling-your-personalized-melodic-repository-on-youtube/"><u>In 2024, Locating and Unveiling Your Personalized Melodic Repository on Youtube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics/"><u>In 2024, Mastery Guide to YouTube SEO Title, Tagging & Description Tactics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-offline-watching-made-simple-youtube-videos-for-ios-users/"><u>In 2024, Offline Watching Made Simple YouTube Videos for iOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-file-conversion-tool-by-movavi-effortless-transformation-of-webm-to-m4v-for-free/"><u>Online File Conversion Tool by Movavi: Effortless Transformation of WEBM to M4V for Free!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-premier-list-all-time-great-general-knowledge-shows-24-for-2024/"><u>The Premier List All-Time Great General Knowledge Shows '24 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-8-real-life-strategies-to-increase-youtube-reach-for-2024/"><u>Top 8 Real-Life Strategies to Increase YouTube Reach for 2024</u></a></li>
+</ul></div>
 

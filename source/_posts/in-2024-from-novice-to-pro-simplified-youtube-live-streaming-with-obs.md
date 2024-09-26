@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS\""
-date: 2024-09-18T16:48:06.135Z
-updated: 2024-09-21T17:13:23.248Z
+date: 2024-09-23T16:55:53.802Z
+updated: 2024-09-26T16:03:50.389Z
 tags:
   - ai video
   - ai youtube
@@ -244,13 +244,6 @@ As soon as you have completed the above set up then next task is to adjust setti
 
 ![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Users can now add their sources and scenes.
 
 ![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
@@ -378,13 +371,6 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.Set up Your Live Streaming Encoder
 
 As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
@@ -394,6 +380,13 @@ As soon as you have completed the above set up then next task is to adjust setti
 **Step 2:** Now launch OBS on your device and directly go to settings option.
 
 ![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
 
@@ -430,13 +423,6 @@ Live stream is little different from Stream Now platform as it allows users to s
 **Step 5:** As soon as you finish all above settings then simply click on the create event option.
 
 ![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
 
@@ -501,6 +487,13 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
 
 ![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
@@ -550,6 +543,13 @@ As soon as you have completed the above set up then next task is to adjust setti
 **Step 4:** Users can now add their sources and scenes.
 
 ![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
 
@@ -623,204 +623,58 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
-### 7\.  My Depression/Anxiety or Mental Health Story
-
-Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
-
-### 8\.  Narrated Autobiopic
-
-Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
-
-### 9\.  25 Facts About Me Tag
-
-This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
-
-### 10\.  YouTube Live/Webinar
-
-YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
-
-## Custom Your Video with Excellent Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
-### 7\.  My Depression/Anxiety or Mental Health Story
-
-Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
-
-### 8\.  Narrated Autobiopic
-
-Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
-
-### 9\.  25 Facts About Me Tag
-
-This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
-
-### 10\.  YouTube Live/Webinar
-
-YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
-
-## Custom Your Video with Excellent Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
+
+* [Channel Trailer](#one)
+* [My YouTube Story](#two)
+* [Draw My Life](#three)
+* [Snapchat/Instagram Stories Q&A](#four)
+* [Never Have I Ever Q&A](#five)
+* [Get Ready With me Q&A](#six)
+* [My Depression/Anxiety or Mental Health Story](#seven)
+* [Narrated Autobiopic](#eight)
+* [25 Facts About Me](#nine)
+* [YouTube Live/Webinar](#ten)
+
+### 1\.  Channel Trailer
+
+Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
+
+YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
+
+###  2\.  My YouTube Story
+
+On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
+
+### 3\.  Draw My Life
+
+“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
+
+### 4\.  Snapchat/Instagram Stories Q&A
+
+Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
+
+### 5\.  Never Have I Ever Q & A
+
+Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
+
+### 6\.  Get Ready With Me Q & A
+
+Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
+
 ### 7\.  My Depression/Anxiety or Mental Health Story
 
 Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
@@ -828,6 +682,13 @@ Behind all their smiles and outrageous on-camera personas, there are a lot of Yo
 ### 8\.  Narrated Autobiopic
 
 Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\.  25 Facts About Me Tag
 
@@ -914,12 +775,178 @@ YouTube live videos are probably the best ways to interact and share your story 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
+
+* [Channel Trailer](#one)
+* [My YouTube Story](#two)
+* [Draw My Life](#three)
+* [Snapchat/Instagram Stories Q&A](#four)
+* [Never Have I Ever Q&A](#five)
+* [Get Ready With me Q&A](#six)
+* [My Depression/Anxiety or Mental Health Story](#seven)
+* [Narrated Autobiopic](#eight)
+* [25 Facts About Me](#nine)
+* [YouTube Live/Webinar](#ten)
+
+### 1\.  Channel Trailer
+
+Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
+
+YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
+
+###  2\.  My YouTube Story
+
+On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\.  Draw My Life
+
+“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
+
+### 4\.  Snapchat/Instagram Stories Q&A
+
+Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
+
+### 5\.  Never Have I Ever Q & A
+
+Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
+
+### 6\.  Get Ready With Me Q & A
+
+Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
+
+### 7\.  My Depression/Anxiety or Mental Health Story
+
+Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
+
+### 8\.  Narrated Autobiopic
+
+Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
+
+### 9\.  25 Facts About Me Tag
+
+This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
+
+### 10\.  YouTube Live/Webinar
+
+YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
+
+## Custom Your Video with Excellent Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
+
+* [Channel Trailer](#one)
+* [My YouTube Story](#two)
+* [Draw My Life](#three)
+* [Snapchat/Instagram Stories Q&A](#four)
+* [Never Have I Ever Q&A](#five)
+* [Get Ready With me Q&A](#six)
+* [My Depression/Anxiety or Mental Health Story](#seven)
+* [Narrated Autobiopic](#eight)
+* [25 Facts About Me](#nine)
+* [YouTube Live/Webinar](#ten)
+
+### 1\.  Channel Trailer
+
+Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
+
+YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
+
+###  2\.  My YouTube Story
+
+On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
+
+### 3\.  Draw My Life
+
+“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
+
+### 4\.  Snapchat/Instagram Stories Q&A
+
+Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 5\.  Never Have I Ever Q & A
+
+Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
+
+### 6\.  Get Ready With Me Q & A
+
+Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
+
+### 7\.  My Depression/Anxiety or Mental Health Story
+
+Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
+
+### 8\.  Narrated Autobiopic
+
+Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
+
+### 9\.  25 Facts About Me Tag
+
+This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
+
+### 10\.  YouTube Live/Webinar
+
+YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
+
+## Custom Your Video with Excellent Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -942,5 +969,19 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-screencapture-pro-laptop-tips-and-tricks/"><u>[New] 2024 Approved ScreenCapture Pro Laptop Tips & Tricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecoding-the-essentials-of-your-youtube-tv-experience/"><u>[New] Decoding the Essentials of Your YouTube TV Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>[Updated] 2024 Approved Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-embedding-audio-in-instant-storytelling-platforms/"><u>[Updated] Embedding Audio in Instant Storytelling Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-facebook-live-broadcasts-a-quick-guide/"><u>2024 Approved Navigating Facebook Live Broadcasts A Quick Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-7-dslr-selections-for-in-depth-vlog-documentaries/"><u>2024 Approved Optimal 7 DSLR Selections For In-Depth Vlog Documentaries</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-triple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>2024 Approved Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-new-era-of-visual-narratives-full-rotation/"><u>A New Era of Visual Narratives Full Rotation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-evaluate-with-8-key-considerations/"><u>Bing Chat Vs. ChatGPT for Freelancers: Evaluate with 8 Key Considerations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/flash-off-top-100-instant-cams-cheap-and-quick/"><u>Flash Off - Top $100 Instant Cams, Cheap and Quick!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-your-video-framing-journey-without-a-budget-on-youtube/"><u>In 2024, Navigate Your Video Framing Journey Without a Budget on YouTube</u></a></li>
+</ul></div>
 

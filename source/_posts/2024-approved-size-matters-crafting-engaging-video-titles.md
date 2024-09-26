@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Size Matters  Crafting Engaging Video Titles\""
-date: 2024-09-18T18:03:07.295Z
-updated: 2024-09-21T17:47:54.807Z
+date: 2024-09-21T17:45:29.769Z
+updated: 2024-09-26T16:45:00.714Z
 tags:
   - ai video
   - ai youtube
@@ -42,257 +42,11 @@ Here is one interesting thing that you need to know; the thumbnail of videos app
 [Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
 [How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-## **2\. Tips for Perfect Thumbnails**
-
-So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
-
-#### **YouTube's Default Thumbnails**
-
-When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
-
-#### **Custom Thumbnails**
-
-This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
-
-First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
-
-Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
-
-Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
-
-Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
-
-Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
-
-## 3\. Making Better Thumbnails for YouTube
-
-The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
-
-* **_Focus on Size:_**
-
-It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
-
-* **_Add Text:_**
-
-The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
-
-* **_Borders matter:_**
-
-Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
-
-* **_Background editing:_**
-
-Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
-
-* **_Test it before uploading:_**
-
-Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
-
-Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Dec 30, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
-
-1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
-2. [**Tips for Perfect Thumbnails**](#perfect)
-3. [**Making Better Thumbnails for YouTube**](#better)
-
-## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
-
-An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
-
-Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
-
-**You May Also Like:**
-[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## **2\. Tips for Perfect Thumbnails**
-
-So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
-
-#### **YouTube's Default Thumbnails**
-
-When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
-
-#### **Custom Thumbnails**
-
-This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
-
-First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
-
-Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
-
-Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
-
-Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
-
-Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
-
-## 3\. Making Better Thumbnails for YouTube
-
-The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
-
-* **_Focus on Size:_**
-
-It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
-
-* **_Add Text:_**
-
-The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
-
-* **_Borders matter:_**
-
-Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
-
-* **_Background editing:_**
-
-Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
-
-* **_Test it before uploading:_**
-
-Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
-
-Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Dec 30, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
-
-1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
-2. [**Tips for Perfect Thumbnails**](#perfect)
-3. [**Making Better Thumbnails for YouTube**](#better)
-
-## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
-
-An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
-
-Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
-
-**You May Also Like:**
-[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## **2\. Tips for Perfect Thumbnails**
-
-So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
-
-#### **YouTube's Default Thumbnails**
-
-When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
-
-#### **Custom Thumbnails**
-
-This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
-
-First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
-
-Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
-
-Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
-
-Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
-
-Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
-
-## 3\. Making Better Thumbnails for YouTube
-
-The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
-
-* **_Focus on Size:_**
-
-It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
-
-* **_Add Text:_**
-
-The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
-
-* **_Borders matter:_**
-
-Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
-
-* **_Background editing:_**
-
-Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
-
-* **_Test it before uploading:_**
-
-Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
-
-Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
-
-If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Dec 30, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
-
-1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
-2. [**Tips for Perfect Thumbnails**](#perfect)
-3. [**Making Better Thumbnails for YouTube**](#better)
-
-## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
-
-An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
-
-Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
-
-**You May Also Like:**
-[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Tips for Perfect Thumbnails**
@@ -348,11 +102,264 @@ If you want to find a video editing solution that empowers your imagination and 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Dec 30, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
+
+1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
+2. [**Tips for Perfect Thumbnails**](#perfect)
+3. [**Making Better Thumbnails for YouTube**](#better)
+
+## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
+
+An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
+
+Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
+
+**You May Also Like:**
+[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## **2\. Tips for Perfect Thumbnails**
+
+So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
+
+#### **YouTube's Default Thumbnails**
+
+When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
+
+#### **Custom Thumbnails**
+
+This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
+
+First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
+
+Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
+
+Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
+
+Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
+
+Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
+
+## 3\. Making Better Thumbnails for YouTube
+
+The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
+
+* **_Focus on Size:_**
+
+It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
+
+* **_Add Text:_**
+
+The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
+
+* **_Borders matter:_**
+
+Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
+
+* **_Background editing:_**
+
+Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
+
+* **_Test it before uploading:_**
+
+Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
+
+Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Dec 30, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
+
+1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
+2. [**Tips for Perfect Thumbnails**](#perfect)
+3. [**Making Better Thumbnails for YouTube**](#better)
+
+## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
+
+An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
+
+Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
+
+**You May Also Like:**
+[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## **2\. Tips for Perfect Thumbnails**
+
+So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
+
+#### **YouTube's Default Thumbnails**
+
+When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
+
+#### **Custom Thumbnails**
+
+This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
+
+First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
+
+Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
+
+Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
+
+Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
+
+Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3\. Making Better Thumbnails for YouTube
+
+The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
+
+* **_Focus on Size:_**
+
+It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
+
+* **_Add Text:_**
+
+The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
+
+* **_Borders matter:_**
+
+Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
+
+* **_Background editing:_**
+
+Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
+
+* **_Test it before uploading:_**
+
+Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
+
+Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Dec 30, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Making better YouTube thumbnails will help you get more views, and knowing the best YouTube thumbnail size is part of that. There are millions of videos on YouTube, so if you want the audience to click on yours, then you need to make a great first impression.
+
+1. [**What's the ideal YouTube thumbnail Size and Dimension?**](#ideal)
+2. [**Tips for Perfect Thumbnails**](#perfect)
+3. [**Making Better Thumbnails for YouTube**](#better)
+
+## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
+
+An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
+
+Here is one interesting thing that you need to know; the thumbnail of videos appears smaller during searches, but it naturally grows to the full size of a video during suggestions. Now the fact is that upscaling of images often loses the quality of content, whereas it is much easier to downscale larger images into smaller ones. Hence, the best idea is to use large size images so that this search and suggestion based scaling needs can be well accomplished.
+
+**You May Also Like:**
+[Top 12 Best Free YouTube Thumbnail Makers >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## **2\. Tips for Perfect Thumbnails**
+
+So, if you are ready to add thumbnails to your videos, then it is time to learn a few essential tips to do this task with improved impact. You need to ignore the blurry details and boost the eye-catching ones. Here are a few essential tips for developing the best videos with an impressive selection of thumbnail images:
+
+#### **YouTube's Default Thumbnails**
+
+When you upload your video on YouTube, the platform itself gives you suggestions about thumbnails, and they are directly picked up from your own video. Although the idea is good and original, these thumbnails use to be of low quality with blur details. Hope! You don't want to lose your audience with this bad selection.
+
+#### **Custom Thumbnails**
+
+This is probably the best choice for your customized videos, and the interesting thing is that here you can control everything manually with lots of useful effects.
+
+First of all, you need to open your video on YouTube and then scrub a useful still from your video that you wish to use as a thumbnail.
+
+Now, you need to take a screenshot of this particular instance of your video file. The best part is that most of the operating systems allow users to enjoy several shortcuts to complete this task. For example:
+
+Mac users need to press Command+Shift+4 and then simply highlight the area that you want to include in your screenshot with the help of a frame. The system will automatically save your selected area to your desktop in the form of an image.
+
+Window users are advised to access Windows Key with Print Screen option to get their desired screenshot.
+
+Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
+
+## 3\. Making Better Thumbnails for YouTube
+
+The best part is to access some photo editing software tool to edit your image the way you like. You can use an advanced tool like Photoshop or a free online tool like Canva.
+
+* **_Focus on Size:_**
+
+It is always advised to create thumbnail images with standard video file size; the most commonly used standard size range is 1980x1080 or 1280x720\. Images having a size smaller than this range may often appear blurry.
+
+* **_Add Text:_**
+
+The best idea is to use text-based editing for your thumbnail images and preferably add the title of your video to this image. It will naturally attract more viewers.
+
+* **_Borders matter:_**
+
+Professionals recommend adding borders around thumbnail images but do not try to make it too thick rather, try to make it noticeable with fine details.
+
+* **_Background editing:_**
+
+Most of the expert video thumbnail developers prefer to change the impact of thumbnail background by simply replacing the background color with solid colors. It will definitely attract more viewers and will bring major attention to the major subject.
+
+* **_Test it before uploading:_**
+
+Before uploading your customized thumbnail to your YouTube channel, prefer to check its final view. Zoom in to check the appearance of the thumbnail image on the larger screen, and it should also look fine when sized down.
+
+Now that you know the best YouTube thumbnail size and how to design better thumbnails, do you think you'll revisit the thumbnails of your existing YouTube videos?
+
+If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software **Wondershare Filmora**. It provides special effects, stock photo & video, sound library, etc., which will definitely enhance your productivity and helps to make money by making videos much accessible.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -373,6 +380,13 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Creators Profit From YouTube Shorts
 
@@ -389,6 +403,19 @@ YouTube Shorts have become a craze in the recent past as creators try to get the
 YouTube launched the Shorts platform in 2021, which gained popularity within a short period. By the end of the first year, some videos had racked up more than half a billion views and counties. This begged the question: can you get paid from YouTube shorts?
 
 ![youtube shorts](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-1.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Yes, YouTube updated its Partner Program, allowing the revenue-sharing model to benefit Shorts creators. The platform pools all the money it gets from advertisers every month from the Shorts feeds. It then shares that money with creators based on the number of views. Since the launch of this program in February 2023, the previous YouTube Shorts Fund became defunct.
 
@@ -425,6 +452,13 @@ This means that your YouTube channel must have gained some traction before monet
 * Have an active AdSense account
 * Have 2-step verification turned on for your Google account
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How Much Can You Earn With Shorts**
 
 YouTube Shorts have the potential to make a huge amount of money for creators. In fact, YouTube monetize Shorts in a quite generous way. Here are a few examples to give you an idea of the numbers:
@@ -437,13 +471,6 @@ YouTube Shorts have the potential to make a huge amount of money for creators. I
 ## **Part 3\. How to Start Earning from YouTube Shorts**
 
 Eligible creators start earning from YouTube Shorts when they opt-in to the program. You need to make sure you are eligible and agree to start receiving revenue from your creations.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Are You Eligible for YouTube Shorts Earnings?**
 
@@ -520,6 +547,13 @@ You may also use the Auto Reframe feature by clicking on the Tools feature on th
 * [**Split Screen Video Editor**](https://tools.techidaily.com/wondershare/filmora/download/) **–** A choice of pre-made templates to create split-screen videos instantly.
 * [**Add Text to Video**](https://tools.techidaily.com/wondershare/filmora/download/) **–** Directly add texts to your videos, including subtitles and captions.
 * [**Text To Speech**](https://tools.techidaily.com/wondershare/filmora/download/) **–** Instantly convert your text files to voice and introduce more elements that will enrich your Shorts video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -611,19 +645,6 @@ After being approved and enrolled in the YPP program, you need to opt in to mone
 
 Once your Shorts are monetized, track the progress and amount of money earned through YouTube Analytics.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Other Ways to Monetize YouTube Shorts**
 
 The YPP program is the only ad-based monetization option for YouTube Shorts. However, there are other ways of earning:
@@ -633,6 +654,13 @@ The YPP program is the only ad-based monetization option for YouTube Shorts. How
 * **Selling Merchandise and Products:** Make additional income by selling branded merchandise like apparel or product lines in your content niche.
 * **Secure Paid Brand Partnerships**: Interacting directly with brands and negotiating sponsorship deals.
 * **Join an Affiliate Program**: An affiliate program will pay you revenue associated with clicks to links hosted on your channel.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4\.** **Edit Your YouTube Videos to Shorts with Wondershare Filmora**
 
@@ -665,13 +693,6 @@ Click File, followed by Import Media. Select the file that you gave imported in 
 You may also use the Auto Reframe feature by clicking on the Tools feature on the top menu bar. Then click on Auto Reframe.
 
 ![auto reframe 3](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-6.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Other Filmora Features for Editing Shorts**
 
@@ -696,5 +717,22 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-haul-vlogging-101-a-step-by-step-guide/"><u>[New] Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tracing-treasure-trails-fast-friending-fundamentals/"><u>[New] In 2024, Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>[Updated] 2024 Approved VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-million-sub-milestone-the-youtube-guide/"><u>[Updated] In 2024, Achieving Million-Sub Milestone The YouTube Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-copycat-cinema-steps-for-satirical-video-making/"><u>2024 Approved Copycat Cinema Steps for Satirical Video Making</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-the-10-fastest-expanding-yt-hubs-for-wisdom/"><u>2024 Approved Explore the 10 Fastest-Expanding YT Hubs for Wisdom</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>2024 Approved How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-video-visibility-on-youtube-through-lighting/"><u>2024 Approved Maximizing Video Visibility on YouTube Through Lighting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-numbers-game-estimating-income-from-viral-content/"><u>2024 Approved The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-remembrance-and-respect-on-social-media-post-death/"><u>Balancing Remembrance and Respect on Social Media Post-Death</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-swipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>In 2024, Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-potential-with-these-essential-editing-tips-for-beginners/"><u>In 2024, Unleash Potential with These Essential Editing Tips for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-light-techniques-for-improving-youtube-video-quality/"><u>Shedding Light Techniques for Improving YouTube Video Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-battlefield-2042-a-comprehensive-guide-for-stabilizing-your-pc-gameplay/"><u>Troubleshooting Battlefield 2042: A Comprehensive Guide for Stabilizing Your PC Gameplay</u></a></li>
+</ul></div>
 

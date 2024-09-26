@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Concrete Jungles to Eco Havens  Rethinking Urban Living\""
-date: 2024-09-20T16:51:33.899Z
-updated: 2024-09-21T16:23:24.701Z
+date: 2024-09-21T17:53:16.345Z
+updated: 2024-09-26T16:10:10.151Z
 tags:
   - ai video
   - ai youtube
@@ -80,12 +80,26 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
 
 * Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
 * Click on "View as" which will allow the YouTube channel description to show up for New visitor or returning subscriber.
 
 ![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
 
@@ -99,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![YouTube description ](https://images.wondershare.com/filmora/article-images/youtube-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 1. Take full advantage of the First Line
 
  As the most important text in the YouTube video description, the text in the first line will appear both in the YouTube search result and the social media. It is recommended to write a short video description but for SEO purpose, keep in mind to contain the main keywords and write a clickbaity text.
@@ -110,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -124,12 +152,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-xsplit-collection-direct-download-guide-and-review/"><u>[Updated] 2024 Approved XSplit Collection Direct Download Guide & Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>[Updated] 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-water-and-liquid-game-simulations-unveiled-for-2024/"><u>[Updated] Leading Water & Liquid Game Simulations Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profit-in-the-space-time-continuum-the-art-of-creating-earning-rich-content/"><u>2024 Approved Profit in the Space-Time Continuum The Art of Creating Earning-Rich Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>2024 Approved The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-directors-weaving-visual-auditory-tapestries/"><u>2024 Approved Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a24-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A24 by Name | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y78-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y78 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-grasping-the-nuances-in-youtube-viewer-reactions/"><u>In 2024, Grasping the Nuances in YouTube Viewer Reactions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-undiscovered-memelists-on-facebook/"><u>In 2024, Top 10 Undiscovered Memelists on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-free-myspace-video-converters-with-mp4-and-mp3-downloads/"><u>Top 4 Free MySpace Video Converters with MP4 & MP3 Downloads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Efficient, Portable PowerShot SX620 HS
-date: 2024-09-16T17:35:17.055Z
-updated: 2024-09-21T17:30:04.176Z
+date: 2024-09-19T19:11:34.278Z
+updated: 2024-09-26T16:49:04.631Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Efficient, Portable PowerShot SX620 HS
@@ -65,6 +65,19 @@ thumbnail: https://www.lifewire.com/thmb/RmfK19QEykk9hX95-veccZP0ZVs=/400x300/fi
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Small but powerful**
 
  The ZMI PowerPack 20000’s size is easily one of its biggest selling points. While it is a little heavy at 14.3 ounces, this power bank is the approximate width and height of a large smartphone, measuring up very closely to the size of my Apple iPhone 11 Pro at 6.3 x 3.2 inches (HWD). Of course, the 0.8-inch thickness is quite a bit larger than any phone today, but unlike most laptop-friendly charging banks, ZMI’s can still fit into a pocket or handbag with ease.
@@ -78,6 +91,13 @@ thumbnail: https://www.lifewire.com/thmb/RmfK19QEykk9hX95-veccZP0ZVs=/400x300/fi
  This power bank doesn’t have an AC port for full-sized power plugs, as some competing power banks do, but it also costs less and is much smaller than those alternatives typically are.
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/vaINPELrwcWnOZDsX1ztKkCouww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-03-1530f666df824f6281040c2ae3285eb2-2e7956941b91403aa888795a7e5e2e33.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -95,14 +115,14 @@ Lifewire / Andrew Hayward
 
 ![ZMI PowerPack 20000](https://www.lifewire.com/thmb/asGVK-moJ54HvqyY9N6Kb-KM8hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zmi-04-828899fb01024cd4a0e35980251c04b4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: It’s a bargain**
 
@@ -121,10 +141,10 @@ Lifewire / Andrew Hayward
  It’s honestly difficult to find anything to complain about with the ZMI PowerPack 20000\. It’s powerful and does a great job of charging laptops and phones, it has enough capacity to handle those tasks with ease, it’s compact and well-designed, and the price is fantastic. It’s half the size of the giant Anker power brick that I’ve brought on my last two international trips and can handle all of the same tasks. In other words,_this_ is the power brick I’m bringing on my next trip.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -151,5 +171,18 @@ Lifewire / Andrew Hayward
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-gently-unveiled-scene/"><u>[Updated] Gently Unveiled Scene</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-inside-the-core-operations-of-youtubes-content-creators/"><u>2024 Approved Inside the Core Operations of YouTube’s Content Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-elite-club-of-youtubes-big-bucks/"><u>2024 Approved The Elite Club of YouTube's Big Bucks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unified-vision-ventures-a-complete-cms-selection-journey/"><u>2024 Approved Unified Vision Ventures A Complete CMS Selection Journey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/geavanceerd-online-convertieregime-voor-mp4-naar-mxf-gratuite-efficiente-oplossing-met-movavi/"><u>Geavanceerd Online Convertieregime Voor MP4 Naar MXF: Gratuite, Efficiënte Oplossing Met Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy A15 4G Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-precision-and-perfection-a-guide-to-youtube-studio-video-edits/"><u>In 2024, Precision and Perfection A Guide to YouTube Studio Video Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-smart-7-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Smart 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-photo-border-elimination/"><u>Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-10-best-microsoft-enterprise-apps-of-213-aims-expert-reviews-on-zdnet/"><u>Top 10 Best Microsoft Enterprise Apps of 2^13 AIMS | Expert Reviews on ZDNet</u></a></li>
+</ul></div>
 
