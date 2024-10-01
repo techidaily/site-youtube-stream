@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Growth on YouTube  Mastering the Art of Video Outros\""
-date: 2024-09-20T19:00:40.401Z
-updated: 2024-09-26T17:29:21.690Z
+date: 2024-09-30T20:38:47.168Z
+updated: 2024-10-01T20:45:29.287Z
 tags:
   - ai video
   - ai youtube
@@ -51,11 +51,25 @@ A YouTube end screen might have the following features:
 
 You may also want to include **social icons and handles** for your accounts on sites like Instagram or Twitter. These won’t be clickable (you’ll need to add them yourself outside of YouTube’s end screen tool), but they’ll still let viewers know where else they can find and follow you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: YouTube Outro Templates Download
 
 Here are 4 sites where you can download templates for YouTube Outros:
 
 ![Tube Arsenal Outro template](https://images.wondershare.com/filmora/article-images/tubearsenal-outro-template.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Tube Arsenal:** this site has a good selection of customizable outros with moving backgrounds. On the Tube Arsenal site, before you download, you can adjust the colors and text included in your outro and even load in your own logo.
 
@@ -65,6 +79,19 @@ Outros on Tube Arsenal cost $9 for 720P or $13 for 1080p.
 
 ![Outro Maker Templates](https://images.wondershare.com/filmora/article-images/outro-maker-template.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Outro Maker:** you can get animated end screens/outros from Outro Maker for $2.99 a month (or, if you just need one outro, you can probably finish it during your 7-day free trial).
 
 Outro Maker uses the content already uploaded onto your channel to create your outro, so you will need to link the service with your channel.
@@ -72,10 +99,16 @@ Outro Maker uses the content already uploaded onto your channel to create your o
 ![Biteable Outro Template](https://images.wondershare.com/filmora/article-images/biteable-outro-maker-template.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Biteable:** the templates you can customize on Biteable are not specifically designed to be YouTube Outros and will not have slots for your end screen elements. The videos start out a lot longer than you’ll want for an end screen (an end screen can’t last longer than 20 seconds), but you can shorten them by deleting all the ‘scenes’ you don’t need and keeping just the one or two you want.
@@ -94,13 +127,6 @@ Besides downloading outro templates from the website, you can also create it wit
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Use YouTube’s End Screen Feature
 
 Make sure to create a space at the end of your video for the elements of your end screen to sit on top of. Your end screen will not add to the length of your video, it will overlay onto the last 5-20 seconds.
@@ -113,13 +139,6 @@ Here’s how you add an End Screen:
 4. Click **Element** to start adding videos, playlists, and subscribe buttons to your outro. You could also choose to use the same layout as a previous end screen with **Import From Video**, or you could apply multiple elements at once with a **YouTube Template**.
 5. Drag the elements to where you want them and adjust the timing using the timeline.
 6. Click **Save** when you’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How YouTube Outros/End Screens Can Help You Grow on YouTube
 
@@ -143,13 +162,6 @@ Are you using a YouTube outro? What elements do you include, and how do you thin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -165,20 +177,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-enhance-smarts-with-these-premier-15-science-yts/"><u>[New] Enhance Smarts with These Premier 15 Science YTs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-finding-the-perfect-phrases-for-gamers-videos/"><u>2024 Approved Finding the Perfect Phrases for Gamers' Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>2024 Approved Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-secret-sauce-to-outstanding-online-identity-creation/"><u>2024 Approved The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972311973-boost-your-system-speed-with-a-simple-click-get-the-new-lexar-usb-driver-now/"><u>Boost Your System Speed with a Simple Click - Get the New Lexar USB Driver Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-6-exceptional-digital-diaries-the-ultimate-journaling-apps-list/"><u>Explore These 6 Exceptional Digital Diaries: The Ultimate Journaling Apps List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gaining-insight-into-your-gpus-potential-using-these-6-essential-windows-apps/"><u>Gaining Insight Into Your GPU's Potential Using These 6 Essential Windows Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-restore-missing-default-power-plans-on-windows-11/"><u>How to Restore Missing Default Power Plans on Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-youtube-shorts-crucial-requirements-and-potential-income/"><u>In 2024, Monetizing Youtube Shorts Crucial Requirements and Potential Income</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turn-your-youtube-videos-into-lively-gifs-without-saving-files/"><u>In 2024, Turn Your YouTube Videos Into Lively GIFs Without Saving Files</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastery-over-moments-jake-pauls-youtube-saga-for-2024/"><u>Mastery Over Moments Jake Paul's YouTube Saga for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maximizing-your-frame-rate-tips-and-tricks-for-enhanced-performance-in-ring-of-elysium/"><u>Maximizing Your Frame Rate: Tips & Tricks for Enhanced Performance in Ring of Elysium</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-motorola-lock-screen-without-passwordmotorola-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Lock Screen without Password(Motorola )</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pursuitofhigherqualitycams/"><u>[New] 2024 Approved PursuitOfHigherQualityCams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-terrariums-topography-selecting-prime-maps/"><u>[New] 2024 Approved Terrarium's Topography Selecting Prime Maps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-assemble-slide-decks-into-virtual-screenplays/"><u>[New] Assemble Slide Decks Into Virtual Screenplays</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[New] How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>[New] In 2024, 2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-satirical-hits-the-funniest-song-rewrites/"><u>[New] Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fortnite-thumbnail-blitz-a-30-second-guide/"><u>2024 Approved Fortnite Thumbnail Blitz A 30-Second Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-income-journey-on-youtube-start-here-with-8-tips/"><u>2024 Approved Income Journey on YouTube - Start Here with 8 Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-shifting-paradigms-non-youtube-video-hosts/"><u>2024 Approved Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-frontier-youtubes-pay-structure-at-the-1m-mark/"><u>2024 Approved The Financial Frontier Youtube's Pay Structure at the 1M Mark</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-in-a-world-of-negative-video-reviews/"><u>2024 Approved Thriving in a World of Negative Video Reviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-your-creative-flow-sharing-hundreds-of-photos-and-vids-on-ig/"><u>2024 Approved Unlock Your Creative Flow Sharing Hundreds of Photos and Vids on IG</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-motorola-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Motorola G24 Power</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gearing-up-for-youtube-success-cross-platform-strategies-for-2024/"><u>Gearing Up for YouTube Success Cross-Platform Strategies for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-using-roku-without-the-clicker-no-remote-needed/"><u>Guide to Using Roku without the Clicker – No Remote Needed!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-made-easy-your-guide-to-adding-and-sharing-gifs-for-2024/"><u>Snapchat Made Easy Your Guide to Adding and Sharing Gifs for 2024</u></a></li>
 </ul></div>
 

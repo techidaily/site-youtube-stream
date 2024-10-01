@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Animate and Make Your Own Effects"
-date: 2024-09-21T18:39:49.074Z
-updated: 2024-09-26T16:21:03.950Z
+date: 2024-09-28T19:50:24.287Z
+updated: 2024-10-01T20:16:18.704Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -64,16 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -81,10 +75,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -94,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,18 +109,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>[Updated] 2024 Approved Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-visual-storytelling-with-warped-textual-elements/"><u>[Updated] Visual Storytelling with Warped Textual Elements</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-thumbnail-design-with-your-mac/"><u>2024 Approved Mastering the Art of Thumbnail Design with Your Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-banner-resources-a-gift-to-youtubers/"><u>2024 Approved Open Source Banner Resources A Gift to YouTubers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>2024 Approved Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sprint-towards-subscriber-goal-reach-1000/"><u>2024 Approved Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-90-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels-for-2024/"><u>Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/hear-the-difference-explore-the-best-voice-changer-software-for-smartphones-for-2024/"><u>Hear the Difference Explore the Best Voice Changer Software for Smartphones for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-yuva-2-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Yuva 2 Pro?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-vids-for-cash-comparing-dm-and-yo-strategies-for-2024/"><u>Maximizing Vids for Cash Comparing Dm & Yo Strategies for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-strategies-to-maximize-win11-usage-for-2024/"><u>Top Strategies to Maximize Win11 Usage for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports/"><u>Who Takes the Prize for Best Cinematic Recording in Extreme Sports?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-flawless-playlist-integration-techniques-in-web-development/"><u>[New] Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-offline-android-delights-the-ultimate-free-game-list/"><u>[New] Offline Android Delights The Ultimate Free Game List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-restoring-full-volume-in-partially-muted-fb-content-for-2024/"><u>[New] Restoring Full Volume in Partially Muted FB Content for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-snapchat-intro-video-breakdown-size-format-duration/"><u>[New] SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-advice-hassle-free-recordings-with-ios-devices/"><u>2024 Approved Expert Advice Hassle-Free Recordings with iOS Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/finding-the-perfect-dj-template-video-download-for-your-events-for-2024/"><u>Finding the Perfect DJ Template Video Download for Your Events for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/illusions-unveiled-discerning-genuine-supporters-in-digital-platforms-for-2024/"><u>Illusions Unveiled Discerning Genuine Supporters in Digital Platforms for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unravel-the-secrets-to-sequential-video-viewing-no-charges/"><u>In 2024, Unravel the Secrets to Sequential Video Viewing (No Charges)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-take-your-videos-to-the-next-level-professional-1080p-video-editing-tools/"><u>New Take Your Videos to the Next Level Professional 1080P Video Editing Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supercharge-your-selfie-game-on-iphone-the-10-must-download-apps/"><u>Supercharge Your Selfie Game on iPhone The 10 Must-Download Apps</u></a></li>
 </ul></div>
 

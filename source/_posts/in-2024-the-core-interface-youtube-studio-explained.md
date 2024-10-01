@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Core Interface  YouTube Studio Explained\""
-date: 2024-09-23T17:29:16.548Z
-updated: 2024-09-26T17:36:08.403Z
+date: 2024-09-28T20:09:48.429Z
+updated: 2024-10-01T19:22:30.830Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,13 @@ Pinning new charts to the dashboard will ensure that all of the data you need mo
 
 Making adjustments to your current widgets simply involves clicking on the gear icon in the top right corner to add custom tiles as well as rearrange the order of the various widgets that you have selected.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## YouTube Creator Studio Tools
 
 **Video Manager:** from the Video Manager section you can view any of the videos that you have posted to YouTube. This menu includes all of your uploaded videos whether they are public, unlisted, or private. You can see advanced statistics on every one of the videos you posted as well as download MP4s of your videos for re-editing. The video manager allows you to very quickly select multiple videos and then add them to a playlist.
@@ -60,21 +67,7 @@ As one of the most versatile video editing software, Filmora offers various type
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -288,6 +281,13 @@ Step4 Drag the screenshot from the media library into the timeline.
 
 ![filmora add screenshot](https://images.wondershare.com/filmora/article-images/filmora-add-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Use the "[**Smart**](https://tools.techidaily.com/wondershare/filmora/download/) [**Cutout**](https://tools.techidaily.com/wondershare/filmora/download/)" feature to select and cut out specific elements from the screenshot.
 
 ![filmora smart cutout](https://images.wondershare.com/filmora/article-images/filmora-smart-cutout.jpg)
@@ -303,13 +303,6 @@ Step7 Remove any parts of the screenshot that you do not want to include in the 
 Step8 Extract the selected elements from the screenshot. You can **resize** the elements as desired.
 
 ![filmora extract element](https://images.wondershare.com/filmora/article-images/filmora-extract-element.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step9 Add a background to the track below the screenshot by **dragging** a background image from the media library into the timeline. Alternatively, you can **import** your image as a background by **clicking** the "**Import**" button and **selecting** the image file from your computer.
 
@@ -352,10 +345,10 @@ Please note that while using the trial version of Filmora, a watermark will be a
 ![filmora result thumbnail](https://images.wondershare.com/filmora/article-images/filmora-result-thumbnail.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips for Making Awesome Thumbnails for Your YouTube Valorant Videos
@@ -406,6 +399,13 @@ Hiko is currently a content creator for 100 Thieves, a gaming organization he re
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
 C9 meL is a highly respected professional Valorant player and leader of the team Cloud 9 White. She is known for her sense of humor, helpful tips, and Agent tutorials and montages. As the in-game leader for her team, MeL has developed exceptional game sense and strategic skills, making her a valuable teacher and resource for other players.
@@ -430,15 +430,22 @@ Step1 Take a screenshot of your gameplay by **pressing** the "**F12**" key on yo
 
 ![valorant screenshot](https://images.wondershare.com/filmora/article-images/valorant-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Launch Filmora and **create** a new project.
 
 ![filmora create project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Import the screenshot into the media library by **clicking** the "**Import**" button.
@@ -473,13 +480,6 @@ Step10 Add an effect, such as a gun effect, by **searching** for the desired eff
 
 ![filmora add effect](https://images.wondershare.com/filmora/article-images/filmora-add-effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step11 Adjust the opacity of the effect as desired.
 
 ![filmora adjust opacity](https://images.wondershare.com/filmora/article-images/filmora-adjust-opacity.jpg)
@@ -512,13 +512,6 @@ Please note that while using the trial version of Filmora, a watermark will be a
 
 ![filmora result thumbnail](https://images.wondershare.com/filmora/article-images/filmora-result-thumbnail.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips for Making Awesome Thumbnails for Your YouTube Valorant Videos
 
 By following these tips, you can create an eye-catching and effective thumbnail for your Valorant YouTube videos that will help boost your views and engagement.
@@ -543,6 +536,13 @@ He is known for his gameplay videos and relaxed, easygoing personality, contribu
 
 ![shroud](https://images.wondershare.com/filmora/article-images/shroud.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. [TenZ](https://www.youtube.com/c/TenZ) – Popular Valorant Player With 1.6M Subscribers
 
 TenZ is a highly skilled and popular Valorant player and content creator known for his exceptional ability in the game. He has achieved a high level of success and has been recognized as one of the best Valorant players in the world.
@@ -559,6 +559,13 @@ His channel is a reliable source for those looking for consistently fresh and di
 
 ![n0ted](https://images.wondershare.com/filmora/article-images/n0ted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [Hiko](https://www.youtube.com/c/Hiko/featured) \- Valorant Content Creator With 382k YouTube Subscrbers
 
 Hiko is a well-known Valorant content creator and former player of Counter-Strike: Global Offensive (CS:GO). He is known for his skill in first-person shooter games and his expertise in Valorant, which he shares through tips and gameplay videos on his channels on Twitch and YouTube.
@@ -566,13 +573,6 @@ Hiko is a well-known Valorant content creator and former player of Counter-Strik
 Hiko is currently a content creator for 100 Thieves, a gaming organization he represents in various tournaments and competitions. He is a reliable source of high-quality Valorant content and regularly uploads new videos for his followers.
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
@@ -603,14 +603,19 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snapchat-incorporating-songs-into-your-videos/"><u>[New] In 2024, Mastering Snapchat Incorporating Songs Into Your Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording/"><u>[New] In 2024, Precision Techniques The Most Essential 8 Tools for Microphone & Speaker Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-windows-11-the-ultimate-screen-grabber-collection/"><u>[New] In 2024, Windows 11 The Ultimate Screen Grabber Collection</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-crafting-excellence-essential-tips-for-ginger-island-life/"><u>[Updated] In 2024, Crafting Excellence Essential Tips for Ginger Island Life</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 7 without Passcode or Face ID</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>In 2024, From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inspire-dont-impose-the-art-of-attracting-subscribers/"><u>In 2024, Inspire, Don't Impose The Art of Attracting Subscribers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-synchronizing-social-media-channels-for-broad-distribution/"><u>In 2024, Synchronizing Social Media Channels for Broad Distribution</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-flashing-frequencies-role-music-synopsis/"><u>[New] Flashing Frequencies Role-Music Synopsis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coloredge-clarity-redefined-examining-eizos-4kcg318-display/"><u>[Updated] 2024 Approved ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>[Updated] In 2024, Capturing the Web in Full Color The Best Screen Recorders Reviewed</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-select-a-premium-360-camera-today/"><u>2024 Approved How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>2024 Approved In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-20-action-recording-solutions-summary/"><u>2024 Approved Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-find-n3-flip-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Find N3 Flip Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723059650211-exploring-the-elite-usb-drive-selection-of-2024-find-yours-here/"><u>Exploring the Elite USB Drive Selection of 2024 - Find Yours Here!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/guide-backing-up-camera-roll-to-snapchat-in-the-right-way/"><u>Guide – Backing Up Camera Roll to Snapchat In the Right Way</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-harmonious-sound-editing-guide-advantages-disadvantages-and-substitutes/"><u>In 2024, Harmonious Sound Editing Guide Advantages, Disadvantages, and Substitutes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-lawful-practices-for-screenshotting-youtube-videos/"><u>In 2024, Navigating Lawful Practices for Screenshotting YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-youtube-channel-url-with-these-tips/"><u>In 2024, Streamline Your YouTube Channel URL with These Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unpacking-the-power-of-engaging-titles-for-youtube-shorts/"><u>In 2024, Unpacking the Power of Engaging Titles for YouTube Shorts</u></a></li>
 </ul></div>
 

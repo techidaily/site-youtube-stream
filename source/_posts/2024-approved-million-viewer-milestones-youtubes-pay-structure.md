@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Million-Viewer Milestones  YouTube's Pay Structure\""
-date: 2024-09-19T17:15:33.235Z
-updated: 2024-09-26T16:37:55.378Z
+date: 2024-09-30T19:04:56.710Z
+updated: 2024-10-01T20:58:19.452Z
 tags:
   - ai video
   - ai youtube
@@ -54,13 +54,6 @@ As of February 2018, to qualify for ad revenue, the YouTube channel must have:
 
 The AdSense revenue that you earn through YouTube will vary depending on a large number of factors related to the specific ads running and what type of content you produce.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding CPM and CPCs
 
 ### What is CPM?
@@ -70,6 +63,13 @@ CPM stands as the ‘cost per mille’ or ‘cost per thousand.’
 Your CPM is the amount you earn for 1000 ad impressions (1000 viewers clicking on an ad or watching a skippable ad). Your CPM is usually related to the demographics of your users, the content you regularly post, the length of time on the videos that you post, and the gender of your viewers. YouTube CPMs can vary depending on the advertising bid the company has submitted with Google. The lowest bids can be around .33 cents per thousand views, and other advertisers can spend as much as $10 for 1000 views.
 
 For example, gaming is the most prominent genre on YouTube, and there are many gaming-related ads to go around, but most of them are very low-paying (i.e., ads for free online games). Only YouTube gamers with extensive subscriber bases get higher-paying ads.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is CPC?
 
@@ -125,13 +125,20 @@ As of February 2018, to qualify for ad revenue, the YouTube channel must have:
 
 The AdSense revenue that you earn through YouTube will vary depending on a large number of factors related to the specific ads running and what type of content you produce.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Understanding CPM and CPCs
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is CPM?
@@ -182,6 +189,19 @@ Although StandUpBits had uploaded thousands of clips and received over 1 million
 
 If you are thinking about a career on YouTube, reaching 1 million views might seem like an excellent target for making a successful page, and it is, but reaching 1 million views doesn’t magically guarantee financial success.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Revenue is Calculated
 
 In order to understand how revenue is calculated over the YouTube marketplace, a YouTube user needs to first understand what the partnership program entails. Basically, a YouTube partner has the ability to monetize their videos and serve ads on their content.
@@ -210,13 +230,6 @@ For example, gaming is the most prominent genre on YouTube, and there are many g
 
 CPC means ‘cost per click.’ A CPC ad interprets an ‘ad impression’ as a click on an ad rather than a viewer merely seeing it. Most YouTube ads are CPC ads, but skippable video ads are CPV (cost per view), and impressions are based on viewers watching the ad instead of skipping it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Changes on YouTube and How You Can Earn More
 
 Changes that have affected the way that revenue is calculated are the ability to skip ads and the lower click rates on advertising through YouTube. A huge portion of viewers uses ad blockers, which eliminates them as potential sources of revenue.
@@ -244,6 +257,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 03 [CPMs and CPCs](#part3)
 
 04 [How monetization is changing](#part4)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## $2000 for 1 Million Views
 
@@ -280,6 +300,13 @@ For example, gaming is the most prominent genre on YouTube, and there are many g
 ### What is CPC?
 
 CPC means ‘cost per click.’ A CPC ad interprets an ‘ad impression’ as a click on an ad rather than a viewer merely seeing it. Most YouTube ads are CPC ads, but skippable video ads are CPV (cost per view), and impressions are based on viewers watching the ad instead of skipping it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changes on YouTube and How You Can Earn More
 
@@ -314,6 +341,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step-by-Step: Integrating Comments in YouTube Videos
 
@@ -489,13 +523,6 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Apply changes
 
 **The types of YouTube annotations:**
@@ -573,17 +600,17 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -686,24 +713,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -713,13 +726,6 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 * Apply changes and exit
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -795,20 +801,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bridging-language-barriers-windows-media-player-subtitle-guide/"><u>[New] Bridging Language Barriers Windows Media Player Subtitle Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-a-youtube-thumbnail-on-mac/"><u>[New] How to Make a YouTube Thumbnail On Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-maximize-visibility-with-well-structured-yt-summaries/"><u>[New] Maximize Visibility with Well-Structured YT Summaries</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-passive-to-profitable-youtube-success-on-the-worlds-biggest-social-network/"><u>[Updated] 2024 Approved From Passive to Profitable YouTube Success on the World's Biggest Social Network</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings/"><u>[Updated] 2024 Approved Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-imovie-for-beginners-building-intriguing-openers-for-youtube/"><u>2024 Approved IMovie for Beginners Building Intriguing Openers for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-youtube-visibility-with-key-hashtags/"><u>2024 Approved Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/"><u>2024 Approved Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor 90 GT Bootloader Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-7-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 7 Plus in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-predicting-the-new-wave-of-social-media-infographic-style/"><u>In 2024, Predicting the New Wave of Social Media - Infographic Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-youtube-short-videos/"><u>In 2024, Understanding YouTube Short Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-match-found-the-top-6-hdmi-21-monitors-reviewed-for-2024/"><u>Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-the-secrets-of-effective-screencasts/"><u>Unveiling the Secrets of Effective Screencasts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/vob-video-editor-reviews-top-5-free-options-for-2024/"><u>VOB Video Editor Reviews Top 5 Free Options for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-luts-revolutionize-color-balance-in-images/"><u>[Updated] How LUTs Revolutionize Color Balance in Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-8-most-effective-authentic-promotion-techniques/"><u>2024 Approved The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-process-for-incorrante-youtube-playlist-integration/"><u>2024 Approved The Ultimate Process for Incorrante YouTube Playlist Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>2024 Approved The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hit-the-floor-with-optimal-posting-hours-for-2024/"><u>Hit the Floor with Optimal Posting Hours for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-personal-vlogs-that-resonate-deeply-with-viewers/"><u>In 2024, Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-n3-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find N3 Flip? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-x-flip-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X Flip working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/migrating-spotify-written-content-for-a-streamlined-youtube-music-experience-for-2024/"><u>Migrating Spotify' Written Content for a Streamlined YouTube Music Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-misplaced-or-missing-mouse-cursor-problem/"><u>Resolving Windows 10'S Misplaced or Missing Mouse Cursor Problem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-next-gen-devices-curated-by-toms-specialists/"><u>The Ultimate Guide to Next-Gen Devices Curated by Tom's Specialists</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-k70-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi K70 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-5-cpus-enter-the-market-with-unchanged-fl1-packaging-signaling-retention-of-rtx-40-gpus-in-latest-laptop-models/"><u>Zen 5 CPUs Enter the Market with Unchanged FL1 Packaging, Signaling Retention of RTX 40 GPUs in Latest Laptop Models</u></a></li>
 </ul></div>
 

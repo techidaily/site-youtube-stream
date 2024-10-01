@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-09-20T16:42:47.961Z
-updated: 2024-09-26T18:39:22.950Z
+date: 2024-09-28T17:14:27.308Z
+updated: 2024-10-01T20:00:10.872Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -42,20 +49,27 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -71,13 +85,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -90,13 +97,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -119,25 +119,26 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -167,22 +168,19 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-views-essential-fonts-for-stellar-thumbnails/"><u>[New] In 2024, Unlock Views Essential Fonts for Stellar Thumbnails</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-stay-ahead-with-the-top-yt-thumbnail-techniques/"><u>[New] Stay Ahead with the Top YT Thumbnail Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-break-it-down-streamlining-video-length-with-efficient-chapter-breaks-on-youtube/"><u>[Updated] 2024 Approved Break It Down Streamlining Video Length with Efficient Chapter Breaks on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-5-web-video-recorders-for-2024/"><u>[Updated] Best 5 Web Video Recorders for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-beyond-the-smile-your-guide-to-authentic-instagram-selfies/"><u>[Updated] In 2024, Beyond the Smile - Your Guide to Authentic Instagram Selfies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288241953-winx-dvd-copy-pro/"><u>「特集：WinX DVD Copy Pro安全な価格クリップコード取得ガイド」</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/2024-youtube/"><u>2024 最佳 YouTube 创作者视频剪辑软件 - 精选列表 [年度更新]</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimize-video-views-with-these-top-5-link-shrinkers/"><u>2024 Approved Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-promote-videos-cross-platform-youtube-meets-facebook/"><u>In 2024, How to Promote Videos Cross-Platform YouTube Meets Facebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-integrating-jobs-and-passion-projects-effectively/"><u>In 2024, Integrating Jobs & Passion Projects Effectively</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-small-business-video-markets/"><u>In 2024, Navigating Small Business Video Markets</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essentials-for-transforming-your-google-meet-into-youtube-live/"><u>In 2024, The Essentials for Transforming Your Google Meet Into Youtube Live</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>In 2024, The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovative-strategies-to-optimize-youtube-edits-after-upload-for-2024/"><u>Innovative Strategies to Optimize YouTube Edits After Upload for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/revolutionary-msi-computer-built-in-touch-display-and-cutting-edge-ai-technology-for-enhanced-usability/"><u>Revolutionary MSi Computer: Built-In Touch Display and Cutting-Edge AI Technology for Enhanced Usability</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-organizing-elements-for-dynamic-youtube-videos/"><u>[New] Organizing Elements for Dynamic YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tricks-to-flawless-screen-casting-on-mobile-and-desktop-for-2024/"><u>[New] Tricks to Flawless Screen Casting on Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-10-pioneering-free-screen-recorder-applications-for-mac/"><u>[Updated] 2024 Approved Top 10 Pioneering Free Screen Recorder Applications for Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-tips-for-editing-your-videos-in-youtube-studio/"><u>[Updated] In 2024, Essential Tips for Editing Your Videos in YouTube Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[Updated] Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-power-play-enhancing-your-pages-popularity-ranking-for-2024/"><u>[Updated] The Power Play Enhancing Your Page's Popularity Ranking for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-for-viral-talent/"><u>2024 Approved Masterclass for Viral Talent</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>2024 Approved Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/device-guide-for-google-meet-access/"><u>Device Guide for Google Meet Access</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y55s-5g-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y55s 5G (2023) Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-spark-20-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>In 2024, Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-devices-online-anywhere-utilizing-rokus-wi-fi-sharing-capabilities-for-school-and-hotel-stays/"><u>Keep Your Devices Online Anywhere: Utilizing Roku's Wi-Fi Sharing Capabilities for School & Hotel Stays</u></a></li>
 </ul></div>
 

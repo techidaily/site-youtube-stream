@@ -1,7 +1,7 @@
 ---
 title: God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!
-date: 2024-09-24T16:38:48.572Z
-updated: 2024-09-26T17:12:31.156Z
+date: 2024-09-27T17:22:12.962Z
+updated: 2024-10-01T18:49:45.388Z
 tags:
   - win11
   - win10
@@ -59,8 +59,23 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -79,6 +94,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -92,10 +114,10 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
@@ -119,13 +141,6 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -152,13 +167,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays may interfere with God of War, and sometimes they may even introduce performance issues and compatibility issues. Try disabling the in-game overlay before playing the game.
@@ -168,14 +176,15 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the God of War game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -191,21 +200,14 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -234,21 +236,22 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-event-ready-top-dj-templates-download-guide/"><u>[New] Event-Ready Top DJ Templates Download Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-your-youtube-speed-with-effective-render-techniques/"><u>[New] Skyrocket Your YouTube Speed with Effective Render Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels/"><u>[Updated] In 2024, Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>2024 Approved From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone XS iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoidance-techniques-for-oculus-motion-sickness/"><u>Avoidance Techniques for Oculus Motion Sickness</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-strategically-use-tags-for-youtube-success-for-2024/"><u>How to Strategically Use Tags for YouTube Success for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-magic5-ultimate-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Magic5 Ultimate Phone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>In 2024, From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-record-with-your-macbooks-camera/"><u>In 2024, How to Record with Your MacBook's Camera</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-is-your-content-flourishing-consider-an-mcn-partnership/"><u>In 2024, Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>In 2024, Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-youtubes-best-music-responses/"><u>In 2024, The Ultimate Guide to YouTube's Best Music Responses</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-coexistence-of-win10-and-geforce-98/"><u>Seamless Coexistence of Win10 & GeForce 98</u></a></li>
-<li><a href="https://facebook.techidaily.com/transform-your-facebook-profile-editing-date-of-birth/"><u>Transform Your Facebook Profile: Editing Date of Birth</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-captivating-cuts-editor-apps-that-liberate-android-users/"><u>[New] Captivating Cuts Editor Apps That Liberate Android Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-day-to-day-streams-key-dos-and-donts/"><u>[New] Navigating Day-to-Day Streams Key Do's & Don'ts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-purefocuserase-professionally-crafted-photo-editor/"><u>[New] PureFocusErase Professionally Crafted Photo Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mart-video-tactics-for-small-enterprises-for-2024/"><u>[New] SMART Video Tactics for Small Enterprises for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guidebook-to-making-wealth-on-instagram/"><u>[Updated] In 2024, The Ultimate Guidebook to Making Wealth on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-replay-masters-leading-browser-capture-solutions-for-2024/"><u>[Updated] Screen Replay Masters Leading Browser Capture Solutions for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-solo-streamer-to-global-content-powerhouse/"><u>2024 Approved From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-highlighting-the-top-video-creation-apps-iphone-android/"><u>2024 Approved Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-save-youtube-playback-a-comprehensive-screencast-guide-at-no-cost/"><u>2024 Approved Save YouTube Playback A Comprehensive Screencast Guide at No Cost</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-smartwatch-giants-why-fitbit-sense-offers-a-superior-approach-to-personal-wellness-against-the-apple-watch/"><u>Comparing Smartwatch Giants: Why Fitbit Sense Offers a Superior Approach to Personal Wellness Against the Apple Watch</u></a></li>
+<li><a href="https://facebook.techidaily.com/discreet-discussion-archiving-for-private-online-space/"><u>Discreet Discussion: Archiving for Private Online Space</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/flipping-scripts-generating-parody-content-for-2024/"><u>Flipping Scripts Generating Parody Content for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-no-more-restarting-elite-dangerous-woes-and-how-to-get-back-on-track/"><u>Game No More? Restarting 'Elite Dangerous' Woes and How to Get Back on Track</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hone-your-hashtag-game-tripled-traffic-6kplus-vistas/"><u>In 2024, Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revenue-growth-strategies-for-makeup-bloggers/"><u>In 2024, Revenue Growth Strategies for Makeup Bloggers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-video-production-merging-youtube-editing-and-imovies-best-practices/"><u>In 2024, Streamlining Video Production Merging YouTube Editing & iMovie's Best Practices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-5-multimedia-sensation-apps-iphoneandroid-showdown/"><u>In 2024, Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
 </ul></div>
 
