@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Sound to Words  A FREE Guide to YouTube Transcribing Mastery\""
-date: 2024-09-30T21:11:04.472Z
-updated: 2024-10-01T20:56:14.871Z
+date: 2024-10-02T16:31:49.844Z
+updated: 2024-10-07T01:21:15.239Z
 tags:
   - ai video
   - ai youtube
@@ -38,10 +38,10 @@ Besides the [basic video editing features on the YouTube](https://tools.techidai
 Below are the two methods to transcribe your YouTube videos for free:
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Use the Automated Transcription Service on YouTube
@@ -54,6 +54,13 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 
 ![Upload YouTube videos](https://images.wondershare.com/filmora/article-images/youtube-upload-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2  Select Transcription Language
 
 On the **Details** page of the next box that appears, scroll down and click **MORE OPTIONS**, and select **English** in the **Video language** drop-down list under the **Language, subtitles, and closed captions (CC)** section.
@@ -61,10 +68,10 @@ On the **Details** page of the next box that appears, scroll down and click **MO
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3  Publish the Video
@@ -85,18 +92,18 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 
 ![YouTube Classic Studio](https://images.wondershare.com/filmora/article-images/youtube-edit-on-classic-studio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. **Download Transcription File**
 
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -129,13 +136,6 @@ Copy the URL of YouTube video you want to transcribe, go to <https://www.kapwing
 Click **Auto-generate** from the right window, and follow the on-screen instructions to **transcribe YouTube video to text**.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Download the Transcription File**
 
@@ -170,13 +170,6 @@ Click **Auto-generate** from the right window, and follow the on-screen instruct
 Click **Download SRT** from the left pane, and follow the instructions from there to download the transcription file in \*.srt format.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pros**
 
@@ -231,6 +224,13 @@ If you made any modifications to the transcript that was automatically generated
 
 ![Edit YouTube subtitles](https://images.wondershare.com/filmora/article-images/edit-automatic-youtube-video-transcription.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click to open the **Actions** drop-down list from the upper-left corner
 * Click **Upload a file**
   * Follow the on-screen instructions from there to upload the modified transcription file
@@ -257,14 +257,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-pinnacle-group-of-multimedia-harmony-makers/"><u>[New] Pinnacle Group of Multimedia Harmony Makers</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-enhance-your-site-with-cutting-edge-tracking-technology/"><u>Cookiebot-Enabled: Enhance Your Site with Cutting-Edge Tracking Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-correctly-resolve-minecrafts-old-graphics-driver-notification/"><u>How To Correctly Resolve Minecraft's Old Graphics Driver Notification</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>In 2024, Ideal Titles & Sizes Maximizing Click Through Rates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-money-making-moves-now-with-over-500-subscribers/"><u>In 2024, Money-Making Moves Now With Over 500 Subscribers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/navigating-through-directory-configurations-mastering-settings-for-effective-file-system-control-panel-operations/"><u>Navigating Through Directory Configurations: Mastering Settings for Effective File System Control Panel Operations</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-creative-wealth-the-intersection-of-meta-reels-and-remunerations/"><u>Unlocking Creative Wealth: The Intersection of Meta, Reels & Remunerations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-virtual-aid-fb-stories-downloader/"><u>[New] In 2024, Virtual Aid FB Stories Downloader</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-compelling-media-previews-for-channels/"><u>2024 Approved Making Compelling Media Previews for Channels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-tools-to-elevate-your-video-openings/"><u>2024 Approved Professional Tools to Elevate Your Video Openings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-starter-guide-8-easy-youtube-money-makers/"><u>2024 Approved Starter Guide 8 Easy YouTube Money-Makers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips/"><u>2024 Approved The Newcomer’s Guide to YouTube Channel Setup & Money-Making Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comparative-linguistic-practicality-german-versus-french/"><u>Comparative Linguistic Practicality: German Versus French</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>In 2024, Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-se-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone SE Before the Plan Expires</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolution-steps-addressing-issues-with-non-running-audio-systems/"><u>Resolution Steps: Addressing Issues With Non-Running Audio Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerhouse-within-apples-latest-102-ipad-and-its-game-changing-ipados-features-for-professionals/"><u>Unveiling the Powerhouse Within: Apple's Latest 10.2 iPad and Its Game-Changing IPadOS Features for Professionals</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-top-5-video-editing-apps-for-iphone-this-year/"><u>Updated In 2024, Best of the Best Top 5 Video Editing Apps for iPhone This Year</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 </ul></div>
 
