@@ -1,7 +1,7 @@
 ---
 title: Transform Your Browsing - A Guide to AgentGPT's AIs
-date: 2024-10-05T17:58:49.787Z
-updated: 2024-10-07T03:05:52.269Z
+date: 2024-10-08T19:33:53.862Z
+updated: 2024-10-12T17:36:16.889Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -80,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  The scammers, who have no affiliation with Google, specifically used Facebook posts to spread their malware. For instance, the scammers imply their version of Bard is a paid app to download when Google Bard itself is free to use and doesn't require a download.
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
 
@@ -102,24 +102,22 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[New] 2024 Approved How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>[New] Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-exposing-sham-numbers-the-danger-of-fabricated-youtube-views/"><u>[New] Exposing Sham Numbers The Danger of Fabricated YouTube Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-giggles-galore-7-entertaining-video-sets-for-chuckleheads/"><u>[New] Giggles Galore 7 Entertaining Video Sets for Chuckleheads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>[New] Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-pioneering-ig-video-influence-crafting-an-excellent-marketing-plan/"><u>[Updated] In 2024, Pioneering IG Video Influence Crafting an Excellent Marketing Plan</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] In 2024, Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-virtual-upgrade-social-story-snipper-for-2024/"><u>[Updated] Virtual Upgrade Social Story Snipper for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-360-videography-streaming-tips-for-youtube/"><u>2024 Approved Perfect 360 Videography Streaming Tips for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-integration-tailor-made-youtube-shorts-images-made-easy/"><u>2024 Approved Seamless Integration Tailor-Made YouTube Shorts Images Made Easy</u></a></li>
-<li><a href="https://os-tips.techidaily.com/efficiently-syncing-iphone-images-with-your-mac-a-step-by-step-guide/"><u>Efficiently Syncing iPhone Images with Your Mac: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-seamless-service-interactions-in-chatgpt-environment/"><u>Ensuring Seamless Service Interactions in ChatGPT Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>In 2024, Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>In 2024, From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>In 2024, Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-solutions-for-hidden-youtube-shorts-thumbnail-problems/"><u>In 2024, Solutions for Hidden YouTube Shorts Thumbnail Problems</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-mobile-profits-enabling-youtubers-revenue-for-2024/"><u>Maximizing Mobile Profits Enabling YouTubers' Revenue for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-your-backups-to-original-win-standards/"><u>Tailoring Your Backups to Original Win Standards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/vocal-paintbrush-free-applications-to-color-your-soundscapes-creatively/"><u>Vocal Paintbrush Free Applications to Color Your Soundscapes Creatively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-enhance-live-stream-performance-with-these-5-pro-tips-for-2024/"><u>[New] Enhance Live Stream Performance with These 5 Pro Tips for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-animating-scenes-with-windows-movie-maker/"><u>[New] Guide to Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-silencing-the-quiet-how-to-enhance-tweeted-vids/"><u>[Updated] 2024 Approved Silencing the Quiet How to Enhance Tweeted Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>[Updated] In 2024, Share with Impact TikTok Videos on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-shots-essential-photography-edits/"><u>[Updated] Perfect Shots Essential Photography Edits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-changing-voices-for-online-influencers/"><u>2024 Approved Ideal Changing Voices for Online Influencers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-your-footage-up-a-notch-advanced-techniques-for-360-videos-on-youtube/"><u>2024 Approved Taking Your Footage Up a Notch Advanced Techniques for 360° Videos on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-video-marketing-titles-and-tags-on-youtube/"><u>2024 Approved The Art of Video Marketing Titles & Tags on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/battery-powered-google-nest-doorbell-a-comprehensive-review/"><u>Battery-Powered Google Nest Doorbell: A Comprehensive Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-opus-audio-tracks-to-lossless-wav-format-without-spending-a-penny/"><u>Convert Your Opus Audio Tracks to Lossless WAV Format Without Spending a Penny</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-confirm-your-youtube-account-securely-for-2024/"><u>How to Confirm Your YouTube Account Securely for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-seamless-navigation-to-your-individual-playlist-library-on-youtube/"><u>In 2024, Seamless Navigation to Your Individual Playlist Library on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>In 2024, The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-youtube-music-replay-tracks-2023/"><u>In 2024, The Ultimate YouTube Music Replay Tracks, 2023</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-youtubers-playbook-achieving-content-stardom/"><u>In 2024, The YouTuber's Playbook Achieving Content Stardom</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovate-your-online-identity-with-these-30-exceptional-tiktok-names/"><u>Innovate Your Online Identity with These 30 Exceptional TikTok Names</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-online-television-platforms-examined/"><u>Top 10 Online Television Platforms Examined</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Keylight  Secrets to Stellar Lighting on Your YouTube Videos\""
-date: 2024-09-29T18:49:28.287Z
-updated: 2024-10-01T18:20:11.440Z
+date: 2024-10-06T19:20:20.328Z
+updated: 2024-10-12T21:32:19.021Z
 tags:
   - ai video
   - ai youtube
@@ -55,18 +55,18 @@ Home lighting is another source of light that many new YouTubers use. In the pas
 
 ![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
 
 Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
 
 Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Home Studio Lighting
 
@@ -75,13 +75,6 @@ If you rather not deal with all the window and home lighting challenges, you can
 ### 1. Light Control
 
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. 3-Point Lighting
 
@@ -95,13 +88,6 @@ To minimize the shadows on your right side, use a weaker light as a fill light. 
 
 Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3. 4-Point Lighting
 
 As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
@@ -110,19 +96,33 @@ What you’ll need to ensure that your background is sufficiently lit is 4-point
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Touch Up YouTube Videos with Filmora
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -140,17 +140,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-prime-cut-film-highlights/"><u>[Updated] 2024 Approved Prime Cut Film Highlights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-potential-in-gaming-videos-for-2024/"><u>[Updated] Earning Potential in Gaming Videos for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>2024 Approved From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-youtube-viewership-6-proven-methods/"><u>2024 Approved Mastering the Art of YouTube Viewership 6 Proven Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-shield-from-ai-crafted-youtube-video-selections/"><u>2024 Approved Shield From AI-Crafted YouTube Video Selections</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enlarge-your-videos-thumbnail-on-youtube-easily-for-2024/"><u>Enlarge Your Video's Thumbnail on YouTube Easily for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearthstone-troubleshooting-guide-solving-game-crashes-on-windowsmac-pcs/"><u>Hearthstone Troubleshooting Guide - Solving Game Crashes on Windows/Mac PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-red-magic-9-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Red Magic 9 Pro Through Google Earth?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-outlining-key-elements-in-youtube-trailer-creation/"><u>In 2024, Outlining Key Elements in YouTube Trailer Creation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-pro-tips-for-streaming-and-screening-netflix-on-mac/"><u>In 2024, Pro-Tips for Streaming & Screening Netflix on Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-youtube-traction-affordable-audience-expansion-for-2024/"><u>Maximize YouTube Traction Affordable Audience Expansion for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/next-level-gaming-with-dell-alienware-aurora-r9-the-cutting-edge-pc-review/"><u>Next-Level Gaming with Dell Alienware Aurora R9 - The Cutting Edge PC Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10/"><u>[New] How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-secure-free-footage-streaming-through-key-youtube-channels/"><u>[New] Secure Free Footage Streaming Through Key YouTube Channels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snatch-free-media-treasures-from-top-4-online-creators/"><u>[New] Snatch Free Media Treasures From Top 4 Online Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveil-the-ultimate-list-of-live-streaming-apps-for-youtube-excellence-iosandroid/"><u>2024 Approved Unveil The Ultimate List of Live Streaming Apps for YouTube Excellence (iOS/Android)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube-for-2024/"><u>From FTP to Feed The Complete Guide to Uploading to YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-discovering-your-elusive-airpods-with-the-power-of-find-my/"><u>Guide: Discovering Your Elusive AirPods with the Power of 'Find My'</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nubia-red-magic-8s-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nubia Red Magic 8S Pro Through Google Earth?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maintaining-creative-commons-on-youtube-for-greater-exposure/"><u>In 2024, Maintaining Creative Commons on YouTube for Greater Exposure</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/locating-your-own-playlists-on-youtube-for-2024/"><u>Locating Your Own Playlists on Youtube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/motivating-hr-chronicles-the-best-ten-vids-for-2024/"><u>Motivating HR Chronicles - The Best Ten Vids for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneering-promotion-the-5-leading-social-tools-for-trade/"><u>Pioneering Promotion: The 5 Leading Social Tools for Trade</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-stealthiest-of-players-guide/"><u>The Stealthiest of Players Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-c50-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco C50 FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-in-blocks-five-friend-focused-multiplayer-methods-in-mc/"><u>Uniting in Blocks: Five Friend-Focused Multiplayer Methods in MC</u></a></li>
 </ul></div>
 

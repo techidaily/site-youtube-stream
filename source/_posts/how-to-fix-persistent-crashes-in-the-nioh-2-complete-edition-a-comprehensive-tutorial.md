@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2024-10-01T16:53:20.457Z
-updated: 2024-10-07T01:51:07.331Z
+date: 2024-10-08T20:46:47.089Z
+updated: 2024-10-12T20:08:45.097Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -37,13 +50,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
@@ -51,13 +57,6 @@ Here are the steps:
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
@@ -82,26 +81,32 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
 
@@ -111,6 +116,13 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
@@ -130,19 +142,19 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -156,16 +168,16 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
@@ -195,20 +207,24 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-a-comprehensive-overview-of-cost-free-cloud-communication-software-for-2024/"><u>[Updated] A Comprehensive Overview of Cost-Free Cloud Communication Software for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-editors-the-essential-guide-for-2024/"><u>[Updated] Free Online Editors The Essential Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mining-marvels-5-best-map-locations-in-terraria/"><u>[Updated] Mining Marvels 5 Best Map Locations in Terraria</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-techniques-for-selective-youtube-video-downloading-for-2024/"><u>[Updated] Techniques for Selective YouTube Video Downloading for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-grabber-tech-for-film-lovers/"><u>2024 Approved Innovative Grabber Tech for Film Lovers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-purge-youtubes-video-buffer-list/"><u>2024 Approved Strategies to Purge YouTube's Video Buffer List</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essence-of-youtubes-new-shorts-investment-scheme/"><u>2024 Approved The Essence of YouTube's New Shorts Investment Scheme</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-viewers-into-vendors-yielding-wealth-with-youtube-analytics/"><u>2024 Approved Turn Viewers Into Vendors Yielding Wealth with YouTube Analytics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-reno-11-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo Reno 11 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-boot-bug-fix-hogwarts-legacy-from-crashing-on-pc-using-our-top-nights-fixes/"><u>Beat the Boot Bug: Fix Hogwarts Legacy From Crashing on PC Using Our Top Nights Fixes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masters-designing-virtual-marvel-realms/"><u>In 2024, Masters Designing Virtual Marvel Realms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-striking-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>In 2024, Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-freely-flowing-world-of-historical-works/"><u>In 2024, The Freely Flowing World of Historical Works</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/minimizing-moments-edit-longer-videos-for-youtube-for-2024/"><u>Minimizing Moments Edit Longer Videos for YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/safe-ways-to-download-and-convert-youtubes-audios-as-mp3-for-2024/"><u>Safe Ways to Download and Convert YouTube's Audios as MP3 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fast-track-to-excellent-valorant-thumbnails-artistry/"><u>[New] Fast-Track to Excellent Valorant Thumbnails Artistry</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[New] Filmmaker's Toolkit Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-tight-scenes-minecraft-edition/"><u>[New] Navigating Tight Scenes Minecraft Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premiere-illustrator-adjustments/"><u>[New] Premiere Illustrator Adjustments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-direct-hit-at-simplifying-livestreaming/"><u>2024 Approved Direct Hit at Simplifying Livestreaming</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>2024 Approved Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>2024 Approved Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-transform-high-resolution-4k-content-into-1080p-with-ease/"><u>Effective Techniques: Transform High-Resolution 4K Content Into 1080P with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-webcast-solutions-for-authors/"><u>Excellent Webcast Solutions for Authors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-direct-screen-capture-chromium-version/"><u>In 2024, Direct Screen Capture Chromium Version</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infusing-creative-edge-in-your-youtube-trailer-production/"><u>In 2024, Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-blue-screen-usage-guide/"><u>In 2024, Simplified Blue Screen Usage Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-premium-image-quality-through-youtubes-av1-settings/"><u>In 2024, Unlock Premium Image Quality Through YouTube's AV1 Settings</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-samsung-galaxy-xcover-7-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Samsung Galaxy XCover 7 has been deleted.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Phone Pattern Lock</u></a></li>
 </ul></div>
 

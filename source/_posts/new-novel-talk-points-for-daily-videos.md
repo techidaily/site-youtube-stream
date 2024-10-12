@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-10-03T23:35:03.240Z
-updated: 2024-10-07T04:36:45.796Z
+date: 2024-10-11T22:36:08.055Z
+updated: 2024-10-12T20:32:54.429Z
 tags:
   - ai video
   - ai youtube
@@ -45,13 +45,6 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
@@ -74,6 +67,13 @@ It does not matter what it is that is making you have this strong reaction (unle
 
 Alternatively: you could do a vlog about how happy you are to have gotten engaged or a vlog about how happy you are that it was sunny today, and your enthusiasm will carry your audience through either video with you.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What did you learn today?
 
  _Fun fact: The original lyrics Paul McCartney imagined for 'Yesterday' were 'Scrambled eggs, oh my baby how I love your legs'._
@@ -91,25 +91,44 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 Sea monkeys can survive in space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## EVERYTHING
 
 You could also just flick the camera on and tell the full story of your day like you’d do in a traditional daily blog. What did you have for breakfast, how was school/work, did you talk to any friends, how was the weather – anything and everything. Generally, these videos can run a bit long and don’t have a lot of snappy editing. They’re faster to make, which is good if you’re doing them every day, but the unpolished nature of them won’t appeal to everyone. It will be exactly what appeals to some people, though.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Customize Your Vlog Stories with Powerful Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **We’ve got a new eBook out!**
@@ -117,13 +136,6 @@ You could also just flick the camera on and tell the full story of your day like
 It’s got strategies that have worked for other YouTubers, boiled down to simple action steps.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -140,21 +152,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715859959755-new-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>[New] Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-quickly-modify-photo-resolution-on-an-iphone/"><u>[Updated] How to Quickly Modify Photo Resolution on an iPhone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-igniting-success-the-youtubers-playbook/"><u>2024 Approved Igniting Success The YouTuber's Playbook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-short-film-synopsis-must-know-points/"><u>2024 Approved Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-spoofing-success-the-path-to-parody-proficiency/"><u>2024 Approved Spoofing Success The Path to Parody Proficiency</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>2024 Approved The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlimited-access-to-creative-mcb-resources/"><u>2024 Approved Unlimited Access to Creative MCB Resources</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>2024 Approved Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-decision-why-italy-enforced-an-instant-prohibition-of-chatgpt/"><u>Exploring the Decision: Why Italy Enforced an Instant Prohibition of ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-league-of-legends-not-opening-or-stuck-on-the-loading-screen-on-windows/"><u>How to Fix League of Legends Not Opening or Stuck on the Loading Screen on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v29e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V29e in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>In 2024, From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-civi-3-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Civi 3 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic-vs-2-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic Vs 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rtx-2080-super-graphics-card-drivers-download-and-update-guide-for-windows-11/"><u>RTX 2080 Super Graphics Card Drivers Download & Update Guide for Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smooth-start-scripts-captivating-podcast-intros/"><u>Smooth Start Scripts Captivating Podcast Intros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-convenient-multi-screen-browsing-with-chrome-pip/"><u>[New] Achieving Convenient Multi-Screen Browsing With Chrome PIP</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-download-harmony-free-music-from-fb/"><u>[New] Download Harmony Free Music From FB</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-novice-networking-necessities-affordable-monetized-platforms/"><u>[New] Novice Networking Necessities Affordable Monetized Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-laughing-along-to-mimicked-melodies/"><u>[Updated] Laughing Along to Mimicked Melodies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-minecraft-branding-tools-download/"><u>2024 Approved Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-venues-validation/"><u>2024 Approved VIRTUAL VENUES VALIDATION</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/8k-visualization-leading-tvs-compared-side-by-side/"><u>8K Visualization Leading TVs Compared Side by Side</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-how-youtube-manages-post-upload-content/"><u>In 2024, Understanding How YouTube Manages Post-Upload Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-tips-changing-facebooks-phoneemail-numbers/"><u>Quick Tips: Changing Facebook's Phone/Email Numbers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/setup-mx870-on-windows-10-7-and-8-systems/"><u>Setup MX870 on Windows 10, 7 & 8 Systems</u></a></li>
 </ul></div>
 

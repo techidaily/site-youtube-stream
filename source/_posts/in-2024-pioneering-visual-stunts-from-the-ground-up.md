@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Visual Stunts From the Ground Up"
-date: 2024-09-28T22:12:39.112Z
-updated: 2024-10-01T21:55:31.952Z
+date: 2024-10-06T19:22:40.517Z
+updated: 2024-10-12T17:59:26.226Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Richard Harrington on Lynda
@@ -64,16 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Bloop Animation
@@ -81,10 +75,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ** Video Copilot
@@ -94,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,14 +109,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cracking-the-code-of-true-instagram-photos/"><u>[Updated] Cracking the Code of True Instagram Photos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-playstation-palace-a-million-gaming-moves/"><u>2024 Approved PlayStation Palace A Million Gaming Moves</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-video-popularity-a-comprehensive-guide-to-tagging-on-youtube/"><u>2024 Approved Unlocking Video Popularity A Comprehensive Guide to Tagging on YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-hp-deskjet-270n-printer-drivers-for-your-pc/"><u>How to Get the Newest HP Deskjet 270N Printer Drivers for Your PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>In 2024, Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques/"><u>In 2024, Precision in Converting Videos SDR to HDR Video Enhancement Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>In 2024, Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-chromebook-tips-capturing-high-quality-webcams/"><u>[New] 2024 Approved Chromebook Tips Capturing High-Quality Webcams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-virtuverse-video-vault/"><u>[New] 2024 Approved VirtuVerse Video Vault</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo-for-2024/"><u>[New] Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-easily-create-compelling-fb-video-ads-with-no-cost-kit-for-2024/"><u>[New] Easily Create Compelling FB Video Ads with No-Cost Kit for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[New] FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profit-in-the-space-time-continuum-the-art-of-creating-earning-rich-content/"><u>2024 Approved Profit in the Space-Time Continuum The Art of Creating Earning-Rich Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>2024 Approved The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-what-is-a-parody-and-how-to-make-a-parody-video/"><u>2024 Approved What Is a Parody and How to Make a Parody Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-tips-for-enhancing-youtube-videos-through-seo-mastery-for-2024/"><u>Expert Tips for Enhancing YouTube Videos Through SEO Mastery for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-build-your-personal-brand-on-youtube/"><u>In 2024, How to Build Your Personal Brand on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-optimal-vision-selections-of-best-4k-dslrs-in-action/"><u>In 2024, Optimal Vision Selections of Best 4K DSLRs in Action</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-should-you-pay-for-unlimited-youtube/"><u>In 2024, Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-techniques-to-modify-windows-audio-interface/"><u>Master 9 Techniques to Modify Windows Audio Interface</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/visual-transformation-and-improved-efficiency-the-game-changing-impact-of-apples-m1-chip-in-imac/"><u>Visual Transformation and Improved Efficiency: The Game-Changing Impact of Apple's M1 Chip in iMac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-mpeg-4-mpg-mp3/"><u>오피스 편집: MP4, MPEG-4 이미지를 무료로 Mpg MP3로 전환하는 방법</u></a></li>
 </ul></div>
 

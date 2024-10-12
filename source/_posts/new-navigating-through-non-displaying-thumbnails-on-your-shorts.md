@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through Non-Displaying Thumbnails on Your Shorts\""
-date: 2024-09-26T21:38:35.927Z
-updated: 2024-10-01T18:29:38.433Z
+date: 2024-10-11T18:50:38.442Z
+updated: 2024-10-12T18:17:58.927Z
 tags:
   - ai video
   - ai youtube
@@ -56,10 +56,16 @@ _"They ALL have randomly selected different parts of each video I have uploaded 
 The reason behind this is the difference in the thumbnail size. Regular YouTube video thumbnails are in the ratio of 16:9\. Meanwhile, Shorts uses a ratio of 9:16\. The thing is that YouTube does not yet allow you to upload 9:16 thumbnails. Thus, the thumbnail for Shorts may show correctly on the video section but not on the Shorts shelf.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Q3\. How to Fix YouTube Shorts Thumbnail Problem?
@@ -77,10 +83,10 @@ Attracting viewers on Shorts is the same as attracting viewers on the main YouTu
 Here are some pointers. Your title should be at most 40 characters. Also, it should be concise and irresistible. And forget about SEO since no one is searching for YouTube Shorts anyway. People consume what they see in their feeds. So instead, the title should be "snappy." It should intrigue, entertain, or enlighten the viewers. That will net you some views for your Shorts content.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Q5\. How To Get More Views on YouTube Shorts?
@@ -195,6 +201,13 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
@@ -288,13 +301,6 @@ Another thing you must ensure is to keep your background simple and not too dist
 
 If you want to improve your brand identity and get your name known by more people, incorporate your logo, name, or something similar in the background. It will have a small but meaningful impact, and it’s easy to do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing
 
 If you plan to shoot a YouTube live background and not some stock images or videos, then you must make sure it has enough headroom for editing later on. The best option here is to use a **green screen background for YouTube videos**.
@@ -308,6 +314,13 @@ Enjoy!
 * Snowy Landscape
 
 ![snowy landscape youtube background](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Festive Holiday Decor
 
@@ -324,6 +337,13 @@ Enjoy!
 * Animated Winter Scenes
 
 ![animated winter scenes background](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create or Source Winter Backgrounds
 
@@ -347,18 +367,24 @@ Run the program and click on **“**New Project”. No need to create an account
 
 ![filmora new project](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 Click on “Stock Media” and then type in “winter” in the Search Bar.
 
 ![filmora stock media](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-7.png)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 4
 
@@ -411,10 +437,10 @@ Enjoy!
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is a YouTube Video Background?
@@ -450,13 +476,6 @@ As a video creator, you must ensure to be consistent with your elements. This in
 
 If you already have an audience, regardless of its size, you should definitely consider what they like and don’t like. You should then leverage this information to create highly appealing content for them and adjust your background scenery accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lighting and Visibility
 
 Another thing you must ensure is to keep your background simple and not too distracting. Remember, even though you have the **best background for YouTube videos**, you still need to realize that it’s not the main focus of the video. It’s just there to make it better.
@@ -487,22 +506,16 @@ Enjoy!
 
 ![cozy indoor winter background](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Winter Cityscapes
 
 ![winter cityscapes background](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Animated Winter Scenes
 
@@ -576,13 +589,6 @@ After uploading all the files, simply drag everything in a separate Track down o
 
 Export and upload to YouTube. That’s it!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Summary
 
 You’re now ready to make some outstanding Winter YouTube videos and bless everyone with amazing scenery and backgrounds that will make their hearts warm up. Not only do you have infinite backgrounds to choose from, you also know how to perfectly blend them in any of your videos.
@@ -604,24 +610,22 @@ Enjoy!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-add-video-to-text-for-free/"><u>[New] How to Add Video to Text for Free</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-tv-disable-guide/"><u>[New] In 2024, Instagram TV Disable Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-winning-software-to-capture-your-display-on-windows-10/"><u>[Updated] 2024 Approved Winning Software to Capture Your Display on Windows 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-avoiding-vr-discomfort-top-10-strategies-for-2024/"><u>[Updated] Avoiding VR Discomfort Top 10 Strategies for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>2024 Approved Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-trending-topics-to-endings/"><u>2024 Approved Tailoring Trending Topics to Endings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-disrupters-guide-to-android-and-ios-music-shakers/"><u>2024 Approved The Disrupter's Guide to Android & iOS Music Shakers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade/"><u>2024 Approved Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-ucinnych-pravidel-jak-snadno-prekladat-stranku-videa-a-jak-je-spraven/"><u>7 Účinných Právidel Jak Snadno Překládat Stránku Videa a Jak Je Správěn</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-n3-flip-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find N3 Flip</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-10c-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 10C Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-integrating-interactive-features-for-enhanced-viewers-experience-on-youtube/"><u>In 2024, Integrating Interactive Features for Enhanced Viewers' Experience on Youtube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-hidden-truths-about-youtube-earnings/"><u>In 2024, The Hidden Truths About YouTube Earnings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-xs-max-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone XS Max Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-content-restrictions-on-youtube-videos-for-2024/"><u>Mastering Content Restrictions on YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-asus-rog-phone-7-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Asus ROG Phone 7 Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-screen-recorder-a-2023-evaluation-of-camstudio-for-2024/"><u>The Ultimate Screen Recorder A 2023 Evaluation of CamStudio for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-infinix-hot-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Infinix Hot 30i to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-masterful-tools-for-youtube-text-extraction-online/"><u>[New] 2024 Approved Masterful Tools for YouTube Text Extraction Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-laughters-playground-top-15-youtube-hits-for-fun/"><u>2024 Approved Laughter's Playground Top 15 YouTube Hits for Fun</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>2024 Approved Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rising-stars-in-digital-domain/"><u>2024 Approved Rising Stars in Digital Domain</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-blueprint-for-success-livestreaming-ultra-wide-video-content-on-youtube/"><u>2024 Approved The Blueprint for Success Livestreaming Ultra-Wide Video Content on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-real-deal-behind-asmr-videos/"><u>2024 Approved The Real Deal Behind ASMR Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-zooming-out-your-guide-to-flawless-borders/"><u>2024 Approved Zooming Out Your Guide to Flawless Borders</u></a></li>
+<li><a href="https://article-tips.techidaily.com/choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gamers-sound-showdown-the-top-5-headset-list-for-2024/"><u>Gamers' Sound Showdown The Top 5 Headset List for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-securely-backup-your-windows-11-laptop-best-practices-and-tips/"><u>How to Securely Backup Your Windows 11 Laptop – Best Practices and Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid/"><u>In 2024, Expert Picks Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-a-visual-impact-neon-borded-youtube-thumbnails-guide-for-2024/"><u>Making a Visual Impact Neon-Borded YouTube Thumbnails Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands-for-2024/"><u>The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-formats-face-off-determining-the-best-av1-or-vp9/"><u>Video Formats Face Off Determining the Best, AV1 or VP9?</u></a></li>
 </ul></div>
 

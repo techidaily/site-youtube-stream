@@ -1,7 +1,7 @@
 ---
 title: Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks
-date: 2024-09-30T19:20:59.408Z
-updated: 2024-10-07T03:24:44.004Z
+date: 2024-10-11T16:15:26.318Z
+updated: 2024-10-12T16:53:06.519Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 7. [Update / reinstall Premier Pro](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -65,13 +72,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -93,6 +93,13 @@ There’re mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -111,13 +118,6 @@ It’s quite easy to reset your preferences. Here’s how:
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
 ## Fix 3: Turn off GPU acceleration
@@ -128,25 +128,25 @@ It’s quite easy to reset your preferences. Here’s how:
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Remove media cache files
 
@@ -155,6 +155,13 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
@@ -186,13 +193,6 @@ To cool down your computer, you may need to
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -219,24 +219,22 @@ To cool down your computer, you may need to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-explore-the-globe-top-10-travelers-youtube-guide/"><u>[New] Explore the Globe Top 10 Traveler's YouTube Guide</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-ultimate-desktop-and-mobile-discord-recorders/"><u>[New] Ultimate Desktop & Mobile Discord Recorders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-engagement-increase-youtube-viewers/"><u>[Updated] 2024 Approved Amplify Engagement Increase YouTube Viewers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-deep-dive-into-asus-pa32u-review-excellence-in-professionalism/"><u>[Updated] 2024 Approved Deep Dive Into Asus PA32U Review Excellence in Professionalism</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-why-highlighted-content-flourishes-on-instagram-stories/"><u>[Updated] 2024 Approved Why Highlighted Content Flourishes on Instagram Stories</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware/"><u>[Updated] Recording Realities – Evaluating the Power and Precision of Apeaksoftware</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>2024 Approved Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-lawful-practices-for-screenshotting-youtube-videos/"><u>2024 Approved Navigating Lawful Practices for Screenshotting YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>2024 Approved Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>2024 Approved Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-video-streaming-channel-lists-films-and-series/"><u>2024 Approved Ultimate Video Streaming Channel Lists Films & Series</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/beste-bollywood-filme-auf-deutsch-streamen-gratis-top-10-reihe/"><u>Beste Bollywood-Filme Auf Deutsch Streamen Gratis - Top 10 Reihe</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/flawless-soundscape-secrets-to-high-resolution-audio-recording-for-2024/"><u>Flawless Soundscape Secrets to High-Resolution Audio Recording for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>In 2024, Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-video-updates-on-youtube/"><u>In 2024, Streamlining Video Updates on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovating-interaction-beyond-vidcon-conclaves-for-2024/"><u>Innovating Interaction Beyond VidCon Conclaves for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-ai-anxiety-eight-key-points-on-how-artificperture-can-enhance-teaching-practices/"><u>Overcoming AI Anxiety: Eight Key Points on How Artificperture Can Enhance Teaching Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-correctly-addressing-the-wininetdll-cant-be-found-problem/"><u>Troubleshooting Tips: Correctly Addressing the 'wininet.dll Can't Be Found' Problem</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unraveling-the-secrets-to-smooth-vimeo-video-downloads-for-2024/"><u>Unraveling the Secrets to Smooth Vimeo Video Downloads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brief-snippet-analysis-for-beginners/"><u>[New] 2024 Approved Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-defending-your-videos-against-youtube-copyright-strikes/"><u>[New] 2024 Approved Defending Your Videos Against YouTube Copyright Strikes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-tips-embedding-moving-images-in-written-content/"><u>[New] Free Tips Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-strategies-to-exclude-recommended-podcasts-in-spotify/"><u>[New] In 2024, Strategies to Exclude Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>[New] Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>2024 Approved Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>2024 Approved How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-investing-successfully-with-a-makeup-channel/"><u>2024 Approved Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-intros-and-ends-without-breaking-the-bank/"><u>DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-playlist-creation-on-youtube-easily/"><u>In 2024, Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-videos-expert-insights-on-effective-tagging/"><u>In 2024, Optimizing Videos Expert Insights on Effective Tagging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-guide-youtube-channel-titles-for-video-blogging-max-156/"><u>In 2024, Ultimate Guide YouTube Channel Titles For Video Blogging (Max 156)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-constant-freezes-and-crashes-on-red-dead-redemption-2-solutions-explored/"><u>Overcoming Constant Freezes and Crashes on Red Dead Redemption 2: Solutions Explored</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967580251-startech-vga-drivers-get-your-free-installation-file-here/"><u>StarTech VGA Drivers - Get Your Free Installation File Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-premier-list-of-windows-video-editors/"><u>The Premier List of Windows Video Editors</u></a></li>
 </ul></div>
 

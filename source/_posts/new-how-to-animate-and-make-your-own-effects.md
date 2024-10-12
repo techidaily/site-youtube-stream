@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Animate and Make Your Own Effects"
-date: 2024-10-06T01:42:47.717Z
-updated: 2024-10-07T04:37:50.748Z
+date: 2024-10-09T22:42:50.827Z
+updated: 2024-10-12T19:33:58.847Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -64,10 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -75,10 +75,16 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -88,10 +94,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -109,24 +115,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-digital-capture-delight-discover-the-leading-free-options/"><u>[New] In 2024, Digital Capture Delight Discover the Leading Free Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>[New] Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-scholarly-streams-10-best-ed-tutorials-yt/"><u>[New] Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora/"><u>[New] Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-craft-and-modify-iphone-motion-videos-reducing-pace-effectively/"><u>[Updated] 2024 Approved How to Craft & Modify iPhone Motion Videos Reducing Pace Effectively</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-tips-to-revolutionize-youtube-summary-writing/"><u>2024 Approved In-Depth Tips to Revolutionize YouTube Summary Writing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovating-visual-storytelling-drone-techniques/"><u>2024 Approved Innovating Visual Storytelling Drone Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-steps-to-live-stream-youtube-via-obs-for-novices/"><u>2024 Approved Quick Steps to Live Stream Youtube via OBS for Novices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-surge-to-subscriber-success-with-strategic-tactics/"><u>2024 Approved Surge to Subscriber Success with Strategic Tactics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-canon-mg3620-driver-download-with-confidence-for-optimal-performance/"><u>Get the Latest Canon MG3620 Driver - Download with Confidence for Optimal Performance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>In 2024, Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-high-octane-comparison-gopro-hero-4-vs-drift-ghost-s/"><u>In 2024, High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a14-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A14 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-youtube-lives-image-interpretation/"><u>In 2024, Inside Look YouTube Live's Image Interpretation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 8 HD</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-shot-selection-best-stabilizers-reviewed/"><u>In 2024, Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-lives-thumbnail-code/"><u>In 2024, Unlocking YouTube Live's Thumbnail Code</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-updates-installing-intel-nuc-drivers-fast-and-simple/"><u>Latest Updates: Installing Intel NUC Drivers Fast and Simple</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-efficiency-how-home-screen-shortcuts-revolutionize-your-android-experience/"><u>Unlocking Efficiency: How Home Screen Shortcuts Revolutionize Your Android Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-does-youtube-work-after-a-video-is-uploaded/"><u>[New] How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-use-the-instagram-question-sticker/"><u>[New] How to Use the Instagram Question Sticker?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[New] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-savory-sensations-top-youtube-food-influencers/"><u>[New] Savory Sensations Top YouTube Food Influencers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-beginning-the-live-journey-on-instagram/"><u>[Updated] 2024 Approved Beginning the Live Journey on Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs/"><u>[Updated] 2024 Approved Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-record-youtube-videos/"><u>[Updated] In 2024, How to Record YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>2024 Approved Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-execution-tactics-for-fb-video-success/"><u>2024 Approved Speedy Execution Tactics for FB Video Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>2024 Approved Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unraveling-the-secrets-to-dynamic-youtube-trailers-in-filmora/"><u>2024 Approved Unraveling the Secrets to Dynamic YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-parodic-play-writing-and-producing-humor-videos/"><u>In 2024, Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-checklist-for-choosing-premium-free-srt-translation-apps/"><u>In 2024, The Ultimate Checklist for Choosing Premium Free SRT Translation Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-how-to-digitize-your-dvds-and-share-them-on-youtube/"><u>Step-by-Step Guide: How To Digitize Your DVDs and Share Them on YouTube</u></a></li>
 </ul></div>
 

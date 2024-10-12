@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Secrets to Earnings on YouTube Shorts\""
-date: 2024-09-28T22:19:47.085Z
-updated: 2024-10-01T21:36:53.837Z
+date: 2024-10-06T22:52:06.421Z
+updated: 2024-10-12T21:55:29.162Z
 tags:
   - ai video
   - ai youtube
@@ -88,31 +88,11 @@ The YPP Shorts Fund program includes the following features:
 
 The amount of money you can make on Shorts often varies. It can be hard to make decent money on Shorts sometimes, and other times it brings in a nice chunk of revenue. Unfortunately, the earnings are not as spectacular as the long YouTube videos. Most creators agree that the revenue per thousand views (RPM) for shorts is around $0.05 - $0.07\. This would translate to about $50 - $70 for a million Shorts views. Although the ad revenue is relatively lower, you can generate more revenue with the shopping features. This will depend on how wee you keep your audience active and engaged.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3\. How to Use YouTube Shorts Funding: Application and Activation**
 
 The process of applying for and activating YouTube Short Funding is simple. You need to accept the Shorts Monetization Module in your terms and conditions. After activating, monetization starts immediately.
 
 ![youtube shorts fund monetization module](https://images.wondershare.com/filmora/article-images/2023/everything-you-need-to-know-about-the-youtube-shorts-fund-4.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Head over to the YouTube Studio. Sign in to your account to accept the terms. Be sure to use a web browser because the YouTube app will not allow you to make these changes. Accept the terms and follow these steps to turn on the ads:
 
@@ -143,6 +123,13 @@ Texts tell the audience what is happening in the video. It is also a great way t
 
 When editing Shorts, you will likely add many footage in a short video. It is common for the audio to end up being where it is not supposed to. The Auto Synchronization feature is the ultimate audio sync. It effortlessly matches your audio with the video, making sure viewers see what they hear
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. [**Mask & Blend**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Creativity is a major component of YouTube Shorts content. The Filmora Masking and Blending mode helps you make creative video clips. It comes with a pen tool for creating free-form shapes on the go. Make your videos more impressive to your audience.
@@ -164,13 +151,6 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
 YouTube launched YouTube Shorts Funds in 2021 to financially support creators who produce engaging and popular Shorts content. The monetization scheme would distribute $100 million to high-performing creators on the platform. The creators would receive high engagement and views from their Shorts for funding.
 
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/everything-you-need-to-know-about-the-youtube-shorts-fund-1.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The main objective of the YouTube Shorts fund is to encourage creativity, diversity, and innovation in Shorts content creation. The fund operated between 2021 and 2022\. It lets creators earn $100 - $10,000 a month for their content.
 
@@ -209,13 +189,6 @@ To become a member of the YPP and start accessing Shorts funding this way, the m
 * At least 500 subscribers (You previously needed 1,000)
 * At least 3,000 public watch hours over the last 13 months (You previously needed 4,000)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Additional Steps of Actions to Activate YouTube Shorts Funding**
 
 In addition to the basic eligibility requirements, creators are also required to take additional measures to comply with YouTube’s requirements. Additional steps include:
@@ -232,6 +205,19 @@ The YPP Shorts Fund program includes the following features:
 * **Watch Page Monetization** – Creators earn ad revenue from long-form content, YouTube Premium content, and live streams
 * **Shorts Monetization Module** – Creators earn money from ads that play between YouTube Shorts.
 * **Commerce Product Addendum** – Additional monetization features, including Super Chats. Channel Memberships, Super Thanks, and Super Stickers.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How Much Can You Make with Short** **s**
 
@@ -267,19 +253,6 @@ You may have recorded horizontal videos and want to upload them as Shorts. The A
 ### 2\. [**Add Text to Video**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Texts tell the audience what is happening in the video. It is also a great way to highlight major events in YouTube Shorts. The Add Text to Video feature on Filmora makes it easy to add text or captions to your videos.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [**Auto Synchronization**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -386,13 +359,6 @@ The following are some key features of EasySub:
 * Uses an advanced AI algorithm
 * Multi-language support
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [SaveSubs](https://savesubs.com/sites/download-youtube-subtitles)
 
 SaveSubs is a browser-based Youtube subtitles downloader that does not require its users to install any software or touch any code. Just paste the YouTube video link with subtitles, click **"Download,"** and you can download the file instantly on your device.
@@ -424,6 +390,19 @@ Another trusted source for YouTube subtitle extraction is DVDVideoSoft. With thi
 
 ![dvdvideosoft](https://images.wondershare.com/filmora/article-images/2022/12/dvdvideosoft-for-youtube-subtitles-extraction.png)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Some key features of DVDVideoSoft are as follows:
 
 * Can set the language, interval, and timestamp for the subtitles
@@ -447,6 +426,13 @@ Wondershare UniConverter is an easy-to-use software for Windows and Mac that can
 * **Perpetual (one-time):** $79.99
 
 ![wondershare uniconverter](https://images.wondershare.com/filmora/article-images/2022/12/wondershare-uniconverter-for-youtube-subtitle-download.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -498,13 +484,6 @@ ByClick Downloader is another great option to quickly download YouTube videos wi
 
 ![byclick downloader](https://images.wondershare.com/filmora/article-images/2022/12/byclick-downloader-for-youtube-subtitles.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Price:** Free
 
 **Key Features:**
@@ -515,6 +494,13 @@ Key features of the ByClick Downloader are as follows:
 * Excellent user interface
 * Quickly downloads YouTube subtitles.
 * Supports multiple formats
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Easily Edit Your Subtitle With Filmora
 
@@ -577,13 +563,6 @@ You can use one of the following subtitle extractor tools if you only need the S
 DownSub is an online tool that can help you extract subtitles for your favorite YouTube movies or shows. The tool is entirely free and easy to use. Simply paste the link to the video you want to get subtitles for, click **download**, and DownSub will do the rest.
 
 ![downsub](https://images.wondershare.com/filmora/article-images/2022/12/downsub-for-youtube-subtitles-extraction.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Some of the key features of DownSub are as follows:
 
@@ -734,6 +713,13 @@ Key features of the ByClick Downloader are as follows:
 * Quickly downloads YouTube subtitles.
 * Supports multiple formats
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easily Edit Your Subtitle With Filmora
 
 Since most of the above tools only extract or download the YouTube subtitles and do not offer editing features, we recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), where you can quickly apply changes to your SRT file.
@@ -745,6 +731,13 @@ Since most of the above tools only extract or download the YouTube subtitles and
 Filmora is a powerful video editing software that lets you create and edit clips like a pro. With its easy-to-use UI and wide range of features, you can also create and edit subtitles for your YouTube video using different parameters, animations, text styles, templates, and colors.
 
 ![filmora vide editor](https://images.wondershare.com/filmora/article-images/2022/12/filmora-vide-editor.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here's how you can add and edit subtitles on your videos using Filmora:
 
@@ -761,6 +754,13 @@ You can also add color or template and adjust the text space to make them more v
 ![adjust the text space](https://images.wondershare.com/filmora/article-images/2022/12/adding-subtitles-to-youtube-video-using-filmora.png)
 
 Step 4 Click the "Advanced" option, delete the preset text, and set the one you've just typed. Next, head to the "Animation" tab to apply any animation effect and click "OK." Finally, repeat the steps to add subtitles to the whole video.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -785,21 +785,15 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-get-free-green-screen-effects-from-4-youtube-channels/"><u>[New] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-rated-webcam-recorder-applications-demystified-for-2024/"><u>[Updated] Top-Rated WebCam Recorder Applications Demystified for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>2024 Approved From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>2024 Approved Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-entrepreneurs-blueprint-for-profiting-from-video-content/"><u>2024 Approved The Entrepreneur's Blueprint for Profiting From Video Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-shorts-into-cash-youtube-guide/"><u>2024 Approved Turning Shorts Into Cash YouTube Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mpgmp4avi-movavi/"><u>免費線上MPG/MP4轉換為AVI影片- Movavi轉檔工具選項</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s18e-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo S18e?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>In 2024, Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-rapid-deletion-of-youtube-feedback/"><u>In 2024, Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/iosplusandroid-tips-for-uninterrupted-youtube-viewing-for-2024/"><u>IOS+Android Tips for Uninterrupted YouTube Viewing for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv-for-2024/"><u>New Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-presentation-planner-prodigy/"><u>Premier Presentation Planner Prodigy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-conquer-obs-recording-issues-on-new-operating-system/"><u>Strategies to Conquer OBS Recording Issues on New Operating System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rise-above-the-noise-must-have-video-seo-tools/"><u>[New] Rise Above the Noise – Must-Have Video SEO Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-screen-readers-digest-recorder-evaluation-for-2024/"><u>[New] The Screen Reader's Digest Recorder Evaluation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>[Updated] 2024 Approved Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-in-depth-tutorial-effective-screenshot-practices-on-lenovo/"><u>[Updated] 2024 Approved In-Depth Tutorial Effective Screenshot Practices on Lenovo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thriving-in-the-freefire-arena-with-pro-gamers-guide/"><u>2024 Approved Thriving in the FreeFire Arena with Pro Gamers' Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-yuva-3-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava Yuva 3 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-false-chatgpt-sites-guidelines-for-safety/"><u>Identifying False ChatGPT Sites: Guidelines for Safety</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>In 2024, Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-profit-potential-the-500-subscribers-gateway-for-2024/"><u>Leveraging YouTube's Profit Potential The 500 Subscribers Gateway for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-choices-for-accessible-screen-recorders-for-2024/"><u>Premier Choices for Accessible Screen Recorders for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Transcribe a YouTube Video [FREE]\""
-date: 2024-09-27T20:58:34.242Z
-updated: 2024-10-01T16:30:09.451Z
+date: 2024-10-07T16:24:43.891Z
+updated: 2024-10-12T21:35:28.656Z
 tags:
   - ai video
   - ai youtube
@@ -37,13 +37,6 @@ Besides the [basic video editing features on the YouTube](https://tools.techidai
 
 Below are the two methods to transcribe your YouTube videos for free:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Use the Automated Transcription Service on YouTube
 
 As the name suggests, YouTube automatic transcription service works automatically. This means you don’t even have to click the ‘Transcribe’ button anymore to **transcribe a YouTube video**, and the website takes care of it on its own. All you need to do is, choose English as the language of the video when setting up subtitles. You can follow the instructions given below to do so:
@@ -59,13 +52,6 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 On the **Details** page of the next box that appears, scroll down and click **MORE OPTIONS**, and select **English** in the **Video language** drop-down list under the **Language, subtitles, and closed captions (CC)** section.
 
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3  Publish the Video
 
@@ -90,6 +76,13 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -123,18 +116,18 @@ Click **Auto-generate** from the right window, and follow the on-screen instruct
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Download the Transcription File**
 
 Click **Download SRT** from the left pane, and follow the instructions from there to download the transcription file in \*.srt format.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pros**
 
@@ -158,13 +151,6 @@ Click **Auto-generate** from the right window, and follow the on-screen instruct
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Download the Transcription File**
 
 Click **Download SRT** from the left pane, and follow the instructions from there to download the transcription file in \*.srt format.
@@ -182,10 +168,10 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 * The auto-transcribed text might lack accuracy as the task is done by the speech-to-text tools that work in the background
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Benefits of Transcribing YouTube Videos
@@ -203,6 +189,13 @@ If the speaker in the video is from a different region and is using an accent th
 * **Repurposing on Blogs**
 
 If you own a blog that you have embedded your video to, the transcription could be used to add text to it so the target audience can get a fair idea of what the video is all about. This is useful because many people prefer reading over watching.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### YouTube Video Transcription FAQs
 
@@ -231,6 +224,13 @@ If you made any modifications to the transcript that was automatically generated
 
 ![Edit YouTube subtitles](https://images.wondershare.com/filmora/article-images/edit-automatic-youtube-video-transcription.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click to open the **Actions** drop-down list from the upper-left corner
 * Click **Upload a file**
   * Follow the on-screen instructions from there to upload the modified transcription file
@@ -257,18 +257,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails/"><u>[New] 2024 Approved Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-documentary-narratives/"><u>[New] Crafting Compelling Documentary Narratives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-youtubes-selection-of-trending-video-responses-for-2024/"><u>[New] Dissecting YouTube's Selection of Trending Video Responses for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-critique-on-luminances-approach-to-hdr-creation/"><u>2024 Approved Critique on Luminance’s Approach to HDR Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-video-embedding-techniques-for-online-articles/"><u>2024 Approved Free Video Embedding Techniques for Online Articles</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-tags-in-gaming-videos/"><u>2024 Approved Mastering the Art of Tags in Gaming Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>2024 Approved Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
-<li><a href="https://games-able.techidaily.com/beam-of-brilliance-choose-broad-bold-framing-for-games/"><u>Beam of Brilliance: Choose Broad, Bold Framing for Games</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE With or Without Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-scoring-big-on-youtube-how-much-do-ad-revenues-add-up/"><u>In 2024, Scoring Big on YouTube How Much Do Ad Revenues Add Up?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone to PC or Mac | Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kak-sozdat-video-uroki-s-ekrana-bazovyj-urok-po-ispolzovaniyu-movavi/"><u>Как Создать Видео-Уроки С Экрана: Базовый Урок По Использованию MOVAVI</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>[New] Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-mi-drone-4k-review-drones-vs-landscape-photography/"><u>[Updated] 2024 Approved The Mi Drone 4K Review Drones vs Landscape Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-action-fraps-recorder-insights/"><u>[Updated] Capturing Action Fraps Recorder Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhancing-engagement-best-practices-for-b-roll-integration/"><u>[Updated] Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>[Updated] In 2024, Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-leveraging-social-media-for-maximum-impact/"><u>2024 Approved Leveraging Social Media for Maximum Impact</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>2024 Approved Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-usb-20-performance-benefits-wire-varieties-and-plug-ins/"><u>Decoding USB 2.0: Performance Benefits, Wire Varieties, and Plug-Ins</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtube-shorts-thumbnail-losses/"><u>In 2024, Navigating YouTube Shorts Thumbnail Losses</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-adsense-for-maximum-profits-for-2024/"><u>Leveraging YouTube's AdSense for Maximum Profits for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-laptop-coolers-for-optimal-performance/"><u>Top-Rated Laptop Coolers for Optimal Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-video-compression-techniques-for-smooth-sharing-on-whatsapp-across-devices/"><u>Ultimate Guide: Video Compression Techniques for Smooth Sharing on WhatsApp Across Devices</u></a></li>
 </ul></div>
 

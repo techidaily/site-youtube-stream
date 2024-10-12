@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Guide to Early Success on YouTube  Steer Clear of These Top 8 Pitfalls\""
-date: 2024-10-04T02:14:13.202Z
-updated: 2024-10-06T19:17:06.718Z
+date: 2024-10-09T16:24:48.772Z
+updated: 2024-10-12T17:10:57.847Z
 tags:
   - ai video
   - ai youtube
@@ -38,19 +38,6 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
@@ -64,13 +51,6 @@ Many new YouTubers make the mistake of titling their videos in an ineffective wa
 Big YouTubers can take advantage of non-searched, curiosity evoking titles like “You won’t believe what just happened…” because they already have a huge following. Their channels aren’t depending on getting discovered through search. But yours is. So come up with titles that people are actually searching.
 
 As an example, let's suppose you vlogged your time backpacking around Europe last summer. Don't title your YouTube video "My Summer Backpacking Trip." Instead, title it "Going Up The Eiffel Tower | Beautiful View of Paris!" This way, all the people who are curious about visiting Paris, the Eiffel Tower, and seeing what the view is like from the top of the Eiffel Tower might find your video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Failing to have a thumbnail strategy
 
@@ -123,6 +103,13 @@ Follow @Richard Bennett
 In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I learned from those mistakes and have helped many new YouTubers start their own channels. Here is a list of eight common mistakes that new YouTubers should avoid, along with tips to do things in a better way.
 
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  
 
@@ -206,6 +193,13 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
@@ -226,13 +220,6 @@ New YouTubers tend to think about their thumbnail images after they’ve finishe
 
 Even before filming, you should think about how you’re going to title your video to get the most views. After that, you should then try to picture, in your head, a thumbnail image that matches your title and creates curiosity and excitement. When you go into filming, you can then make sure to include some footage of you recreating that image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Making weak intros
 
 After you’ve managed to get someone to click on your video through your effective title and thumbnail image strategy, the next challenge is to keep that person watching your video without closing it too early. A typical viewer on YouTube decides within the first ten to fifteen seconds of landing on a video whether or not he or she will stay or leave. This short window of time is so important to set the tone of the rest of your video and build excitement and curiosity in your viewer with an effective, high-energy intro.
@@ -240,6 +227,13 @@ After you’ve managed to get someone to click on your video through your effect
 New YouTubers often make the mistake of having weak intros. Starting at the beginning of a story makes sense, right? The beginning, however, is not always the most exciting. Consequently, new YouTubers lose their audience’s attention too early on.
 
 To read more on how some of the most successful YouTubers effectively do their intros, check out my blogpost on “[How To Edit YouTube Videos Like a YouTuber](https://tools.techidaily.com/wondershare/filmora/download/).”
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Forgetting to engage with subscribers
 
@@ -293,6 +287,13 @@ Another mistake I made with my first YouTube channel was choosing an ineffective
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Coming up with titles that won't get searched
 
 Many new YouTubers make the mistake of titling their videos in an ineffective way. Rather than coming up with titles that more people might search, they either come up with titles that summarize what the video is about as a whole or title their videos the way big YouTubers do.
@@ -320,13 +321,6 @@ To read more on how some of the most successful YouTubers effectively do their i
 An important thing to do as a new YouTuber is engaging with your subscribers. Some new YouTubers, though, are so focused and busy with the production side of things that they forget to do the community side of things, including responding to comments. By not responding to comments as a new YouTuber, you hurt your potential to get more comments consistently from your subscribers. If your video’s comments section is very active, YouTube ranks your video higher in the videos it recommends to viewers.
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Not promoting with social media
 
@@ -411,13 +405,6 @@ Also, if RPM is $4.00 from 45,000 ad impressions, your estimated earnings would 
 
 ($4.00 \* 45,000) / 1000 = $180.00
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### AdSense Pay Per View
 
 Lastly, if you’re looking for an exact answer regarding how much it pays per view, know that it varies and is based on different factors, such as niche or audience demographic.
@@ -427,6 +414,13 @@ But you can expect something between $8 to $12 on 1,000 views after monetizing y
 ## Part 2: How Much Does AdSense Pay Per Click?
 
 ![pay per click](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-adsense-pay-per-1000-views-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After understanding AdSense’s way to pay for 1,000 views, formula, or pay per view, here’s what you need to know about AdSense’s payment on per click policy.
 
@@ -449,13 +443,6 @@ Let’s take a look at the following examples for better understanding:
 
 Remember, people from North America can make the most of these earnings. But worry not if you are based outside North America. Because Google AdSense revenue calculator can help you find the average pageviews on monthly basis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Earnings from AdSense: Factors to Consider
 
 After learning how much you can earn in different niches, it’s equally important to focus on the following factors, so you can qualify and start earning from AdSense with ease.
@@ -473,13 +460,6 @@ As a blogger, you must provide unique but quality content to exceed AdSense’s 
 Be it a vlog or blog, please ensure that it’s original and not a copy from other sources. This way, you can elevate your credibility on the respective platforms. For a great user experience, opt for intuitive navigation.
 
 ![adsense calculator](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-adsense-pay-per-1000-views-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And to up your content game, you can even use the calculator to determine the value of your content and estimated revenue from AdSense.
 
@@ -507,18 +487,18 @@ More so, if a video performs better slightly, it’ll start to reach its full po
 
 And if your video starts to perform better and faster in those 3-6 months, it’ll likely do better in the longer run.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5) Video Duration
 
 Focus on the length of your video, as it determines how many ads can be shown in it. This part also influences your earning potential. When your video is longer in length, it’ll increase its worth.
 
 However, you must find the right balance between video duration, quality, and the number of videos on your channel, so you can continue to earn without hindrance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6) Your Niche or Industry
 
@@ -597,6 +577,13 @@ Also, if RPM is $4.00 from 45,000 ad impressions, your estimated earnings would 
 
 ($4.00 \* 45,000) / 1000 = $180.00
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AdSense Pay Per View
 
 Lastly, if you’re looking for an exact answer regarding how much it pays per view, know that it varies and is based on different factors, such as niche or audience demographic.
@@ -606,6 +593,13 @@ But you can expect something between $8 to $12 on 1,000 views after monetizing y
 ## Part 2: How Much Does AdSense Pay Per Click?
 
 ![pay per click](https://images.wondershare.com/filmora/article-images/2022/11/how-much-does-adsense-pay-per-1000-views-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After understanding AdSense’s way to pay for 1,000 views, formula, or pay per view, here’s what you need to know about AdSense’s payment on per click policy.
 
@@ -738,16 +732,18 @@ If you already have a YouTube channel and a certain number of views, you can tak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-use-cartoon-face-lens-in-snapchat/"><u>[New] 2024 Approved How to Use Cartoon Face Lens in Snapchat?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-graphical-forecast-the-dominant-23-social-themes/"><u>[New] Graphical Forecast The Dominant '23 Social Themes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-immerse-in-a-world-of-efficient-notes-with-mematic/"><u>[New] In 2024, Immerse in a World of Efficient Notes with Mematic</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-the-top-6-free-and-online-shorts-collectors/"><u>[New] Secrets to the Top 6 Free & Online Shorts Collectors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-thorough-analysis-for-easy-dynamic-range-photography/"><u>[Updated] Thorough Analysis for Easy Dynamic Range Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-digest-exploring-google-podcast-apps-essence/"><u>2024 Approved Complete Digest Exploring Google Podcast App's Essence</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-first-steps-toward-monetary-success-on-youtube/"><u>2024 Approved First Steps Toward Monetary Success on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-creative-commons-rights-step-by-step-tutorial/"><u>2024 Approved Navigating Creative Commons Rights Step-by-Step Tutorial</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-spotlight-on-cities-for-virtual-viewing/"><u>2024 Approved Spotlight on Cities for Virtual Viewing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-process-of-identifying-youtube-audience/"><u>2024 Approved Unveiling the Process of Identifying YouTube Audience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5Gwith/without a PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-viewer-interest-6-video-styles-explored-for-2024/"><u>[New] Mastering Viewer Interest 6 Video Styles Explored for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revitalize-video-interactions-simple-steps-to-a-filmmakers-anime-button/"><u>[New] Revitalize Video Interactions Simple Steps to a Filmmaker's Anime Button</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success-for-2024/"><u>[Updated] From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-live-stream-success-obs-steps-to-shine-on-youtube/"><u>[Updated] Live Stream Success OBS Steps to Shine on Youtube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tips-for-webinar-preservation-without-hurdles-windows-macos-for-2024/"><u>[Updated] Top Tips for Webinar Preservation without Hurdles (Windows, macOS) for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>2024 Approved How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>2024 Approved The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-identifying-and-accessing-your-music-picks-on-youtube/"><u>In 2024, Identifying and Accessing Your Music Picks on Youtube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-palette-excellence-editor/"><u>In 2024, Palette Excellence Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-truthgpts-revelation-policemen-clash-with-mullvad-vpn-top-no-cost-gaming-for-pcs-and-insights-on-mechanical-typing-peripherals/"><u>Inside TruthGPT's Revelation: Policemen Clash with Mullvad VPN, Top No-Cost Gaming for PCs & Insights on Mechanical Typing Peripherals</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
 </ul></div>
 
