@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Audio Pops & Unexpected Sounds - Simple Tips & Tricks
-date: 2024-10-09T19:59:03.648Z
-updated: 2024-10-12T19:19:32.054Z
+date: 2024-10-11T22:17:04.307Z
+updated: 2024-10-18T19:18:43.009Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
@@ -52,14 +52,21 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-24.png)
 5. If the sound is unmuted, move to the next step.
@@ -69,6 +76,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -77,29 +91,36 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
 
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After it is listed, right-click on the speakers and click**Enable** .
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
 
@@ -112,38 +133,11 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -178,24 +172,18 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-stepwise-journey-through-the-world-of-professional-srt-creation/"><u>[New] 2024 Approved A Stepwise Journey Through the World of Professional SRT Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-iphone-techniques-for-slow-motion/"><u>[New] 2024 Approved Cutting Edge iPhone Techniques for Slow Motion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-hobbies-to-hearts-youtubes-path-to-fame/"><u>[New] In 2024, From Hobbies to Hearts YouTube's Path to Fame</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-tiktok-vs-youtube-shorts-best-platform-for-individual-use/"><u>[New] In 2024, TikTok vs YouTube Shorts Best Platform for Individual Use</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-mastering-your-videos-top-youtube-friendly-cameras/"><u>[New] Mastering Your Videos Top YouTube-Friendly Cameras</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-impact-a-guide-to-customizing-game-banners/"><u>2024 Approved Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-populate-play-button-visuals-incorporating-electrodes/"><u>2024 Approved Populate Play Button Visuals Incorporating Electrodes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-ios-platforms-for-ps2-gaming/"><u>2024 Approved Premier iOS Platforms for PS2 Gaming</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-cover-art-crafting-for-fighting-games/"><u>2024 Approved Quick Cover Art Crafting for Fighting Games</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-5-snug-scenarios-for-your-snowy-youtube-sessions/"><u>2024 Approved Top 5 Snug Scenarios for Your Snowy Youtube Sessions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-your-favorite-tunes-the-best-spotify-playlists-tools-for-youtube/"><u>2024 Approved Transforming Your Favorite Tunes The Best Spotify Playlists Tools for YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-video-upload-techniques-for-youtube-via-premiere-for-2024/"><u>Expert Video Upload Techniques for YouTube via Premiere for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-hobby-to-career-the-transition-to-youtube-gaming/"><u>In 2024, From Hobby to Career The Transition to YouTube Gaming</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>In 2024, Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-monitoring-your-internet-bandwidth-consumption/"><u>Step-by-Step Guide: Monitoring Your Internet Bandwidth Consumption</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-dispelling-net-core-error-messages-windows/"><u>Steps for Dispelling '.NET Core' Error Messages Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-performance-review-exploring-linksys-wrt3200acm-a-leading-open-source-router-option/"><u>Top Performance Review: Exploring Linksys WRT3200ACM - A Leading Open-Source Router Option</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-apex-assemblies-best-laptop-trio-for-4k-visionaries/"><u>[New] Apex Assemblies Best Laptop Trio for 4K Visionaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-microphones-for-enhanced-4k-video-clarity-and-sound/"><u>[New] Leading Microphones for Enhanced 4K Video Clarity and Sound</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pinnacle-top-tools-6-sleek-signature-backdrop-removers-online-for-2024/"><u>[New] Pinnacle Top Tools – 6 Sleek Signature Backdrop Removers Online for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovating-your-ultimate-tiktok-seal-for-2024/"><u>[Updated] Innovating Your Ultimate TikTok Seal for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>[Updated] The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-google-meet-go-live-your-youtube-broadcast-companion/"><u>2024 Approved Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-video-production-essential-lessons-for-beginners/"><u>2024 Approved Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10plus-creative-youtubes-channel-names-for-aspiring-vloggers-no-more-than-156-characters/"><u>2024 Approved Top 10+ Creative YouTubes Channel Names for Aspiring Vloggers (No More than 156 Characters)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-1011-iphone-picture-import-glitches/"><u>Fixing Windows 10/11 iPhone Picture Import Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-get-started-with-the-latest-openai-gpt-store-begin-using-today/"><u>How to Get Started with the Latest OpenAI GPT Store - Begin Using Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insight-into-t-series-profit-from-youtube-platforms/"><u>In 2024, Insight Into T-Series Profit From YouTube Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>In 2024, The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
 </ul></div>
 

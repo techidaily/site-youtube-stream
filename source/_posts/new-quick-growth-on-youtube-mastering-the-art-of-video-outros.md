@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Growth on YouTube  Mastering the Art of Video Outros\""
-date: 2024-10-11T17:51:02.930Z
-updated: 2024-10-12T16:45:38.144Z
+date: 2024-10-17T20:56:59.130Z
+updated: 2024-10-18T16:08:18.424Z
 tags:
   - ai video
   - ai youtube
@@ -51,6 +51,13 @@ A YouTube end screen might have the following features:
 
 You may also want to include **social icons and handles** for your accounts on sites like Instagram or Twitter. These won’t be clickable (you’ll need to add them yourself outside of YouTube’s end screen tool), but they’ll still let viewers know where else they can find and follow you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: YouTube Outro Templates Download
 
 Here are 4 sites where you can download templates for YouTube Outros:
@@ -58,10 +65,10 @@ Here are 4 sites where you can download templates for YouTube Outros:
 ![Tube Arsenal Outro template](https://images.wondershare.com/filmora/article-images/tubearsenal-outro-template.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Tube Arsenal:** this site has a good selection of customizable outros with moving backgrounds. On the Tube Arsenal site, before you download, you can adjust the colors and text included in your outro and even load in your own logo.
@@ -73,10 +80,10 @@ Outros on Tube Arsenal cost $9 for 720P or $13 for 1080p.
 ![Outro Maker Templates](https://images.wondershare.com/filmora/article-images/outro-maker-template.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Outro Maker:** you can get animated end screens/outros from Outro Maker for $2.99 a month (or, if you just need one outro, you can probably finish it during your 7-day free trial).
@@ -101,6 +108,13 @@ Besides downloading outro templates from the website, you can also create it wit
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Use YouTube’s End Screen Feature
 
 Make sure to create a space at the end of your video for the elements of your end screen to sit on top of. Your end screen will not add to the length of your video, it will overlay onto the last 5-20 seconds.
@@ -113,13 +127,6 @@ Here’s how you add an End Screen:
 4. Click **Element** to start adding videos, playlists, and subscribe buttons to your outro. You could also choose to use the same layout as a previous end screen with **Import From Video**, or you could apply multiple elements at once with a **YouTube Template**.
 5. Drag the elements to where you want them and adjust the timing using the timeline.
 6. Click **Save** when you’re done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How YouTube Outros/End Screens Can Help You Grow on YouTube
 
@@ -143,13 +150,6 @@ Are you using a YouTube outro? What elements do you include, and how do you thin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -165,20 +165,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-hastened-steps-for-clear-background-filming-success/"><u>[New] Hastened Steps for Clear Background Filming Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-channel-discoveries-in-asmr/"><u>[Updated] 2024 Approved Best Channel Discoveries in ASMR</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-paying-monthly-for-youtubes-unlimited-access-a-good-deal/"><u>2024 Approved Is Paying Monthly for YouTube's Unlimited Access a Good Deal?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>2024 Approved The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>2024 Approved Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-google-pixel-fold-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-curious-about-sub4sub-begin-with-this-comprehensive-guide/"><u>In 2024, Curious About Sub4sub? Begin With This Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-refit-youtube-on-mac-perfect-scaling/"><u>In 2024, Rapid Refit Youtube on Mac Perfect Scaling</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-detailed-breakdown-of-youtube-money/"><u>In 2024, The Detailed Breakdown of YouTube Money</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tutorial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>In 2024, Tutorial Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-thumbnail-aesthetics-fantasy-settings-and-techniques-for-2024/"><u>Mastering Thumbnail Aesthetics Fantasy Settings & Techniques for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/new-years-objectives-turn-promises-into-reality/"><u>New Year's Objectives: Turn Promises Into Reality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionary-patriot-ddr5-memory-maximizes-speed-at-up-to-ddr5-7200-independent-of-cpu-interface-integrity-and-enhances-overclocking-capabilities/"><u>Revolutionary Patriot DDR5 Memory Maximizes Speed at Up to DDR5-7200: Independent of CPU Interface Integrity and Enhances Overclocking Capabilities</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-11-quick-fix-for-scanner-errors/"><u>Windows 11: Quick Fix for Scanner Errors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-tips-for-finding-trending-videos-on-facebook/"><u>[New] In 2024, Tips for Finding Trending Videos on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avigate-youtube-post-production-with-adobe-premiere-for-2024/"><u>[New] Navigate YouTube Post-Production with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-strategy-for-quick-removal-on-youtube/"><u>[New] Step-by-Step Strategy for Quick Removal on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-maximum-comfort-in-vr-landscape/"><u>[Updated] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-choosing-the-right-recorder-top-4-full-screen-picks-for-pcmac-for-2024/"><u>[Updated] Choosing the Right Recorder Top 4 Full-Screen Picks for PC/Mac for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-opening-and-playing-srt-on-pcmac/"><u>[Updated] Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-treacle-tracking-step-by-step-tutorial-on-summer-snack-monitoring/"><u>[Updated] In 2024, Treacle Tracking Step-by-Step Tutorial on Summer Snack Monitoring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-ordinary-moments-into-viral-instagram-reels/"><u>[Updated] Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-tips-for-dealing-with-youtube-copyright-notifications-for-2024/"><u>Expert Tips for Dealing With YouTube Copyright Notifications for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-purge-personal-youtube-history-records-for-2024/"><u>How to Purge Personal YouTube History Records for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-tips-for-crafting-top-notch-video-hashtags/"><u>In 2024, Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
 </ul></div>
 

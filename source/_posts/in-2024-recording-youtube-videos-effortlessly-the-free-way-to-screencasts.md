@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Recording YouTube Videos Effortlessly - The Free Way to Screencasts\""
-date: 2024-10-08T18:07:19.579Z
-updated: 2024-10-12T20:42:17.120Z
+date: 2024-10-12T20:43:07.357Z
+updated: 2024-10-18T22:19:57.214Z
 tags:
   - ai video
   - ai youtube
@@ -49,13 +49,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Recording Screencast Video with YouTube
 
 Step 1: Open YouTube on your computer and sign by using your Google Account. On the top left corner, you will find the Upload button, press it and go to live streaming section and choose events from the drop-down menu. When you are doing this for the very first time, YouTube will ask your phone number to verify the streaming process. You can also click [here to get to the Livestreaming page directly.](https://www.youtube.com/live%5Fdashboard)
@@ -64,6 +57,13 @@ Step 2: On the create an event page, add a title for your screencast video; set 
 
 ![YouTube ScreenCast ](https://images.wondershare.com/filmora/article-images/youtube-screencast-events.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: The Hangout on Air page will get opened. It will allow you to select-deselect webcam recording as well as mic recording.
 
 Step 4: Hit the screen share button from the left toolbox and choose the desktop window that you wish to record. Now press start the Broadcast button to start screen recording. Note that it is a private session that cannot be watched by anyone else.
@@ -71,19 +71,6 @@ Step 4: Hit the screen share button from the left toolbox and choose the desktop
 ![YouTube ScreenCast ](https://images.wondershare.com/filmora/article-images/youtube-screencast-hangouts.jpg)
 
 Step 5: When your video is ready to go to YouTube video dashboard and choose your recent screencast video. Download it to Google Drive and share it with the world.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A better way to record Screencast and Upload to YouTube
 
@@ -247,6 +234,13 @@ For those who are interested in capturing screencast with high-quality videos an
 
 [![Download Filmora X Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora X Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Top Features
 
 * Filmora is one of the most interactive software tools that works perfectly on Windows and Mac platforms.
@@ -269,10 +263,10 @@ With all impressive features, there is no doubt to say that Filmora can serve yo
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -292,6 +286,13 @@ There is a wide range of software tools that can assists you with screencasting 
 **Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -317,6 +318,13 @@ Step 1: Open YouTube on your computer and sign by using your Google Account. On 
 Step 2: On the create an event page, add a title for your screencast video; set privacy terms and then hit “Go Live Now” option.
 
 ![YouTube ScreenCast ](https://images.wondershare.com/filmora/article-images/youtube-screencast-events.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: The Hangout on Air page will get opened. It will allow you to select-deselect webcam recording as well as mic recording.
 
@@ -352,13 +360,6 @@ Let's watch the video below to check how to record your screen with Filmora and 
 With all impressive features, there is no doubt to say that Filmora can serve your screencasting needs in the best possible manner. Whether you are a crazy gamer interested to share your adventure videos with the world or want to create useful tutorials for your audience, Filmora is your best companion for all your needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -392,6 +393,13 @@ _“Every accomplishment starts with a decision to try.”_ – A Vintage Though
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Vintage videos** are ultimately the retro videos you have ever imagined. The look is highly inspirational in itself. The vintage effect in photography and videos results in a must-see look that everyone wants to capture all day long. The meaning of vintage is 'the time when something of quality was produced.' When something is called retro, it means old, recognized, and essential. Vintage also resembles love apart from videos and photos. All in all, it's a positive and result-oriented thing to carry on in your videos. And this is what we want to mention in this post relating to the creation of vintage videos.
 
 Here are some [vintage-style video ideas](https://tools.techidaily.com/wondershare/filmora/download/) for you to have a look at.
@@ -399,6 +407,13 @@ Here are some [vintage-style video ideas](https://tools.techidaily.com/wondersha
 * [Part 1: What to Consider When Shooting a Vintage Video?](#part1)
 * [Part 2: How to Create a Stunning Vintage Video?](#part2)
 * [Part 3: Tips to Make Your Vintage Videos Stand Out](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to Consider When Shooting a Vintage Video?
 
@@ -436,13 +451,6 @@ What you need to get started as both beginner and professional is Wondershare Fi
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The very step is to add the video by clicking the + icon. We have added the three **sample videos** from the library of Wondershare Filmora itself. Adjust them in the timeline as per your requirements.
 
 After doing all the essential editing functions, click on the **Effects tab** given at the upper-left corner. Simply type the word Old in the Search tab.
@@ -473,19 +481,6 @@ Now, you need to desaturate the video clip with Ash & Willow filters. We have ty
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then, we have combined the black & white filter with an overlay of Film Reel Horizontal. It will help you sell the effect and make the video look more authentic. However, the only application of Black & White or Ash & Willow filters is not going to make any creative thing in terms of vintage videos. You have to mix overlays with features such as Random Dust or Film Reel Horizontal.
 
 **Step 5:** Apply Black & White and Old Film Color Correction Presets to the video
@@ -504,13 +499,6 @@ Following the helpful tips would assist you in creating awesome retro videos.
 * Add overlays and respective filters to recreate a required vintage look. You must add things that dust, scratch, and grain the heck out from the video that you have created.
 * Lower the frame rate or FPS to create an excellent vintage look. You can make it to 18 or 14 FPS depending upon the aesthetic requirements.
 * Keep an eye on black and white filters you have used. It's because more of a black and white can ruin the actual vintage experience.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -604,13 +592,6 @@ On the other hand, the subcategory of Sepia Tone features Sun-Kissed & Rise Filt
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, you need to desaturate the video clip with Ash & Willow filters. We have typed Ash in the Search bar, and you can see the filter below. These filters are essential to desaturate the video with preset contrast, brightness, or exposure values.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
@@ -622,6 +603,13 @@ Then, we have combined the black & white filter with an overlay of Film Reel Hor
 You can also access the Advanced color correction Tab of Filmora from the Color button. It also features Preset and Adjusts Tabs to desaturate footage. The Preset presents a variety of options, including Black & White and Old Film. You just need to right-click the particular preset and select the Apply option.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips to Make Your Vintage Videos Stand Out
 
@@ -893,20 +881,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>[Updated] 2024 Approved Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[Updated] Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>2024 Approved Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>2024 Approved The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-down-the-fundamentals-of-lut-design-for-2024/"><u>Breaking Down the Fundamentals of LUT Design for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-steam-installation-problems-on-pc/"><u>Eliminating Steam Installation Problems on PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/finding-opportunities-where-youtube-collaborations-thrive-for-2024/"><u>Finding Opportunities Where YouTube Collaborations Thrive for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/harmonic-haven-best-dj-template-selections-for-2024/"><u>Harmonic Haven Best DJ Template Selections for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-choosing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>In 2024, Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-creator-to-earnings-successful-youtube-short-strategies/"><u>In 2024, From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-to-live-stream-your-google-meet-on-youtube/"><u>In 2024, Step-By-Step Guide to Live Stream Your Google Meet on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-6-youtube-outros-made-easy-and-free-guide/"><u>In 2024, Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/lush-looks-and-flawless-filters-building-your-vlog-empire-for-2024/"><u>Lush Looks and Flawless Filters Building Your Vlog Empire for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shining-up-your-videos-on-android-for-2024/"><u>Shining Up Your Videos on Android for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-5-monitors-unleashing-full-spectrum-colors/"><u>[New] Leading 5 Monitors Unleashing Full Spectrum Colors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-fixes-for-green-screen-glitches-on-mac-video-editing-platform/"><u>[New] Quick Fixes for Green Screen Glitches on Mac Video Editing Platform</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-social-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-5-screen-capture-utilities-for-windows-users/"><u>[New] Top 5 Screen Capture Utilities for Windows Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt/"><u>[New] Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picart-tips-for-perfect-background-removal/"><u>[Updated] PicArt Tips for Perfect Background Removal</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revel-in-the-power-of-leading-video-rank-tracker-tools/"><u>2024 Approved Revel in the Power of Leading Video Rank Tracker Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stepwise-approach-effortlessly-incorporate-subtitlescc-into-your-youtube-content/"><u>2024 Approved Stepwise Approach Effortlessly Incorporate Subtitles/CC Into Your YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-easiest-way-to-shorten-youtube-links-here-are-the-top-5-choices/"><u>2024 Approved The Easiest Way to Shorten YouTube Links? Here Are the Top 5 Choices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/get-a-cleaner-look-in-your-videos-quickly-and-easily-for-2024/"><u>Get a Cleaner Look in Your Videos Quickly and Easily for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-diy-approach-downloading-and-personalizing-your-whatsapp-ringtone/"><u>In 2024, A DIY Approach Downloading & Personalizing Your WhatsApp Ringtone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-blaze-curve-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Blaze Curve 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>In 2024, The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/official-winx-pro-media-suite-premium-free-download-for-dvd-extraction-and-high-definition-conversion/"><u>Official WinX Pro Media Suite – Premium Free Download for DVD Extraction & High-Definition Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-recording-on-join-with-me-calls-made-simple/"><u>Step-by-Step Tutorial: Recording on 'Join with Me' Calls Made Simple</u></a></li>
 </ul></div>
 
