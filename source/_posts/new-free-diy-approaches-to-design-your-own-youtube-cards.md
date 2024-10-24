@@ -1,7 +1,7 @@
 ---
 title: "[New] Free DIY Approaches to Design Your Own YouTube Cards"
-date: 2024-07-29T22:10:59.049Z
-updated: 2024-07-30T22:10:59.049Z
+date: 2024-10-21T16:04:08.348Z
+updated: 2024-10-24T16:08:42.044Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 # How to Create YouTube Intros & End Cards - Free and Easy
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 [How To Make an End Card](#how-to)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -72,9 +66,6 @@ This is another site with really professional looking intros for $5\. They only 
 
 You can create a simple intro card in **Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -87,8 +78,12 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: End Cards
 
 When your video ends, YouTube will recommend a selection of videos users may want to watch next. Often, these recommendations will not include more of your videos.
@@ -122,10 +117,14 @@ Some creators will leave their end cards at that and play music overtop, but it 
 13. Repeat for any other thumbnails. For your subscribe button, change where it said ‘Video’ to ‘Subscribe’ and enter your channel URL.
 14. Click **Apply Changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -133,12 +132,28 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-memorable-book-trailers-explored/"><u>[New] 2024 Approved Memorable Book Trailers Explored</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-simplified-cross-platform-listening-top-5-playlist-conversion-resources/"><u>[New] Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ais-pioneering-role-in-generating-podcast-names/"><u>[Updated] 2024 Approved AI's Pioneering Role in Generating Podcast Names</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pinpoint-pioneering-podium-places/"><u>[Updated] 2024 Approved Pinpoint Pioneering Podium Places</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-steps-to-boost-your-instagram-unboxings/"><u>[Updated] In 2024, Essential Steps to Boost Your Instagram Unboxings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-capture-guide-tunefab-pro/"><u>[Updated] Ultimate Screen Capture Guide - Tunefab Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-sales-crafting-engaging-youtube-channel-trailers/"><u>2024 Approved Maximizing Sales Crafting Engaging YouTube Channel Trailers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-through-common-youtube-short-difficulties/"><u>2024 Approved Navigating Through Common YouTube Short Difficulties</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-elevate-your-video-in-the-trending-topics/"><u>2024 Approved Strategies to Elevate Your Video in the Trending Topics</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 12 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expand-audiences-quickly-using-short-form-content-for-2024/"><u>Expand Audiences Quickly Using Short Form Content for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>In 2024, Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>In 2024, YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-on-your-mac-best-practices-and-tips-for-seamless-use/"><u>Navigating ChatGPT on Your Mac - Best Practices & Tips for Seamless Use</u></a></li>
+</ul></div>
 

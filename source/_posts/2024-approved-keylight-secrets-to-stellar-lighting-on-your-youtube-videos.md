@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Keylight  Secrets to Stellar Lighting on Your YouTube Videos\""
-date: 2024-10-14T16:20:04.982Z
-updated: 2024-10-18T16:42:57.008Z
+date: 2024-10-18T16:12:46.112Z
+updated: 2024-10-24T16:08:02.317Z
 tags:
   - ai video
   - ai youtube
@@ -40,10 +40,10 @@ Below, I’ll go into detail on how you can set up your lighting equipment to ma
 Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.  Window Lighting
@@ -54,6 +54,13 @@ Window lighting for me was especially difficult to work with because I live in a
 
 ![YouTube Video Lighting](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
 
 ### 2. Home Lighting
@@ -61,6 +68,13 @@ Above are two freeze frames from one of Daniel's past window-lit vlogs. Although
 Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
 
 ![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
 
@@ -77,10 +91,10 @@ If you rather not deal with all the window and home lighting challenges, you can
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. 3-Point Lighting
@@ -88,19 +102,6 @@ The first thing you’ll want to do to set up studio lighting in your home is to
 The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
 
 ![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
 
@@ -115,13 +116,6 @@ As a YouTuber, you may not only want yourself to be seen optimally with proper l
 What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Touch Up YouTube Videos with Filmora
 
@@ -146,19 +140,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-journey-through-the-maze-old-vs-innovative-rpgs/"><u>[New] In 2024, Journey Through the Maze Old Vs. Innovative RPGs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-immediate-techniques-for-instagram-video-audio-extraction-mp3-for-2024/"><u>[Updated] Immediate Techniques for Instagram Video Audio Extraction (MP3) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-websites-for-extracting-youtube-intros/"><u>2024 Approved Leading Websites for Extracting YouTube Intros</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ethical-editors-handbook-on-sensitive-content/"><u>2024 Approved The Ethical Editor's Handbook on Sensitive Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-the-potential-of-youtube-videos-with-these-simple-gif-creation-steps-pcmobile/"><u>2024 Approved Unlock the Potential of YouTube Videos with These Simple GIF Creation Steps (PC/Mobile)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-iphone-extras-that-elevate-usage-and-style/"><u>Elite iPhone Extras That Elevate Usage and Style</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>In 2024, History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-safely-stream-your-soundtracks-three-methods-from-youtube/"><u>In 2024, Safely Stream Your Soundtracks Three Methods From YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stream-away-the-leading-online-video-havens/"><u>In 2024, Stream Away The Leading Online Video Havens</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/linking-youtubes-harmony-to-imovie-clips-effortlessly-for-2024/"><u>Linking Youtube's Harmony to iMovie Clips Effortlessly for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speed-up-your-fallout-uge-gameplay-by-reducing-extended-loading-intervals/"><u>Speed Up Your Fallout Uge Gameplay by Reducing Extended Loading Intervals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-into-the-directors-chair-for-sims-4-playback/"><u>Step Into the Director's Chair for Sims 4 Playback</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker-for-2024/"><u>Updated From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[New] From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-top-10-online-subtitle-converters-for-free-convert-srt-files/"><u>[New] Top 10 Online Subtitle Converters for FREE Convert SRT Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humor-galore-iphone-edition/"><u>[Updated] Humor Galore IPhone Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-urban-oasis-creation-bridging-concrete-with-wildlife-habitats/"><u>2024 Approved Urban Oasis Creation Bridging Concrete with Wildlife Habitats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-s17e-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo S17e</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/explore-deep-with-these-immersive-vr-clips-for-2024/"><u>Explore Deep with These Immersive VR Clips for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/explore-new-movie-landscapes-top-7-alternates-for-2024/"><u>Explore New Movie Landscapes - Top 7 Alternates for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-c32-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia C32 Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shine-on-mastering-the-art-of-illumination-for-youtube-videos/"><u>In 2024, Shine On Mastering the Art of Illumination for YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-social-signals-and-their-role-in-youtube-popularity/"><u>In 2024, Social Signals and Their Role in YouTube Popularity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>In 2024, The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/meeting-mastery-streaming-google-meet-directly-to-youtube-for-2024/"><u>Meeting Mastery Streaming Google Meet Directly to YouTube for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/supercharge-your-seo-strategies-trust-in-cookiebot/"><u>Supercharge Your SEO Strategies - Trust in Cookiebot</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-16-free-video-editing-software-for-beginners-very-easy-to-use/"><u>Top 16 Free Video Editing Software for Beginners Very Easy to Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-mic-on-skype-for-windows-10-users/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Mic on Skype for Windows 10 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-10-17T20:08:03.936Z
-updated: 2024-10-18T20:30:17.401Z
+date: 2024-10-22T16:09:23.764Z
+updated: 2024-10-24T16:12:45.105Z
 tags:
   - ai video
   - ai youtube
@@ -46,10 +46,10 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 Here are 4 things to talk about in your daily vlog:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are you watching/reading?
@@ -57,6 +57,13 @@ Here are 4 things to talk about in your daily vlog:
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
 
 By commenting on what you’re watching/reading you have a better chance of capitalizing on a trending topic people are searching for. You could also find yourself an audience by becoming involved in fan communities.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Snapshots of Your Day
 
@@ -75,10 +82,16 @@ It does not matter what it is that is making you have this strong reaction (unle
 Alternatively: you could do a vlog about how happy you are to have gotten engaged or a vlog about how happy you are that it was sunny today, and your enthusiasm will carry your audience through either video with you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What did you learn today?
@@ -97,6 +110,13 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 
 Sea monkeys can survive in space.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## EVERYTHING
 
 You could also just flick the camera on and tell the full story of your day like you’d do in a traditional daily blog. What did you have for breakfast, how was school/work, did you talk to any friends, how was the weather – anything and everything. Generally, these videos can run a bit long and don’t have a lot of snappy editing. They’re faster to make, which is good if you’re doing them every day, but the unpolished nature of them won’t appeal to everyone. It will be exactly what appeals to some people, though.
@@ -105,25 +125,11 @@ You could also just flick the camera on and tell the full story of your day like
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **We’ve got a new eBook out!**
 
 It’s got strategies that have worked for other YouTubers, boiled down to simple action steps.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -140,21 +146,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-deciphering-the-disappearance-of-recommended-video-content-in-your-newsfeed-for-2024/"><u>[New] Deciphering the Disappearance of Recommended Video Content in Your Newsfeed for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-leading-speech-gatherers-in-educational-environments/"><u>[New] In 2024, Leading Speech Gatherers in Educational Environments</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhance-visibility-youtube-thumbnails-made-simple/"><u>[Updated] Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-announce-your-first-social-giving-drive/"><u>2024 Approved How to Announce Your First Social Giving Drive</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-igniting-online-frenzy-essential-trending-hashes/"><u>2024 Approved Igniting Online Frenzy Essential Trending Hashes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>2024 Approved Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-a-slot-in-youtube-finding-your-market/"><u>2024 Approved Securing a Slot in YouTube Finding Your Market</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-youtube-channel-url-in-minutes/"><u>2024 Approved Transform Your YouTube Channel URL in Minutes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatibility-suite-xbox-to-windows-systems/"><u>Compatibility Suite: Xbox to Windows Systems</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/essential-multi-purpose-video-changers-for-the-latest-microsoft-operating-system/"><u>Essential Multi-Purpose Video Changers for the Latest Microsoft Operating System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f25-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F25 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-master-iphoneipad-video-posting-to-youtube/"><u>In 2024, Master iPhone/iPad Video Posting to YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-your-craft-exclusive-free-templates-and-tips/"><u>In 2024, Master Your Craft Exclusive Free Templates & Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>In 2024, Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creative-storytelling-the-art-of-jump-cutting/"><u>In 2024, Unlock Creative Storytelling The Art of Jump Cutting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-youtubes-profit-maze-for-2024/"><u>Navigating YouTube's Profit Maze for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-best-script-innovation-place/"><u>[New] 2024 Approved Best Script Innovation Place</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nviting-support-without-coercion-listeners-guide-for-2024/"><u>[New] Inviting Support Without Coercion Listener's Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-introducing-windows-xps-media-production-hub/"><u>[Updated] 2024 Approved Introducing Windows XP's Media Production Hub</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-freefire-content-creation-on-youtube/"><u>2024 Approved Prime FreeFire Content Creation on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-screen-grabs-compliance-on-youtube/"><u>2024 Approved Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-technique-to-implement-youtube-playlists-smoothly-into-web-pages/"><u>2024 Approved Technique to Implement YouTube Playlists Smoothly Into Web Pages</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turbocharge-youtube-videos-efficient-rendering-fast-transfer/"><u>2024 Approved Turbocharge YouTube Videos Efficient Rendering, Fast Transfer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-camon-20-premier-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-repair-techniques-for-when-your-system-cant-find-d3dx924dll/"><u>Easy Repair Techniques for When Your System Can't Find d3dx9_24.dll</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gamers-signature-creating-iconic-banners-with-templates-for-2024/"><u>Gamers' Signature Creating Iconic Banners with Templates for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-custom-minecraft-gif-templates/"><u>In 2024, Free Custom Minecraft GIF Templates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-creative-commons-framework-effectively/"><u>In 2024, Navigating YouTube's Creative Commons Framework Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/msi-raider-xg9-beast-mode-activated/"><u>MSI Raider XG9: Beast Mode Activated</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-market-of-dronescopic-stabilizers/"><u>Navigating the Market of Dronescopic Stabilizers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974683870-update-and-install-amd-radeon-rx-480-drivers-with-simple-steps/"><u>Update and Install AMD Radeon RX 480 Drivers with Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726218822430-vob-movavi/"><u>オンラインで自由にVOBファイル変換 - Movaviが教える手順!</u></a></li>
 </ul></div>
 

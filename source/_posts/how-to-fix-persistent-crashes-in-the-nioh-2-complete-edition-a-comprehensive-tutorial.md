@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2024-10-17T22:10:29.841Z
-updated: 2024-10-18T18:33:33.987Z
+date: 2024-10-20T16:04:58.848Z
+updated: 2024-10-24T16:04:58.793Z
 tags:
   - win11
   - win10
@@ -38,35 +38,28 @@ Here are the steps:
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
- Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
 ### Fix 2 – Update your graphics driver
 
@@ -97,10 +90,10 @@ There are mainly two ways you can update the graphics driver:
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
@@ -118,6 +111,13 @@ There are mainly two ways you can update the graphics driver:
 **FPS Limit** : Set the value to_between 30 and 60_
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
 
@@ -145,24 +145,24 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -189,18 +189,20 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-best-of-the-best-hexacopter-drone-reviews/"><u>[New] In 2024, Best of the Best Hexacopter Drone Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>[New] In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-tunes-explore-video-music-characters/"><u>[New] Quick Tunes Explore Video Music Characters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-who-earns-more-in-the-video-market-dailymovement-vs-youtube/"><u>[New] Who Earns More in the Video Market? DailyMovement Vs YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-expert-reviews-best-game-capture-apps-for-2024/"><u>[Updated] Expert Reviews Best Game Capture Apps for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] In 2024, Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-edit-youtube-channel-description/"><u>2024 Approved How to Edit YouTube Channel Description</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-outstanding-films-not-on-mainstream-lists/"><u>2024 Approved Outstanding Films Not on Mainstream Lists</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-engaging-viewers-and-boosting-traffic-on-youtube/"><u>2024 Approved The Ultimate Guide to Engaging Viewers and Boosting Traffic on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-roadmap-to-configuring-an-apple-watch-insights/"><u>Beginner's Roadmap to Configuring an Apple Watch (Insights )</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-follow-the-flow-of-forum-fancies/"><u>In 2024, Follow the Flow of Forum Fancies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-a38-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo A38 for Parents | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/ios-mastery-effortlessly-extracting-youtube-videos-for-2024/"><u>IOS Mastery Effortlessly Extracting Youtube Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamline-your-content-with-these-4-instagram-looping-hacks/"><u>[New] In 2024, Streamline Your Content with These 4 Instagram Looping Hacks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-gamesnapper-strategies-for-captures/"><u>[New] In 2024, Ultimate GameSnapper Strategies for Captures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tailor-fb-videos-for-maximum-full-screen-effect/"><u>[Updated] In 2024, Tailor FB Videos for Maximum Full-Screen Effect</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-joy-one-anime-at-a-time-youtubes-best-channels-list/"><u>2024 Approved Find Joy, One Anime at a Time YouTube's Best Channels (List)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>2024 Approved Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-choice-high-quality-laptops-for-media-workers/"><u>2024 Approved Professional Choice High-Quality Laptops for Media Workers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-of-personalization-upgrade-your-youtube-url/"><u>2024 Approved The Power of Personalization Upgrade Your YouTube URL</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mpgmp4/"><u>移動電影格式自由切換 - 使用Movavi MPG到MP4無成本方法</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-professional-content-creation-tools-review-studio-vs-beta/"><u>In 2024, Professional Content Creation Tools Review Studio Vs. Beta</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocket-to-youtube-partner-status-with-10k-vistas-goal/"><u>In 2024, Skyrocket to YouTube Partner Status with 10K Vistas Goal</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-p11-pro-review-a-nice-tablet-with-some-drawbacks/"><u>Lenovo P11 Pro Review: A Nice Tablet With Some Drawbacks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/loop-and-relish-youtube-videos-double-the-delight-on-tv-for-2024/"><u>Loop & Relish YouTube Videos, Double the Delight on Tv for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smooth-media-transition-pc-files-to-iphone-for-2024/"><u>Smooth Media Transition PC Files To iPhone for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-independent-game-apps-for-screen-free-android-playing-for-2024/"><u>Top Independent Game Apps for Screen-Free Android Playing for 2024</u></a></li>
 </ul></div>
 

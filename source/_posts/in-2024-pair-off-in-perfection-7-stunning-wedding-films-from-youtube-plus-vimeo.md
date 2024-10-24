@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pair Off in Perfection  7 Stunning Wedding Films From Youtube + Vimeo\""
-date: 2024-10-12T17:52:27.536Z
-updated: 2024-10-18T19:38:05.970Z
+date: 2024-10-18T16:16:20.762Z
+updated: 2024-10-24T16:00:57.440Z
 tags:
   - ai video
   - ai youtube
@@ -128,13 +128,6 @@ Watching the perfect wedding video always brings goose bumps, when you see the c
 
 Read More to Get: [5 Methods to Go Frame by Frame on YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Verdict
 
 The list ends here and those were some wedding videos you must watch. We wish that the one reading this post will share his/her story and beautiful wedding video too one day. So, which one is the best wedding video according to you? Tell us your choice and we hope that you like this list. Thanks!
@@ -257,13 +250,6 @@ Watching the perfect wedding video always brings goose bumps, when you see the c
 
 Read More to Get: [5 Methods to Go Frame by Frame on YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Verdict
 
 The list ends here and those were some wedding videos you must watch. We wish that the one reading this post will share his/her story and beautiful wedding video too one day. So, which one is the best wedding video according to you? Tell us your choice and we hope that you like this list. Thanks!
@@ -271,13 +257,6 @@ The list ends here and those were some wedding videos you must watch. We wish th
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -303,6 +282,13 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Nov 01, 2022• Proven solutions
@@ -322,6 +308,13 @@ In this article, I’m going to help you figure that out.
 * [Part 5: Aperture](#aperture)
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
@@ -521,6 +514,162 @@ This table shows you the focal lengths needed to achieve the same shot between c
 
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
+
+Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
+
+But do you even need a fast lens?
+
+### Vlogging With a Fast Lens
+
+#### Pros of Vlogging With a Fast Lens
+
+* Better low-light performance
+* Better autofocus performance
+* Better "bokeh" (out-of-focus areas, like your background, having that nice blurry look that you see in a lot of movies)
+
+#### Cons of Vlogging With a Fast Lens
+
+* More expensive
+* Moving subjects more likely to get out of focus when shooting with a large aperture
+* Better continuous autofocus performance needed when shooting moving subjects with a large aperture
+
+### Optical Image Stabilization
+
+Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
+
+OIS is very beneficial to have on a lens if you’re a vlogger who films mostly handheld footage. Although this technology adds to the price of your lens as well, it can greatly help you to capture smoother footage that may otherwise be shaky. Nikon calls this technology “Vibration Reduction” (VR) for their lenses.
+
+  In the above video, you can see how much OIS can help to stabilize your footage. MicBergsma simultaneously compares the footage between two GoPro Hero5 Blacks, one with OIS on and one with OIS off.
+
+If, however, you are shooting most of your vlogs on a tripod, you won’t need a lens with OIS.
+
+ Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Nov 01, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The staple of any vlog is the talking headshot, a shot of the speaker talking directly to the audience. You can compose this shot with different kinds of lenses for your interchangeable lens camera.
+
+But which kind of lens is the right lens for you as a vlogger?
+
+In this article, I’m going to help you figure that out.
+
+* [Part 1: Three Focal Length Groups: Wide, Standard, Telephoto](#ThreeFocalLengthGroups)
+* [Part 2: Vlogging With Each Focal Length Group](#VloggingWithEachFocalLengthGroup)
+* [Part 3: Crop Factor](#CropFactor)
+* [Part 4: Focal Length Equivalency Table](#FocalLengthEquivalencyTable)
+* [Part 5: Aperture](#aperture)
+* [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
+* [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Three Focal Length Groups: Wide, Standard, Telephoto
+
+There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
+
+#### Wide-Angle Lens
+
+Wide-angle lenses can “see more.” They allow more of your scene to fit inside your frame. Objects that are closer to the lens appear much bigger while objects that are further away appear even smaller. Perspectives are also enhanced, making close objects and people that just make it into the sides of the frame appear more stretched out. Out of all the other ranges in focal lengths, wide-angle lenses will appear the least zoomed in.
+
+#### Standard Lens
+
+With standard lenses or normal lenses, you won’t get the stretched out objects or enhanced perspectives that you get from wide-angle lenses. Instead, standard lenses are meant to see scenes as the natural human eye is meant to see them. If you shoot a scene with both a wide-angle lens and a standard lens from the same position, you’ll notice that less of the scene fits into your frame. Standard lenses will appear more zoomed-in than wide-angle lenses, but less zoomed-in than telephoto lenses.
+
+#### Telephoto Lens
+
+Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
+
+### Vlogging With Each Focal Length Group
+
+You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
+
+#### When to vlog with a wide-angle lens
+
+Wide-angle lenses are the most commonly used lenses for vlogging. Wide-angle lenses are great when you need to be close to your camera. This might be the case for you if your recording space is small or if you want to film yourself as you hold your camera up with your own hand.
+
+Being close to your camera not only gives you the option to use your camera’s built-in microphone, but it also gives you the option to make use of camera-mounted shotgun microphones.
+
+#### When to vlog with a standard lens
+
+Standard lenses are great when you have more space to be further away from your camera. The perspectives in your shot will look more natural through a standard lens, making your talking head footage feel more corporate or professional. You’ll also be able to get blurrier backgrounds using a standard lens versus a wide-angle lens.
+
+Being further away from your camera, however, means that you’ll have to use a separate microphone positioned closer to you.
+
+#### When to vlog with a telephoto lens
+
+As telephoto lenses are even more zoomed in, you’ll need to be even further away from your camera to fit yourself inside your camera frame. Why would any vlogger ever need to be that far away from their camera? One word… teleprompter. If you want or need to stick to a script, you’ll have to be far away enough from your camera that it doesn’t appear like your eyes are scanning left to right. You then close in the distance with a telephoto lens.
+
+  In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
+
+### Crop Factor
+
+Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
+
+ ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
+
+### Focal Length Equivalency Table
+
+This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
+
+| Focal Length / Sensor       | Full Frame | APS-C | Micro 4/3 |
+| --------------------------- | ---------- | ----- | --------- |
+| Wide (Handheld Selfie-Safe) | 16mm       | 10mm  | 8mm       |
+| Wide (Handheld Selfie-Safe) | 18mm       | 11mm  | 9mm       |
+| Wide (Handheld Selfie-Safe) | 24mm       | 15mm  | 12mm      |
+| Wide                        | 35mm       | 22mm  | 18mm      |
+| Standard                    | 50mm       | 31mm  | 25mm      |
+| Telephoto                   | 70mm       | 44mm  | 35mm      |
+| Telephoto                   | 100mm      | 63mm  | 50mm      |
+| Telephoto                   | 200mm      | 125mm | 100mm     |
+
+### Aperture
+
+ ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
+
+ The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
+
+ ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
+
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
 
 Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
@@ -619,18 +768,18 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
 
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
@@ -649,6 +798,13 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 100mm      | 63mm  | 50mm      |
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
@@ -656,13 +812,6 @@ This table shows you the focal lengths needed to achieve the same shot between c
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
 
@@ -685,154 +834,11 @@ But do you even need a fast lens?
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### Optical Image Stabilization
-
-Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
-
-OIS is very beneficial to have on a lens if you’re a vlogger who films mostly handheld footage. Although this technology adds to the price of your lens as well, it can greatly help you to capture smoother footage that may otherwise be shaky. Nikon calls this technology “Vibration Reduction” (VR) for their lenses.
-
-  In the above video, you can see how much OIS can help to stabilize your footage. MicBergsma simultaneously compares the footage between two GoPro Hero5 Blacks, one with OIS on and one with OIS off.
-
-If, however, you are shooting most of your vlogs on a tripod, you won’t need a lens with OIS.
-
- Looking for ways to set up your talking-head shot for YouTube with any of these lenses? Check out our post on [4 Ways To Set Up Your Talking-Head Shots For YouTube](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The staple of any vlog is the talking headshot, a shot of the speaker talking directly to the audience. You can compose this shot with different kinds of lenses for your interchangeable lens camera.
-
-But which kind of lens is the right lens for you as a vlogger?
-
-In this article, I’m going to help you figure that out.
-
-* [Part 1: Three Focal Length Groups: Wide, Standard, Telephoto](#ThreeFocalLengthGroups)
-* [Part 2: Vlogging With Each Focal Length Group](#VloggingWithEachFocalLengthGroup)
-* [Part 3: Crop Factor](#CropFactor)
-* [Part 4: Focal Length Equivalency Table](#FocalLengthEquivalencyTable)
-* [Part 5: Aperture](#aperture)
-* [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
-* [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
-
-### Three Focal Length Groups: Wide, Standard, Telephoto
-
-There are three main ranges in focal lengths that camera lenses can be categorized into wide, standard, and telephoto.
-
-#### Wide-Angle Lens
-
-Wide-angle lenses can “see more.” They allow more of your scene to fit inside your frame. Objects that are closer to the lens appear much bigger while objects that are further away appear even smaller. Perspectives are also enhanced, making close objects and people that just make it into the sides of the frame appear more stretched out. Out of all the other ranges in focal lengths, wide-angle lenses will appear the least zoomed in.
-
-#### Standard Lens
-
-With standard lenses or normal lenses, you won’t get the stretched out objects or enhanced perspectives that you get from wide-angle lenses. Instead, standard lenses are meant to see scenes as the natural human eye is meant to see them. If you shoot a scene with both a wide-angle lens and a standard lens from the same position, you’ll notice that less of the scene fits into your frame. Standard lenses will appear more zoomed-in than wide-angle lenses, but less zoomed-in than telephoto lenses.
-
-#### Telephoto Lens
-
-Out of all the other ranges in focal lengths, telephoto lenses will appear the most zoomed in. This can be beneficial for the shooter who wants to get a closer shot of a scene without having to physically be in close proximity to the scene. Objects that are further away in the background also appear larger and closer than they would appear on wide-angle or standard lenses.
-
-### Vlogging With Each Focal Length Group
-
-You can get your talking head footage using lenses from any of the three focal length groups. Depending on how you plan to vlog most of the time, though, one of the three focal lengths might be more suitable for you.
-
-#### When to vlog with a wide-angle lens
-
-Wide-angle lenses are the most commonly used lenses for vlogging. Wide-angle lenses are great when you need to be close to your camera. This might be the case for you if your recording space is small or if you want to film yourself as you hold your camera up with your own hand.
-
-Being close to your camera not only gives you the option to use your camera’s built-in microphone, but it also gives you the option to make use of camera-mounted shotgun microphones.
-
-#### When to vlog with a standard lens
-
-Standard lenses are great when you have more space to be further away from your camera. The perspectives in your shot will look more natural through a standard lens, making your talking head footage feel more corporate or professional. You’ll also be able to get blurrier backgrounds using a standard lens versus a wide-angle lens.
-
-Being further away from your camera, however, means that you’ll have to use a separate microphone positioned closer to you.
-
-#### When to vlog with a telephoto lens
-
-As telephoto lenses are even more zoomed in, you’ll need to be even further away from your camera to fit yourself inside your camera frame. Why would any vlogger ever need to be that far away from their camera? One word… teleprompter. If you want or need to stick to a script, you’ll have to be far away enough from your camera that it doesn’t appear like your eyes are scanning left to right. You then close in the distance with a telephoto lens.
-
-  In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
-
-### Crop Factor
-
-Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
-
- ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
-
- In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
-
-### Focal Length Equivalency Table
-
-This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
-
-| Focal Length / Sensor       | Full Frame | APS-C | Micro 4/3 |
-| --------------------------- | ---------- | ----- | --------- |
-| Wide (Handheld Selfie-Safe) | 16mm       | 10mm  | 8mm       |
-| Wide (Handheld Selfie-Safe) | 18mm       | 11mm  | 9mm       |
-| Wide (Handheld Selfie-Safe) | 24mm       | 15mm  | 12mm      |
-| Wide                        | 35mm       | 22mm  | 18mm      |
-| Standard                    | 50mm       | 31mm  | 25mm      |
-| Telephoto                   | 70mm       | 44mm  | 35mm      |
-| Telephoto                   | 100mm      | 63mm  | 50mm      |
-| Telephoto                   | 200mm      | 125mm | 100mm     |
-
-### Aperture
-
- ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
-
- The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
-
- ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
-
- Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
-
-Fast lenses are more expensive because they cost more to produce. There’s a lot more that goes into them, including larger and higher quality glass elements.
-
-But do you even need a fast lens?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Vlogging With a Fast Lens
-
-#### Pros of Vlogging With a Fast Lens
-
-* Better low-light performance
-* Better autofocus performance
-* Better "bokeh" (out-of-focus areas, like your background, having that nice blurry look that you see in a lot of movies)
-
-#### Cons of Vlogging With a Fast Lens
-
-* More expensive
-* Moving subjects more likely to get out of focus when shooting with a large aperture
-* Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
 ### Optical Image Stabilization
 
@@ -869,15 +875,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-high-end-gamers-guide-to-switch-recordings/"><u>2024 Approved High-End Gamers' Guide to Switch Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-premiere-pros-shadowy-showdown/"><u>2024 Approved Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplified-processes-instantly-clearing-youtube-comments/"><u>2024 Approved Simplified Processes Instantly Clearing Youtube Comments</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-new-era-of-file-management-with-ais-best-tools/"><u>A New Era of File Management with AI's Best Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elite-selection-of-must-see-vr-films/"><u>Elite Selection of Must-See VR Films</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/find-the-forgotten-top-10-innovative-facebook-memes/"><u>Find the Forgotten Top 10 Innovative Facebook Memes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/flash-video-insights-guide-for-2024/"><u>Flash Video Insights Guide for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>In 2024, Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creative-power-of-youtube-themes/"><u>In 2024, Unlock Creative Power of YouTube Themes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/professional-drone-review-best-5-to-consider/"><u>Professional Drone Review Best 5 to Consider</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-youtube-end-screen-templates-for-content-makers/"><u>[Updated] Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-full-slomo-recording-app-review-insightful-2024/"><u>[Updated] Full SloMo Recording App Review - Insightful 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-dialing-in-the-ideal-fb-video-ratio-for-every-post/"><u>2024 Approved Dialing in the Ideal FB Video Ratio for Every Post</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimizing-youtube-closures-a-comprehensive-guide-to-crafting-effective-end-screens-and-cards/"><u>2024 Approved Optimizing YouTube Closures A Comprehensive Guide to Crafting Effective End Screens and Cards</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-adversities-in-digital-self-expression/"><u>2024 Approved Overcoming Adversities in Digital Self-Expression</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-playstation-palace-a-million-gaming-moves/"><u>2024 Approved PlayStation Palace A Million Gaming Moves</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-beauty-blogging-into-cash/"><u>2024 Approved Turning Beauty Blogging Into Cash</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-writing-how-to-access-microsoft-word-for-free-or-at-low-cost/"><u>Affordable Writing: How to Access Microsoft Word for Free or at Low Cost</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expand-horizons-4-compelling-motives-for-adults-learning-languages/"><u>Expand Horizons: 4 Compelling Motives for Adults Learning Languages</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-returns-15-top-stock-market-vids/"><u>In 2024, Maximizing Returns 15 Top Stock Market Vids</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics/"><u>In 2024, Winning Windows Animation The Best 9 Apps to Record Dynamic Graphics</u></a></li>
 </ul></div>
 

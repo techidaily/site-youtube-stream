@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Into YouTube Creation  Crafting Your Top 10 Simple Projects\""
-date: 2024-10-17T22:33:30.034Z
-updated: 2024-10-18T20:56:33.405Z
+date: 2024-10-17T16:04:13.084Z
+updated: 2024-10-24T16:13:39.800Z
 tags:
   - ai video
   - ai youtube
@@ -73,388 +73,380 @@ Are you a Tarantino fan? Why not? When you are struggling to find inspiration fo
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
 
-## 6\. What’s on Your Phone?
-
-There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
-
-Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
-
-## 7\. Make a Slideshow
-
-There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
-
-If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
-
-## 8\. Make a Tutorial
-
-Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
-
-YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-## 9\. 10 Things About You
-
-Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
-
-These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
-
-## 10\. Video Rant
-
-Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
-
-Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
-
-Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
-
-## Start Editing Videos with Beginner-friendly Software
-
-If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
-
-They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
-
-1. [Introduce Yourself](#one)
-2. [Vlog About Your Day](#two)
-3. [Express an Opinion](#three)
-4. [Review Anything](#four)
-5. [Your Favorite Songs / Movies / Etc.](#five)
-6. [What's on Your Phone?](#six)
-7. [Make a Slideshow](#seven)
-8. [Make a Tutorial](#eight)
-9. [10 Things About You](#nine)
-10. [Video Rant](#ten)
-
-## 1\. Introduce Yourself
-
-Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
-
-These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
-
-## 2\. Vlog About Your Day
-
-Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
-
-Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
-
-## 3\. Express An Opinion
-
-Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
-
-Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
-
-You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
-
-## 4\. Review Anything
-
-Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
-
-Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
-
-## 5\. Your Favorite Songs / Movies / Etc
-
-Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
-
-You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
-
-## 6\. What’s on Your Phone?
-
-There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
-
-Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
-
-## 7\. Make a Slideshow
-
-There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
-
-If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
-
-## 8\. Make a Tutorial
-
-Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
-
-YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-## 9\. 10 Things About You
-
-Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
-
-These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
-
-## 10\. Video Rant
-
-Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
-
-Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
-
-Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Start Editing Videos with Beginner-friendly Software
-
-If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
-
-They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
-
-1. [Introduce Yourself](#one)
-2. [Vlog About Your Day](#two)
-3. [Express an Opinion](#three)
-4. [Review Anything](#four)
-5. [Your Favorite Songs / Movies / Etc.](#five)
-6. [What's on Your Phone?](#six)
-7. [Make a Slideshow](#seven)
-8. [Make a Tutorial](#eight)
-9. [10 Things About You](#nine)
-10. [Video Rant](#ten)
-
-## 1\. Introduce Yourself
-
-Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
-
-These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
-
-## 2\. Vlog About Your Day
-
-Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
-
-Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
-
-## 3\. Express An Opinion
-
-Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
-
-Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
-
-You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 4\. Review Anything
-
-Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
-
-Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 5\. Your Favorite Songs / Movies / Etc
-
-Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
-
-You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
-
-## 6\. What’s on Your Phone?
-
-There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
-
-Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 7\. Make a Slideshow
-
-There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
-
-If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
-
-## 8\. Make a Tutorial
-
-Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
-
-YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-## 9\. 10 Things About You
-
-Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
-
-These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
-
-## 10\. Video Rant
-
-Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
-
-Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
-
-Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
-
-## Start Editing Videos with Beginner-friendly Software
-
-If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
-
-They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
-
-1. [Introduce Yourself](#one)
-2. [Vlog About Your Day](#two)
-3. [Express an Opinion](#three)
-4. [Review Anything](#four)
-5. [Your Favorite Songs / Movies / Etc.](#five)
-6. [What's on Your Phone?](#six)
-7. [Make a Slideshow](#seven)
-8. [Make a Tutorial](#eight)
-9. [10 Things About You](#nine)
-10. [Video Rant](#ten)
-
-## 1\. Introduce Yourself
-
-Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
-
-These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
-
-## 2\. Vlog About Your Day
-
-Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
-
-Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
-
-## 3\. Express An Opinion
-
-Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
-
-Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
-
-You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
-
-## 4\. Review Anything
-
-Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
-
-Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 5\. Your Favorite Songs / Movies / Etc
-
-Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
-
-You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
-
-## 6\. What’s on Your Phone?
-
-There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
-
-Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
-
-## 7\. Make a Slideshow
-
-There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
-
-If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
-
-## 8\. Make a Tutorial
-
-Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
-
-YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-## 9\. 10 Things About You
-
-Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
-
-These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
-
-## 10\. Video Rant
-
-Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
-
-Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
-
-Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
-
-## Start Editing Videos with Beginner-friendly Software
-
-If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## 6\. What’s on Your Phone?
+
+There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
+
+Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
+
+## 7\. Make a Slideshow
+
+There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
+
+If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
+
+## 8\. Make a Tutorial
+
+Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
+
+YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 9\. 10 Things About You
+
+Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
+
+These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
+
+## 10\. Video Rant
+
+Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
+
+Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
+
+Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
+
+## Start Editing Videos with Beginner-friendly Software
+
+If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
+
+They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
+
+1. [Introduce Yourself](#one)
+2. [Vlog About Your Day](#two)
+3. [Express an Opinion](#three)
+4. [Review Anything](#four)
+5. [Your Favorite Songs / Movies / Etc.](#five)
+6. [What's on Your Phone?](#six)
+7. [Make a Slideshow](#seven)
+8. [Make a Tutorial](#eight)
+9. [10 Things About You](#nine)
+10. [Video Rant](#ten)
+
+## 1\. Introduce Yourself
+
+Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
+
+These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
+
+## 2\. Vlog About Your Day
+
+Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
+
+Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
+
+## 3\. Express An Opinion
+
+Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
+
+Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
+
+You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
+
+## 4\. Review Anything
+
+Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
+
+Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
+
+## 5\. Your Favorite Songs / Movies / Etc
+
+Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
+
+You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
+
+## 6\. What’s on Your Phone?
+
+There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
+
+Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
+
+## 7\. Make a Slideshow
+
+There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
+
+If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
+
+## 8\. Make a Tutorial
+
+Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
+
+YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+## 9\. 10 Things About You
+
+Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
+
+These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
+
+## 10\. Video Rant
+
+Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
+
+Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
+
+Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
+
+## Start Editing Videos with Beginner-friendly Software
+
+If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
+
+They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
+
+1. [Introduce Yourself](#one)
+2. [Vlog About Your Day](#two)
+3. [Express an Opinion](#three)
+4. [Review Anything](#four)
+5. [Your Favorite Songs / Movies / Etc.](#five)
+6. [What's on Your Phone?](#six)
+7. [Make a Slideshow](#seven)
+8. [Make a Tutorial](#eight)
+9. [10 Things About You](#nine)
+10. [Video Rant](#ten)
+
+## 1\. Introduce Yourself
+
+Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
+
+These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. Vlog About Your Day
+
+Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
+
+Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
+
+## 3\. Express An Opinion
+
+Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
+
+Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
+
+You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
+
+## 4\. Review Anything
+
+Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
+
+Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
+
+## 5\. Your Favorite Songs / Movies / Etc
+
+Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
+
+You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
+
+## 6\. What’s on Your Phone?
+
+There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
+
+Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
+
+## 7\. Make a Slideshow
+
+There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
+
+If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
+
+## 8\. Make a Tutorial
+
+Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
+
+YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+## 9\. 10 Things About You
+
+Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
+
+These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
+
+## 10\. Video Rant
+
+Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
+
+Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
+
+Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
+
+## Start Editing Videos with Beginner-friendly Software
+
+If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Do you need an easy video idea to keep your channel active? A fresh supply of [YouTube video ideas is a necessary ingredient for a successful channel](https://tools.techidaily.com/wondershare/filmora/download/), but generating that fresh supply of ideas is easier said than done. When you’re stuck, the best thing to do can be to keep your ideas simple. Focus on being engaging instead of on coming up with an original idea nobody’s ever tried – your video will be original because you’re the one doing it and you’re unique.
+
+They say that less is more, so let's have a look at how you can apply this principle to practice and create amazing YouTube videos from small ideas.
+
+1. [Introduce Yourself](#one)
+2. [Vlog About Your Day](#two)
+3. [Express an Opinion](#three)
+4. [Review Anything](#four)
+5. [Your Favorite Songs / Movies / Etc.](#five)
+6. [What's on Your Phone?](#six)
+7. [Make a Slideshow](#seven)
+8. [Make a Tutorial](#eight)
+9. [10 Things About You](#nine)
+10. [Video Rant](#ten)
+
+## 1\. Introduce Yourself
+
+Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
+
+These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
+
+## 2\. Vlog About Your Day
+
+Anything that happens during your day can become a topic for your YouTube vlog. Traffic jams, treacherous pets who keep stealing your shoes, or the ridiculous amount of things you had to do in a single day can all become topics for videos you upload to your YouTube channel. Being candid and spontaneous is a sure way to grab the attention of a viewer, but limiting the duration of a vlog to a few minutes is key to ensuring that viewers watch the video until the end.
+
+Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
+
+## 3\. Express An Opinion
+
+Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
+
+Opinion videos are great conversation starters. Expressing an opinion through a YouTube video can get you a lot of comments and even inspire others to take action.
+
+You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
+
+## 4\. Review Anything
+
+Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
+
+Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
+
+## 5\. Your Favorite Songs / Movies / Etc
+
+Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
+
+You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
+
+## 6\. What’s on Your Phone?
+
+There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
+
+Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
+
+## 7\. Make a Slideshow
+
+There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
+
+If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
+
+## 8\. Make a Tutorial
+
+Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
+
+YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+## 9\. 10 Things About You
+
+Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
+
+These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
+
+## 10\. Video Rant
+
+Doing things when you are angry is usually a bad idea, but if you feel so strongly about a particular subject then creating a video rant can be a great idea. Rants don’t even have to be angry, they can be about something that puzzles you or something so great you just can’t get over it. These kinds of videos can get your YouTube channel a lot of comments, likes, and subscribers.
+
+Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
+
+Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
+
+## Start Editing Videos with Beginner-friendly Software
+
+If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -507,6 +499,13 @@ Promote your channel and create quality content to increase these numbers.
 
 ![rules for youtube monetization](https://images.wondershare.com/filmora/article-images/2023/Maximizing-Revenue-How-to-monetize-YouTube-Channel-on-Mobile-in-2023-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Join the YouTube Partner Program
 
 In order to participate in the YouTube Partner Program, you must apply (YPP). YouTube is the top platform for content creators, offering them the chance to monetize their work.
@@ -524,13 +523,6 @@ To join the YPP, you must meet the following requirements:
 * The Community Guidelines strike on your channel is not active
 
 ![join the ypp](https://images.wondershare.com/filmora/article-images/2023/Maximizing-Revenue-How-to-monetize-YouTube-Channel-on-Mobile-in-2023-2.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. The Step-by-Step Guide for Monetizing Your YouTube Channel on Your Phone
 
@@ -560,6 +552,19 @@ To access the YouTube Studio dashboard, click the icon of your channel or profil
 
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/Maximizing-Revenue-How-to-monetize-YouTube-Channel-on-Mobile-in-2023-3.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step - 3 . Monetize your site with Google Adsense
 
 To view YouTube Studio's monetization options, click on the "Monetization" tab. The "Enable" option will appear if you meet the eligibility criteria. To receive your earnings, follow the instructions onscreen to set up Google AdSense.
@@ -588,6 +593,13 @@ YouTube Studio lets you monitor channel performance, identify improvements, and 
 
 ![track analytics](https://images.wondershare.com/filmora/article-images/2023/Maximizing-Revenue-How-to-monetize-YouTube-Channel-on-Mobile-in-2023-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step - 9 . Ensure compliance
 
 Keep in mind YouTube's content policies if you want to maintain your monetization status.
@@ -604,6 +616,13 @@ It is beneficial for creators to use YouTube AdSense, although it is not a relia
 
 Monetizing a website has many methods, but this is the most basic and straightforward one. Various YouTube ad formats provide control over ad placement before or during a video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Sponsorships that are paid
 
 Sponsorship involves paying a content creator to use, demonstrate, or test a brand's product in a video. It benefits both the sponsors and the viewers when brands sponsor creators.
@@ -611,13 +630,6 @@ Sponsorship involves paying a content creator to use, demonstrate, or test a bra
 ### Affiliates
 
 Using affiliate programs is another way of monetizing your YouTube videos. With affiliate marketing, your audience is directed to a brand's landing page or product by clicking an affiliate link. A commission is earned when the user purchases successfully. It is possible to earn extra income through affiliate programs. Offer discounts to your followers when you become an affiliate for a product you already use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The merchandise
 
@@ -863,24 +875,18 @@ We have covered key steps for meeting YouTube's requirements and monetizing vide
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-find-and-change-your-youtube-channel-url-super-easy/"><u>[New] How to Find and Change Your YouTube Channel URL – Super Easy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-iconic-youtube-recognition-click-counter-awards/"><u>[New] Iconic YouTube Recognition - Click Counter Awards</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-echo-chambers-tech-updates/"><u>[New] In 2024, Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-proper-steps-for-incorporating-previous-sessions-in-live-views-for-2024/"><u>[New] Proper Steps for Incorporating Previous Sessions in Live Views for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-your-guide-to-building-stylish-snapchat-filters/"><u>[New] Your Guide to Building Stylish Snapchat Filters</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inside-a-virtual-reality-device-a-basic-overview/"><u>[Updated] In 2024, Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-freeing-up-youtube-views-no-more-grey-lines/"><u>2024 Approved Freeing Up YouTube Views No More Grey Lines</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>2024 Approved From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>2024 Approved How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-subscription-surge-entry-into-monetization-realm/"><u>2024 Approved Subscription Surge Entry Into Monetization Realm</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-proven-fixes-to-address-the-resume-downloading-error-during-an-ipod-update-process/"><u>6 Proven Fixes to Address the 'Resume Downloading' Error During an iPod Update Process</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-a56s-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo A56s 5G Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-itel-s23-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Itel S23 FRP</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-global-content-makers-conference/"><u>In 2024, Global Content Makers' Conference</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-multitude-of-yt-videos-together/"><u>In 2024, Navigating the Multitude of YT Videos Together</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-and-score-top-techniques-for-great-youtube-cinematography/"><u>In 2024, Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/monetary-milestones-steps-to-unlock-your-true-youtube-income-value-for-2024/"><u>Monetary Milestones Steps to Unlock Your True YouTube Income Value for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[New] 2024 Approved Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>[New] How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-tutorial-broadcasting-360-video-on-youtube-live/"><u>[New] Step-by-Step Tutorial Broadcasting 360 Video on YouTube Live</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] 2024 Approved Seamless Transformation Top Tools for YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-zenmotion-hd-comparing-paid-and-free-editors/"><u>[Updated] In 2024, Zenmotion HD Comparing Paid & Free Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-filters-to-perfect-ocean-shoots/"><u>2024 Approved Quintessential Filters to Perfect Ocean Shoots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-youtube-image-enlargement-technique/"><u>2024 Approved Step-by-Step Youtube Image Enlargement Technique</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/diving-into-virtual-worlds-iphone-vr-viewing-101/"><u>Diving Into Virtual Worlds IPhone VR Viewing 101</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Plus to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-smartphone-camera-recording-tools-iphoneandroid-edition/"><u>In 2024, Ultimate Smartphone Camera Recording Tools - iPhone/Android Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-greenprints-a-treasure-trove-of-free-templates-for-cinematic-professionals/"><u>In 2024, Visual Greenprints A Treasure Trove of Free Templates for Cinematic Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stop-repetitive-amd-software-malfunctions/"><u>Stop Repetitive AMD Software Malfunctions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-for-engrossing-youtube-stories-in-23/"><u>The Ultimate List for Engrossing YouTube Stories in '23</u></a></li>
 </ul></div>
 

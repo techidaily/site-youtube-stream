@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-10-15T19:05:27.199Z
-updated: 2024-10-18T17:36:23.309Z
+date: 2024-10-21T16:11:19.617Z
+updated: 2024-10-24T16:00:12.950Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -41,6 +48,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
@@ -57,19 +71,40 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -84,13 +119,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -99,13 +127,6 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
@@ -123,24 +144,10 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -169,22 +176,17 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[New] Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-eden-echoes-best-rural-role-playing-realms/"><u>[New] In 2024, Eden Echoes Best Rural Role-Playing Realms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-optimal-screen-recorder-selection-for-youtube-professionals/"><u>[New] Optimal Screen Recorder Selection for YouTube Professionals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-film-crafting-from-script-to-screen/"><u>[Updated] Film Crafting From Script to Screen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-a-tripod-for-vlogging/"><u>[Updated] How To Use a Tripod for Vlogging</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mapping-memorable-media-metaphors/"><u>2024 Approved Mapping Memorable Media Metaphors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-art-of-recording-youtube-videos-without-spending/"><u>2024 Approved Master the Art of Recording YouTube Videos Without Spending</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-joke-ology-building-your-own-hilarious-memes/"><u>2024 Approved Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-advanced-youtube-studio-editing/"><u>2024 Approved The Essential Guide to Advanced YouTube Studio Editing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/dissecting-the-dynamics-of-aurora-high-quality-outputs-for-2024/"><u>Dissecting the Dynamics of Aurora High-Quality Outputs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/frei-verfugbare-techniken-fur-die-konvertierung-von-mts-videos-in-mp4-format/"><u>Frei Verfügbare Techniken Für Die Konvertierung Von MTS-Videos in MP4 Format</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>In 2024, Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>In 2024, Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-for-2024/"><u>Monetize Like a Pro How to Use Youtube Studio on Any Device for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-deal-on-the-upcoming-apple-watch-series-10-exclusive-99-preorder-offer-at-best-buy-tips-and-tricks-from-zdnet/"><u>Secure Your Deal on the Upcoming Apple Watch Series 10: Exclusive $99 Preorder Offer at Best Buy – Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-10t-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme 10T 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-content-strategy-mastery-selecting-top-rank-trackers-uncovered-for-2024/"><u>[New] Content Strategy Mastery - Selecting Top Rank Trackers Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-photosculptor-kit/"><u>[New] PhotoSculptor Kit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtubes-video-editor-essential-tips-and-tricks/"><u>2024 Approved Mastering YouTube's Video Editor Essential Tips and Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-unreliable-are-artificial-intelligence-systems-in-spotting-duplicate-articles/"><u>How Unreliable Are Artificial Intelligence Systems in Spotting Duplicate Articles?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bringing-your-sony-camcorder-videos-to-life-advanced-editing-techniques/"><u>In 2024, Bringing Your Sony Camcorder Videos to Life Advanced Editing Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-411-on-navigating-youtube-shorts/"><u>In 2024, The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-video-potential-key-tactics-for-backlink-creation/"><u>In 2024, Unleash Video Potential Key Tactics for Backlink Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-urban-elegance-best-6-modern-mc-mansions/"><u>In 2024, Urban Elegance Best 6 Modern MC Mansions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instantaneous-effortless-podcast-live-for-2024/"><u>Instantaneous Effortless Podcast Live for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-latest-amd-radeon-hd-7870-drivers-for-windows-11/"><u>Step-by-Step Tutorial on Downloading and Installing Latest AMD Radeon HD 7870 Drivers for Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Individual Tracks to Albums  Building a Personalized Soundtrack on Web & Mobile\""
-date: 2024-10-12T21:37:26.189Z
-updated: 2024-10-18T16:40:50.560Z
+date: 2024-10-19T16:04:00.647Z
+updated: 2024-10-24T16:14:50.635Z
 tags:
   - ai video
   - ai youtube
@@ -26,13 +26,6 @@ So, if you are looking for information on creating a YouTube music playlist on y
 
 Are you one of those who want to listen to their favorite tracks while working out or carrying on their work-related tasks? If that's the case, a YouTube Playlist might come in handy as you don't have to search again and again for your songs on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How To Create a YouTube Music Playlist on the Web?
 
 If you are using a Windows or Mac computer and want to create a YouTube music playlist on a web browser, follow the below steps:
@@ -40,13 +33,6 @@ If you are using a Windows or Mac computer and want to create a YouTube music pl
 Step1 In the first step, turn on your PC, launch a web browser from the desktop or Dock, and head to the[YouTube](https://www.youtube.com/) website. Next, Sign into your account with your Google email ID if you are not already logged in.
 
 ![signing into youtube](https://images.wondershare.com/filmora/article-images/2023/03/signing-into-youtube.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -56,6 +42,19 @@ Step2 When you have signed in, look for your favorite track on the YouTube live 
 
 ![saving youtube video music](https://images.wondershare.com/filmora/article-images/2023/03/saving-youtube-video-music.png)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3
 
 * **Now**, select the **"Create a new playlist"**
@@ -144,13 +143,6 @@ Step3
 
 ![youtube create a new playlist](https://images.wondershare.com/filmora/article-images/2023/03/youtube-create-a-new-playlist.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The differences between the three options are:
 
 * A **Public** playlist is a list of videos that any random person can see, access, or use it.
@@ -163,14 +155,14 @@ Step4 Repeat the second and third steps to save all the other songs you wish to 
 
 ![accessing youtube playlists on web](https://images.wondershare.com/filmora/article-images/2023/03/accessing-youtube-playlists-on-web.png)
 
-![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You can always edit your YouTube music playlist by changing its name, privacy, and description or adding and removing any tracks. It is also possible to delete any of your playlists or create and save multiple playlists on your device's web browser.
 
@@ -191,13 +183,6 @@ Step3 In the next step, type in the name of your new playlist, select your priva
 ![creating new youtube music playlist on iphone](https://images.wondershare.com/filmora/article-images/2023/03/creating-new-youtube-music-playlist-on-iPhone.png)
 
 Finally, close the video, tap **"Library"** at the bottom of the screen, scroll down and see your new YouTube music playlist.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Create a YouTube Music playlist on Android?
 
@@ -227,13 +212,6 @@ You know how to create a YouTube playlist on the web or on your mobile. However,
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Listening to YouTube's free music tracks is more fun when you do not have to go and forth to search for your favorite songs. You can enjoy the experience more when you have personalized playlists for situations like a long drive, studying, or working in an office.
@@ -251,6 +229,13 @@ So, in this article, we have discussed a step-by-step process for creating **a Y
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Art of Turning Shorts Into MP4 with Quality
 
@@ -334,6 +319,13 @@ First, choose the YouTube Short video that you wish to convert to MP4\. You can 
 
 ![convert shorts to mp4 online](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2\. Customize settings
 
 CloudConvert lets you customize the output settings like video codec, bitrate, resolution, and file format. Just click on the drop-down arrow on every section and choose your preferences. Then hit the “Okay” button at the bottom-right corner of the screen.
@@ -343,13 +335,6 @@ CloudConvert lets you customize the output settings like video codec, bitrate, r
 Wait for the YouTube Shorts to be converted to MP4 format. You can then save your files to your computer and share them with friends via other social media apps like Instagram and Facebook. You can also directly post to Shorts as MP4 files.
 
 ![convert shorts to mp4 online using cloudconvert](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3) Convert YouTube video to MP4 using Filmora
 
@@ -396,6 +381,13 @@ Even though this is optional, you can edit your video to add more juice. These i
 When you are certain you have the perfect video, click on the “Export” tab to convert your files to MP4 format. Remember to set the final output to MP4 format among the available output options. Then freely play your video on any device and share it with friends on other platforms. There’ll be no hindrance anymore concerning compatibility issues.
 
 ![convert youtube shorts to mp4 with Filmora](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -473,6 +465,13 @@ First, choose the YouTube Short video that you wish to convert to MP4\. You can 
 
 ![convert shorts to mp4 online](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2\. Customize settings
 
 CloudConvert lets you customize the output settings like video codec, bitrate, resolution, and file format. Just click on the drop-down arrow on every section and choose your preferences. Then hit the “Okay” button at the bottom-right corner of the screen.
@@ -544,6 +543,13 @@ Video production entails a lot more than just composing and sharing your videos.
 02 [How can we convert YouTube shorts to mp4?](#part2)
 
 03 [Tutorial for How to Record on GarageBand](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why do we need to download and convert YouTube Shorts video?
 
@@ -605,6 +611,13 @@ First, choose the YouTube Short video that you wish to convert to MP4\. You can 
 
 ![convert shorts to mp4 online](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2\. Customize settings
 
 CloudConvert lets you customize the output settings like video codec, bitrate, resolution, and file format. Just click on the drop-down arrow on every section and choose your preferences. Then hit the “Okay” button at the bottom-right corner of the screen.
@@ -710,13 +723,6 @@ The importance of converting videos to MP4 format is weighty. But how do you con
 This is an easy-to-use converter that you use freely to trim your videos as well as convert them to various formats. The drawbacks are that it leaves a watermark on your videos and will bundle you with extra software for installation with its free version. You, however, can evade this if you upgrade to the Premium version.
 
 ![convert shorts to mp4 with freemake](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 1\. Download Freemake
 
@@ -819,21 +825,18 @@ You are not limited to using any video file format. Several reasons may also com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>[New] IGTV VS YouTube Should Video Content Creators Use One Platform or The Other?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-10-digital-landscape-replacers-for-videos/"><u>[New] In 2024, Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-everything-you-need-to-know-about-youtube-basic-and-premium/"><u>[New] In 2024, Everything You Need to Know About YouTube Basic & Premium</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-practical-steps-for-immediate-deletion-on-youtube-platform/"><u>[New] Practical Steps for Immediate Deletion on Youtube Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-commanding-your-computer-with-ease-gratis/"><u>[Updated] Commanding Your Computer With Ease, Gratis</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-volume-control-strategies-in-logic-pro-productions/"><u>[Updated] In 2024, Volume Control Strategies in Logic Pro Productions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-video-content-conundrum-youtubes-shorts-versus-tiktoks-the-decision/"><u>[Updated] Video Content Conundrum YouTubes Shorts Versus TikToks – The Decision</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-draft-to-edit-essential-film-techniques-via-youtube/"><u>2024 Approved From Draft to Edit Essential Film Techniques via YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/2024s-elite-selection-the-premier-wireless-mice-reviewed/"><u>2024'S Elite Selection: The Premier Wireless Mice Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/decouvrez-les-solutions-pour-le-processus-critique-abandonne-dans-windows-10-guide-complet-avec-7-methodes-et-un-astuce-bonus/"><u>Découvrez Les Solutions Pour Le Processus Critique Abandonné Dans Windows 10 - Guide Complet Avec 7 Méthodes Et Un Astuce Bonus</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-imagecraft-tools/"><u>In 2024, ImageCraft Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>In 2024, Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-mobile-film-world-thumbnail-creation-essentials/"><u>In 2024, Navigating the Mobile Film World Thumbnail Creation Essentials</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-perfecting-online-visuals-beauty-focused-color-correction/"><u>In 2024, Perfecting Online Visuals Beauty-Focused Color Correction</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959421274-recapitulation-of-hahron-spices-strengths-and-unique-selling-propositions-in-the-chemical-industry/"><u>Recapitulation of HAHRON SPICE's Strengths and Unique Selling Propositions in the Chemical Industry</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>[Updated] 2024 Approved The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-beginners-path-to-successful-hp-screen-capturing/"><u>[Updated] Beginner's Path to Successful HP Screen Capturing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>[Updated] In 2024, Vegas Pro 2021 Unpacked Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>[Updated] Unlock the Power of Pinterest Top 5 Free Extractors at Hand</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>2024 Approved Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-trailblazing-8-content-hubs-expanding-fastest/"><u>2024 Approved Trailblazing 8 Content Hubs Expanding Fastest</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-fixes-for-windows-11-taskbar-loss/"><u>Guiding Fixes for Windows 11 Taskbar Loss</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-imovies-power-to-transform-ordinary-openers-into-epic/"><u>In 2024, IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtubes-potential-for-visual-storytelling/"><u>In 2024, Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-hl-228er-driver-on-windows-1110-easy-download-guide/"><u>Install Your Brother HL-228er Driver on Windows 11/10: Easy Download Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-harness-chatgpts-capabilities-for-crafting-harmful-code-or-viruses/"><u>Is It Possible to Harness ChatGPT's Capabilities for Crafting Harmful Code or Viruses?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-windows-11-a-deep-dive-into-dev-drive-for-coders/"><u>Leveraging Windows 11: A Deep Dive Into Dev Drive for Coders</u></a></li>
 </ul></div>
 
