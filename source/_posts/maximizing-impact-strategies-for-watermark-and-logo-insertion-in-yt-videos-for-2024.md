@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Impact  Strategies for Watermark & Logo Insertion in YT Videos for 2024\""
-date: 2024-10-19T16:17:44.641Z
-updated: 2024-10-24T16:07:52.220Z
+date: 2024-10-27T00:55:57.981Z
+updated: 2024-10-29T17:06:20.259Z
 tags:
   - ai video
   - ai youtube
@@ -42,6 +42,13 @@ A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is 
 * [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
 * [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to add logo or watermark to in existing YouTube videos
 
 To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
@@ -68,434 +75,6 @@ To add a watermark to your previously uploaded videos you will need to have crea
 **YouTube watermark color**: Youtube suggests that your watermark have only one color. The point is that you should not use anything flashy that will take attention away from your video, so having two or three colors is not necessarily wrong if your design is subtle.
 
 Here is a tutorial video for how to add watermark to Your YouTube videos:
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 2: Add logos or watermarks to your videos before uploading
-
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
-
-The following steps have to be taken to add a watermark:
-
-* Add the video and watermarking data by drag dropping it into the workspace
-* Drag the required video on the timeline and the watermark on it as well
-* Adjust the watermark and add pre-made special effects to it
-* Mask the watermark in the shape you like
-* Save the video
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
-
-Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
-
-How to add watermark to video with Windows Movie Maker
-
-**Adding Text watermark:**
-
-* Open windows movie maker
-* Click on 'videos' under the title of import.
-* Import your video to the timeline.
-* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
-* Enter the text for watermark.
-* Choose the title positioning, font and transparency.
-* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
-
-**Adding image watermark:**
-
-The image should be in .PNG or .GIF format.
-
-* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Download a logo Locator as per your installed windows from FX archives.
-* Select the location of the logo in your video where you want it to appear.
-* Choose the screen size and the logo size
-* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
-* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Open windows movie maker again.
-* Choose title and credits underneath the edit category.
-* Press space bar once and then click ‘change the title animation'.
-* You will see your image there. Click on ad title and press Ctrl+p to publish.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 3: How to Create a Transparent logo for Youtube Channel
-
-Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
-
-### Step 1: Import video and image to Filmora
-
-Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
-
-![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
-
-### Step 2: Import video and image to Filmora
-
-Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
-
-![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
-
-### Step 3: Scale the logo
-
-You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
-
-![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
-
-**You May Also Like:**
-[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Wondershare AniEraser** Seamless, Effortless, Intuitive.
- AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
- Make your moment perfect.
-
-[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
-
-![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
-
-## How to Add a Watermark to Your YouTube Videos
-
-* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
-* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
-
-## Part 1: How to add logo or watermark to in existing YouTube videos
-
-To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
-
-* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
-
-![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-* This will lead you to setting center. Click on "view additional features"
-
-![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
-
-* To the left of the window, Click the third option of "branding"
-* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
-
-![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
-
-### Notes
-
-**YouTube watermark size**: Your watermark should be transparent, square, and larger than 50x50 pixels, which is the size it will be shrunk down to when it appears in the corner of your videos.
-
-**YouTube watermark starting time**: you will have the option of choosing a start time for your watermark, making it appear only at the end of your video, or having it there for the entire length of your video. Once that is done click ‘Update’ and your watermark will be applied to your videos.
-
-**YouTube watermark color**: Youtube suggests that your watermark have only one color. The point is that you should not use anything flashy that will take attention away from your video, so having two or three colors is not necessarily wrong if your design is subtle.
-
-Here is a tutorial video for how to add watermark to Your YouTube videos:
-
-## Part 2: Add logos or watermarks to your videos before uploading
-
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-The following steps have to be taken to add a watermark:
-
-* Add the video and watermarking data by drag dropping it into the workspace
-* Drag the required video on the timeline and the watermark on it as well
-* Adjust the watermark and add pre-made special effects to it
-* Mask the watermark in the shape you like
-* Save the video
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
-
-Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
-
-How to add watermark to video with Windows Movie Maker
-
-**Adding Text watermark:**
-
-* Open windows movie maker
-* Click on 'videos' under the title of import.
-* Import your video to the timeline.
-* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
-* Enter the text for watermark.
-* Choose the title positioning, font and transparency.
-* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
-
-**Adding image watermark:**
-
-The image should be in .PNG or .GIF format.
-
-* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Download a logo Locator as per your installed windows from FX archives.
-* Select the location of the logo in your video where you want it to appear.
-* Choose the screen size and the logo size
-* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
-* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Open windows movie maker again.
-* Choose title and credits underneath the edit category.
-* Press space bar once and then click ‘change the title animation'.
-* You will see your image there. Click on ad title and press Ctrl+p to publish.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 3: How to Create a Transparent logo for Youtube Channel
-
-Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
-
-### Step 1: Import video and image to Filmora
-
-Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
-
-![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
-
-### Step 2: Import video and image to Filmora
-
-Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
-
-![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
-
-### Step 3: Scale the logo
-
-You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
-
-![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
-
-**You May Also Like:**
-[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Wondershare AniEraser** Seamless, Effortless, Intuitive.
- AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
- Make your moment perfect.
-
-[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
-
-![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
-
-## How to Add a Watermark to Your YouTube Videos
-
-* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
-* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
-
-## Part 1: How to add logo or watermark to in existing YouTube videos
-
-To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
-
-* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
-
-![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
-
-* This will lead you to setting center. Click on "view additional features"
-
-![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-* To the left of the window, Click the third option of "branding"
-* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
-
-![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
-
-### Notes
-
-**YouTube watermark size**: Your watermark should be transparent, square, and larger than 50x50 pixels, which is the size it will be shrunk down to when it appears in the corner of your videos.
-
-**YouTube watermark starting time**: you will have the option of choosing a start time for your watermark, making it appear only at the end of your video, or having it there for the entire length of your video. Once that is done click ‘Update’ and your watermark will be applied to your videos.
-
-**YouTube watermark color**: Youtube suggests that your watermark have only one color. The point is that you should not use anything flashy that will take attention away from your video, so having two or three colors is not necessarily wrong if your design is subtle.
-
-Here is a tutorial video for how to add watermark to Your YouTube videos:
-
-## Part 2: Add logos or watermarks to your videos before uploading
-
-#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
-
-The following steps have to be taken to add a watermark:
-
-* Add the video and watermarking data by drag dropping it into the workspace
-* Drag the required video on the timeline and the watermark on it as well
-* Adjust the watermark and add pre-made special effects to it
-* Mask the watermark in the shape you like
-* Save the video
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
-
-Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
-
-How to add watermark to video with Windows Movie Maker
-
-**Adding Text watermark:**
-
-* Open windows movie maker
-* Click on 'videos' under the title of import.
-* Import your video to the timeline.
-* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
-* Enter the text for watermark.
-* Choose the title positioning, font and transparency.
-* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
-
-**Adding image watermark:**
-
-The image should be in .PNG or .GIF format.
-
-* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Download a logo Locator as per your installed windows from FX archives.
-* Select the location of the logo in your video where you want it to appear.
-* Choose the screen size and the logo size
-* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
-* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
-* Open windows movie maker again.
-* Choose title and credits underneath the edit category.
-* Press space bar once and then click ‘change the title animation'.
-* You will see your image there. Click on ad title and press Ctrl+p to publish.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Part 3: How to Create a Transparent logo for Youtube Channel
-
-Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
-
-### Step 1: Import video and image to Filmora
-
-Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
-
-![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
-
-### Step 2: Import video and image to Filmora
-
-Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
-
-![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
-
-### Step 3: Scale the logo
-
-You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
-
-![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
-
-**You May Also Like:**
-[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Wondershare AniEraser** Seamless, Effortless, Intuitive.
- AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
- Make your moment perfect.
-
-[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
-
-![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## How to Add a Watermark to Your YouTube Videos
-
-* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
-* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
-
-## Part 1: How to add logo or watermark to in existing YouTube videos
-
-To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
-
-* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
-
-![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
-
-* This will lead you to setting center. Click on "view additional features"
-
-![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-* To the left of the window, Click the third option of "branding"
-* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
-
-![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
@@ -503,6 +82,414 @@ To add a watermark to your previously uploaded videos you will need to have crea
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 2: Add logos or watermarks to your videos before uploading
+
+#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
+
+![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
+
+The following steps have to be taken to add a watermark:
+
+* Add the video and watermarking data by drag dropping it into the workspace
+* Drag the required video on the timeline and the watermark on it as well
+* Adjust the watermark and add pre-made special effects to it
+* Mask the watermark in the shape you like
+* Save the video
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
+
+Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
+
+How to add watermark to video with Windows Movie Maker
+
+**Adding Text watermark:**
+
+* Open windows movie maker
+* Click on 'videos' under the title of import.
+* Import your video to the timeline.
+* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
+* Enter the text for watermark.
+* Choose the title positioning, font and transparency.
+* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
+
+**Adding image watermark:**
+
+The image should be in .PNG or .GIF format.
+
+* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Download a logo Locator as per your installed windows from FX archives.
+* Select the location of the logo in your video where you want it to appear.
+* Choose the screen size and the logo size
+* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
+* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Open windows movie maker again.
+* Choose title and credits underneath the edit category.
+* Press space bar once and then click ‘change the title animation'.
+* You will see your image there. Click on ad title and press Ctrl+p to publish.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 3: How to Create a Transparent logo for Youtube Channel
+
+Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Step 1: Import video and image to Filmora
+
+Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
+
+![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
+
+### Step 2: Import video and image to Filmora
+
+Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
+
+![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Step 3: Scale the logo
+
+You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
+
+![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
+
+**You May Also Like:**
+[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Wondershare AniEraser** Seamless, Effortless, Intuitive.
+ AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
+ Make your moment perfect.
+
+[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
+
+![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Add a Watermark to Your YouTube Videos
+
+* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
+* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
+
+## Part 1: How to add logo or watermark to in existing YouTube videos
+
+To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
+
+* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
+
+![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
+
+* This will lead you to setting center. Click on "view additional features"
+
+![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
+
+* To the left of the window, Click the third option of "branding"
+* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
+
+![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
+
+### Notes
+
+**YouTube watermark size**: Your watermark should be transparent, square, and larger than 50x50 pixels, which is the size it will be shrunk down to when it appears in the corner of your videos.
+
+**YouTube watermark starting time**: you will have the option of choosing a start time for your watermark, making it appear only at the end of your video, or having it there for the entire length of your video. Once that is done click ‘Update’ and your watermark will be applied to your videos.
+
+**YouTube watermark color**: Youtube suggests that your watermark have only one color. The point is that you should not use anything flashy that will take attention away from your video, so having two or three colors is not necessarily wrong if your design is subtle.
+
+Here is a tutorial video for how to add watermark to Your YouTube videos:
+
+## Part 2: Add logos or watermarks to your videos before uploading
+
+#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
+
+![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
+
+The following steps have to be taken to add a watermark:
+
+* Add the video and watermarking data by drag dropping it into the workspace
+* Drag the required video on the timeline and the watermark on it as well
+* Adjust the watermark and add pre-made special effects to it
+* Mask the watermark in the shape you like
+* Save the video
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
+
+Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
+
+How to add watermark to video with Windows Movie Maker
+
+**Adding Text watermark:**
+
+* Open windows movie maker
+* Click on 'videos' under the title of import.
+* Import your video to the timeline.
+* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
+* Enter the text for watermark.
+* Choose the title positioning, font and transparency.
+* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
+
+**Adding image watermark:**
+
+The image should be in .PNG or .GIF format.
+
+* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Download a logo Locator as per your installed windows from FX archives.
+* Select the location of the logo in your video where you want it to appear.
+* Choose the screen size and the logo size
+* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
+* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Open windows movie maker again.
+* Choose title and credits underneath the edit category.
+* Press space bar once and then click ‘change the title animation'.
+* You will see your image there. Click on ad title and press Ctrl+p to publish.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 3: How to Create a Transparent logo for Youtube Channel
+
+Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
+
+### Step 1: Import video and image to Filmora
+
+Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
+
+![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
+
+### Step 2: Import video and image to Filmora
+
+Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
+
+![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
+
+### Step 3: Scale the logo
+
+You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
+
+![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
+
+**You May Also Like:**
+[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Wondershare AniEraser** Seamless, Effortless, Intuitive.
+ AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
+ Make your moment perfect.
+
+[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
+
+![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
+
+## How to Add a Watermark to Your YouTube Videos
+
+* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
+* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
+
+## Part 1: How to add logo or watermark to in existing YouTube videos
+
+To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
+
+* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
+
+![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
+
+* This will lead you to setting center. Click on "view additional features"
+
+![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
+
+* To the left of the window, Click the third option of "branding"
+* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
+
+![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
+
+### Notes
+
+**YouTube watermark size**: Your watermark should be transparent, square, and larger than 50x50 pixels, which is the size it will be shrunk down to when it appears in the corner of your videos.
+
+**YouTube watermark starting time**: you will have the option of choosing a start time for your watermark, making it appear only at the end of your video, or having it there for the entire length of your video. Once that is done click ‘Update’ and your watermark will be applied to your videos.
+
+**YouTube watermark color**: Youtube suggests that your watermark have only one color. The point is that you should not use anything flashy that will take attention away from your video, so having two or three colors is not necessarily wrong if your design is subtle.
+
+Here is a tutorial video for how to add watermark to Your YouTube videos:
+
+## Part 2: Add logos or watermarks to your videos before uploading
+
+#### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Wondershare Filmora which is one of the ideal video editing tools especially when it comes to [watermarking your videos](https://tools.techidaily.com/wondershare/filmora/download/). It helps you in adding static and video watermarks over the video. The basic theme of the video watermarking is the concept of [picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/).
+
+![youtube watermark on filmora](https://images.wondershare.com/filmora/article-images/youtube-logo-on-filmora.jpg)
+
+The following steps have to be taken to add a watermark:
+
+* Add the video and watermarking data by drag dropping it into the workspace
+* Drag the required video on the timeline and the watermark on it as well
+* Adjust the watermark and add pre-made special effects to it
+* Mask the watermark in the shape you like
+* Save the video
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2\. [Windows movie maker](https://windows-movie-maker.en.softonic.com/)
+
+Windows movie maker is free default windows software that can easily add watermark to your videos to secure your copyrights. It can cater two types of watermarks; images and text. For images, it just supports PNG and GIF format files and generally doesn't support transparency. Moreover, an external file, Windows Logo Locator is needed for placing the logo at different positions.
+
+How to add watermark to video with Windows Movie Maker
+
+**Adding Text watermark:**
+
+* Open windows movie maker
+* Click on 'videos' under the title of import.
+* Import your video to the timeline.
+* Right beneath imports under the category of edit you will find ‘titles and credits'. Click.
+* Enter the text for watermark.
+* Choose the title positioning, font and transparency.
+* Add title. You will find it along the length of timeline. You may drag to expand it, for viewing it during the entire videos length. Select file and click publish video.
+
+**Adding image watermark:**
+
+The image should be in .PNG or .GIF format.
+
+* Save the image in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Download a logo Locator as per your installed windows from FX archives.
+* Select the location of the logo in your video where you want it to appear.
+* Choose the screen size and the logo size
+* Type the name of the file of the logo you had already saved with the extension. For e.g. logo.png
+* Copy the text that appears underneath and paste it on the notepad and save the typed file in >C:\\Program Files\\Movie Maker\\Shared\\AddOnTFX\\.
+* Open windows movie maker again.
+* Choose title and credits underneath the edit category.
+* Press space bar once and then click ‘change the title animation'.
+* You will see your image there. Click on ad title and press Ctrl+p to publish.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3: How to Create a Transparent logo for Youtube Channel
+
+Do you want to make a transparent image as logo for your YouTube? If you want to brand your YouTube channel, we believe it is a must to add transparent logo for YouTube branding. Actually, you can do this in Filmora just with a green screen image. Check the steps below to know the secret.
+
+### Step 1: Import video and image to Filmora
+
+Open Filmora. Choose **Create New Project**. Click import media files here in Media library. Select your video and a green screen image. In fact, a green screen video is also accessable, but usually brand logo is image. Now drag them onto timeline.
+
+![import video and image](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
+
+### Step 2: Import video and image to Filmora
+
+Right click on the image clip in the timeline. Choose **Green Screen**. You will see the image is transparent in the preview window. Now, you need to adjust some details. You can adjust edge thickness and edge feather to better edge. If the green screen background is not totally removed, drag tolerance to adjust it.
+
+![youtube logo transparent image](https://images.wondershare.com/filmora/article-images/change-green-screen-effect.jpg)
+
+### Step 3: Scale the logo
+
+You can clip the image clip first and go to preview window to scale it down or up by dragging the green dot. You can put the YouTube logo at corner.
+
+![transparent youtube logo for branding](https://images.wondershare.com/filmora/article-images/transparent-logo-for-youtube.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+A [watermark](https://en.wikipedia.org/wiki/Watermark) is a still image that is usually plugged in the videos, for the purpose of claiming copyrights or publicity purpose. YouTube generally carries a ["branding"](https://support.google.com/youtube/answer/6147757?hl=en) option where you can brand your video with your channel. This doesn't provide a stable watermark. Therefore, when someone downloads that video using a second party (YouTube downloader) it gets removed. For this purpose the legal author will have to put a Channel watemark on their YouTube videos. In this guide, we will show you how to add watermark to your YouTube videos, existing or new.
+
+**You May Also Like:**
+[Best Watermark Apps for iPhone - How to Watermark Photos on iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Wondershare AniEraser** Seamless, Effortless, Intuitive.
+ AniEraser makes it easy to perfect any photo or video; no matter the device or platform - experience a smooth, effortless transformation of your image and maximize its potential with just one click.  
+ Make your moment perfect.
+
+[Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Free Download](https://tools.techidaily.com/wondershare/anieraser/download/) [Edit online](https://anieraser.media.io/app/?utm%5Fsource=linkshare&utm%5Fmedium=affiliate&utm%5Fcampaign=fx-article&utm%5Fcontent=link%5F21111411%5F2023-02-21)
+
+![](https://images.media.io/anieraser/anieraser/article_recommend.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/anieraser-square.svg)
+
+## How to Add a Watermark to Your YouTube Videos
+
+* [**Part 1: How to add logo or watermark to in existing YouTube videos**](#part1)
+* [**Part 2: Add logos or watermarks to your videos before uploading**](#part2)
+
+## Part 1: How to add logo or watermark to in existing YouTube videos
+
+To add a watermark to your previously uploaded videos you will need to have created and saved your watermark outside of your video editing program.
+
+* Sign in to your YouTube account. Click on the thumbnail image of your account at the top right corner. This will give you a drop down menu. Then Click on the small gear (indicating settings)
+
+![youtube watermark](https://images.wondershare.com/filmora/article-images/youtube-watermark-setting.JPG)
+
+* This will lead you to setting center. Click on "view additional features"
+
+![youtube watermark view additional features](https://images.wondershare.com/filmora/article-images/view-additional-features.JPG)
+
+* To the left of the window, Click the third option of "branding"
+* Click on "add watermark". Then you can choose an image from your computer. After your image is uploaded, click save.
+
+![add watermark to youtube](https://images.wondershare.com/filmora/article-images/add-watermark.JPG)
 
 ### Notes
 
@@ -685,6 +672,13 @@ You may also like: [8 Powerful YouTube Video Downloader for Android >>](https://
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Standard YouTube License?
 
 A standard license is the permit from a competent authority to own or use of something. In terms of internet it is basically based on the permission of using, copying or distributing content that is available online. YouTube is a video sharing website with its own set of rules and regulations in accordance with its license policy.
@@ -692,13 +686,6 @@ A standard license is the permit from a competent authority to own or use of som
 When a user is uploading a video he has option license options that he can choose from. The first option is "standard YouTube License" which means that you grant the broadcasting rights to YouTube. This essentially means that your video can only be accessed from YouTube for watching purpose and cannot be reproduced or distributed in any other form without your consent. The second type of license is the ["Creative Commons"](https://tools.techidaily.com/wondershare/filmora/download/).
 
 In the below video you'll learn how to set standard YouTube license and cc license:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the difference between "Standard YouTube License" and "Creative Commons"
 
@@ -755,6 +742,13 @@ A standard license is the permit from a competent authority to own or use of som
 When a user is uploading a video he has option license options that he can choose from. The first option is "standard YouTube License" which means that you grant the broadcasting rights to YouTube. This essentially means that your video can only be accessed from YouTube for watching purpose and cannot be reproduced or distributed in any other form without your consent. The second type of license is the ["Creative Commons"](https://tools.techidaily.com/wondershare/filmora/download/).
 
 In the below video you'll learn how to set standard YouTube license and cc license:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the difference between "Standard YouTube License" and "Creative Commons"
 
@@ -859,24 +853,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flipping-currencies-through-cosmetics-content/"><u>2024 Approved Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-perks-of-youtube-premium-subscription/"><u>2024 Approved Navigating the Perks of YouTube Premium Subscription</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-top-online-tools-for-ytvideo-to-text-translation/"><u>2024 Approved Ultimate Guide Top Online Tools for YTVideo to Text Translation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ual-guide-to-subtitling-techniques-for-effective-dialogue-placement-for-2024/"><u>A Visual Guide to Subtitling Techniques for Effective Dialogue Placement for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-v29-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo V29</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>In 2024, Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplicity-in-action-constructing-an-intuitive-youtube-signup-page/"><u>In 2024, Simplicity in Action Constructing an Intuitive YouTube Signup Page</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>In 2024, The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-secrets-of-captivating-auditory-and-visual-sensations-in-asmr-videos/"><u>In 2024, Unlocking the Secrets of Captivating Auditory & Visual Sensations in ASMR Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-earning-through-vlogs-for-2024/"><u>Mastering the Art of Earning Through Vlogs for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-youtubes-defense-confronting-critics-for-2024/"><u>Mastering YouTube's Defense Confronting Critics for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-best-text-to-speech-online-tools-to-use/"><u>New In 2024, The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-struggle-with-eligibility-criteria-insights-and-solutions/"><u>Teredo's Struggle with Eligibility Criteria - Insights and Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformative-collaboration-british-petroleum-teams-up-with-tesla-for-revolutionary-charging-solutions/"><u>Transformative Collaboration: British Petroleum Teams Up with Tesla for Revolutionary Charging Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-input-unsupported-errors-on-your-display-device/"><u>Troubleshooting 'Input Unsupported' Errors on Your Display Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-the-full-potential-of-zoom-on-chrome-os/"><u>Unleashing the Full Potential of Zoom on Chrome OS</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-the-power-of-compelling-fb-backgrounds/"><u>Unlocking The Power of Compelling FB Backgrounds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-need-a-super-light-gan-interior-usb-c-charger-for-your-laptop-top-picks/"><u>Why You Need a Super Light GaN Interior USB-C Charger for Your Laptop - Top Picks!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-real-time-recording-prowess-without-any-delays/"><u>[New] 2024 Approved Real-Time Recording Prowess Without Any Delays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-approach-for-blending-gopro-vids-with-continuous-360-degree-visuals/"><u>[New] Essential Approach for Blending GoPro Vids with Continuous 360-Degree Visuals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-find-your-got-ringtone-leading-online-retailers/"><u>[New] Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-isolated-viewers-to-shared-experiences-online/"><u>[New] From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-lecture-title-composing-system/"><u>[New] Innovative Lecture Title Composing System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[New] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-content-steps-to-boosting-youtube-visibility/"><u>[Updated] In 2024, Elevate Your Content Steps to Boosting YouTube Visibility</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-slash-and-save-how-to-edit-youtube-videos-quickly/"><u>2024 Approved Slash and Save How to Edit YouTube Videos Quickly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-subscriber-growth-and-its-impact-on-youtube-success/"><u>2024 Approved Subscriber Growth and Its Impact on YouTube Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>2024 Approved Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-profile-imagery-for-youtubers-for-2024/"><u>Free Profile Imagery for YouTubers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humorous-harmonics-optimal-ringtone-sites-for-2024/"><u>Humorous Harmonics Optimal Ringtone Sites for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expedited-guide-to-effective-double-take-technique/"><u>In 2024, Expedited Guide to Effective Double-Take Technique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-in-depth-how-vimeo-stacks-up-against-youtube/"><u>In 2024, In-Depth How Vimeo Stacks Up Against YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-process-of-amplifying-your-channel-with-high-impact-placement/"><u>In 2024, Step-by-Step Process of Amplifying Your Channel with High-Impact Placement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/interactive-personalized-jdi-2vd-screens-with-two-touch-interfaces-see-what-others-cant-and-identify-touching-users/"><u>Interactive Personalized JDI 2VD Screens with Two Touch Interfaces: See What Others Can't & Identify Touching Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/z-edge-z3-plus-dashcam-review/"><u>Z-Edge Z3 Plus Dashcam Review</u></a></li>
 </ul></div>
 

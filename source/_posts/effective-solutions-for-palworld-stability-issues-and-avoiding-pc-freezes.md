@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Palworld Stability Issues and Avoiding PC Freezes
-date: 2024-10-22T16:10:19.190Z
-updated: 2024-10-24T16:04:57.093Z
+date: 2024-10-25T23:14:24.282Z
+updated: 2024-10-29T16:49:14.841Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
   * [Step 3: Install beta patch](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Official Fix
 
@@ -63,10 +56,10 @@ Follow the steps below to fix the crashing issue.
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -78,10 +71,16 @@ Follow the steps below to fix the crashing issue.
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
@@ -92,22 +91,8 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Relaunch the game, you’ll be in the beta.
 
@@ -122,18 +107,25 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -145,8 +137,22 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
@@ -154,17 +160,17 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -190,20 +196,17 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-in-game-audio-capture-in-overwatch/"><u>[New] 2024 Approved Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>[New] Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-engage-with-mematic-seamless-note-management/"><u>[Updated] 2024 Approved Engage with Mematic Seamless Note Management</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-youtube-srt-mastery-a-comprehensive-guide-with-3-downloading-strategies/"><u>[Updated] 2024 Approved YouTube SRT Mastery A Comprehensive Guide with 3 Downloading Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-insiders-approach-to-webinar-preservation/"><u>2024 Approved Insider's Approach to Webinar Preservation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pixel-powerhouses-the-elite-females-on-yt/"><u>2024 Approved Pixel Powerhouses The Elite Females on YT</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-premier-8-edits-suites-for-linux-buffs/"><u>2024 Approved Premier 8 Edits Suites for Linux Buffs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-verifying-your-youtube-profile/"><u>2024 Approved The Essential Guide to Verifying Your YouTube Profile</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-thrifty-tips-for-hosting-webinars-on-youtube/"><u>2024 Approved Thrifty Tips for Hosting Webinars on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-eliminate-oxygen-not-included-crash-glitches-a-detailed-guide/"><u>Effective Ways to Eliminate 'Oxygen Not Included' Crash Glitches: A Detailed Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-attracting-watchers-discover-the-top-6-video-types/"><u>In 2024, Attracting Watchers Discover the Top 6 Video Types</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-love-in-motion-discovering-youtube-and-vimeos-top-7-wedding-films/"><u>In 2024, Love in Motion Discovering YouTube & Vimeo's Top 7 Wedding Films</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-urls-for-youtubes-autosub-feature/"><u>In 2024, Personalized URLs for YouTube's Autosub Feature</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/replicando-dados-com-o-programa-aomei-backupper-tecnicas-de-seo-eficazes/"><u>Replicando Dados Com O Programa AOMEI Backupper - Técnicas De SEO Eficazes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/essly-embedding-youtube-subtitles-an-easy-to-follow-guide/"><u>Seamlessly Embedding YouTube Subtitles An Easy-to-Follow Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-income-with-youtube-adsense/"><u>[New] Maximizing Income with YouTube AdSense</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>[New] Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transforming-the-modern-workspace-into-a-powerhouse-of-productivity/"><u>[New] Transforming the Modern Workspace Into a Powerhouse of Productivity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-advice-on-editing-away-backgrounds-for-2024/"><u>[Updated] Expert Advice on Editing Away Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-launching-a-vlog-top-kit-and-applications/"><u>[Updated] In 2024, Launching a Vlog Top Kit & Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-resizing-youtube-images-step-by-step-guide/"><u>2024 Approved Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-your-creativity-shorts-converted-into-high-quality-mp4/"><u>2024 Approved Unleash Your Creativity Shorts Converted Into High-Quality MP4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-dell-wifi-network-driver-for-windows-7-here/"><u>Get Your Dell WiFi Network Driver For Windows 7 Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/metaverse-frontier-gear-guide-select-8-headsets-for-2024/"><u>Metaverse Frontier Gear Guide Select 8 Headsets for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigate-to-top-compre-written-in-english-please-here-is-a-list-of-30-alternative-titles-that-convey-similar-meanings-to-track-your-videos-with-these-top-8-/"><u>Navigate to Top Compre Written in English, Please. Here Is a List of 30 Alternative Titles that Convey Similar Meanings to Track Your Videos With These Top 8 YouTube Rank Trackers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Browsing - A Guide to AgentGPT's AIs
-date: 2024-10-19T16:06:19.392Z
-updated: 2024-10-24T16:14:40.822Z
+date: 2024-10-28T21:42:06.916Z
+updated: 2024-10-29T20:27:48.365Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,16 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -39,28 +45,28 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -75,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -102,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-ideal-free-resources-to-start-a-youtube-channel/"><u>[New] Ideal Free Resources to Start a YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-independent-artists-guide-to-personalized-visual-tricks/"><u>[New] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sifting-through-youtube-rules-vs-creative-commons-guidelines/"><u>[New] Sifting Through Youtube Rules Vs. Creative Commons Guidelines</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-linking-up-tweeted-movies-and-music-on-fb-platform-for-2024/"><u>[Updated] Linking Up Tweeted Movies and Music on FB Platform for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>2024 Approved Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-social-media-forecasting-through-data-visualization/"><u>2024 Approved Social Media Forecasting Through Data Visualization</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-premiere-pro-for-youtube-cutting/"><u>2024 Approved Step-by-Step Guide Premiere Pro for YouTube Cutting</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-problem-of-disabled-spatial-sound-in-windows-11-and-10-systems/"><u>How to Resolve the Problem of Disabled Spatial Sound in Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>In 2024, The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-reno-8t-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Reno 8T 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/turbocharge-your-play-upgrade-windows-fps-rate/"><u>Turbocharge Your Play: Upgrade Window's FPS Rate</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unveiling-the-irony-microsofts-tongue-in-cheek-remark-on-teams-hides-a-harsh-reality-zdnet-insights/"><u>Unveiling the Irony: Microsoft's Tongue-in-Cheek Remark on Teams Hides a Harsh Reality | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-3-step-formula-how-to-check-youtube-income/"><u>[New] [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-datasafe-experts-assessment/"><u>[New] 2024 Approved DataSafe Experts Assessment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-meets-shadowcast-for-2024/"><u>[New] OBS Meets ShadowCast for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-making-the-most-of-your-ginger-island-venture/"><u>[Updated] In 2024, Making the Most of Your Ginger Island Venture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-high-speed-video-transitions-with-ease/"><u>2024 Approved Navigating High-Speed Video Transitions with Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-ascent-to-youtube-affiliates-with-10k-vistas/"><u>2024 Approved Quick Ascent to YouTube Affiliates with 10K Vistas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-surge-in-online-income-the-revelation-of-500plus-subscribers-power/"><u>2024 Approved Surge in Online Income The Revelation of 500+ Subscribers' Power</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-sports-highlight-film-manual/"><u>2024 Approved The Essential Sports Highlight Film Manual</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-updater-error-0x80246007-in-windows-1011-os/"><u>Disabling Updater Error 0X80246007 in Windows 10/11 OS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-unique-user-understanding/"><u>In 2024, Uncover Unique User Understanding</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/jest-journeys-charting-7-comedic-paths-to-viral-videos-for-2024/"><u>Jest Journeys Charting 7 Comedic Paths to Viral Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-samsung-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Samsung , is it possible?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tactics-to-regain-visual-presentation-on-systems/"><u>Tactics to Regain Visual Presentation on Systems</u></a></li>
 </ul></div>
 

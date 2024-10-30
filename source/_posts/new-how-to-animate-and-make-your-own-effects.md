@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Animate and Make Your Own Effects"
-date: 2024-10-23T16:03:30.523Z
-updated: 2024-10-24T16:12:13.592Z
+date: 2024-10-27T19:06:09.498Z
+updated: 2024-10-30T05:48:24.037Z
 tags:
   - ai video
   - ai youtube
@@ -51,10 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -64,10 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -75,10 +75,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -88,10 +88,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -109,19 +109,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ree-6-best-youtube-to-mp3-downloader-for-android-for-2024/"><u>[New] FREE 6 Best YouTube to MP3 Downloader for Android for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-on-converting-videos-into-dynamic-gifs-online/"><u>[New] Quick Guide on Converting Videos Into Dynamic Gifs Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-steps-to-identify-your-dream-livestream-platform/"><u>[New] Steps to Identify Your Dream Livestream Platform</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chucklechops-witworks-corp/"><u>2024 Approved ChuckleChops WitWorks Corp</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-craft-standout-names-for-your-youtube-channel/"><u>2024 Approved How to Craft Standout Names for Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-procure-no-cost-media-content-from-prime-4-youtube-vids/"><u>2024 Approved Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>2024 Approved Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>In 2024, The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/intercept-non-requested-youtube-video-alerts-for-2024/"><u>Intercept Non-Requested YouTube Video Alerts for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-adsense-earnings-insights-into-payments-from-youtube-viewers-for-2024/"><u>Mastering AdSense Earnings Insights Into Payments From YouTube Viewers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-rainbow-six-siege-game-crash-error-code-3-0x0001000b-explained/"><u>Solve Your Rainbow Six Siege Game Crash: Error Code 3-0X0001000B Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-premier-rv-models-of-2022-exploring-the-markets-finest-motor-homes-and-campers-insights-from-zdnet/"><u>Top 5 Premier RV Models of 2022: Exploring the Market's Finest Motor Homes & Campers - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-set-longer-duration-for-your-youtube-film/"><u>[New] Set Longer Duration for Your YouTube Film</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-smoother-video-playback-on-chromebook-and-mobile-devices-for-2024/"><u>[New] Smoother Video Playback on Chromebook & Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-supercharge-your-yi-4k-videos-with-pro-gear/"><u>[Updated] Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cybersecurity-insight-key-windows-activities-that-could-conceal-threats/"><u>Cybersecurity Insight: Key Windows Activities That Could Conceal Threats</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-the-latest-steelseries-apex-9-excel-for-users-insights-from-zdnets-testing-and-review/"><u>How Does the Latest SteelSeries Apex 9 Excel for Users? Insights From ZDNet's Testing and Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exemplary-audio-enhancing-programs-for-youtube-artists/"><u>In 2024, Exemplary Audio-Enhancing Programs for YouTube Artists</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-font-powerhouses-for-captivating-youtube-thumbnails/"><u>In 2024, Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>In 2024, From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-video-collage-app-how-to-make-split-screen-videos/"><u>In 2024, Instagram Video Collage App How to Make Split Screen Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-video-edits-post-upload-techniques/"><u>In 2024, Mastering Video Edits Post-Upload Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-cityscapes-into-sustainable-havens-of-life/"><u>In 2024, Transforming Cityscapes Into Sustainable Havens of Life</u></a></li>
+<li><a href="https://facebook.techidaily.com/rebranding-online-the-process-of-altering-your-name-on-facebook/"><u>Rebranding Online: The Process of Altering Your Name on Facebook</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-programming-lessons-find-your-ideal-course/"><u>Top Rated Programming Lessons : Find Your Ideal Course!</u></a></li>
 </ul></div>
 

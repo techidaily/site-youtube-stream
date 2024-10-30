@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2024-10-18T16:03:56.210Z
-updated: 2024-10-24T16:09:00.138Z
+date: 2024-10-28T00:28:44.009Z
+updated: 2024-10-29T21:56:33.217Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -45,10 +38,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
@@ -61,14 +54,14 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
- Run the game again to check if your problem gets fixed. If not, continue to the third method.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 ### Fix 3 – Update your graphics driver
 
@@ -90,10 +83,10 @@ There are mainly two ways you can do this:
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
@@ -109,6 +102,13 @@ There are mainly two ways you can do this:
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
@@ -116,6 +116,13 @@ There are mainly two ways you can do this:
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
@@ -131,10 +138,10 @@ There are mainly two ways you can do this:
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
@@ -142,13 +149,6 @@ There are mainly two ways you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -173,20 +173,22 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-guiding-adding-songs-to-your-yt-channel/"><u>[New] 2024 Approved Guiding Adding Songs to Your YT Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-fast-paced-favorites-leading-background-music-in-yt-shorts/"><u>[New] Fast-Paced Favorites Leading Background Music in YT Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-descriptive-power-for-3-engaging-instagram-video-stories-for-2024/"><u>[Updated] Leveraging Descriptive Power for 3 Engaging Instagram Video Stories for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flashglimpse-crafter/"><u>2024 Approved FlashGlimpse Crafter</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-getting-the-most-out-of-live-sports-on-youtube-tv/"><u>2024 Approved Getting the Most Out of Live Sports on YouTube TV</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-knowledge-nexus-best-ed-sources-on-youtube/"><u>2024 Approved Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-mastery-how-it-can-transform-employment-and-why-you-should-learn-now-top-six-insights-revealed/"><u>ChatGPT Mastery: How It Can Transform Employment and Why You Should Learn Now – Top Six Insights Revealed</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/easy-and-fast-guide-moving-pictures-from-googles-picasa-to-an-outside-storage-device/"><u>Easy and Fast Guide: Moving Pictures From Google's Picasa to an Outside Storage Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-payment-for-publishing-consumer-based-merchandise-viewpoints/"><u>In 2024, Payment for Publishing Consumer-Based Merchandise Viewpoints?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rethink-your-favorite-films-top-7-replacements/"><u>In 2024, Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/innovative-approaches-to-saving-your-instagram-highlights/"><u>Innovative Approaches to Saving Your Instagram Highlights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-bose-qc35-ii-excellence-review-silent-bliss-awaits/"><u>The Bose QC35 II Excellence Review - Silent Bliss Awaits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-3-ways-to-add-transitions-in-final-cut-pro/"><u>Updated 2024 Approved 3 Ways To Add Transitions In Final Cut Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-revolutionize-zoom-videos-with-key-conversion-methods/"><u>[New] 2024 Approved Revolutionize Zoom Videos with Key Conversion Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-celebrating-artistry-top-20-anime-melodies-for-2024/"><u>[New] Celebrating Artistry Top 20 Anime Melodies for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-microvid-viewer-analysis-and-comparison-tools/"><u>[Updated] In 2024, MicroVid Viewer Analysis & Comparison Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-premier-screening-gems/"><u>[Updated] In 2024, Premier Screening Gems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-per-view-money-flow-among-youtubers/"><u>2024 Approved Exploring Per-View Money Flow Among YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>2024 Approved How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>2024 Approved Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcasts-versus-video-based-platforms-who-wins/"><u>2024 Approved Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-youtube-studio-masterclass-elevating-your-edits/"><u>2024 Approved The YouTube Studio Masterclass Elevating Your Edits</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-unresponsive-chromebook-with-these-8-methods/"><u>Fix Your Unresponsive Chromebook with These 8 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-pose-risks-or-benefits-to-modern-search-engines/"><u>How Does ChatGPT Pose Risks or Benefits to Modern Search Engines?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-youtube-audio-speed-desktop-and-mobile-way/"><u>In 2024, Optimizing YouTube Audio Speed - Desktop & Mobile Way</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-post-publish-editing-elevating-your-youtube-content/"><u>In 2024, Post-Publish Editing Elevating Your YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-viewers-interest-with-these-10-yt-reaction-strategies/"><u>In 2024, Unlock Viewers' Interest with These 10 YT Reaction Strategies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/video-recording-made-easy-on-macbooks-camera-for-2024/"><u>Video Recording Made Easy on MacBook's Camera for 2024</u></a></li>
 </ul></div>
 
