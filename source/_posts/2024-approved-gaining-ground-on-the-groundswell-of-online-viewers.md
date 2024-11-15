@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Gaining Ground on the Groundswell of Online Viewers\""
-date: 2024-11-02T01:43:34.349Z
-updated: 2024-11-04T22:04:21.269Z
+date: 2024-11-10T06:49:56.277Z
+updated: 2024-11-14T21:31:32.763Z
 tags:
   - ai video
   - ai youtube
@@ -78,6 +78,13 @@ Check out this example from [Rosanna Pansino](https://www.youtube.com/channel/UC
 
  The camera follows her fluidly throughout the video, but it is her eyes that guide both the camera moves and what she wants our attention to be directed to. Don’t hesitate to let the viewer know what you want them to see.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **6\. Be Prepared**
 
 While you can pick up a camera and start vlogging on the fly, being prepared enables you to produce the best video possible. Take a few minutes before you hit record simply to outline the key points you want to talk about and how the video will end, ensuring that after filming you haven’t forgotten a crucial part.
@@ -122,13 +129,6 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -146,6 +146,13 @@ Follow @Richard Bennett
 For most people, vlogging is not something that comes naturally. Like any skill, it takes practice to improve. When someone is good at vlogging, they make it look easy.
 
 When we watch the most popular YouTubers, the traits that make them successful are often invisible, because we are so consumed by their vlog. In this article, I’ll highlight 8 tips from the most accomplished vloggers on the Internet, so that you can vlog confidently and make the best YouTube videos.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **1\. Be Authentic**
 
@@ -377,13 +384,6 @@ There will be an urge for you to mimic other vloggers, talking and acting the wa
 
 Don’t focus on your image, but instead focus on your voice. What makes you different? That is how you will build a proper reputation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Tell A Story**
 
 A vlog is not an assortment of footage haphazardly put together. A successful vlog must have a story: a conflict told with a beginning, middle, and end.
@@ -432,19 +432,6 @@ Good preparation includes having all your gear ready for filming when you need i
 
 Take a look at [Ashley Nichole](https://www.youtube.com/channel/UC8GTe3Wn7dtWXf3B%5Fv5gm9w) in this vlog and notice that although she sounds spontaneous, it is also evident that she knows what she is going to talk about next.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **7\. Be Expressive**
 
 Remember those teachers that drone on and on, without adding any expression or passion to what they are lecturing? While they might have been perfectly suitable as teachers, they wouldn’t make good vloggers.
@@ -454,13 +441,6 @@ If you speak on camera in a monotone voice, you are not being expressive. Your f
 Consider your audience: they are coming home from school or work, where there were classes and meetings, and the last thing they want to watch is a video of your speaking without energy.
 
 Want to see a vlogger that is awesome at being expressive on camera? Check out [Emma Chamberlain](https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg), if you haven’t already. Every word she says in her video is layered with emotion. We know exactly how she feels.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **8\. Stay Organized**
 
@@ -527,10 +507,10 @@ Even something as small as your **YouTube video thumbnail background** can stron
 Obviously, choosing the right **custom YouTube background** is important. And, now that it’s winter, this requires a special approach.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Are Seasonal Backgrounds Effective?
@@ -550,13 +530,6 @@ So, whenever you can and whenever there is an opportunity, don’t be afraid to 
 
 Now, before we dive into the examples themselves and the tutorial on how to make the best backgrounds yourself, here are several factors you must consider before proceeding.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Content Relevance
 
 As a video creator, you must ensure to be consistent with your elements. This includes your **background tune for YouTube videos.** For example, if you’re talking about books in your video, including a bookshelf in the winter background makes all the difference.
@@ -565,6 +538,19 @@ As a video creator, you must ensure to be consistent with your elements. This in
 
 If you already have an audience, regardless of its size, you should definitely consider what they like and don’t like. You should then leverage this information to create highly appealing content for them and adjust your background scenery accordingly.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lighting and Visibility
 
 Another thing you must ensure is to keep your background simple and not too distracting. Remember, even though you have the **best background for YouTube videos**, you still need to realize that it’s not the main focus of the video. It’s just there to make it better.
@@ -572,13 +558,6 @@ Another thing you must ensure is to keep your background simple and not too dist
 ### Personal Branding
 
 If you want to improve your brand identity and get your name known by more people, incorporate your logo, name, or something similar in the background. It will have a small but meaningful impact, and it’s easy to do.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Editing
 
@@ -638,6 +617,19 @@ Click on “Stock Media” and then type in “winter” in the Search Bar.
 
 ![filmora stock media](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-7.png)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 4
 
 Select your favorite background clip and drag it down to the Timeline.
@@ -689,10 +681,10 @@ Enjoy!
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is a YouTube Video Background?
@@ -826,6 +818,13 @@ Click on **“**My Media” and then click in the middle of the small box to upl
 
 ![upload media in filmora](https://images.wondershare.com/filmora/article-images/2024/winter-youtube-background-ideas-to-warm-up-your-videos-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3
 
 After uploading all the files, simply drag everything in a separate Track down on the Timeline.
@@ -833,6 +832,13 @@ After uploading all the files, simply drag everything in a separate Track down o
 ##### Step 4
 
 Export and upload to YouTube. That’s it!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -855,24 +861,20 @@ Enjoy!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-accurate-speech-to-text-googles-breakthrough-approach/"><u>[New] 2024 Approved Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-smart-solutions-apply-apple-watch-open-mac/"><u>[New] 2024 Approved Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-minute-video-crafters/"><u>[New] Minute Video Crafters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-steps-to-bypass-youtube-prohibitions/"><u>[New] Steps to Bypass YouTube Prohibitions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-detailed-breakdown-of-camstudio-screencapture-pro/"><u>[Updated] In 2024, Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-securing-your-income-with-youtube-learnings-from-sourav-joshi-by-2024/"><u>[Updated] Securing Your Income with YouTube Learnings From Sourav Joshi by 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-iphone-burst-photography/"><u>2024 Approved Mastering iPhone Burst Photography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>2024 Approved Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-videopilot-hd-snapshot-guide/"><u>2024 Approved VideoPilot HD Snapshot Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/getting-your-apple-watchs-cellular-function-back-online-practical-repair-techniques/"><u>Getting Your Apple Watch's Cellular Function Back Online: Practical Repair Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>In 2024, From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-m6-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco M6 5G Easily?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-make-waves-in-youtube-essential-mobile-based-production-tips/"><u>In 2024, Make Waves in YouTube Essential Mobile-Based Production Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-metrics-for-earning-livelihoods/"><u>In 2024, Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-six-ingenious-quizzes-to-pinpoint-your-perfect-youtube-persona/"><u>In 2024, Six Ingenious Quizzes to Pinpoint Your Perfect YouTube Persona</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-designing-youtube-video-flow/"><u>In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-14-ultra-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-views-6-simple-strategies-for-youtube-success-for-2024/"><u>Maximizing Views 6 Simple Strategies for YouTube Success for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-noteworthy-enhancements-of-iphone-x-and-iphone-n-explored/"><u>Top Noteworthy Enhancements of iPhone X & iPhone N Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-apple-music-integration-for-high-fidelity-videos-for-2024/"><u>[New] Apple Music Integration for High-Fidelity Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed/"><u>[New] Artistic Auto-Trims Best 6 Mac OS Big Sur Video Editors Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-leading-6-social-sites-for-enterprise-communication/"><u>[New] In 2024, Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests/"><u>[New] Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-the-complexities-of-chroma-removal-kinemaster-edition/"><u>[Updated] In 2024, Navigating the Complexities of Chroma Removal (KineMaster Edition)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-videography-with-top-seo-gadgets/"><u>2024 Approved Elevate Your Videography with Top SEO Gadgets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-paying-monthly-just-for-ad-free-streaming-or-are-there-more-benefits/"><u>2024 Approved Is Paying Monthly Just For Ad-Free Streaming, Or Are There More Benefits?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-metrics-with-ease/"><u>2024 Approved Navigating YouTube Metrics with Ease</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>2024 Approved Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/desktop-and-mobile-guide-step-by-step-video-upload-process-on-facebook/"><u>Desktop & Mobile Guide: Step-by-Step Video Upload Process on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-next-level-performance-with-newly-released-5x-intel-granite-rapids-chips-featuring-as-much-as-128-cores-and-enhanced-500w-thermal-design-power.68/"><u>Discover the Next-Level Performance with Newly Released 5X Intel Granite Rapids Chips Featuring as Much as 128 Cores and Enhanced 500W Thermal Design Power</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keyword-mastery-the-10-best-online-resources-to-increase-views-for-2024/"><u>Keyword Mastery The 10 Best Online Resources to Increase Views for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/methode-simple-et-rapide-de-conversion-flac-vers-ogg-sans-frais-via-le-web-tutorial-movavi/"><u>Méthode Simple Et Rapide De Conversion FLAC Vers OGG Sans Frais via Le Web - Tutorial Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-revised-video-standards-aspect-ratios-included/"><u>Twitter's Revised Video Standards Aspect Ratios Included</u></a></li>
 </ul></div>
 

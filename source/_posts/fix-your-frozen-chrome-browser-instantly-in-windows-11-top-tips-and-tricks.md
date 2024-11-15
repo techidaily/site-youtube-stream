@@ -1,7 +1,7 @@
 ---
 title: Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks
-date: 2024-11-02T20:43:38.493Z
-updated: 2024-11-04T20:02:34.908Z
+date: 2024-11-13T19:59:52.585Z
+updated: 2024-11-15T04:18:44.772Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 5. [Close CPU/memory hogging applications](https://tools.techidaily.com/drivereasy/download/)
 6. [Check for overheating components](https://tools.techidaily.com/drivereasy/download/)
 7. [Update / reinstall Premier Pro](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -76,6 +83,13 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -87,6 +101,13 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Reset your preferences
 
  According to Adobe, resetting your preferences is a useful fix to stop Premiere Pro from crashing. If you haven’t tried this fix yet, just give it a shot.
@@ -96,13 +117,6 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
@@ -114,21 +128,7 @@ It’s quite easy to reset your preferences. Here’s how:
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
@@ -143,15 +143,29 @@ If this fix doesn’t work, try the next fix, below.
 2. Click the**Delete…** button to remove media cache files.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 See if this fix stops the crashing. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Close CPU / memory hogging applications
 
@@ -160,13 +174,6 @@ See if this fix stops the crashing. If not, try the next fix, below.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . You will be prompted for permission. Click**Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
@@ -181,13 +188,6 @@ To cool down your computer, you may need to
 * **Clean the dust** from the fans and vents of your computer.
 * Make sure your computer is in a**cool environment.**
 * Use a**better cooling system** for your computer if yours is not powerful enough.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Update / reinstall Premier Pro
 
@@ -219,24 +219,24 @@ To cool down your computer, you may need to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-the-world-of-asmr-videos/"><u>[New] Navigating the World of ASMR Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>[New] Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-convenient-steps-upside-down-video-via-vlc-application/"><u>[Updated] Convenient Steps Upside Down Video via VLC Application</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>2024 Approved IGTV VS YouTube Should Video Content Creators Use One Platform or The Other?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-tips-for-sub4sub-beginners-review-our-complete-guide/"><u>2024 Approved Pro Tips for Sub4sub Beginners - Review Our Complete Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-teachers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>2024 Approved Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-your-potential-in-youtube-video-production-scripts/"><u>2024 Approved Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-comprehensive-review-of-tunefab-recorders-for-2024/"><u>A Comprehensive Review of Tunefab Recorders for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-windows-discord-speed-a-step-by-step-guide/"><u>Boosting Windows Discord Speed: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-unparalleled-story-crafting-skills/"><u>From Ideas to Epics: Leveraging ChatGPT for Unparalleled Story Crafting Skills</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-7-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 7 - 4 Easy Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-dissonance-to-harmony-crafting-audio-transitions-in-audacity/"><u>In 2024, From Dissonance to Harmony Crafting Audio Transitions in Audacity</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-your-seo-top-7-budget-friendly-youtube-tags-extractors-reviewed/"><u>In 2024, Maximize Your SEO Top 7 Budget-Friendly Youtube Tags Extractors Reviewed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/1717164496808-in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers-Lots of FREE Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-notes-an-introduction-to-youtube-list-making-for-2024/"><u>Navigating Notes An Introduction to YouTube List Making for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pioneers-in-the-digital-realm-vr-past-and-future-for-2024/"><u>Pioneers in the Digital Realm VR Past and Future for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-cyberpunk-2077s-gameplay-lag-and-freezing-problems/"><u>Troubleshooting Tips for Cyberpunk 2077'S Gameplay Lag and Freezing Problems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/zooming-mastery-made-easy-top-5-tools-for-game-immersion-for-2024/"><u>Zooming Mastery Made Easy Top 5 Tools for Game Immersion for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[New] Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-overcoming-obstacles-with-youtube-short-strategies/"><u>[New] Overcoming Obstacles with YouTube Short Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-detailed-capture-gopro-hero5-vs-sjcam-sj7/"><u>[Updated] Detailed Capture GoPro Hero5 vs SJCAM SJ7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-essential-strategies-for-successful-twitch-livestreaming/"><u>2024 Approved 5 Essential Strategies for Successful Twitch Livestreaming</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-into-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>2024 Approved Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>2024 Approved Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-revenue-a-youtube-channelers-guide/"><u>2024 Approved Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-unseen-thumbnails-in-youtube-shorts/"><u>2024 Approved Overcoming Unseen Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-lihan-lhfm103n-bluetooth-fm-transmitter-for-car-audio-enthusiasts/"><u>Comprehensive Review of the LIHAN LHFM103n Bluetooth FM Transmitter for Car Audio Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-multi-version-bluetooth-driver-for-your-pc-running-windows-10-7-or-8/"><u>Easy Install: Multi-Version Bluetooth Driver for Your PC Running Windows 10, 7, or 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-20c-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 20C</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Blaze Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-features-to-improve-visuals/"><u>In 2024, Leveraging YouTube's Features to Improve Visuals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-throwing-epic-intros-with-imovie/"><u>In 2024, Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/lyrical-explanation-designer-for-2024/"><u>Lyrical Explanation Designer for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/schritt-fur-schritt-anleitungen-zum-parallelinstallieren-von-windows-auf-mehreren-computern/"><u>Schritt-Für-Schritt Anleitungen Zum Parallelinstallieren Von Windows Auf Mehreren Computern</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-instagram-how-to-resolve-issues-with-uploading-images-and-videos/"><u>Troubleshooting Instagram: How To Resolve Issues with Uploading Images & Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Persistent Launch Problems in Back 4 Blood for Windows Gamers
-date: 2024-11-03T17:44:09.775Z
-updated: 2024-11-04T21:49:35.300Z
+date: 2024-11-07T18:02:20.765Z
+updated: 2024-11-14T21:15:14.826Z
 tags:
   - win11
   - win10
@@ -49,26 +49,12 @@ thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files.jpg)
 3. Wait a few minutes for Steam to verify the game’s files.
 
 Open Battlefield 4 to test if the launching issue is resolved.
 
 If the issue remains, check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -83,13 +69,6 @@ If the issue remains, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -100,10 +79,10 @@ If the issue remains, check out the next solution.
  If updating the graphics driver doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Battlefield 4 and Origin as administrator
@@ -115,20 +94,34 @@ If the issue remains, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
 
 Check if Battlefield 4 launches properly.
 
@@ -145,8 +138,22 @@ Check if Battlefield 4 launches properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Repeat step1 and step 2, then change game properties back to**Battlefield 4™ (x64)** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
@@ -156,10 +163,10 @@ Check if Battlefield 4 launches properly.
 If this fix doesn’t help, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Toggle offline and online mode in Origin
@@ -176,13 +183,6 @@ If this fix doesn’t help, go ahead with the next fix below.
 
 If Battlefield 4 is still not launching, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall the game
 
  If all methods mentioned above fail to resolve your problem of Battlefield 4 not launching, try reinstalling the game as a last resort. Here’s how:
@@ -191,15 +191,15 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/my-games-library-origin.jpg)
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if Battlefield 4 could launch normally.
 
@@ -225,18 +225,18 @@ Check if Battlefield 4 could launch normally.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-conquer-tiktok-with-proficient-voiceovers/"><u>[New] 2024 Approved Conquer TikTok with Proficient Voiceovers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-simplified-methods-to-validate-your-youtube-status/"><u>[New] 2024 Approved Simplified Methods to Validate Your YouTube Status</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-use-chroma-keying-in-video-making/"><u>[New] How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leading-ps2-emulators-unveiled-for-iphone-and-ipad/"><u>[New] Leading PS2 Emulators Unveiled for iPhone and iPad</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-investigating-youtube-dialogues/"><u>2024 Approved Investigating YouTube Dialogues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-youtube-video-sharing-preferences/"><u>2024 Approved Tailoring YouTube Video Sharing Preferences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enable-high-quality-music-the-ultimate-walkthrough-for-integrating-flac-into-your-itunes-library/"><u>Enable High-Quality Music: The Ultimate Walkthrough for Integrating FLAC Into Your iTunes Library</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-access-and-download-html5-movies-without-charge-a-guide-for-windows-and-macos/"><u>How to Access and Download HTML5 Movies without Charge – A Guide for Windows and macOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>In 2024, The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-guide-restore-files-from-a-usb-flash-drive-without-third-party-tools/"><u>Quick Guide: Restore Files From a USB Flash Drive Without Third-Party Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A79 5G FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v29-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V29 Pro Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-intel-driver-enhancement-steps/"><u>Windows Intel Driver Enhancement Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-females-in-youtube-a-list-of-leading-creators/"><u>[New] 2024 Approved Top Females in YouTube A List of Leading Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficiently-capturing-footage-for-ideal-snaps-via-mac-for-2024/"><u>[New] Efficiently Capturing Footage for Ideal Snaps via Mac for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mellowing-the-feed-the-art-of-adding-soundtracks-to-stories/"><u>[New] In 2024, Mellowing the Feed The Art of Adding Soundtracks to Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-videoharvest-downloading-fb-content-for-2024/"><u>[New] VideoHarvest Downloading Fb Content for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-your-youtube-profile-a-guide/"><u>2024 Approved Securing Your YouTube Profile A Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>2024 Approved Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>In 2024, Ideal Titles & Sizes Maximizing Click Through Rates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-money-making-moves-now-with-over-500-subscribers/"><u>In 2024, Money-Making Moves Now With Over 500 Subscribers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>In 2024, Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/najdite-7-zacitacskych-vykroku-k-konverzi-csv-a-mp4-s-neterovymi-dvd-pouze-na-macu/"><u>Najdite 7 Začítačských Výkroku K Konverzi CSV a MP4 S Neteřovými DVD Pouze Na Macu</u></a></li>
 </ul></div>
 

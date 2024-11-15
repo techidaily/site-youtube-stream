@@ -1,7 +1,7 @@
 ---
 title: God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!
-date: 2024-11-01T20:55:51.640Z
-updated: 2024-11-05T04:53:27.017Z
+date: 2024-11-11T06:43:41.236Z
+updated: 2024-11-15T08:55:47.843Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ God of War
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -87,13 +87,6 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -107,13 +100,6 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -134,6 +120,13 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -158,20 +151,13 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -185,13 +171,20 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -209,6 +202,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -236,24 +236,18 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-content-crusaders-route-to-rapid-instagram-fame/"><u>[New] Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-techniques-for-removing-audio-disturbances-for-2024/"><u>[New] Expert Techniques for Removing Audio Disturbances for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-gratis-design-elements-for-youtube-channel/"><u>[New] Gratis Design Elements for YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>[New] Rank the Best 7 Android-Friendly AdBlockers Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] Finding #Hashtags That Amplify to 6K Views</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>[Updated] In 2024, Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
-<li><a href="https://win-webster.techidaily.com/1-ultimate-guide-mastering-johnny-trigger-gameplay-on-your-computer/"><u>1. Ultimate Guide: Mastering Johnny Trigger Gameplay on Your Computer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-big-bucks-fast-with-a-focus-on-youtube-short-video-creation/"><u>2024 Approved Make Big Bucks Fast with a Focus on YouTube Short Video Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtubes-video-editor-essential-tips-and-tricks/"><u>2024 Approved Mastering YouTube's Video Editor Essential Tips and Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>2024 Approved Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-highest-quality-ipad-pro-compatible-keyboards-expert-reviews-and-ratings-zdnet/"><u>2024'S Highest Quality iPad Pro Compatible Keyboards: Expert Reviews and Ratings | ZDNet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/enhance-virtual-interaction-top-techniques-with-zoom-video-editor/"><u>Enhance Virtual Interaction Top Techniques with Zoom Video Editor</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tial-tips-for-crafting-youtube-shorts-templates/"><u>Essential Tips for Crafting YouTube Shorts Templates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/grab-free-video-profile-backgrounds-for-2024/"><u>Grab Free Video Profile Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-411-on-navigating-youtube-shorts/"><u>In 2024, The 411 on Navigating YouTube Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-video-potential-key-tactics-for-backlink-creation/"><u>In 2024, Unleash Video Potential Key Tactics for Backlink Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/masterclass-in-logo-making-best-of-9-free-software-for-youtubers-for-2024/"><u>Masterclass in Logo-Making Best of 9 Free Software for YouTubers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-to-common-media-device-not-recognized-issues-correcting-missing-drivers/"><u>Solution to Common 'Media Device Not Recognized' Issues: Correcting Missing Drivers</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/ssdwindows-11os2/"><u>SSDへのWindows 11OS設置:ヘビーユーザー向け上位2つのアプローチ</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-minimize-surround-loudness-economical-and-premium-solutions/"><u>[New] In 2024, Minimize Surround Loudness - Economical & Premium Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-initiate-internet-income-low-cost-youtube-channel-buys/"><u>2024 Approved Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uploading-mastery-with-premiere-pro-for-online-platforms/"><u>2024 Approved Uploading Mastery with Premiere Pro for Online Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-help-survive-extreme-outdoor-adventures-like-a-true-pro/"><u>Can AI Help Survive Extreme Outdoor Adventures Like a True Pro?</u></a></li>
+<li><a href="https://facebook.techidaily.com/expanding-revenue-streams-instagrams-new-perks-for-artists/"><u>Expanding Revenue Streams: Instagram's New Perks for Artists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameplay-initiates-pc-reboot/"><u>Gameplay Initiates PC Reboot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967821-hear-again-on-your-logitech-g933-follow-these-straightforward-sound-solutions/"><u>Hear Again on Your Logitech G933? Follow These Straightforward Sound Solutions!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-examining-youtubers-monthly-revenue-strategies/"><u>In 2024, Examining YouTubers' Monthly Revenue Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-clipped-onto-youtube-audio-submission-made-easy/"><u>In 2024, Get Clipped Onto YouTube Audio Submission Made Easy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-g24-power-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola G24 Power to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y27-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y27 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/launch-in-minutes-top-8-specialized-gpt-variants-at-your-fingertips/"><u>Launch in Minutes: Top 8 Specialized GPT Variants at Your Fingertips</u></a></li>
 </ul></div>
 

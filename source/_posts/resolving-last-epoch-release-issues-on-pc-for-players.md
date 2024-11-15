@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2024-10-29T00:42:01.589Z
-updated: 2024-11-05T01:26:38.172Z
+date: 2024-11-11T10:06:35.272Z
+updated: 2024-11-14T19:17:43.190Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
@@ -44,13 +44,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -59,16 +52,24 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
-
- Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
 ### Fix 3 – Update your graphics driver
 
@@ -85,22 +86,16 @@ There are mainly two ways you can do this:
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -130,10 +125,10 @@ There are mainly two ways you can do this:
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
@@ -147,10 +142,16 @@ There are mainly two ways you can do this:
 7. After the game is added, select it and click**Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
@@ -179,16 +180,22 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-ideal-free-resources-to-start-a-youtube-channel/"><u>[New] Ideal Free Resources to Start a YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-independent-artists-guide-to-personalized-visual-tricks/"><u>[New] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sifting-through-youtube-rules-vs-creative-commons-guidelines/"><u>[New] Sifting Through Youtube Rules Vs. Creative Commons Guidelines</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>2024 Approved Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-premiere-pro-for-youtube-cutting/"><u>2024 Approved Step-by-Step Guide Premiere Pro for YouTube Cutting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-back-4-blood-gobi-glitch-on-unreal-engine-4/"><u>Fixing Back 4 Blood Gobi Glitch on Unreal Engine 4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-manually-restart-your-iphone-and-navigate-into-system-recovery-protocols/"><u>How to Manually Restart Your iPhone & Navigate Into System Recovery Protocols</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-x-flip-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo X Flip to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-pop-8-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Pop 8 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cutting-edge-design-top-5-3d-intro-makers/"><u>[New] Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-framefixer-editor/"><u>[New] FrameFixer Editor</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[New] Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>[New] Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>[Updated] 2024 Approved Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expedited-guide-to-effective-double-take-technique/"><u>2024 Approved Expedited Guide to Effective Double-Take Technique</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>2024 Approved The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/before-you-leave-what-to-evaluate-in-your-online-space/"><u>Before You Leave, What to Evaluate in Your Online Space</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails-for-2024/"><u>Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/imagememe-magic-instant-jokes-for-2024/"><u>ImageMeme Magic Instant Jokes for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mirthful-media-youtubes-top-20-for-a-chuckle/"><u>In 2024, Mirthful Media YouTube's Top 20 for a Chuckle</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>In 2024, Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210282278-9781589239944-magickal-tarot/"><u>Magickal Tarot | Free Book</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/professional-edition-of-winxdvd-features-dvd-copying-video-upgrading-with-artificial-intelligence-and-cross-device-file-sharing/"><u>Professional Edition of WinXDVD: Features DVD Copying, Video Upgrading with Artificial Intelligence, and Cross-Device File Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-no-signs-after-os-launch/"><u>Solving No Signs After OS Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-11-free-mp4-video-editors-of-2024-windows-and-mac-compatible-options/"><u>Top 11 Free MP4 Video Editors of 2024: Windows and Mac Compatible Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-10-28T23:01:04.022Z
-updated: 2024-11-05T01:32:30.431Z
+date: 2024-11-12T16:16:10.601Z
+updated: 2024-11-14T18:19:37.466Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -57,13 +50,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -72,15 +58,21 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
@@ -108,16 +100,29 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -128,18 +133,25 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -170,22 +182,14 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-lens-focus-techniques-for-storify-success/"><u>[New] Mastering the Lens Focus Techniques for Storify Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-photosculptor-kit/"><u>[New] PhotoSculptor Kit</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-financial-stability-through-beauty-content/"><u>2024 Approved Securing Financial Stability Through Beauty Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sound-selection-secrets-top-7-free-effects-for-youtube/"><u>2024 Approved Sound Selection Secrets Top 7 Free Effects for YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/creating-captivating-loops-for-instagram-posts-for-2024/"><u>Creating Captivating Loops for Instagram Posts for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-eye-catching-thumbnails-the-top-20-youtube-fonts-unveiled/"><u>In 2024, Eye-Catching Thumbnails The Top 20 YouTube Fonts Unveiled</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y77t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y77t to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tactics-for-handling-youtubes-copyright-strikes-effectively/"><u>In 2024, Tactics for Handling YouTube's Copyright Strikes Effectively</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers/"><u>In 2024, Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-secrets-of-youtube-shorts-success/"><u>In 2024, Unveiling the Secrets of YouTube Shorts Success</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/simplify-a-surplus-of-saves-mastering-edits-for-less-clutter-for-2024/"><u>Simplify a Surplus of Saves Mastering Edits for Less Clutter for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-iconography-in-digital-communication-fb-messenger/"><u>Understanding Iconography in Digital Communication: FB Messenger</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>Updated Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-photomod-editor-skills-review/"><u>[New] PhotoMod Editor Skills Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-online-revenue-multiplatform-studio-use-for-2024/"><u>[Updated] Harnessing Online Revenue Multiplatform Studio Use for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memorable-moments-from-the-2022-skatescape/"><u>[Updated] Memorable Moments From the 2022 Skatescape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/7-essential-gif-creation-techniques/"><u>7 Essential GIF Creation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-expression-on-tablets-leading-ios-drawers/"><u>Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>In 2024, Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smartphone-skills-producing-engaging-youtube-thumbnails/"><u>In 2024, Smartphone Skills Producing Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-impact-aspect-ratio-expertise-for-youtube-experts-for-2024/"><u>Maximize Impact Aspect Ratio Expertise for YouTube Experts for 2024</u></a></li>
 </ul></div>
 
