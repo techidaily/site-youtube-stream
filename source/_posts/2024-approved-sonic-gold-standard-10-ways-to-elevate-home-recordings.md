@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sonic Gold Standard  10 Ways to Elevate Home Recordings\""
-date: 2024-10-18T16:08:35.213Z
-updated: 2024-10-24T16:02:20.732Z
+date: 2024-11-19T21:05:38.757Z
+updated: 2024-11-24T17:00:18.734Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ Wondershare Filmora has great recording features that enable you to [record scre
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. Silence everything you don’t want your microphone to record**
 
 When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
@@ -53,176 +57,9 @@ When you’re recording audio, you have to be more aware of the subtle sounds th
 
 Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
 
-### **3\. Minimize echo**
-
-If you are recording yourself talk or sing, make sure to set up your recording space in a way where the sound projected from your voice bounces minimally off the walls and back to your microphone. Bare walls and hardwood floors will cause a lot of bouncing. Make use of materials that will absorb your sound rather than bounce it, like a thick rug or a comforter. If you want your voice to echo, that’s something you should do in post-production.
-
-### **4\. Block wind from reaching your microphone**
-
-Although it might not sound so loud and distracting to the naked ear, wind sounds terribly loud through a microphone recording and can cause your audio to clip (distortion of waveform due to output of sound exceeding maximum capacity or 0 dB point). This includes the “wind” that comes out of your mouth when you pronounce words starting with the letter “p.” Use pop filters, windscreens, and deadcats to block wind from reaching your microphone.
-
-### **5\. Upgrade your microphone**
-
-As much as you try to control all the noise in your surroundings, your greatest recording limitation will come from the hardware that you use. Improve your recordings by plugging in an external microphone into your camera’s microphone jack or record audio completely separately with a professional microphone.
-
-Need help with deciding on a microphone to buy? Check out our recommended list of microphones.
-
-### **6\. Adjust your levels**
-
-Before pressing the record button, see how loudly your microphone picks up the sound you wish to record. Adjust your levels (sensitivity of your microphone) until the sound sits in between -6 dBs and -12dBs. This range gives the source of your sound some room to get louder without the recorded audio getting clipped. When you first listen to audio recorded within this range, it may sound very quiet. No need to worry though because you can increase the volume later in editing.
-
-### **7\. Start with a sound cue if you’re planning to do some syncing in post**
-
-If you’re recording separate audio that you plan to sync to your video later in editing, start your recording with a short and loud sound cue like a clap or a high pitched “beep” tone. Later, when you’re editing, it’ll be much easier for you to find the section where your video and additional audio match.
-
-### **8\. Get close to the sound**
-
-Unless you’re aiming to record ambient sound, bring your microphone close to the source of sound you are wanting to record. The closer your microphone is to the source of sound, the lower your sensitivity setting can be on your microphone. As a result of lowering your levels, sounds you are not meaning to record will also sound fainter.
-
-### **9\. ADR**
-
-When you need to record a scene in a loud setting where you have very little control over the noise, record additional vocals later and replace the original vocals through a process called automated dialogue replacement.
-
-### **10\. Record Ambient Sound**
-
-Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Getting the best sound for your recording is not as simplistic as buying an expensive microphone. There are many different things you can do to record your audio more clearly. Here are 10 recording tips to record high-quality audio.
-
-[**1\. Silence everything you don’t want your microphone to record**](#Silence)  
-[**2\. Put your mobile phone in airplane mode**](#airplane-mode)  
-[**3\. Minimize echo**](#Minimize-echo)  
-[**4\. Block wind from reaching your microphone**](#Block-wind)  
-[**5\. Upgrade your microphone**](#Upgrade-your-microphone)  
-[**6\. Adjust your levels**](#Adjust-your-levels)  
-[**7\. Start with a sound cue if you’re planning to do some syncing in post**](#sound-cue)  
-[**8\. Get close to the sound**](#Get-close-to-the-sound)  
-[**9\. ADR**](#ADR)  
-[**10\. Record Ambient Sound**](#Record-Ambient-Sound)
-
-### Bonus Tip-Record Your Audio with Wondershare Filmora
-
-Wondershare Filmora has great recording features that enable you to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam. Just connect the recording device to your computer, and start the recording in Wondershare Filmora and you will get high-quality audio. And you can also easily pick a song from the royalty-free music library on Wondershare Filmora. These audio features on Filmora are rare and very simple to use, you only need to click a few times and your video will have a new sound and background song.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-### **1\. Silence everything you don’t want your microphone to record**
-
-When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### **2\. Put your mobile phone in airplane mode**
-
-Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
-
-### **3\. Minimize echo**
-
-If you are recording yourself talk or sing, make sure to set up your recording space in a way where the sound projected from your voice bounces minimally off the walls and back to your microphone. Bare walls and hardwood floors will cause a lot of bouncing. Make use of materials that will absorb your sound rather than bounce it, like a thick rug or a comforter. If you want your voice to echo, that’s something you should do in post-production.
-
-### **4\. Block wind from reaching your microphone**
-
-Although it might not sound so loud and distracting to the naked ear, wind sounds terribly loud through a microphone recording and can cause your audio to clip (distortion of waveform due to output of sound exceeding maximum capacity or 0 dB point). This includes the “wind” that comes out of your mouth when you pronounce words starting with the letter “p.” Use pop filters, windscreens, and deadcats to block wind from reaching your microphone.
-
-### **5\. Upgrade your microphone**
-
-As much as you try to control all the noise in your surroundings, your greatest recording limitation will come from the hardware that you use. Improve your recordings by plugging in an external microphone into your camera’s microphone jack or record audio completely separately with a professional microphone.
-
-Need help with deciding on a microphone to buy? Check out our recommended list of microphones.
-
-### **6\. Adjust your levels**
-
-Before pressing the record button, see how loudly your microphone picks up the sound you wish to record. Adjust your levels (sensitivity of your microphone) until the sound sits in between -6 dBs and -12dBs. This range gives the source of your sound some room to get louder without the recorded audio getting clipped. When you first listen to audio recorded within this range, it may sound very quiet. No need to worry though because you can increase the volume later in editing.
-
-### **7\. Start with a sound cue if you’re planning to do some syncing in post**
-
-If you’re recording separate audio that you plan to sync to your video later in editing, start your recording with a short and loud sound cue like a clap or a high pitched “beep” tone. Later, when you’re editing, it’ll be much easier for you to find the section where your video and additional audio match.
-
-### **8\. Get close to the sound**
-
-Unless you’re aiming to record ambient sound, bring your microphone close to the source of sound you are wanting to record. The closer your microphone is to the source of sound, the lower your sensitivity setting can be on your microphone. As a result of lowering your levels, sounds you are not meaning to record will also sound fainter.
-
-### **9\. ADR**
-
-When you need to record a scene in a loud setting where you have very little control over the noise, record additional vocals later and replace the original vocals through a process called automated dialogue replacement.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### **10\. Record Ambient Sound**
-
-Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Getting the best sound for your recording is not as simplistic as buying an expensive microphone. There are many different things you can do to record your audio more clearly. Here are 10 recording tips to record high-quality audio.
-
-[**1\. Silence everything you don’t want your microphone to record**](#Silence)  
-[**2\. Put your mobile phone in airplane mode**](#airplane-mode)  
-[**3\. Minimize echo**](#Minimize-echo)  
-[**4\. Block wind from reaching your microphone**](#Block-wind)  
-[**5\. Upgrade your microphone**](#Upgrade-your-microphone)  
-[**6\. Adjust your levels**](#Adjust-your-levels)  
-[**7\. Start with a sound cue if you’re planning to do some syncing in post**](#sound-cue)  
-[**8\. Get close to the sound**](#Get-close-to-the-sound)  
-[**9\. ADR**](#ADR)  
-[**10\. Record Ambient Sound**](#Record-Ambient-Sound)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### Bonus Tip-Record Your Audio with Wondershare Filmora
-
-Wondershare Filmora has great recording features that enable you to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam. Just connect the recording device to your computer, and start the recording in Wondershare Filmora and you will get high-quality audio. And you can also easily pick a song from the royalty-free music library on Wondershare Filmora. These audio features on Filmora are rare and very simple to use, you only need to click a few times and your video will have a new sound and background song.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-### **1\. Silence everything you don’t want your microphone to record**
-
-When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
-
-### **2\. Put your mobile phone in airplane mode**
-
-Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
 
 ### **3\. Minimize echo**
 
@@ -334,6 +171,172 @@ When you need to record a scene in a loud setting where you have very little con
 Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Getting the best sound for your recording is not as simplistic as buying an expensive microphone. There are many different things you can do to record your audio more clearly. Here are 10 recording tips to record high-quality audio.
+
+[**1\. Silence everything you don’t want your microphone to record**](#Silence)  
+[**2\. Put your mobile phone in airplane mode**](#airplane-mode)  
+[**3\. Minimize echo**](#Minimize-echo)  
+[**4\. Block wind from reaching your microphone**](#Block-wind)  
+[**5\. Upgrade your microphone**](#Upgrade-your-microphone)  
+[**6\. Adjust your levels**](#Adjust-your-levels)  
+[**7\. Start with a sound cue if you’re planning to do some syncing in post**](#sound-cue)  
+[**8\. Get close to the sound**](#Get-close-to-the-sound)  
+[**9\. ADR**](#ADR)  
+[**10\. Record Ambient Sound**](#Record-Ambient-Sound)
+
+### Bonus Tip-Record Your Audio with Wondershare Filmora
+
+Wondershare Filmora has great recording features that enable you to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam. Just connect the recording device to your computer, and start the recording in Wondershare Filmora and you will get high-quality audio. And you can also easily pick a song from the royalty-free music library on Wondershare Filmora. These audio features on Filmora are rare and very simple to use, you only need to click a few times and your video will have a new sound and background song.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### **1\. Silence everything you don’t want your microphone to record**
+
+When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
+
+### **2\. Put your mobile phone in airplane mode**
+
+Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
+
+### **3\. Minimize echo**
+
+If you are recording yourself talk or sing, make sure to set up your recording space in a way where the sound projected from your voice bounces minimally off the walls and back to your microphone. Bare walls and hardwood floors will cause a lot of bouncing. Make use of materials that will absorb your sound rather than bounce it, like a thick rug or a comforter. If you want your voice to echo, that’s something you should do in post-production.
+
+### **4\. Block wind from reaching your microphone**
+
+Although it might not sound so loud and distracting to the naked ear, wind sounds terribly loud through a microphone recording and can cause your audio to clip (distortion of waveform due to output of sound exceeding maximum capacity or 0 dB point). This includes the “wind” that comes out of your mouth when you pronounce words starting with the letter “p.” Use pop filters, windscreens, and deadcats to block wind from reaching your microphone.
+
+### **5\. Upgrade your microphone**
+
+As much as you try to control all the noise in your surroundings, your greatest recording limitation will come from the hardware that you use. Improve your recordings by plugging in an external microphone into your camera’s microphone jack or record audio completely separately with a professional microphone.
+
+Need help with deciding on a microphone to buy? Check out our recommended list of microphones.
+
+### **6\. Adjust your levels**
+
+Before pressing the record button, see how loudly your microphone picks up the sound you wish to record. Adjust your levels (sensitivity of your microphone) until the sound sits in between -6 dBs and -12dBs. This range gives the source of your sound some room to get louder without the recorded audio getting clipped. When you first listen to audio recorded within this range, it may sound very quiet. No need to worry though because you can increase the volume later in editing.
+
+### **7\. Start with a sound cue if you’re planning to do some syncing in post**
+
+If you’re recording separate audio that you plan to sync to your video later in editing, start your recording with a short and loud sound cue like a clap or a high pitched “beep” tone. Later, when you’re editing, it’ll be much easier for you to find the section where your video and additional audio match.
+
+### **8\. Get close to the sound**
+
+Unless you’re aiming to record ambient sound, bring your microphone close to the source of sound you are wanting to record. The closer your microphone is to the source of sound, the lower your sensitivity setting can be on your microphone. As a result of lowering your levels, sounds you are not meaning to record will also sound fainter.
+
+### **9\. ADR**
+
+When you need to record a scene in a loud setting where you have very little control over the noise, record additional vocals later and replace the original vocals through a process called automated dialogue replacement.
+
+### **10\. Record Ambient Sound**
+
+Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Getting the best sound for your recording is not as simplistic as buying an expensive microphone. There are many different things you can do to record your audio more clearly. Here are 10 recording tips to record high-quality audio.
+
+[**1\. Silence everything you don’t want your microphone to record**](#Silence)  
+[**2\. Put your mobile phone in airplane mode**](#airplane-mode)  
+[**3\. Minimize echo**](#Minimize-echo)  
+[**4\. Block wind from reaching your microphone**](#Block-wind)  
+[**5\. Upgrade your microphone**](#Upgrade-your-microphone)  
+[**6\. Adjust your levels**](#Adjust-your-levels)  
+[**7\. Start with a sound cue if you’re planning to do some syncing in post**](#sound-cue)  
+[**8\. Get close to the sound**](#Get-close-to-the-sound)  
+[**9\. ADR**](#ADR)  
+[**10\. Record Ambient Sound**](#Record-Ambient-Sound)
+
+### Bonus Tip-Record Your Audio with Wondershare Filmora
+
+Wondershare Filmora has great recording features that enable you to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam. Just connect the recording device to your computer, and start the recording in Wondershare Filmora and you will get high-quality audio. And you can also easily pick a song from the royalty-free music library on Wondershare Filmora. These audio features on Filmora are rare and very simple to use, you only need to click a few times and your video will have a new sound and background song.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+### **1\. Silence everything you don’t want your microphone to record**
+
+When you’re recording audio, you have to be more aware of the subtle sounds that drone on in your background. These sounds may include humming from machines with fans, buzzing from lights, and jingling from your pet’s collar. Observe your recording space and find ways to silence everything that you don’t want in your audio recording.
+
+### **2\. Put your mobile phone in airplane mode**
+
+Although it may be quite obvious to turn your phone’s ring tone off when you’re recording, it may not be as obvious to put your phone in airplane mode. When phones receive calls or perform searches as part of their background processes, they emit signals that can get picked up by your recording system. Avoid ruining good takes with unwanted sounds of phone signals by putting your phones in airplane mode.
+
+### **3\. Minimize echo**
+
+If you are recording yourself talk or sing, make sure to set up your recording space in a way where the sound projected from your voice bounces minimally off the walls and back to your microphone. Bare walls and hardwood floors will cause a lot of bouncing. Make use of materials that will absorb your sound rather than bounce it, like a thick rug or a comforter. If you want your voice to echo, that’s something you should do in post-production.
+
+### **4\. Block wind from reaching your microphone**
+
+Although it might not sound so loud and distracting to the naked ear, wind sounds terribly loud through a microphone recording and can cause your audio to clip (distortion of waveform due to output of sound exceeding maximum capacity or 0 dB point). This includes the “wind” that comes out of your mouth when you pronounce words starting with the letter “p.” Use pop filters, windscreens, and deadcats to block wind from reaching your microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### **5\. Upgrade your microphone**
+
+As much as you try to control all the noise in your surroundings, your greatest recording limitation will come from the hardware that you use. Improve your recordings by plugging in an external microphone into your camera’s microphone jack or record audio completely separately with a professional microphone.
+
+Need help with deciding on a microphone to buy? Check out our recommended list of microphones.
+
+### **6\. Adjust your levels**
+
+Before pressing the record button, see how loudly your microphone picks up the sound you wish to record. Adjust your levels (sensitivity of your microphone) until the sound sits in between -6 dBs and -12dBs. This range gives the source of your sound some room to get louder without the recorded audio getting clipped. When you first listen to audio recorded within this range, it may sound very quiet. No need to worry though because you can increase the volume later in editing.
+
+### **7\. Start with a sound cue if you’re planning to do some syncing in post**
+
+If you’re recording separate audio that you plan to sync to your video later in editing, start your recording with a short and loud sound cue like a clap or a high pitched “beep” tone. Later, when you’re editing, it’ll be much easier for you to find the section where your video and additional audio match.
+
+### **8\. Get close to the sound**
+
+Unless you’re aiming to record ambient sound, bring your microphone close to the source of sound you are wanting to record. The closer your microphone is to the source of sound, the lower your sensitivity setting can be on your microphone. As a result of lowering your levels, sounds you are not meaning to record will also sound fainter.
+
+### **9\. ADR**
+
+When you need to record a scene in a loud setting where you have very little control over the noise, record additional vocals later and replace the original vocals through a process called automated dialogue replacement.
+
+### **10\. Record Ambient Sound**
+
+Remember to record ambient sound or “room tone.” You can use these recordings to fill in the blanks if you run out of audio and also smooth out parts of your audio where you hear pops, clicks, and other unwanted noise.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -416,13 +419,6 @@ Here are some of the cool features of the Checksub tool:
 * Supports over 190 languages
 * Adds automatic voiceover in a foreign language
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [EasySub](https://easyssub.com/tools/subtitle-downloader/)
 
 EasySub is another simple and fast-to-use tool that can help you extract YouTube subtitles in no time without installing any software or extensions. Moreover, it supports multiple file formats, such as VTT, SRT, ass, and TXT.
@@ -456,13 +452,6 @@ With its massive subtitle database, YouSubtitles stands out from other online to
 
 ![yousubtitles](https://images.wondershare.com/filmora/article-images/2022/12/yousubtitles-for-youtube-subtitles-extraction.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here's why YouSubtitles is one of the best YouTube subtitles extractor online:
 
 * Free to use
@@ -487,10 +476,7 @@ Some key features of DVDVideoSoft are as follows:
 Youtube's automatic subtitles are sometimes inaccurate while using an online tool. Therefore, we recommend you use dedicated software to make adjustments to the content. Some of these programs are as follows:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Wondershare UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/)
@@ -525,6 +511,10 @@ Another customizable and powerful software for downloading YouTube SRT is the DV
 
 ![dvdvideosoft free youtube subtitles downloader](https://images.wondershare.com/filmora/article-images/2022/12/dvdvideosoft-free-youtube-subtitles-downloader.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 Here are some key features of the DVDVideoSoft Free YouTube Subtitles Downloader:
@@ -549,6 +539,10 @@ Below are the key features of the 4K Video Downloader software:
 * Download the video in 4K
 * Supports over 50 languages for **YouTube subtitles extraction**
 * Can download an entire playlist
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [ByClick Downloader](https://www.byclickdownloader.com/)
 
@@ -622,19 +616,6 @@ These tools are simple to use and can help you save a lot of time and effort. Ho
 Online Free Youtube Subtitle Extractor
 
 You can use one of the following subtitle extractor tools if you only need the SRT file:
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [DownSub](https://downsub.com/)
 
@@ -730,6 +711,10 @@ Wondershare UniConverter is an easy-to-use software for Windows and Mac that can
 
 ![wondershare uniconverter](https://images.wondershare.com/filmora/article-images/2022/12/wondershare-uniconverter-for-youtube-subtitle-download.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features:**
 
 Here are some of the things UniConverter can do:
@@ -748,13 +733,6 @@ Another customizable and powerful software for downloading YouTube SRT is the DV
 **Price:** Free
 
 ![dvdvideosoft free youtube subtitles downloader](https://images.wondershare.com/filmora/article-images/2022/12/dvdvideosoft-free-youtube-subtitles-downloader.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features:**
 
@@ -849,20 +827,20 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-novice-networking-affordable-channel-buy-options/"><u>[New] Novice Networking Affordable Channel Buy Options</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-vocal-variety-ventures-in-free-fire-play/"><u>[Updated] Vocal Variety Ventures in Free Fire Play</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-imageslice-editor/"><u>2024 Approved ImageSlice Editor</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/exclusive-access-sharing-restricted-youtube-content-with-emailid-for-2024/"><u>Exclusive Access Sharing Restricted YouTube Content with EmailID for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-seamless-browsing-with-the-latest-arc-browser-for-windows-11-users/"><u>Experience Seamless Browsing with the Latest Arc Browser for Windows 11 Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-g2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo G2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-youtube-experience-shareable-playlists/"><u>In 2024, Streamline Your YouTube Experience Shareable Playlists</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-synchronized-screenscape-tv-loops-of-online-media/"><u>In 2024, Synchronized Screenscape TV Loops of Online Media</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unbeatable-online-and-desktop-gif-maker-options/"><u>In 2024, Unbeatable Online & Desktop GIF Maker Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-youtubes-monthly-monetization-rules/"><u>In 2024, Unveiling YouTube’s Monthly Monetization Rules</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ative-practices-in-creating-powerful-youtube-summaries/"><u>Innovative Practices in Creating Powerful YouTube Summaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-mistakes-to-evade-when-leveraging-chatgpt-for-copywriting/"><u>Key Mistakes to Evade When Leveraging ChatGPT for Copywriting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones-zdnet-insights/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-old-hollywood-filmmaking-styles/"><u>[New] Step-by-Step Guide to Old Hollywood Filmmaking Styles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-eye-openers-yearly-infographics-on-yts-surprising-stats-17/"><u>2024 Approved Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-youtube-videos-for-igtv-showcase-3-techniques/"><u>2024 Approved Tailoring YouTube Videos for IGTV Showcase 3 Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tinyvid-masterpiece/"><u>2024 Approved TinyVid Masterpiece</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-step-by-step-guide-for-earning-with-youtube-shorts/"><u>A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-audiences-on-multiple-digital-landscapes/"><u>Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://fox-within.techidaily.com/exploring-the-features-of-internet-information-services-iis-properties-window/"><u>Exploring the Features of Internet Information Services (IIS) Properties Window</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/express-yourself-incorporating-emojis-into-yt-feedback-for-2024/"><u>Express Yourself Incorporating Emojis Into YT Feedback for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-fold-5-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy Z Fold 5 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-your-channel-identity-with-smart-naming/"><u>In 2024, Master Your Channel Identity with Smart Naming</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-gamers-equipment-showcase-series/"><u>In 2024, Pro Gamer's Equipment Showcase Series</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202389591-trouble-with-arrow-keys-discover-easy-fixes-to-restore-functionality/"><u>Trouble with Arrow Keys? Discover Easy Fixes to Restore Functionality!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-aiff-to-mp3-mastery-transforming-your-audio-collection-effortlessly/"><u>Updated In 2024, AIFF to MP3 Mastery Transforming Your Audio Collection Effortlessly</u></a></li>
 </ul></div>
 

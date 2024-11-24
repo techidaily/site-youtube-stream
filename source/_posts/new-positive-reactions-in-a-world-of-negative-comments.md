@@ -1,7 +1,7 @@
 ---
 title: "[New] Positive Reactions in a World of Negative Comments"
-date: 2024-07-29T21:56:02.411Z
-updated: 2024-07-30T21:56:02.411Z
+date: 2024-11-22T19:34:11.377Z
+updated: 2024-11-24T18:42:04.498Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -58,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -70,12 +68,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quickcapture-vs-recordify-comparative-recorder-analysis-2023/"><u>[Updated] 2024 Approved 'QuickCapture' Vs 'Recordify' Comparative Recorder Analysis 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>[Updated] Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-mini-millionaire-how-a-kid-earned-big-bucks-daily/"><u>[Updated] YouTube's Mini Millionaire How a Kid Earned Big Bucks Daily</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>2024 Approved Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-definitive-guide-to-ios-and-android-maker-tools/"><u>2024 Approved The Definitive Guide to iOS & Android Maker Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-secrets-of-effective-free-youtube-video-transcriptions-revealed/"><u>2024 Approved The Secrets of Effective, FREE YouTube Video Transcriptions Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-a-secure-youtube-identity-check/"><u>2024 Approved Tips for a Secure YouTube Identity Check</u></a></li>
+<li><a href="https://win-help.techidaily.com/iphone-3/"><u>如何将 iPhone 设置中隐藏的照片通过3种策略上传到电脑</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-vos-videos-flv-en-ogg-facilement-et-gratuitement-avec-loutil-en-ligne-de-movavi/"><u>Convertissez Vos Vidéos FLV en OGG Facilement Et Gratuitement Avec L'outil en Ligne De Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-add-timestamps-youtube-video/"><u>In 2024, How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>In 2024, Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-most-popular-firefox-visual-recorders/"><u>In 2024, Most Popular Firefox Visual Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-growth-recipe-for-youtube-from-thousands-to-millions/"><u>In 2024, Rapid Growth Recipe for YouTube From Thousands to Millions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-streaming-experience-via-youtubes-av1-feature/"><u>In 2024, Transform Your Streaming Experience via YouTube's AV1 Feature</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-ideas-into-engaging-youtube-video-plans/"><u>In 2024, Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unlocking-customer-loyalty-top-4-strategies-with-massmail-software/"><u>Unlocking Customer Loyalty: Top 4 Strategies with MassMail Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-in-depth-analysis-by-toms-computing-guide/"><u>Unlocking Performance: In-Depth Analysis by Tom's Computing Guide</u></a></li>
+</ul></div>
 

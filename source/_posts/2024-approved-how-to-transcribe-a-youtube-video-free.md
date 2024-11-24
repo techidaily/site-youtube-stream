@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Transcribe a YouTube Video [FREE]\""
-date: 2024-10-17T16:16:45.702Z
-updated: 2024-10-24T16:08:32.679Z
+date: 2024-11-18T17:07:17.114Z
+updated: 2024-11-24T17:20:04.796Z
 tags:
   - ai video
   - ai youtube
@@ -48,10 +48,7 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 ![Upload YouTube videos](https://images.wondershare.com/filmora/article-images/youtube-upload-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2  Select Transcription Language
@@ -59,6 +56,10 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 On the **Details** page of the next box that appears, scroll down and click **MORE OPTIONS**, and select **English** in the **Video language** drop-down list under the **Language, subtitles, and closed captions (CC)** section.
 
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3  Publish the Video
 
@@ -79,10 +80,7 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 ![YouTube Classic Studio](https://images.wondershare.com/filmora/article-images/youtube-edit-on-classic-studio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. **Download Transcription File**
@@ -90,13 +88,6 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -136,6 +127,10 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 * Kapwing is free to use
@@ -157,13 +152,6 @@ Copy the URL of YouTube video you want to transcribe, go to <https://www.kapwing
 Click **Auto-generate** from the right window, and follow the on-screen instructions to **transcribe YouTube video to text**.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Download the Transcription File**
 
@@ -196,13 +184,6 @@ If the speaker in the video is from a different region and is using an accent th
 * **Repurposing on Blogs**
 
 If you own a blog that you have embedded your video to, the transcription could be used to add text to it so the target audience can get a fair idea of what the video is all about. This is useful because many people prefer reading over watching.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### YouTube Video Transcription FAQs
 
@@ -242,6 +223,10 @@ If you are looking for a quick and easy way of adding subtitles to your videos, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -257,24 +242,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-risky-business-buying-non-real-youtube-supporters/"><u>[New] 2024 Approved Risky Business Buying Non-Real YouTube Supporters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-prime-position-predictor-highest-charting-videos/"><u>[New] Prime Position Predictor Highest Charting Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-designing-striking-youtube-thumbnails-with-macos/"><u>[New] Step-by-Step Designing Striking Youtube Thumbnails with macOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>2024 Approved Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-thumbnail-design-for-mac-users-youtube-edition/"><u>2024 Approved Master Thumbnail Design for Mac Users - YouTube Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-recording-secrets-for-top-notch-audio/"><u>2024 Approved Mastering Recording Secrets for Top-Notch Audio</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unbeatable-video-popularity-tracker-in-youtube-arena/"><u>2024 Approved Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-chronicle-of-the-most-popular-reddit-threads-ever/"><u>A Chronicle of the Most Popular Reddit Threads Ever</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/battle-of-the-titans-llama-3-against-gpt-nai-in-an-intense-showdown/"><u>Battle of the Titans: Llama 3 Against GPT-nAi in an Intense Showdown</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-10-premier-historical-youtube-networks/"><u>In 2024, Explore 10 Premier Historical Youtube Networks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a79-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A79 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-at-vimeo-and-youtubes-market-strategies/"><u>In 2024, Inside Look at Vimeo and YouTube’s Market Strategies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>In 2024, Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-10-ultimate-audio-capture-plugins-for-spotify/"><u>In 2024, Top 10 Ultimate Audio Capture Plugins for Spotify</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs-for-2024/"><u>Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-smart-approach-to-video-marketing-for-smbs/"><u>The SMART Approach to Video Marketing for SMBs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/thrifty-tech-finds-best-cameras-on-a-dime/"><u>Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/top-5-alternatives-to-tiktok-you-should-know-updated/"><u>Top 5 Alternatives to TikTok You Should Know [Updated ]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wav-mp3-movavi/"><u>お使いワニで楽しむ WAV から MP3 に自由自在変換サービス – Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-beats-for-chats-adding-sound-to-whatsapp-for-2024/"><u>[New] Beats for Chats Adding Sound to WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-8-truly-effective-video-marketing-strategies/"><u>2024 Approved Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>2024 Approved Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289803851-windows-11dvdmp4aviwmv/"><u>高效率Windows 11软件：DVD转换为MP4、AVI、WMV文件，锁定数据安全保存</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-10-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 10 [Solved]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-generate-individual-meme-crafts-today/"><u>In 2024, Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>In 2024, Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List Best Free Video Subtitles & Downloader</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamlessly-connect-windows-to-android-mastering-the-art-of-file-sharing-with-googlen-quick-share-top-tips-and-tricks/"><u>Seamlessly Connect Windows to Android: Mastering the Art of File Sharing with Google'n Quick Share - Top Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-video-downloading-tools-for-windows-10-64-bit-and-32-bit-free-trials-available/"><u>Top Video Downloading Tools for Windows 10 (64-Bit & 32-Bit) - Free Trials Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables-zdnet/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables | ZDNET</u></a></li>
 </ul></div>
 

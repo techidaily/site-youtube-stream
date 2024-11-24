@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Second-Screen Craftsman\""
-date: 2024-11-12T01:06:57.706Z
-updated: 2024-11-14T19:38:23.106Z
+date: 2024-11-22T21:12:09.083Z
+updated: 2024-11-24T20:55:19.272Z
 tags:
   - ai video
   - ai youtube
@@ -114,6 +114,10 @@ Step 3:**Share**
 
 You can export your project up to 4k and 60fps. The app saves directly to your camera’s roll besides letting you share to social media.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Related FAQs
 
 ****How to Make a Clip from a YouTube Video** **？**
@@ -163,6 +167,10 @@ Record voice-over:
 Choose "Record a voiceover" on the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
 
 All media files recorded are automatically saved in the “Media Library”, in case of further editing, you can drag them to the timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Make YouTube Clip Online
 
@@ -259,6 +267,10 @@ Record voice-over:
 Choose "Record a voiceover" on the Record menu. It would be better to connect a microphone to your Mac for a better result. Hit the Record button, and it leaves you 3 seconds to get ready.
 
 All media files recorded are automatically saved in the “Media Library”, in case of further editing, you can drag them to the timeline.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Make YouTube Clip Online
 
@@ -457,15 +469,16 @@ YouTubers use several video editors for their work. Some of the most popular edi
 ![create event ](https://images.wondershare.com/filmora/article-images/create-event.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** Your system will now take you to the camera settings; here you need to enter your thumbnail. It can be done directly by using browse option.
 
 ![ Add your thumbnail](https://images.wondershare.com/filmora/article-images/add-your-thumbnail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Now you need to select ‘basic ingestion’ option and secondly select ‘other encoders’ option from second set of information.
 
@@ -476,13 +489,6 @@ YouTubers use several video editors for their work. Some of the most popular edi
 **Step 8:** Open the wirecast software tool on your device and then simply move to the output settings. Hit the authenticate option, it will soon ask you to enter the YouTube login detail.
 
 ![via browser ](https://images.wondershare.com/filmora/article-images/via-browser.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 9:** As soon as you sign in with your account using browser, then your settings will be ready on screen. Simply hit Ok.
 
@@ -495,6 +501,10 @@ YouTubers use several video editors for their work. Some of the most popular edi
 **Step 11:** Now simply move to the YouTube event page and start streaming your content.
 
 ![event page ](https://images.wondershare.com/filmora/article-images/event-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 12:** Once you content for streaming is finished then click the stop streaming button that appears in red color on screen. You will also get information about duration of your video that is going live.
 
@@ -527,13 +537,6 @@ Follow @Richard Bennett
 **Step 3:** Now you need to enter few basic details about your video that you are going to live stream. Do not forget to choose custom option under the Type category available on bottom right side of screen.
 
 ![ select custom](https://images.wondershare.com/filmora/article-images/select-custom.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** It is time to hit the create event option.
 
@@ -573,6 +576,10 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -592,19 +599,6 @@ Follow @Richard Bennett
 **Step 2:** Once you enter into the live streaming option then your application will ask you to schedule a new event; follow this option.
 
 ![new event ](https://images.wondershare.com/filmora/article-images/new-event.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Now you need to enter few basic details about your video that you are going to live stream. Do not forget to choose custom option under the Type category available on bottom right side of screen.
 
@@ -623,10 +617,7 @@ Follow @Richard Bennett
 ![ other encoders](https://images.wondershare.com/filmora/article-images/other-encoders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 7:** Once you have completed above settings then you need to save all the changes and then move to the live control room on your screen.
@@ -643,6 +634,10 @@ Follow @Richard Bennett
 
 ![ stream button](https://images.wondershare.com/filmora/article-images/stream-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 11:** Now simply move to the YouTube event page and start streaming your content.
 
 ![event page ](https://images.wondershare.com/filmora/article-images/event-page.jpg)
@@ -654,13 +649,6 @@ Follow @Richard Bennett
 **Step 13:** When your streaming process ends then video will be saved to video manager. You can view it easily at later stage.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -679,10 +667,7 @@ Follow @Richard Bennett
 ![streaming-events ](https://images.wondershare.com/filmora/article-images/streaming-events.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Once you enter into the live streaming option then your application will ask you to schedule a new event; follow this option.
@@ -692,13 +677,6 @@ Follow @Richard Bennett
 **Step 3:** Now you need to enter few basic details about your video that you are going to live stream. Do not forget to choose custom option under the Type category available on bottom right side of screen.
 
 ![ select custom](https://images.wondershare.com/filmora/article-images/select-custom.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** It is time to hit the create event option.
 
@@ -759,16 +737,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-hone-your-message-effective-use-of-templates-for-shorts/"><u>[New] Hone Your Message Effective Use of Templates for Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[New] Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[Updated] In 2024, Step-by-Step Guide to Changing Photo Genders From Theory to Practice</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-3-ways-to-record-whatsapp-call/"><u>2024 Approved 3 Ways to Record WhatsApp Call</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-timing-of-youtube-earnings-a-closer-insight/"><u>2024 Approved Timing of YouTube Earnings A Closer Insight</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>In 2024, Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tips-for-a-secure-youtube-identity-check/"><u>In 2024, Tips for a Secure YouTube Identity Check</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solution-for-battlefield-5-launch-failures/"><u>Quick Solution for Battlefield 5 Launch Failures</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/solutions-pour-restaurer-des-documents-perdus-suite-a-la-purge-par-ordinateur/"><u>Solutions Pour Restaurer Des Documents Perdus Suite À La Purge Par Ordinateur</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-powerhouse-performance-with-new-z270-gaming-pro-carbon-order-now/"><u>Unleash Powerhouse Performance with New Z270 Gaming Pro Carbon - Order Now!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/wie-man-ein-betriebssystem-auf-eine-andere-ssd-ubertragen-einfache-schritte/"><u>Wie Man Ein Betriebssystem Auf Eine Andere SSD Übertragen – Einfache Schritte</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-multiply-engagement-on-your-instagram-story/"><u>[Updated] How to Multiply Engagement on Your Instagram Story</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-stream-videos-on-twitter-using-your-smartphone-for-2024/"><u>[Updated] How To Stream Videos on Twitter Using Your Smartphone for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-5-video-and-photography-mobile-apps-for-iphoneandroid-users/"><u>[Updated] In 2024, Top 5 Video & Photography Mobile Apps for iPhone/Android Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-memorable-youtube-names/"><u>2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-raising-the-bar-in-online-earnings-500-subs-achievement/"><u>2024 Approved Raising the Bar in Online Earnings 500 Subs Achievement</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1725285226055-dvd-winx-dvd-ripper-platinum/"><u>DVDを処理する際に必要な WinX DVD Ripper Platinumの使い方と編集・設定手順ガイド</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison/"><u>In 2024, Expert Smartphone Photo & Film Capture IPhone/Android Comparison</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flavor-leaders-must-watch-culinary-youtube-stars/"><u>In 2024, Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secure-free-footage-streaming-through-key-youtube-channels/"><u>In 2024, Secure Free Footage Streaming Through Key YouTube Channels</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/live-streaming-made-easy-mastering-manycam-with-virtual-camera-capabilities/"><u>Live Streaming Made Easy: Mastering ManyCam with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-revive-your-corsair-hs50-microphone-with-these-effective-techniques/"><u>Mastering the Art of Troubleshooting: Revive Your Corsair HS50 Microphone with These Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphones-volume-controls-discover-7-quick-solutions/"><u>Trouble with iPhone's Volume Controls? Discover 7 Quick Solutions!</u></a></li>
 </ul></div>
 

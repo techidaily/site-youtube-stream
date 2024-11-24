@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2024-11-11T10:06:35.272Z
-updated: 2024-11-14T19:17:43.190Z
+date: 2024-11-18T20:09:19.046Z
+updated: 2024-11-24T19:22:50.772Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -44,6 +37,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -53,23 +50,17 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -91,10 +82,7 @@ There are mainly two ways you can do this:
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
@@ -106,7 +94,15 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
@@ -124,13 +120,6 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
@@ -142,16 +131,7 @@ There are mainly two ways you can do this:
 7. After the game is added, select it and click**Options** .  
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
@@ -180,22 +160,18 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-cutting-edge-design-top-5-3d-intro-makers/"><u>[New] Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-framefixer-editor/"><u>[New] FrameFixer Editor</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[New] Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>[New] Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>[Updated] 2024 Approved Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expedited-guide-to-effective-double-take-technique/"><u>2024 Approved Expedited Guide to Effective Double-Take Technique</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>2024 Approved The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/before-you-leave-what-to-evaluate-in-your-online-space/"><u>Before You Leave, What to Evaluate in Your Online Space</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails-for-2024/"><u>Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imagememe-magic-instant-jokes-for-2024/"><u>ImageMeme Magic Instant Jokes for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mirthful-media-youtubes-top-20-for-a-chuckle/"><u>In 2024, Mirthful Media YouTube's Top 20 for a Chuckle</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>In 2024, Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210282278-9781589239944-magickal-tarot/"><u>Magickal Tarot | Free Book</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/professional-edition-of-winxdvd-features-dvd-copying-video-upgrading-with-artificial-intelligence-and-cross-device-file-sharing/"><u>Professional Edition of WinXDVD: Features DVD Copying, Video Upgrading with Artificial Intelligence, and Cross-Device File Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-no-signs-after-os-launch/"><u>Solving No Signs After OS Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-11-free-mp4-video-editors-of-2024-windows-and-mac-compatible-options/"><u>Top 11 Free MP4 Video Editors of 2024: Windows and Mac Compatible Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unmatched-recording-alternatives-for-modern-gaming-enthusiasts/"><u>[Updated] 2024 Approved Unmatched Recording Alternatives for Modern Gaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-protecting-data-while-transforming-youtube-videos-into-mp3-files-for-2024/"><u>[Updated] Protecting Data While Transforming YouTube Videos Into MP3 Files for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>2024 Approved From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-repeat-revelry-televised-looping-of-online-media-content/"><u>2024 Approved Repeat Revelry Televised Looping of Online Media Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-insider-guide-to-gaming-channel-header-templates/"><u>2024 Approved The Insider Guide to Gaming Channel Header Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726026782155-h264/"><u>効率的なH264でビデオを符号化する方法：ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-ps5-dualsense-controllers-charger-guide/"><u>Comprehensive PS5 DualSense Controllers Charger Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/economical-business-data-protection-invest-in-aomei-cyber-backup-solutions/"><u>Economical Business Data Protection: Invest in AOMEI Cyber Backup Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-youtube-outro-kings-6-top-suggestions-for-2024/"><u>Free YouTube Outro Kings 6 TOP Suggestions for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-watch-party-multi-video-views-made-easy/"><u>In 2024, Streamline Your Watch Party Multi-Video Views Made Easy</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-your-contents-potential-organic-growth-tactics/"><u>In 2024, Unleash Your Content's Potential Organic Growth Tactics</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastery-in-avoiding-social-snares-of-high-order/"><u>Mastery in Avoiding Social Snares of High Order</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-7-mic-failure-a-step-by-step-guide-to-getting-sound-back-on-track/"><u>SteelSeries Arctis 7 Mic Failure: A Step-by-Step Guide to Getting Sound Back on Track</u></a></li>
 </ul></div>
 

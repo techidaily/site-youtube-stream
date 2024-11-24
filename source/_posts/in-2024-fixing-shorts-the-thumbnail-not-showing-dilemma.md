@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fixing Shorts  The Thumbnail Not Showing Dilemma\""
-date: 2024-10-21T16:06:08.911Z
-updated: 2024-10-24T16:06:53.669Z
+date: 2024-11-22T19:25:46.798Z
+updated: 2024-11-24T16:31:04.952Z
 tags:
   - ai video
   - ai youtube
@@ -46,16 +46,7 @@ Adding a custom thumbnail for YouTube Shorts is the same as adding one for long-
 ![changing shorts thumbnail on youtube studio](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-change-thumbnail-5.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Q2\. Why Are YouTube Shorts Thumbnails Not Showing?
@@ -68,16 +59,13 @@ _"They ALL have randomly selected different parts of each video I have uploaded 
 
 The reason behind this is the difference in the thumbnail size. Regular YouTube video thumbnails are in the ratio of 16:9\. Meanwhile, Shorts uses a ratio of 9:16\. The thing is that YouTube does not yet allow you to upload 9:16 thumbnails. Thus, the thumbnail for Shorts may show correctly on the video section but not on the Shorts shelf.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q3\. How to Fix YouTube Shorts Thumbnail Problem?
 
 ![fix youtube shorts thumbnail not showing problem](https://images.wondershare.com/filmora/article-images/fix-youtube-shorts-thumbnail-not-showing.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Unfortunately, there is no reliable fix to this problem yet. YouTubers have tried different things in hopes that YouTube will display the correct thumbnail for their Shorts.
 
@@ -100,6 +88,10 @@ Of course, ensuring that the video quality is high is key to getting more views.
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![filmora mobile feature showcase](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-filmora.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The best thing is that you don't need to transfer the video from your phone to your computer and back. Wondershare Filmora is available on mobile. And it's one of the best tools for enhancing a short-form video.
 
@@ -126,19 +118,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Pause the video.
 
 ![paused a shorts video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-2.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click "Library" on the left panel.
 
@@ -169,13 +148,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -221,13 +193,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
@@ -238,16 +203,13 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Tap "Library"
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Scroll down to find "Liked Videos." Click on it.
 
@@ -395,6 +357,10 @@ Google cares about how people respond to your content because this is what keeps
 
 YouTube cards encourage viewers to take action during your video. The cards show up in the top right corner of your videos; users can click on and explore more. Using YouTube cards is an excellent way to boost your ranking. YouTube allows you to add a maximum of five cards to each video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Using these YouTube SEO tips will ensure that your videos rank on top search results. That means more people will watch your videos and subscribe to your channel. Let's start editing now!
@@ -473,6 +439,10 @@ When uploading a video, be sure to select the most appropriate category for it. 
 
 ![youtube seo tips - use compelling thumbnail](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure you use [the right YouTube video thumbnail image](https://tools.techidaily.com/wondershare/filmora/download/), as this makes a big difference in the click-through rate. You might want to use high-quality, high-contrast images with a 16:9 aspect ratio. YouTube will choose which frame it will display as the video thumbnail. The platform will present three screenshots that you can choose from; however, you can upload your image or select a shot of another moment in the video.
 
 Remember that YouTube overlays the duration of the video in the corner of your thumbnail. So make sure it does not obstruct any relevant details in your thumbnail. Google also uses image recognition to filter out specific imagery, including the YouTube logo.
@@ -526,10 +496,7 @@ Luckily, this article offers YouTube SEO tips to help you create a solid strateg
 [**11 Useful YouTube SEO Tips to Help Boost Your Video Ranking**](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does YouTube SEO Work?
@@ -567,6 +534,10 @@ Each time you publish a new video, make sure you embed it on your website or blo
 #### 4\. Add Tags To The Video Description
 
 ![youtube seo tips - add tags to video](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you upload your video, remember to add tags to the "About" section of the page. You can do this by adding some relevant keywords with each tag like you would with blog posts.
 
@@ -588,18 +559,15 @@ Adding subtitles and closed captions to your videos is also a good idea, especia
 
 ![youtube seo tips - select video category](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When uploading a video, be sure to select the most appropriate category for it. Essentially, this helps with SEO optimization because choosing the right category means that YouTube's algorithm will place your video in the proper search results. In turn, viewers will easily find your video and watch it.
 
 #### 8\. Use a Compelling Thumbnail
 
 ![youtube seo tips - use compelling thumbnail](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Make sure you use [the right YouTube video thumbnail image](https://tools.techidaily.com/wondershare/filmora/download/), as this makes a big difference in the click-through rate. You might want to use high-quality, high-contrast images with a 16:9 aspect ratio. YouTube will choose which frame it will display as the video thumbnail. The platform will present three screenshots that you can choose from; however, you can upload your image or select a shot of another moment in the video.
 
@@ -702,6 +670,10 @@ The filename of your video, or the "video URL," can also affect its rankings. In
 #### 6\. Add Subtitles and Closed Captions
 
 ![youtube seo tips - add subtitles and closed captions](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adding subtitles and closed captions to your videos is also a good idea, especially if you want the video's ranking and viewership to improve. Subtitles make it easier for new viewers to understand your videos, especially if your audience comes from different linguistic backgrounds.
 
@@ -770,24 +742,17 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-make-a-statement-with-free-profile-pics-for-2024/"><u>[Updated] Make a Statement With Free Profile Pics for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users-for-2024/"><u>[Updated] Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-10-survival-arena-matches-for-2024/"><u>[Updated] Ultimate 10 Survival Arena Matches for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtubes-systems-after-video-upload/"><u>2024 Approved Navigating YouTube's Systems After Video Upload</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-privacy-adjustments-for-youtube/"><u>2024 Approved Step-by-Step Privacy Adjustments for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-record-your-iphone-or-ipad-screen-for-youtube-for-2024/"><u>How to Record Your iPhone or iPad Screen for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-12-ultimate-insta-image-enhancers/"><u>In 2024, 12 Ultimate Insta Image Enhancers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-to-earning-through-mobile-content-on-youtube/"><u>In 2024, Step-by-Step Guide to Earning Through Mobile Content on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-creators-guide-to-mastering-youtube-aspect-ratios/"><u>In 2024, The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube/"><u>In 2024, Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/introducing-apples-ultimate-leap-in-viewing-experience-the-vision-pro-a-game-changer-in-home-cinema-technology/"><u>Introducing Apple's Ultimate Leap in Viewing Experience - The 'Vision Pro': A Game-Changer in Home Cinema Technology</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mitigating-the-risk-of-youtube-sanctions-for-2024/"><u>Mitigating the Risk of YouTube Sanctions for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/st-digital-revenue-prognosticator-for-2024/"><u>No-Cost Digital Revenue Prognosticator for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-list-of-playstation-5s-exclusive-game-offerings/"><u>The Definitive List of PlayStation 5'S Exclusive Game Offerings</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-4k-proxy-video-editing-top-apps/"><u>Updated 2024 Approved The Ultimate Guide to 4K Proxy Video Editing Top Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastery-techniques-for-embedding-social-media-live-videos/"><u>[New] 2024 Approved Mastery Techniques for Embedding Social Media Live Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unleash-your-full-potential-in-the-metaverse/"><u>[Updated] Unleash Your Full Potential in the Metaverse</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantaneous-downloads-the-ultimate-toolkit-compilation/"><u>2024 Approved Instantaneous Downloads - The Ultimate Toolkit Compilation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-splitting-screen-techniques-for-engaging-youtube-content/"><u>2024 Approved Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-dual-careers-youtuber-and-full-time-employee/"><u>2024 Approved The Art of Dual Careers YouTuber & Full-Time Employee</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>2024 Approved The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/asias-hottest-language-trends-top-3-speakers/"><u>Asia's Hottest Language Trends: Top 3 Speakers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ai-enhanced-naming-mastery-for-podcast-creatives/"><u>In 2024, AI-Enhanced Naming Mastery for Podcast Creatives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-hilarityhatcher-create-comedy-with-a-click/"><u>In 2024, HilarityHatcher Create Comedy with a Click</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-stream-on-youtube-and-twitch-with-obs/"><u>In 2024, How to Stream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-master-the-art-of-file-acquisition-expert-guide-for-downloading-igtv/"><u>In 2024, Master the Art of File Acquisition Expert Guide for Downloading IGTV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone to PC or Mac | Stellar</u></a></li>
 </ul></div>
 

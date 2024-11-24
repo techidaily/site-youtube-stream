@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-11-13T18:50:25.902Z
-updated: 2024-11-14T21:56:25.983Z
+date: 2024-11-20T21:06:10.984Z
+updated: 2024-11-24T16:12:42.025Z
 tags:
   - ai video
   - ai youtube
@@ -46,10 +46,7 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 Here are 4 things to talk about in your daily vlog:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are you watching/reading?
@@ -58,6 +55,10 @@ Here are 4 things to talk about in your daily vlog:
 
 By commenting on what you’re watching/reading you have a better chance of capitalizing on a trending topic people are searching for. You could also find yourself an audience by becoming involved in fan communities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Snapshots of Your Day
 
  Casey Neistat is the master of this. He is always ready with a camera on hand so that, when something interesting happens, he can capture it and build his daily vlog around it.
@@ -65,10 +66,7 @@ By commenting on what you’re watching/reading you have a better chance of capi
 Carrying a camera around like Casey may or may not suit your lifestyle, but you can still pick out one story from your day to tell. It doesn’t have to be a major event, and you shouldn’t worry that it won’t be interesting to other people. It’s your personality they’re tuning in for, so even if you’re just talking about a funny thing your cat did it will keep your audience interested because a) it’s you talking about it and b) it gives them a bit of insight into your life.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Whatever You Need to Get Out
@@ -80,13 +78,6 @@ _Flula is frequently puzzled by English expressions, like 'Party Pooper', and ne
 It does not matter what it is that is making you have this strong reaction (unless, again, it’s an actual person who might see your video and cause problems for you). If you’re mad about a real injustice in the world then that’s a great thing to talk about – you might even raise some awareness for the issue – but you can also rant about your favorite flavor of yogurt being cut and that’ll be engaging to viewers too.
 
 Alternatively: you could do a vlog about how happy you are to have gotten engaged or a vlog about how happy you are that it was sunny today, and your enthusiasm will carry your audience through either video with you.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What did you learn today?
 
@@ -104,20 +95,21 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 
 Sea monkeys can survive in space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## EVERYTHING
 
 You could also just flick the camera on and tell the full story of your day like you’d do in a traditional daily blog. What did you have for breakfast, how was school/work, did you talk to any friends, how was the weather – anything and everything. Generally, these videos can run a bit long and don’t have a lot of snappy editing. They’re faster to make, which is good if you’re doing them every day, but the unpolished nature of them won’t appeal to everyone. It will be exactly what appeals to some people, though.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Customize Your Vlog Stories with Powerful Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **We’ve got a new eBook out!**
 
@@ -140,21 +132,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>[New] 2024 Approved Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-whats-revolutionary-about-movavi-plus-video-editor/"><u>[New] 2024 Approved What's Revolutionary About Movavi Plus Video Editor ?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exemplary-6-online-communities-for-corporate-growth/"><u>[New] Exemplary 6 Online Communities for Corporate Growth</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-navigate-the-maze-of-mp4-cutters-for-mac-creators/"><u>[New] Navigate the Maze of MP4 Cutters for Mac Creators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-best-practices-for-advanced-ae-plug-ins/"><u>2024 Approved Best Practices for Advanced AE Plug-Ins</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-multimedia-text-producer/"><u>2024 Approved Multimedia Text Producer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>2024 Approved Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-dull-scenes-to-dynamic-sports-highlights/"><u>In 2024, From Dull Scenes to Dynamic Sports Highlights</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-hot-30-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Hot 30 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovators-roundtable-for-youtube/"><u>In 2024, Innovators’ Roundtable for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-home-entertainment-with-philips-hue-on-samsung-tv-special-3mo-deal-covered-by-zdnet/"><u>Revolutionize Your Home Entertainment with Philips Hue on Samsung TV - Special $3/Mo Deal Covered by ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamlining-your-monetization-mastering-youtube-adsense/"><u>Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-full-vision-media-the-smart-mcn-selection-process/"><u>[New] Full Vision Media The Smart MCN Selection Process</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>[New] Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-win-11-strategies-to-successfully-save-mov-files-for-2024/"><u>[Updated] Win 11 Strategies to Successfully Save .mov Files for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-a-freeze-frame-sequence-effect/"><u>2024 Approved How to Create a Freeze Frame Sequence Effect</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-improve-instagram-video-loading-times-effectively/"><u>2024 Approved Improve Instagram Video Loading Times Effectively</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views/"><u>2024 Approved Path to YouTube Prosperity Unlocking Monetization with 500+ Views</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>2024 Approved Unlocking Your Youtube Success Story A Comprehensive Guide to Creative Studio</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-youtubes-potential-for-free-educational-events/"><u>2024 Approved Unlocking YouTube's Potential for Free Educational Events</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-software-dell-optiplex-7010-drivers/"><u>Download and Update Software: Dell OptiPlex 7010 Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hilarious-tricks-you-can-play-using-your-iphone-or-ipad/"><u>Hilarious Tricks You Can Play Using Your iPhone or iPad</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smooth-video-playback-for-televisions-with-youtube/"><u>In 2024, Smooth Video Playback for Televisions with YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-tools-for-youtube-to-webm-conversion/"><u>In 2024, Top 10 Tools for YouTube to WebM Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mk4-a-mp4-in-pochissimo-tempo-con-garanzia-di-alta-fedelta-visiva-su-macos-tutorial-completo/"><u>Mk4 a Mp4 in Pochissimo Tempo, Con Garanzia Di Alta Fedeltà Visiva Su macOS: Tutorial Completo</u></a></li>
 </ul></div>
 

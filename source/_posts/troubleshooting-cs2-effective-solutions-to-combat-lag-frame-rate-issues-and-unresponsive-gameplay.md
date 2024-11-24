@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-11-12T16:16:10.601Z
-updated: 2024-11-14T18:19:37.466Z
+date: 2024-11-20T20:02:23.757Z
+updated: 2024-11-24T18:20:58.012Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -42,8 +46,16 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -62,16 +74,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
@@ -100,30 +103,10 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -133,27 +116,21 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -182,14 +159,22 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-photomod-editor-skills-review/"><u>[New] PhotoMod Editor Skills Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-online-revenue-multiplatform-studio-use-for-2024/"><u>[Updated] Harnessing Online Revenue Multiplatform Studio Use for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-memorable-moments-from-the-2022-skatescape/"><u>[Updated] Memorable Moments From the 2022 Skatescape</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/7-essential-gif-creation-techniques/"><u>7 Essential GIF Creation Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artful-expression-on-tablets-leading-ios-drawers/"><u>Artful Expression on Tablets Leading iOS Drawers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>In 2024, Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-smartphone-skills-producing-engaging-youtube-thumbnails/"><u>In 2024, Smartphone Skills Producing Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-impact-aspect-ratio-expertise-for-youtube-experts-for-2024/"><u>Maximize Impact Aspect Ratio Expertise for YouTube Experts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-retro-reel-upgrade-converting-photographs-to-videos/"><u>[New] 2024 Approved Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-visuals-and-soundtracks-in-video-magic/"><u>[New] Syncing Visuals & Soundtracks in Video Magic</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-virality-youtube-promotion-no-cost-involved/"><u>[Updated] 2024 Approved Achieving Virality YouTube Promotion No Cost Involved</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>2024 Approved Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quiet-quests-for-cinematic-joy-top-free-films-on-youtube/"><u>2024 Approved Quiet Quests for Cinematic Joy Top Free Films on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-triple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>2024 Approved Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/6-free-software-to-convert-youtube-to-mp3-for-iphone-for-2024/"><u>6 Free Software to Convert YouTube to MP3 for iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-money-calculators-calculate-youtube-money-in-2024/"><u>Free YouTube Money Calculators-Calculate YouTube Money, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-heavy-lift-airborne-titans-drone-leaders-guide/"><u>In 2024, Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prolonged-youtube-visibility-through-continuous-cc-membership/"><u>In 2024, Prolonged YouTube Visibility Through Continuous CC Membership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>In 2024, Stay in the Limelight How to Keep YouTube CC and Boost Views</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883876264-join-forces-and-catch-em-all-team-up-for-ultimate-success-in-pokemon-go/"><u>Join Forces and Catch 'Em All: Team Up for Ultimate Success in Pokemon GO</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/p-your-video-exposure-on-youtube-with-these-simple-steps-for-2024/"><u>Revamp Your Video Exposure on YouTube with These Simple Steps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-art-of-crafting-superior-srt-documents/"><u>The Art of Crafting Superior SRT Documents</u></a></li>
 </ul></div>
 

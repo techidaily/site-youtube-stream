@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Animate and Make Your Own Effects"
-date: 2024-11-09T05:58:41.488Z
-updated: 2024-11-14T19:07:11.509Z
+date: 2024-11-17T20:16:54.048Z
+updated: 2024-11-24T17:11:04.875Z
 tags:
   - ai video
   - ai youtube
@@ -46,21 +46,16 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -70,10 +65,7 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -81,10 +73,7 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -94,10 +83,7 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,21 +101,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-your-content-with-these-24-best-video-translating-tools/"><u>[New] 2024 Approved Elevate Your Content with These 24 Best Video Translating Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-digital-deck-of-cards-youtubes-milestone-challenges/"><u>[New] In 2024, Digital Deck of Cards YouTube's Milestone Challenges</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-music-mastery-essentials-high-quality-dj-video-samples/"><u>[New] Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>[Updated] 2024 Approved Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-live-broadcast-showdown-obs-or-streamlabs-which-is-superior/"><u>[Updated] Live Broadcast Showdown OBS or Streamlabs – Which Is Superior?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-inexpensive-gear-mics-for-content-creators-on-a-dime/"><u>2024 Approved Inexpensive Gear Mics for Content Creators on a Dime</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>2024 Approved Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-shortcut-to-shorter-vids-on-youtube/"><u>2024 Approved The Shortcut to Shorter Vids on YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-pinnacle-of-tablet-technology-with-our-expert-review-of-the-2018-apple-ipad-pro-11/"><u>Discover the Pinnacle of Tablet Technology with Our Expert Review of the 2018 Apple iPad Pro 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harnessing-pip-feature-a-comprehensive-guide-for-2024/"><u>Harnessing PIP Feature A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-smart-8-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Smart 8 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-use-chroma-keying-in-video-making-for-2024/"><u>How to Use Chroma Keying in Video Making for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>In 2024, Transform Your YouTube Routine Control Over Video Delivery Speeds</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>In 2024, Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-tough-galaxy-tab-active-5-ready-for-american-launch/"><u>Introducing the Tough Galaxy Tab Active 5 - Ready for American Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-development-woes-heres-how-you-can-speed-up-building-loading-times/"><u>PUBG Development Woes? Here's How You Can Speed Up Building Loading Times</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-rid-of-youtube-ads-with-ease-on-chrome-firefox-ios-android/"><u>[New] Get Rid of YouTube Ads with Ease on Chrome, Firefox, iOS, Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-smooth-cinematography-premium-stabilizer-recommendations/"><u>[New] Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unbeatable-top-10-video-editors-on-your-pcwindows-tiktok/"><u>[New] Unbeatable Top 10 Video Editors on Your PC/Windows (TikTok)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-beginners-blueprint-for-bolstering-youtube-believers/"><u>[Updated] In 2024, A Beginner's Blueprint for Bolstering YouTube Believers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-cinematography-tips-three-way-borders/"><u>2024 Approved Insta Cinematography Tips Three-Way Borders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-streaming-experience-a-youtube-playlist-creation-guide/"><u>2024 Approved Seamless Streaming Experience A YouTube Playlist Creation Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-most-innovative-list-scouting-the-top-10-free-youtube-studios-for-animation/"><u>2024 Approved The Most Innovative List Scouting the Top 10 Free YouTube Studios for Animation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-game-hub-a-thousand-channels-for-gamers/"><u>2024 Approved Ultimate Game Hub A Thousand Channels for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/clipit-woes-uncover-top-fixes-for-swift-recovery/"><u>ClipIt Woes? Uncover Top Fixes for Swift Recovery</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-enabling-and-utilizing-mirrorsync-functionality-on-aomei-backup-software/"><u>Guide: Enabling and Utilizing MirrorSync Functionality on AOMEI Backup Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-making-your-mark-with-youtubes-creative-commons-tools/"><u>In 2024, Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smooth-streaming-selective-stabilizer-guidebook/"><u>In 2024, Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-version-of-apples-sports-platform-whats-new/"><u>Revamped Version of Apple's Sports Platform - What's New?</u></a></li>
 </ul></div>
 
