@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exclusive Leaderboard Luminary  YouTube Videographer's Guide\""
-date: 2024-11-21T17:37:30.454Z
-updated: 2024-11-24T18:26:53.812Z
+date: 2024-11-27T16:44:00.274Z
+updated: 2024-12-03T16:18:06.887Z
 tags:
   - ai video
   - ai youtube
@@ -34,10 +34,6 @@ As the second-largest search engine on the internet, people watch over one billi
 
 [Top 8 YouTube Rank Tracker](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Do We Need to Check YouTube Ranking?
 
 #### Allows You to Know if Your Videos Are Performing Well
@@ -98,15 +94,15 @@ Founded in 2011 by Todd Troxell and Rob Sandie, VidiQ is a SaaS product that all
 
 ![youtube rank tracker - Link Assistant](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Link Assistant comes with all the bells and whistles you would expect from a well-rounded YouTube rank checker. These include ranking data across multiple regions, custom reports, backlink checker report for your videos, keywords suggestion tool to drill down into specific search terms, and exporting to CSV.
 
 #### 5\. Tube Buddy
 
 ![youtube rank tracker - Tube Buddy](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tube Buddy is a Chrome and Safari plugin that allows you to monitor your rankings against competitors. This YouTube rank checker also gives you the ability to track mobile views and likes on your videos. Additionally, you can find top-ranking videos for targeted keywords and get video insights such as estimated views, keyword rankings, preferences, and dislikes for any video on YouTube.
 
@@ -220,10 +216,6 @@ Tube Buddy is a Chrome and Safari plugin that allows you to monitor your ranking
 
 ![youtube rank tracker - AccuRanker](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With offices in Denmark, the UK, and the U.S., AccuRanker is an award-winning YouTube rank checker. With a user-friendly interface, analyzing and understanding your up-to-date rank tracking data on AccuRanker is a breeze.
 
 After every 24 hours, you can check updated rankings. You can also refresh this tool on-demand any time you want to check how your keywords are ranking.
@@ -241,6 +233,10 @@ Aggregating data from Google Ads and YouTube Suggest, this tool can analyze tons
 #### 8\. Pro Rank Tracker
 
 ![youtube rank tracker - Pro Rank Tracker](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Since its inception in 2013, Pro Rank Tracker has been the go-to tool for people seeking reliable YouTube video rank checkers. The tool allows you to track your videos on Google and YouTube by choosing the relevant search engine. It gives you daily ranking updates, and there is also an option for on-demand refreshes. The platform is compatible with both mobile devices and PCs.
 
@@ -297,6 +293,10 @@ You can use the software to increase the quality of your video and audio. Filmor
 #### 1\. Geo Ranker
 
 ![youtube rank tracker - geo ranker](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This YouTube video rank checker is a cost-effective solution that allows you to monitor your domestic and international rankings. Geo Ranker has over 30 different filters; it gives you the ability to pinpoint your targeted keywords in multiple languages and capture keywords for YouTube videos.
 
@@ -330,10 +330,6 @@ Tube Buddy is a Chrome and Safari plugin that allows you to monitor your ranking
 
 ![youtube rank tracker - AccuRanker](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With offices in Denmark, the UK, and the U.S., AccuRanker is an award-winning YouTube rank checker. With a user-friendly interface, analyzing and understanding your up-to-date rank tracking data on AccuRanker is a breeze.
 
 After every 24 hours, you can check updated rankings. You can also refresh this tool on-demand any time you want to check how your keywords are ranking.
@@ -402,6 +398,10 @@ The software has features like color grading, customizable effects, and keyframe
 
 You can use the software to increase the quality of your video and audio. Filmora also allows you to crop and decrease the size of your video to ensure users can watch them on their mobile devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 8 YouTube Rank Tracker
 
 #### 1\. Geo Ranker
@@ -433,6 +433,10 @@ Link Assistant comes with all the bells and whistles you would expect from a wel
 #### 5\. Tube Buddy
 
 ![youtube rank tracker - Tube Buddy](https://images.wondershare.com/filmora/article-images/2021/youtube-rank-checker-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tube Buddy is a Chrome and Safari plugin that allows you to monitor your rankings against competitors. This YouTube rank checker also gives you the ability to track mobile views and likes on your videos. Additionally, you can find top-ranking videos for targeted keywords and get video insights such as estimated views, keyword rankings, preferences, and dislikes for any video on YouTube.
 
@@ -503,10 +507,6 @@ Anyone residing in countries where the YPP program is available can apply, To ge
 * 1,000 + Subscribers and 4,000+ public watch in the past 365 days, or
 * 1,000 + Subscribers and 10M+ public watch in the past 90 days
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Which YouTube Views are Paid**
 
 The ad revenue generated from the program is split between different parties. Specifically, Google pays out $68 for every $100 an advertiser pays to the publisher. However, YouTube earns only when viewers skip the ad before 30 seconds, which means you will not be paid. With only an estimated 15% of the viewers watching the required 30 seconds of a video to qualify for payment, not every view will result in being paid. Only the YouTube monetization per view gets paid.
@@ -535,6 +535,10 @@ The amount of money that YouTubers make may seem complex to understand. Does You
 * [Attracting Higher-Paying Advertisers](#factor3)
 * [Other Revenue Streams on YouTube](#factor4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Factors Affecting Earnings per View**
 
 The amount of money YouTubers make per view is affected by various factors:
@@ -544,11 +548,19 @@ The amount of money YouTubers make per view is affected by various factors:
 * **Audience Engagement**: Videos with high CTR and AVD earn more income from ads.
 * **Watch Time**: YouTube channels with longer viewers watch time earn more money.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **YouTube’s Revenue-Sharing Model**
 
 The YouTibe’s revenue-sharing model determines how much creators are paid. The standard revenue share is 55% for the creator and 45% for YouTube based on views that generate money. However, the platform may adjust the revenue share for certain creators. This may include creators participating in a special program or those who are part of a network.
 
 An Ad blocker can reduce a YouTuber’s earnings. They prevent ads from displaying on videos, and consequently the creator from earning money that you have generated from those ads. As they become more popular, YouTube estimates that ad blockers cost creators billions of dollars in lost revenue every year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Attracting Higher-Paying Advertisers**
 
@@ -586,10 +598,6 @@ With a wide range of pre-made templates to choose from, split your video screen 
 
 ![split screen video editor](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-3.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2\.** [**AI Image**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Automatically generate images by typing what you want. The text-to-image feature generates 3 resolutions that you can use directly for your video project.
@@ -602,6 +610,10 @@ The keyframing feature creates fantastic visual animations. It allows users to c
 
 ![keyframing](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\.** [**Speed Ramping**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The speed ramping feature allows you to adjust the speed in your video to be in better control of your keyframes.
@@ -613,10 +625,6 @@ The speed ramping feature allows you to adjust the speed in your video to be in 
 The mask and blend feature of Filmora allows you to make a creative video clip. It comes with a pen tool for creating free-form shape masks.
 
 ![mask & blend](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-7.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -633,10 +641,6 @@ Despite a lot of people seeking a successful career on YouTube, only a handful m
 The most burning question is how many monetized views on YouTube do you need to make money? A great deal of creators are still aiming to monetize YouTube views. Let’s have a look at what YouTube monetization review time involves and the views that get paid.
 
 ![how many views to earn on youtube](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Eligibility to YouTube Views Monetization**
 
@@ -698,10 +702,6 @@ Higher-paying advertisers are interested in YouTube channels that align with the
 * **Audience Engagement:** Higher-paying advertisers are willing to pay more to show their ads to channels with higher engagement to increase the chances of people clicking on their ads.
 * **Watch Time:** YouTube channels with longer viewers watch time attract more advertisers. This is because viewers will be engaged for longer periods, increasing their chances of viewing the ad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Other Revenue Streams on YouTube**
 
 You can earn a lot more per 1,000 views by influencing your viewers to buy products even before your channel gets monetized. Other ways of making money on YouTube include
@@ -713,10 +713,6 @@ You can earn a lot more per 1,000 views by influencing your viewers to buy produ
 * Sponsorships by partnering with brands to promote their products or services
 * Affiliate marketing
 * Brand deals
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3\.** **Editing YouTube Videos for YouTube Monetization with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
 
@@ -733,6 +729,10 @@ With Filmora, you can enhance and edit your videos for more engagement on YouTub
 With a wide range of pre-made templates to choose from, split your video screen with a single click. Choose to put to videos side to side or in any way that you like.
 
 ![split screen video editor](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\.** [**AI Image**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -777,18 +777,14 @@ With YouTube monetization how many views does it take to make money? This will d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[New] Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-remove-pending-videos-from-your-youtube-history/"><u>[New] How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pretending-playfulness-making-mocks-and-laughs/"><u>[New] Pretending Playfulness Making Mocks and Laughs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhanced-interaction-making-skype-calls-on-your-phone/"><u>[Updated] Enhanced Interaction Making Skype Calls on Your Phone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-learn-basic-video-editing-on-vimeo-at-no-cost/"><u>[Updated] Learn Basic Video Editing on Vimeo at No Cost</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-rated-free-tools-to-extract-youtube-text-tracks/"><u>2024 Approved Top-Rated Free Tools to Extract YouTube Text Tracks</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/5yil44oh44oq44kk44k544g444kq44oa44os44o844og44kj44oz44kw44k344k544og44og44gu56e75qsn5pa55rov6kej6kqs/"><u>別デバイスへオペレーティングシステムの移植方法解説</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/excellence-exchange-global-creators-for-2024/"><u>Excellence Exchange Global Creators for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>In 2024, Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pinnacle-creator-the-duo-of-media-elements/"><u>In 2024, Pinnacle Creator The Duo of Media Elements</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/upcoming-fees-microsoft-announces-pricing-plan-for-windows-10-updates-from-2024-insights-on-cost/"><u>Upcoming Fees: Microsoft Announces Pricing Plan for Windows 10 Updates From 2024 | Insights on Cost</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-high-quality-voip-games-chat-tools-to-elevate-your-experience-2023-update/"><u>Updated 2024 Approved High-Quality VOIP Games Chat Tools to Elevate Your Experience - 2023 Update</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-creator-to-earnings-successful-youtube-short-strategies/"><u>2024 Approved From Creator to Earnings Successful YouTube Short Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>2024 Approved How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-ledger-restoration-tips/"><u>Cosmic Ledger Restoration Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-notorious-chatgpt-schemes-you-should-know-about/"><u>Five Notorious ChatGPT Schemes You Should Know About</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/industry-insiders-reveal-their-favorite-gif-makers-for-2024/"><u>Industry Insiders Reveal Their Favorite GIF Makers for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-s17-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo S17</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-communications-a-comprehensive-guide-to-adding-a-safe-list-of-domains-in-macos-mail-app/"><u>Securing Communications: A Comprehensive Guide to Adding a Safe List of Domains in macOS Mail App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-wise-technique-turn-video-upside-down-in-vlc-media-player-for-2024/"><u>Step-Wise Technique Turn Video Upside Down in VLC Media Player for 2024</u></a></li>
 </ul></div>
 
