@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick-Create Excellence  Professional Thumbnails in Gaming Art\""
-date: 2024-11-30T16:30:05.305Z
-updated: 2024-12-03T16:35:40.235Z
+date: 2024-11-26T17:57:17.410Z
+updated: 2024-12-03T23:52:12.662Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ In Valorant, players choose from a roster of agents, each with their abilities a
 
 ![valorant official poster](https://images.wondershare.com/filmora/article-images/valorant-official-poster.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Create Thumbnails for Your Valorant YouTube Videos?
 
 Creating a thumbnail for your Valorant YouTube video is an important step in the video creation process. A thumbnail is a visual representation of your video and can help attract viewers to your content.
@@ -52,10 +56,6 @@ Step1 Take a screenshot of your gameplay by **pressing** the "**F12**" key on yo
 
 ![valorant screenshot](https://images.wondershare.com/filmora/article-images/valorant-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Launch Filmora and **create** a new project.
 
 ![filmora create project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
@@ -65,7 +65,7 @@ Step3 Import the screenshot into the media library by **clicking** the "**Import
 ![filmora import media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Drag the screenshot from the media library into the timeline.
@@ -76,10 +76,6 @@ Step5 Use the "[**Smart**](https://tools.techidaily.com/wondershare/filmora/down
 
 ![filmora smart cutout](https://images.wondershare.com/filmora/article-images/filmora-smart-cutout.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Choose the elements of the screenshot that you want to keep.
 
 ![filmora select elements](https://images.wondershare.com/filmora/article-images/filmora-select-elements.jpg)
@@ -88,6 +84,10 @@ Step7 Remove any parts of the screenshot that you do not want to include in the 
 
 ![filmora remove elements](https://images.wondershare.com/filmora/article-images/filmora-remove-elements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8 Extract the selected elements from the screenshot. You can **resize** the elements as desired.
 
 ![filmora extract element](https://images.wondershare.com/filmora/article-images/filmora-extract-element.jpg)
@@ -95,10 +95,6 @@ Step8 Extract the selected elements from the screenshot. You can **resize** the 
 Step9 Add a background to the track below the screenshot by **dragging** a background image from the media library into the timeline. Alternatively, you can **import** your image as a background by **clicking** the "**Import**" button and **selecting** the image file from your computer.
 
 ![filmora add background](https://images.wondershare.com/filmora/article-images/filmora-add-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step10 Add an effect, such as a gun effect, by **searching** for the desired effect in the "**Effects**" tab and **dragging** it into the timeline.
 
@@ -111,6 +107,10 @@ Step11 Adjust the opacity of the effect as desired.
 Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/filmora/download/) for your thumbnail.
 
 ![filmora add texts](https://images.wondershare.com/filmora/article-images/filmora-add-texts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step13 Customize the appearance and rotation of the fire effect as desired.
 
@@ -176,6 +176,10 @@ His channel is a reliable source for those looking for consistently fresh and di
 
 ![n0ted](https://images.wondershare.com/filmora/article-images/n0ted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Hiko](https://www.youtube.com/c/Hiko/featured) \- Valorant Content Creator With 382k YouTube Subscrbers
 
 Hiko is a well-known Valorant content creator and former player of Counter-Strike: Global Offensive (CS:GO). He is known for his skill in first-person shooter games and his expertise in Valorant, which he shares through tips and gameplay videos on his channels on Twitch and YouTube.
@@ -183,10 +187,6 @@ Hiko is a well-known Valorant content creator and former player of Counter-Strik
 Hiko is currently a content creator for 100 Thieves, a gaming organization he represents in various tournaments and competitions. He is a reliable source of high-quality Valorant content and regularly uploads new videos for his followers.
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
@@ -211,6 +211,10 @@ Creating a Valorant thumbnail for YouTube using Filmora can be very easy. Just f
 Step1 Take a screenshot of your gameplay by **pressing** the "**F12**" key on your keyboard while in the game. This will save the screenshot to your computer.
 
 ![valorant screenshot](https://images.wondershare.com/filmora/article-images/valorant-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Launch Filmora and **create** a new project.
 
@@ -252,6 +256,10 @@ Step11 Adjust the opacity of the effect as desired.
 
 ![filmora adjust opacity](https://images.wondershare.com/filmora/article-images/filmora-adjust-opacity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/filmora/download/) for your thumbnail.
 
 ![filmora add texts](https://images.wondershare.com/filmora/article-images/filmora-add-texts.jpg)
@@ -259,6 +267,10 @@ Step12 Add some [titles and texts](https://tools.techidaily.com/wondershare/film
 Step13 Customize the appearance and rotation of the fire effect as desired.
 
 ![filmora edit title](https://images.wondershare.com/filmora/article-images/filmora-edit-title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step14 Edit the texts and **adjust** the appearance of the texts in the Titles window.
 
@@ -271,6 +283,10 @@ Step15 Choose a still frame that you like and take a snapshot of it.
 Step16 Select the snapshot format and storage path. The snapshot will appear in the media library.
 
 ![filmora save location](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step17 Right-click on the snapshot and **select** "**Reveal in Explorer**" to find the file on your computer. You can now use it as your Valorant thumbnail.
 
@@ -385,10 +401,6 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -397,18 +409,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -511,10 +515,6 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
@@ -582,6 +582,10 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -601,10 +605,6 @@ YouTube Cards and Annotations are very useful if you want to encourage your view
 Do you want to make your YouTube video more attractive? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a such video editing software designed for YouTube creator. It not only allows you cut, trim, crop, zoom, reverse, rotate the video clips, but also makes the advanced features like green screen, PIP, tilt-shift and mosaic easy like a piece of cake. With Wondershare Filmora, you can ignite your YouTube videos with over 300 effects like Fashion, Beauty, Block Buster, Travel, etc.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -819,17 +819,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlock-the-secrets-of-premium-instagram-image-creation-for-2024/"><u>[Updated] Unlock the Secrets of Premium Instagram Image Creation for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>In 2024, From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-6-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 6 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-minecraft-homes-innovative-and-stylish-designs/"><u>In 2024, Minecraft Homes Innovative & Stylish Designs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-sourav-joshis-financial-journey-charting-a-profitable-course-on-youtube/"><u>In 2024, Sourav Joshi’s Financial Journey Charting a Profitable Course on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-integration-technique-for-youtube-playlists-on-web/"><u>In 2024, Stepwise Integration Technique for YouTube Playlists on Web</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/leveraging-your-google-id-for-private-yt-video-distribution-for-2024/"><u>Leveraging Your Google ID for Private YT Video Distribution for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-free-picture-quality-enhancement-techniques/"><u>Mastering Free Picture Quality Enhancement Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maximize-your-vr-journey-oculus-rift-readiness-for-2024/"><u>Maximize Your VR Journey Oculus Rift Readiness for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximizing-engagement-strategies-for-video-thumbnail-design-for-2024/"><u>Maximizing Engagement Strategies for Video Thumbnail Design for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tech-showdown-discovering-differences-between-ipad-pro-and-surface-pro/"><u>Tech Showdown: Discovering Differences Between iPad Pro and Surface Pro</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-starting-a-sports-network-with-your-mac/"><u>[New] 2024 Approved Starting a Sports Network with Your Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-drone-editors-toolkit-techniques-for-visual-excellence/"><u>[New] 2024 Approved The Drone Editor's Toolkit Techniques for Visual Excellence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>2024 Approved Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-innovators-guide-to-youtube-commercial-success/"><u>2024 Approved The Innovator's Guide to YouTube Commercial Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-virtual-negativity-a-content-makers-guide/"><u>In 2024, Overcoming Virtual Negativity A Content Maker's Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-separation-assessing-splitcams-leadership/"><u>In 2024, Screen Separation Assessing SplitCam's Leadership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-steps-to-bypass-youtube-prohibitions/"><u>In 2024, Steps to Bypass YouTube Prohibitions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastery-of-close-up-engagement-on-the-web/"><u>Mastery of Close-Up Engagement on the Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-compact-powerhouse-for-gamers-pdw4/"><u>The Ultimate Compact Powerhouse for Gamers - PDW4</u></a></li>
 </ul></div>
 

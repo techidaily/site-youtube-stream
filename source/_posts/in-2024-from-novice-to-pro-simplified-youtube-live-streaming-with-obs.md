@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS\""
-date: 2024-12-02T16:37:17.021Z
-updated: 2024-12-03T16:42:45.310Z
+date: 2024-11-26T22:44:23.783Z
+updated: 2024-12-03T21:24:35.194Z
 tags:
   - ai video
   - ai youtube
@@ -45,9 +45,150 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
 
+**Step 4:** Now hot the steam now option on your screen.
+
+![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
+
+**Step 5:** Change or Upload your thumbnail as per need.
+
+![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
+
+**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
+
+![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
+
+**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
+
+![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
+
+**Step 8:** You can monetize your ads as per need.
+
+![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+
+**Step 9:** It also provides options to add cards.
+
+![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
+
+**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
+
+![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
+
+**Step 11:** Now you can set your live chat option as per your requirement.
+
+![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+
+**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
+
+![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
+
+**Step 13:** Stream health can be monitored directly.
+
+![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
+
+**Step 14:** One can also use the social media button for live shares.
+
+![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
+
+## 2.Set up Your Live Streaming Encoder
+
+As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
+
+**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
+
+**Step 2:** Now launch OBS on your device and directly go to settings option.
+
+![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+
+**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
+
+![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
+
+**Step 4:** Users can now add their sources and scenes.
+
+![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+
+**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
+
+![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
+
+## 3\. Youtube Events set up
+
+Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
+
+**Step 1:** Simply click on the schedule event option on screen.
+
+![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
+
+**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
+
+![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
+
+**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
+
+![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
+
+**Step 4:** Users can turn monetization On or Off as per their preferences.
+
+![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
+
+**Step 5:** As soon as you finish all above settings then simply click on the create event option.
+
+![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
+
+**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
+
+![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
+
+**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
+
+![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
+
+**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
+
+![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
+
+**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
+
+![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Video tutorial
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1\. Stream Now set up](#part1)
+* [Part2. Set up Your Live Streaming Encoder](#part2)
+* [Part3\. Youtube Events set up](#part3)
+* [Part4\. Video tutorial](#part4)
+
+## 1\. Stream Now set up
+
+Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
+
+**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
+
+![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
+
+**Step 2:** Choose the Video Manager option from top most toolbar.
+
+![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
+
+**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
+
+![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
 
 **Step 4:** Now hot the steam now option on your screen.
 
@@ -61,9 +202,150 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
 
+**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
+
+![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
+
+**Step 8:** You can monetize your ads as per need.
+
+![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+
+**Step 9:** It also provides options to add cards.
+
+![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
+
+**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
+
+![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
+
+**Step 11:** Now you can set your live chat option as per your requirement.
+
+![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+
+**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
+
+![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
+
+**Step 13:** Stream health can be monitored directly.
+
+![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
+
+**Step 14:** One can also use the social media button for live shares.
+
+![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
+
+## 2.Set up Your Live Streaming Encoder
+
+As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
+
+**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
+
+**Step 2:** Now launch OBS on your device and directly go to settings option.
+
+![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+
+**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
+
+![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
+
+**Step 4:** Users can now add their sources and scenes.
+
+![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+
+**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
+
+![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
+
+## 3\. Youtube Events set up
+
+Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
+
+**Step 1:** Simply click on the schedule event option on screen.
+
+![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
+
+**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
+
+![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
+
+**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
+
+![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
+
+**Step 4:** Users can turn monetization On or Off as per their preferences.
+
+![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
+
+**Step 5:** As soon as you finish all above settings then simply click on the create event option.
+
+![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
+
+**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
+
+![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
+
+**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
+
+![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
+
+**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
+
+![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
+
+![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
+
+## Video tutorial
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1\. Stream Now set up](#part1)
+* [Part2. Set up Your Live Streaming Encoder](#part2)
+* [Part3\. Youtube Events set up](#part3)
+* [Part4\. Video tutorial](#part4)
+
+## 1\. Stream Now set up
+
+Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
+
+**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
+
+![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
+
+**Step 2:** Choose the Video Manager option from top most toolbar.
+
+![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
+
+**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
+
+![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
+
+**Step 4:** Now hot the steam now option on your screen.
+
+![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
+
+**Step 5:** Change or Upload your thumbnail as per need.
+
+![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
+
+**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
+
+![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
 
 **Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
 
@@ -194,10 +476,6 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Now hot the steam now option on your screen.
 
 ![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
@@ -218,6 +496,10 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 9:** It also provides options to add cards.
 
 ![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
@@ -226,9 +508,17 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 11:** Now you can set your live chat option as per your requirement.
 
 ![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
 
@@ -304,306 +594,8 @@ Live stream is little different from Stream Now platform as it allows users to s
 
 ![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
 
-## Video tutorial
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-* [Part1\. Stream Now set up](#part1)
-* [Part2. Set up Your Live Streaming Encoder](#part2)
-* [Part3\. Youtube Events set up](#part3)
-* [Part4\. Video tutorial](#part4)
-
-## 1\. Stream Now set up
-
-Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
-
-**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
-
-![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
-
-**Step 2:** Choose the Video Manager option from top most toolbar.
-
-![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
-
-**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
-
-![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
-
-**Step 4:** Now hot the steam now option on your screen.
-
-![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
-
-**Step 5:** Change or Upload your thumbnail as per need.
-
-![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
-
-**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
-
-![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
-
-**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
-
-![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
-
-**Step 8:** You can monetize your ads as per need.
-
-![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
-
-**Step 9:** It also provides options to add cards.
-
-![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
-
-**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
-
-![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
-
-**Step 11:** Now you can set your live chat option as per your requirement.
-
-![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
-
-**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
-
-![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
-
-**Step 13:** Stream health can be monitored directly.
-
-![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
-
-**Step 14:** One can also use the social media button for live shares.
-
-![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
-
-## 2.Set up Your Live Streaming Encoder
-
-As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
-
-**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
-
-**Step 2:** Now launch OBS on your device and directly go to settings option.
-
-![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
-
-**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
-
-![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
-
-**Step 4:** Users can now add their sources and scenes.
-
-![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
-
-**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
-
-![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 3\. Youtube Events set up
-
-Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
-
-**Step 1:** Simply click on the schedule event option on screen.
-
-![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
-
-**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
-
-![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
-
-**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
-
-![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
-
-**Step 4:** Users can turn monetization On or Off as per their preferences.
-
-![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
-
-**Step 5:** As soon as you finish all above settings then simply click on the create event option.
-
-![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
-
-**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
-
-![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
-
-**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
-
-![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
-
-**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
-
-![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
-
-**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
-
-![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
-
-## Video tutorial
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-* [Part1\. Stream Now set up](#part1)
-* [Part2. Set up Your Live Streaming Encoder](#part2)
-* [Part3\. Youtube Events set up](#part3)
-* [Part4\. Video tutorial](#part4)
-
-## 1\. Stream Now set up
-
-Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
-
-**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
-
-![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
-
-**Step 2:** Choose the Video Manager option from top most toolbar.
-
-![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
-
-**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
-
-![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
-
-**Step 4:** Now hot the steam now option on your screen.
-
-![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
-
-**Step 5:** Change or Upload your thumbnail as per need.
-
-![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
-
-**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
-
-![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
-
-**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
-
-![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
-
-**Step 8:** You can monetize your ads as per need.
-
-![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
-
-**Step 9:** It also provides options to add cards.
-
-![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
-
-**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
-
-![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
-
-**Step 11:** Now you can set your live chat option as per your requirement.
-
-![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
-
-**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
-
-![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
-
-**Step 13:** Stream health can be monitored directly.
-
-![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
-
-**Step 14:** One can also use the social media button for live shares.
-
-![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2.Set up Your Live Streaming Encoder
-
-As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
-
-**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
-
-**Step 2:** Now launch OBS on your device and directly go to settings option.
-
-![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
-
-**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
-
-![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
-
-**Step 4:** Users can now add their sources and scenes.
-
-![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
-
-![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
-
-## 3\. Youtube Events set up
-
-Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
-
-**Step 1:** Simply click on the schedule event option on screen.
-
-![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
-
-**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
-
-![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
-
-**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
-
-![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
-
-**Step 4:** Users can turn monetization On or Off as per their preferences.
-
-![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
-
-**Step 5:** As soon as you finish all above settings then simply click on the create event option.
-
-![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
-
-**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
-
-![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
-
-**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
-
-![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
-
-**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
-
-![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
-
-**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
-
-![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video tutorial
@@ -634,136 +626,63 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
-### 7\.  My Depression/Anxiety or Mental Health Story
-
-Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
-
-### 8\.  Narrated Autobiopic
-
-Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
-
-### 9\.  25 Facts About Me Tag
-
-This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
-
-### 10\.  YouTube Live/Webinar
-
-YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
-
-## Custom Your Video with Excellent Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
-
-* [Channel Trailer](#one)
-* [My YouTube Story](#two)
-* [Draw My Life](#three)
-* [Snapchat/Instagram Stories Q&A](#four)
-* [Never Have I Ever Q&A](#five)
-* [Get Ready With me Q&A](#six)
-* [My Depression/Anxiety or Mental Health Story](#seven)
-* [Narrated Autobiopic](#eight)
-* [25 Facts About Me](#nine)
-* [YouTube Live/Webinar](#ten)
-
-### 1\.  Channel Trailer
-
-Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
-
-YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
-
-###  2\.  My YouTube Story
-
-On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
-
-### 3\.  Draw My Life
-
-“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
-
-### 4\.  Snapchat/Instagram Stories Q&A
-
-Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
-
-### 5\.  Never Have I Ever Q & A
-
-Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
-
-### 6\.  Get Ready With Me Q & A
-
-Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
-
-### 7\.  My Depression/Anxiety or Mental Health Story
-
-Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
-
-### 8\.  Narrated Autobiopic
-
-Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
+
+* [Channel Trailer](#one)
+* [My YouTube Story](#two)
+* [Draw My Life](#three)
+* [Snapchat/Instagram Stories Q&A](#four)
+* [Never Have I Ever Q&A](#five)
+* [Get Ready With me Q&A](#six)
+* [My Depression/Anxiety or Mental Health Story](#seven)
+* [Narrated Autobiopic](#eight)
+* [25 Facts About Me](#nine)
+* [YouTube Live/Webinar](#ten)
+
+### 1\.  Channel Trailer
+
+Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
+
+YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
+
+###  2\.  My YouTube Story
+
+On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
+
+### 3\.  Draw My Life
+
+“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
+
+### 4\.  Snapchat/Instagram Stories Q&A
+
+Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
+
+### 5\.  Never Have I Ever Q & A
+
+Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
+
+### 6\.  Get Ready With Me Q & A
+
+Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
+
+### 7\.  My Depression/Anxiety or Mental Health Story
+
+Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
+
+### 8\.  Narrated Autobiopic
+
+Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
+
 ### 9\.  25 Facts About Me Tag
 
 This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
@@ -840,20 +759,20 @@ Narrated Autobiopic videos are a great way to share your story or advice in a ci
 ### 9\.  25 Facts About Me Tag
 
 This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
+
+### 10\.  YouTube Live/Webinar
+
+YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
+
+## Custom Your Video with Excellent Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### 10\.  YouTube Live/Webinar
-
-YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
-
-## Custom Your Video with Excellent Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -925,6 +844,87 @@ YouTube live videos are probably the best ways to interact and share your story 
 ## Custom Your Video with Excellent Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube is a great platform you can use not only to share your gifts and talents with the world but also to share who you are as a person. No matter how many followers you may currently have, you are an amazing person just as you are with a unique story. Here are ten [YouTube video ideas](https://tools.techidaily.com/wondershare/filmora/download/) to share your personal story.
+
+* [Channel Trailer](#one)
+* [My YouTube Story](#two)
+* [Draw My Life](#three)
+* [Snapchat/Instagram Stories Q&A](#four)
+* [Never Have I Ever Q&A](#five)
+* [Get Ready With me Q&A](#six)
+* [My Depression/Anxiety or Mental Health Story](#seven)
+* [Narrated Autobiopic](#eight)
+* [25 Facts About Me](#nine)
+* [YouTube Live/Webinar](#ten)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 1\.  Channel Trailer
+
+Before posting any videos on your channel, it can be a great idea to [create a “Channel Trailer”](https://tools.techidaily.com/wondershare/filmora/download/) summarizing who you are and what your channel is all about.
+
+YouTuber Shameless Maya does an excellent job of this. She created a visually appealing and engaging 1-2 minute channel trailer that explains exactly what her channel is all about. Feel free to be as creative as you want to be.
+
+###  2\.  My YouTube Story
+
+On Monday, May 17th, 2010, YouTube celebrated its fifth anniversary. In celebration of hitting their five-year mark, YouTube launched a “My YouTube Story” campaign, which featured fifteen YouTubers sharing how YouTube has changed their lives. Each of these videos would end with “What’s your YouTube story? Tell us by uploading a video.” Ever since that campaign, many YouTubers have shared their YouTube story, including me! After I had been on YouTube for two years, I felt it was time for me to share my own YouTube story with the world. Sharing your story is not only an opportunity for your viewers to get to know you but a way to inspire other creators to start their channels as well. We all have our reasons for why we started, so why not share them?
+
+### 3\.  Draw My Life
+
+“Draw My Life” is a popular video where YouTubers share their life stories through a unique series of drawings. Often YouTubers use a white dry erase board and markers so they can erase and redraw the series of their life events. Mr. Kate provides a great example of this as she is a talented artist and DIY’er. The great thing about this is you don’t have to be an artist or a great drawer. It’s a fun way to be creative and tell your story.
+
+### 4\.  Snapchat/Instagram Stories Q&A
+
+Who isn’t on Snapchat, Instagram, or both these days? Over the past year, I’ve seen YouTubers get creative by asking their viewers to send snaps asking questions they will answer on a Q & A video on their channel. This video idea is great because it involves live viewer participation and a chance for viewers to be seen or noticed on their favorite Youtuber’s channels. Beauty guru stars Manny MUA and Jeffrey Star did a great example of this as a collaboration.
+
+### 5\.  Never Have I Ever Q & A
+
+Who hasn’t played the “Never Have I Ever” game?! Playing this game as a Q & A is a great way for viewers to get to know you better with some juicy and shocking details about yourself they otherwise wouldn’t know. It’s also a great way to play and collaborate with another YouTuber. Often, the questions will be split and you have to watch both YouTubers’ videos to find out all the details. Highly popular beauty YouTuber Desi Perkins does a great example of this while playing the game with her sister in law.
+
+### 6\.  Get Ready With Me Q & A
+
+Get ready with me Q & As are some of my favorite videos to watch because it’s nice to see YouTubers strip-down bare-faced to do their makeup and answer popular questions. It often feels like two old friends sitting down to chat. Jenn, I'm doing a great example of this when she took to twitter asking viewers to ask her questions she would answer on her channel. Not only did she answer the questions but she gave a detailed makeup tutorial and explanation of the products she used as a 2 for 1\. Even if your channel has nothing to do with makeup or fashion, some viewers can still be intrigued to learn more about your fashion and makeup style.
+
+### 7\.  My Depression/Anxiety or Mental Health Story
+
+Behind all their smiles and outrageous on-camera personas, there are a lot of YouTubers who are dealing with depression and anxiety. Beauty and fashion YouTuber Alyssa Forever not only shared her story on how she dealt with her depression but gave tips and ways to be happier. If you are facing depression, anxiety, or some other mental illness, it can give others hope if you share your story.
+
+### 8\.  Narrated Autobiopic
+
+Narrated Autobiopic videos are a great way to share your story or advice in a cinematic way. You can be as creative as you want to be. YouTuber Evelyn From the Internets posted a narrated autobiopic called “For People Who Feel Behind In Life” that comically introduces her story.
+
+### 9\.  25 Facts About Me Tag
+
+This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
+
+### 10\.  YouTube Live/Webinar
+
+YouTube live videos are probably the best ways to interact and share your story with viewers. Viewers can ask questions on the spot. YouTuber Roberto Blake shares great live videos on how to improve your videos and things he’s learned through personal experience.
+
+## Custom Your Video with Excellent Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -949,15 +949,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-staticscreen-snapshot-on-demand-steps/"><u>[New] 2024 Approved StaticScreen Snapshot On-Demand Steps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-instagram-content-with-background-tracks/"><u>[Updated] Enhance Instagram Content with Background Tracks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-full-time-careers-meet-video-content-a-harmonious-mix/"><u>2024 Approved Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-start-recording-youtube-content-on-your-own-terms/"><u>2024 Approved Start Recording YouTube Content on Your Own Terms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-z50s-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nubia Z50S Pro?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pro-drone-guide-unveiling-the-top-5-picks-for-you/"><u>In 2024, Pro Drone Guide Unveiling the Top 5 Picks for You</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>In 2024, The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-hashes-boosting-youtube-revenue-6k-milestone/"><u>In 2024, Top Hashes Boosting YouTube Revenue $6K Milestone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-cinemas-next-frontier-virtual-reality/"><u>In 2024, Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-smoothing-out-your-minecraft-gaming-experience/"><u>Ultimate Fixes for Smoothing Out Your Minecraft Gaming Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fix-confirmed-shorts-are-showing-up/"><u>[New] Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-premiere-pro-a-launchpad-for-youtube-videos/"><u>[New] Premiere Pro A Launchpad for YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-producing-channel-trailer-synopses-a-guide/"><u>[New] Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-kickstarting-with-a-gopro-unbox-the-perfect-add-ons/"><u>[Updated] 2024 Approved Kickstarting with a GoPro Unbox the Perfect Add-Ons</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames-for-2024/"><u>[Updated] Enhanced Visual Content Incorporate BB Overlays in FB Video Frames for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-gigglegenius-log-in-for-video-adventures/"><u>2024 Approved GiggleGenius Log In for Video Adventures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcasting-solo-youtube-live-from-your-smartphone-for-2024/"><u>Broadcasting Solo YouTube Live From Your Smartphone for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/gratuidade-ao-vivo-conversor-opus-para-wma-com-o-aplicativo-movavi/"><u>Gratuidade Ao Vivo - Conversor Opus Para WMA Com O Aplicativo Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-8-leading-youtube-growth-strategies/"><u>In 2024, Explore 8 Leading Youtube Growth Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/join-jargon-free-youtube-chats-for-2024/"><u>Join Jargon-Free YouTube Chats for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-video-preservation-with-any-gpu-capability/"><u>Streamline Video Preservation with Any GPU Capability</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-fundamentals-of-human-interface-recognition/"><u>The Fundamentals of Human Interface Recognition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/uncomplicated-guide-to-mobile-device-live-captures/"><u>Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/valorants-finest-voice-modder-accessible-at-no-cost-for-2024/"><u>Valorant's Finest Voice Modder – Accessible at No Cost for 2024</u></a></li>
 </ul></div>
 

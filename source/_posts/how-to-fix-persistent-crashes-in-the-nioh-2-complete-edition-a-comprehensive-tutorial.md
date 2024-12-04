@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2024-11-28T16:31:22.943Z
-updated: 2024-12-03T16:26:38.524Z
+date: 2024-12-02T22:44:44.756Z
+updated: 2024-12-04T00:21:46.643Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 The Outriders is finally out! However, many players encountered Outriders crashing when they accessed inventory or menu. If you have the same issue, don’t worry, and just try the fixes here to get it solved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -32,7 +28,7 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Outriders as an administrator
@@ -45,11 +41,15 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
@@ -79,11 +79,15 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -107,10 +111,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -125,17 +125,9 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -148,7 +140,15 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -175,19 +175,24 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-24-revolutionary-metaverse-concepts-explored-diligently/"><u>[New] 24 Revolutionary Metaverse Concepts Explored Diligently</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ocial-media-gold-rush-prime-hashes-for-viewership-for-2024/"><u>[New] Social Media Gold Rush Prime Hashes for Viewership for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-social-video-marketing-insights-for-small-business-infographic/"><u>[New] Social Video Marketing Insights for Small Business [Infographic]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-up-to-date-strategies-for-youtube-earnings/"><u>[Updated] 2024 Approved Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[Updated] In 2024, Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[Updated] Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-fair-use-and-infringement-on-youtube/"><u>2024 Approved Understanding Fair Use and Infringement on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-you-can-supercharge-your-workflow-with-our-top-eb-of-9-chatgpt-plugins-get-started-today/"><u>Discover How You Can Supercharge Your Workflow With Our Top Eb of 9 ChatGPT Plugins - Get Started Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-11-installation-has-failed/"><u>How to Fix “Windows 11 Installation Has Failed”</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-animate-and-make-your-own-effects/"><u>In 2024, How to Animate and Make Your Own Effects</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-premium-opening-scenes-top-16-youtube-intros-for-popularity/"><u>In 2024, Premium Opening Scenes Top 16 YouTube Intros for Popularity</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simple-guide-youtube-to-mp3-on-mac/"><u>In 2024, Simple Guide YouTube to MP3 on Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g04-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G04 Phone Pattern Lock</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-superb-culmination-for-vr-journeys/"><u>[New] 2024 Approved Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-simple-steps-for-a-memorable-youtube-channel-url/"><u>[New] Simple Steps for a Memorable YouTube Channel URL</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>[Updated] Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-photojester-snapyour-chuckles/"><u>[Updated] PhotoJester SnapYour Chuckles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovative-education-prime-15-youtube-science-outlets/"><u>2024 Approved Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-content-discovery-with-powerful-title-and-tag-use/"><u>2024 Approved Mastering Content Discovery with Powerful Title & Tag Use</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-personalize-the-save-spot-of-mac-images/"><u>2024 Approved Personalize the Save Spot of Mac Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pinpointing-potential-a-youtube-niche-journey/"><u>2024 Approved Pinpointing Potential A Youtube Niche Journey</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-browsing-with-these-7-android-centric-adblockers/"><u>2024 Approved Streamline Your Browsing with These 7 Android-Centric AdBlockers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>In 2024, From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-giggle-gallery-exploring-the-best-15-hilarious-video-picks/"><u>In 2024, Giggle Gallery Exploring the Best 15 Hilarious Video Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insightful-comparisons-top-android-applications-for-youtube-download/"><u>In 2024, Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-professional-footage-integrating-watermarks-and-logos-into-yt-videos/"><u>In 2024, Professional Footage Integrating Watermarks and Logos Into YT Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2080-video-card-windows-drivers-download-latest-versions-for-win-1078/"><u>RTX 2080 Video Card Windows Drivers Download – Latest Versions for Win 10/7/8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screenprime-pro-for-advanced-users/"><u>ScreenPrime Pro for Advanced Users</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-playthrough-valorant-performance-enhancement/"><u>Streamline Your Playthrough: Valorant Performance Enhancement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-horizon-in-mobile-editing-why-final-cut-pro-for-ipad-upgrades-are-a-breakthrough-for-filmmakers-discovered/"><u>The New Horizon in Mobile Editing: Why Final Cut Pro for iPad Upgrades Are a Breakthrough for Filmmakers | Discovered</u></a></li>
 </ul></div>
 

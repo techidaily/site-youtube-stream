@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Black-and-White to Color  Classic Video Transition Tips\""
-date: 2024-12-01T16:44:51.166Z
-updated: 2024-12-03T16:30:29.830Z
+date: 2024-11-28T21:22:59.400Z
+updated: 2024-12-03T22:48:13.571Z
 tags:
   - ai video
   - ai youtube
@@ -61,7 +61,7 @@ Lots of black points in the video are not ideal for a vintage effect. The suitab
 Bringing down the saturation levels is another tip to create a vintage effect. The old videos are also absent in bright colors. Don't go too crazy about reduction as 20%-30% saturation level is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create a Stunning Vintage Video?
@@ -77,7 +77,7 @@ What you need to get started as both beginner and professional is Wondershare Fi
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The very step is to add the video by clicking the + icon. We have added the three **sample videos** from the library of Wondershare Filmora itself. Adjust them in the timeline as per your requirements.
@@ -91,7 +91,7 @@ The Old Video filter will immediately appear in the list of filters. Tap the **"
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The second step is to apply the Black & White filters. Go to the **Effects** tab and explore five Black & White filters available. Each of these filters is quite different and must be applied accordingly. Check the aesthetic of your video clip before any filter application to retro videos.
@@ -99,6 +99,10 @@ The second step is to apply the Black & White filters. Go to the **Effects** tab
 **Step 3:** Add the Sun Kissed or Sepia Tone Rise Filters to the video clip
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are various other categories of filters you can apply, such as Retro, Sun Kissed, and Sepia Tone, etc. The features of Filmora also present several subcategories such as Faux Film or Shake.
 
@@ -114,10 +118,6 @@ Now, you need to desaturate the video clip with Ash & Willow filters. We have ty
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/vintage-videos-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we have combined the black & white filter with an overlay of Film Reel Horizontal. It will help you sell the effect and make the video look more authentic. However, the only application of Black & White or Ash & Willow filters is not going to make any creative thing in terms of vintage videos. You have to mix overlays with features such as Random Dust or Film Reel Horizontal.
 
 **Step 5:** Apply Black & White and Old Film Color Correction Presets to the video
@@ -125,10 +125,6 @@ Then, we have combined the black & white filter with an overlay of Film Reel Hor
 You can also access the Advanced color correction Tab of Filmora from the Color button. It also features Preset and Adjusts Tabs to desaturate footage. The Preset presents a variety of options, including Black & White and Old Film. You just need to right-click the particular preset and select the Apply option.
 
 ![Vintage Videos](https://images.wondershare.com/filmora/article-images/filmora9-advance-color-correction.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips to Make Your Vintage Videos Stand Out
 
@@ -149,6 +145,10 @@ Surely give a read and thank us later!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -164,20 +164,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>[New] Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-ranking-8-proven-online-promotion-techniques-for-videos/"><u>[New] Ranking 8 Proven Online Promotion Techniques for Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>2024 Approved Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-building-youtube-music-playlists/"><u>2024 Approved The Essential Guide to Building YouTube Music Playlists</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fiscally-friendly-celestial-saving-service-for-files/"><u>2024 Approved The Fiscally Friendly Celestial Saving Service for Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook-for-2024/"><u>Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-fundamental-equipment-for-channel-foundations/"><u>In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-optimal-logitech-webcam-settings-for-professional-video-outputs/"><u>In 2024, Optimal Logitech Webcam Settings for Professional Video Outputs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-guide-to-google-meet-on-youtube-broadcasting/"><u>In 2024, Simplified Guide to Google Meet on YouTube Broadcasting</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>In 2024, Unique Coverage Awaits Crafting Your Own Custom YouTube Shorts Images</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/permanent-file-saver-macs-deletion-undoing-software/"><u>Permanent File Saver: Mac's Deletion Undoing Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-computer-connection-issues-discover-how-to-resolve-them/"><u>Struggling with iPhone-Computer Connection Issues? Discover How to Resolve Them</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-key-to-captivation-a-guide-to-more-likes-on-your-tiktok-unboxing-videos-for-2024/"><u>The Key to Captivation A Guide to More Likes on Your TikTok Unboxing Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/for-emptying-your-youtubes-watch-later-queue-for-2024/"><u>Tips for Emptying Your YouTube's Watch Later Queue for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>[New] 2024 Approved Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-level-up-your-farming-life-explore-7-14-mods/"><u>[Updated] 2024 Approved Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-filmmaking-on-youtube-and-substitutes/"><u>2024 Approved Mastering Filmmaking on YouTube & Substitutes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-social-media-comparing-igtv-and-youtube-features/"><u>2024 Approved Navigating Social Media Comparing IGTV and YouTube Features</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-dual-careers-youtuber-and-full-time-employee/"><u>2024 Approved The Art of Dual Careers YouTuber & Full-Time Employee</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoidance-of-unplanned-pauses-during-photobooth-sessions/"><u>Avoidance of Unplanned Pauses During Photobooth Sessions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-masterful-video-analytics-unlocking-potential-with-social-blade-and-youtube/"><u>In 2024, Masterful Video Analytics Unlocking Potential with Social Blade & YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-income-the-streamlined-three-part-process-for-calculating-youtube-profits-for-2024/"><u>Maximizing Income The Streamlined Three-Part Process for Calculating YouTube Profits for 2024</u></a></li>
 </ul></div>
 

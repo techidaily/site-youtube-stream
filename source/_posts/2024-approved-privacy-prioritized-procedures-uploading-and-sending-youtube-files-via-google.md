@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Privacy-Prioritized Procedures  Uploading and Sending YouTube Files via Google\""
-date: 2024-07-29T21:43:01.629Z
-updated: 2024-07-30T21:43:01.629Z
+date: 2024-11-27T20:46:36.768Z
+updated: 2024-12-03T23:13:56.130Z
 tags:
   - ai video
   - ai youtube
@@ -34,65 +34,6 @@ Private YouTube videos can be shared with 50 Google accounts.
 * [**Part 2: Private Video Limitations on YouTube**](#limits)
 * [**Part 3: How to Share Unlisted Videos on YouTube**](#unlisted)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Make Your YouTube Video with Wondershare Filmora
-
-To make YouTube videos awesome, Wondershare Filmora has features like overlays & effects, Advanced color tuning, green screen, a power tool that would certainly help you create a video intended for a personal review. The tools and features on Wondershare Filmora are unbeatable in terms of quality and precision and you can use it for your YouTube video editing and directly upload them from the Wondershare Filmora dashboard itself to avoid that time-consuming process of transferring your videos device to device if you are using another system to edit your videos.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## **Part 1: How to Share a Private YouTube Video**
-
-You can make a YouTube video private either within the Creator studio or by choosing the option when you first upload a video.
-
-When you mark a video as private you will be able to send the video out to up to 50 e-mail addresses, names of contacts on Google, or your circles on Google plus. As soon as you add a new contact to the list they will receive an invite link to view the video.
-
-Unlike with an unlisted video, the contacts allowed to view a private video will not be able to share the URL of your video with their own friends and contacts.
-
-## **Part 2: Private Video Limitations on YouTube**
-
-The video cannot be shared again and only the individuals invited can view the video at its URL.
-
- ![private video limitation](https://images.wondershare.com/filmora/article-images/private-video-limitation.gif)
-
- Contacts that you send the private invite too will have to have a YouTube account and be signed in to it, in order to view your video.
-
-## **Part 3: How to Share Unlisted Videos on YouTube**
-
-Another option that YouTube delivers for privacy is the chance to mark videos as unlisted. Unlisted videos will not be included in any of the Google search engine results and only individuals that have the link will be able to view the videos on YouTube. A person does not have to have a Google account or any type of password to see unlisted videos, only the link, which means the people you share the video with will also be able to share it with whoever they like.
-
-To share an unlisted video, simply send its URL to anyone you want to watch it. This is easier than sharing private YouTube videos, but not quite as private.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Want to share a private YouTube video? A private video is a video that is posted to YouTube, but only viewable to a select group of people who you choose to share it with. It could be that this is a personal video only intended for friends and family, or it could be that you want to get feedback from people you trust before making it public.
-
-Private YouTube videos can be shared with 50 Google accounts.
-
-* [**Part 1: How to Share a Private YouTube Video**](#share)
-* [**Part 2: Private Video Limitations on YouTube**](#limits)
-* [**Part 3: How to Share Unlisted Videos on YouTube**](#unlisted)
-
 ## Make Your YouTube Video with Wondershare Filmora
 
 To make YouTube videos awesome, Wondershare Filmora has features like overlays & effects, Advanced color tuning, green screen, a power tool that would certainly help you create a video intended for a personal review. The tools and features on Wondershare Filmora are unbeatable in terms of quality and precision and you can use it for your YouTube video editing and directly upload them from the Wondershare Filmora dashboard itself to avoid that time-consuming process of transferring your videos device to device if you are using another system to edit your videos.
@@ -121,9 +62,6 @@ Another option that YouTube delivers for privacy is the chance to mark videos as
 
 To share an unlisted video, simply send its URL to anyone you want to watch it. This is easier than sharing private YouTube videos, but not quite as private.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -146,9 +84,6 @@ Private YouTube videos can be shared with 50 Google accounts.
 * [**Part 2: Private Video Limitations on YouTube**](#limits)
 * [**Part 3: How to Share Unlisted Videos on YouTube**](#unlisted)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your YouTube Video with Wondershare Filmora
 
 To make YouTube videos awesome, Wondershare Filmora has features like overlays & effects, Advanced color tuning, green screen, a power tool that would certainly help you create a video intended for a personal review. The tools and features on Wondershare Filmora are unbeatable in terms of quality and precision and you can use it for your YouTube video editing and directly upload them from the Wondershare Filmora dashboard itself to avoid that time-consuming process of transferring your videos device to device if you are using another system to edit your videos.
@@ -156,8 +91,9 @@ To make YouTube videos awesome, Wondershare Filmora has features like overlays &
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: How to Share a Private YouTube Video**
 
 You can make a YouTube video private either within the Creator studio or by choosing the option when you first upload a video.
@@ -166,9 +102,6 @@ When you mark a video as private you will be able to send the video out to up to
 
 Unlike with an unlisted video, the contacts allowed to view a private video will not be able to share the URL of your video with their own friends and contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 2: Private Video Limitations on YouTube**
 
 The video cannot be shared again and only the individuals invited can view the video at its URL.
@@ -177,18 +110,12 @@ The video cannot be shared again and only the individuals invited can view the v
 
  Contacts that you send the private invite too will have to have a YouTube account and be signed in to it, in order to view your video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 3: How to Share Unlisted Videos on YouTube**
 
 Another option that YouTube delivers for privacy is the chance to mark videos as unlisted. Unlisted videos will not be included in any of the Google search engine results and only individuals that have the link will be able to view the videos on YouTube. A person does not have to have a Google account or any type of password to see unlisted videos, only the link, which means the people you share the video with will also be able to share it with whoever they like.
 
 To share an unlisted video, simply send its URL to anyone you want to watch it. This is easier than sharing private YouTube videos, but not quite as private.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -212,20 +139,77 @@ Private YouTube videos can be shared with 50 Google accounts.
 * [**Part 3: How to Share Unlisted Videos on YouTube**](#unlisted)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your YouTube Video with Wondershare Filmora
 
 To make YouTube videos awesome, Wondershare Filmora has features like overlays & effects, Advanced color tuning, green screen, a power tool that would certainly help you create a video intended for a personal review. The tools and features on Wondershare Filmora are unbeatable in terms of quality and precision and you can use it for your YouTube video editing and directly upload them from the Wondershare Filmora dashboard itself to avoid that time-consuming process of transferring your videos device to device if you are using another system to edit your videos.
 
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## **Part 1: How to Share a Private YouTube Video**
+
+You can make a YouTube video private either within the Creator studio or by choosing the option when you first upload a video.
+
+When you mark a video as private you will be able to send the video out to up to 50 e-mail addresses, names of contacts on Google, or your circles on Google plus. As soon as you add a new contact to the list they will receive an invite link to view the video.
+
+Unlike with an unlisted video, the contacts allowed to view a private video will not be able to share the URL of your video with their own friends and contacts.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **Part 2: Private Video Limitations on YouTube**
+
+The video cannot be shared again and only the individuals invited can view the video at its URL.
+
+ ![private video limitation](https://images.wondershare.com/filmora/article-images/private-video-limitation.gif)
+
+ Contacts that you send the private invite too will have to have a YouTube account and be signed in to it, in order to view your video.
+
+## **Part 3: How to Share Unlisted Videos on YouTube**
+
+Another option that YouTube delivers for privacy is the chance to mark videos as unlisted. Unlisted videos will not be included in any of the Google search engine results and only individuals that have the link will be able to view the videos on YouTube. A person does not have to have a Google account or any type of password to see unlisted videos, only the link, which means the people you share the video with will also be able to share it with whoever they like.
+
+To share an unlisted video, simply send its URL to anyone you want to watch it. This is easier than sharing private YouTube videos, but not quite as private.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Want to share a private YouTube video? A private video is a video that is posted to YouTube, but only viewable to a select group of people who you choose to share it with. It could be that this is a personal video only intended for friends and family, or it could be that you want to get feedback from people you trust before making it public.
+
+Private YouTube videos can be shared with 50 Google accounts.
+
+* [**Part 1: How to Share a Private YouTube Video**](#share)
+* [**Part 2: Private Video Limitations on YouTube**](#limits)
+* [**Part 3: How to Share Unlisted Videos on YouTube**](#unlisted)
+
+## Make Your YouTube Video with Wondershare Filmora
+
+To make YouTube videos awesome, Wondershare Filmora has features like overlays & effects, Advanced color tuning, green screen, a power tool that would certainly help you create a video intended for a personal review. The tools and features on Wondershare Filmora are unbeatable in terms of quality and precision and you can use it for your YouTube video editing and directly upload them from the Wondershare Filmora dashboard itself to avoid that time-consuming process of transferring your videos device to device if you are using another system to edit your videos.
+
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: How to Share a Private YouTube Video**
 
 You can make a YouTube video private either within the Creator studio or by choosing the option when you first upload a video.
@@ -238,16 +222,10 @@ Unlike with an unlisted video, the contacts allowed to view a private video will
 
 The video cannot be shared again and only the individuals invited can view the video at its URL.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![private video limitation](https://images.wondershare.com/filmora/article-images/private-video-limitation.gif)
 
  Contacts that you send the private invite too will have to have a YouTube account and be signed in to it, in order to view your video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 3: How to Share Unlisted Videos on YouTube**
 
 Another option that YouTube delivers for privacy is the chance to mark videos as unlisted. Unlisted videos will not be included in any of the Google search engine results and only individuals that have the link will be able to view the videos on YouTube. A person does not have to have a Google account or any type of password to see unlisted videos, only the link, which means the people you share the video with will also be able to share it with whoever they like.
@@ -274,15 +252,16 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Paving Way to Success: Premier Video Gatherings (Post-VidCon)
 
 # Beyond VidCon - A Guide to the Most Important YouTube Events
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Dec 30, 2022• Proven solutions
@@ -299,13 +278,14 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 #### 1. **[VidCon](http://vidcon.com/)**
@@ -378,10 +358,11 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
 
@@ -455,224 +436,11 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 **London, UK:** August
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
-This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
-
-Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
-
-There is one day of Summer in the City called ‘Creator Day’ (generally on Friday), which features educational workshops for creators and industry professionals.
-
-**Passes:**
-
-If you buy your tickets during early bird pricing, the prices will look like this:
-
-**Saturday** OR **Sunday**: £30.00
-
-**Saturday** AND **Sunday**: £45.00
-
-**Creator Day**: £30.00
-
-**Creator Day + Weekend**: £60.00
-
-**Industry Ticket**: £100.00
-
-Have you ever attended an offline YouTube event? Which one, and how did you like it?
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Dec 30, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Want to meet your favorite creators? Or, do you want to become a better creator yourself? There are huge conventions you can go to where you can both indulge in fandom and work on your skills. Here are the 7 largest and most well-known:
-
-1. [VidCon (US/Europe/Australia)](#vidcon)
-2. [PlayList Live (US)](#playlist)
-3. [Beautycon (US/UK)](#beautycon)
-4. [YouTube Fanfest (Various international locations)](#fanfest)
-5. [RTX (US/UK/Australia)](#rtx)
-6. [Amplify Live (Australia)](#amplify)
-7. [Summer in the City (UK)](#sitc)
-
-## **The Most Important YouTube Events**
-
-Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
-
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
-
-#### 1. **[VidCon](http://vidcon.com/)**
-
-**VidCon US:** June (Anaheim, California)
-
-**VidCon Europe (Amsterdam):** March/April
-
-**VidCon Australia:** August/September
-
-![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
-
-In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
-
-VidCon was founded by the Vlogbrothers in 2010 as a place for internet friends to meet in real life.
-
-**Passes:**
-
-There are three different types of passes for VidCon – the Community Track, the Creator Track, and the Industry Track.
-
-The **Community Track** is for anyone who loves YouTube and wants a chance to see their favorite creators and meet other fans. Pricing ranges from $100 to $180, depending on how early you buy your ticket.
-
-The **Creator Track** gets you to access to all the same events as the Community badges (except for the Meet & Greet Lottery\*), plus even more panels and workshops that will help you become a better creator. Pricing ranges from $150 to $250 depending on how early you buy your ticket.
-
-The **Industry Track** is for anyone working in online video or video-adjacent industries, like advertising, branding, or talent management. There are panels on online marketing and working with influencers. Pricing ranges from $550 to $850, depending on when you buy your ticket.
-
- \*The Meet and Greet Lottery is a chance for anyone attending with a Community or Industry pass to meet their favorite creator. You rank the 15 creators you’d most like to meet according to how much you want to meet them. A computerized system will determine who gets into which Meet & Greet.
-
-You have a two-week window (usually the first half of May) to submit your choices.
-
-#### 2. **[PlayList Live](http://www.playlist-live.com/home.php)**
-
-**Orlando, Florida:** April/May
-
-**Tri-State (Secaucus, New Jersey):** September
-
-**Washington DC:** September
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
-![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
-
-Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
-
-Playlist Live prides itself on having ‘non-stop interactive activities.’ These include chances to meet your favorite creators on the Saturday and Sunday of the event. Which meetups you get to attend are determined by first-come-first-serve online signup.
-
-**Passes:**
-
-Pricing may vary depending on which event you are attending and how early you purchase your ticket. The following ranges are an estimate. Not all pass types are available for all events.
-
-The **Standard Pass** ($75 - $130) is the basic pass for fans of the online video who want to meet their favorite creators, play games, and have a great time.
-
-The **Standard Pass + Merch** ($100-$155) gets you into the same events as the standard pass plus a t-shirt and a wristband.
-
-The **Standard Deluxe** ($120 - $205) comes with a hoodie, sunglasses, and a commemorative ticket.
-
-The **Parent Pass/Parent + Merch/Parent Deluxe** ($75-$200) is for parents who want to chaperone their kids around Playlist Live and includes access to everything the Standard Pass can access.
-
-The **Insight Pass** ($150-$205) is for anyone who wants to learn more about being a digital creator. You get Standard access as well as workshops and panels for successful creators and industry professionals designed to help you on your path.
-
-The **Insight + Merch/Insight Deluxe Passes** ($175-$280) you get the same access as an Insight Pass plus goodies like shirts, wristbands, commemorative tickets, and sunglasses.
-
-The **Premium Pass** ($250-$404) grants you standard access plus early access for meetup registration and a special VIP meetup.
-
-There is also business **Passes** with Merch and Deluxe (Business Deluxe can cost up to $330) options for people working in marketing, publicity, production, etc. These passes include access to an extra day of business and industry-specific programming.
-
-#### 3. **[Beautycon Festivals](https://beautycon.com/)**
-
-**Los Angeles:** July
-
-**New York:** April
-
-**London, UK:** November
-
-![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
-
-Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
-
-In 2017, 30,000 people attended Beautycon festivals internationally.
-
-**Passes:**
-
-**Two-Day General Admission** ($69) gets you in for the whole weekend, and you’ll also get a fabric wristband and other goodies.
-
-You can also get a **One-Day General Admission** to pass for $49\.
-
-The **Two-Day Hauler** pass ($199) gets you in the doors 2 hours before the General Admission passes, plus a VIP swag bag.
-
-General Admission and Hauler passes do not include access to programmed meetups.
-
-**Two-Day All Access** passes ($999) include early entry as well as reserved seating in the front row at the Min Stage, photo opportunities in the Halo Room, a tour of the Creator Gifting Suite, custom merch, credit at the Beautycon Shop online, plus everything from the General and Hauler packs.
-
-The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everything the All-Access pass has plus a 2-night stay at a hotel downtown (for the LA festival).
-
-#### 4. **YouTube FanFest**
-
-These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
-![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
-
-There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
-
-#### 5. **[RTX](https://www.rtxaustin.com/)**
-
-**Austin, Texas:** August
-
-[**London:**](https://rtxlondon.com/) September
-
-Sydney, Australia: February
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![rtx](https://images.wondershare.com/filmora/rtx.jpg)
-
-Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
-
-**Passes:**
-
-It costs $50 for a **Friday** or **Sunday** pass, and $55 for just **Saturday**. You’ll get an attendee bag and lanyard with your pass.
-
-The **Weekend** pass costs $110, and you get access to all 3 days plus the bag/lanyard and 1 autograph code.
-
-A **Weekend Plus** ($335) pass gets you everything the Weekend pass gets you plus 2 autograph codes, early access to the Expo hall on Friday, lounge access, and reserved seating at the stage.
-
-The **Platinum** pass is the most expensive at $729, and it includes everything the Weekend Plus pass does plus a priority line for panels, priority seating, and an exclusive party.
-
-#### 6. **[Amplify Live](http://www.thisisamplify.com/blog/cool-for-summer-amplifylive-syd-mel-faqs)**
-
-**Sydney, Australia:** April
-
-**Melbourne, Australia:** April
-
-These events showcase the biggest social medial talent and musical acts in Australia and New Zealand. In 2017 the headliners of the Cool for Summer tour were Lindsey Stirling, Dan & Phil, and Nash Grier.
-  
-Tickets for the **Cool for Summer** tour cost $65 or $75 AUD depending on how early you buy them.
-
-For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
-
-**Meet and Greet** tickets must be purchased separately from your event ticket.
-
-**Silver Meet and Greet**, $80 AUD: access to the ‘Cool for Summer Celebrity Zone’ featuring non-headliner talent.
-
-**Gold Meet and Greet**, $189 AUD: access to the ‘Cool for Summer Celebrity Zone’ plus a guaranteed meeting with one of the headliners (you choose which when you purchase).
-
-**Platinum Meet & Greet**, $450 AUD: meet all the headliners and get access to an exclusive VIP area, merch pack, and special entry.
-
-#### 7. **[Summer in the City](https://www.sitc-event.co.uk/)**
-
-**London, UK:** August
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
-![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
@@ -734,9 +502,6 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -799,9 +564,6 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 **London, UK:** November
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -826,9 +588,6 @@ The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everyth
 
 These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -903,9 +662,208 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Dec 30, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Want to meet your favorite creators? Or, do you want to become a better creator yourself? There are huge conventions you can go to where you can both indulge in fandom and work on your skills. Here are the 7 largest and most well-known:
+
+1. [VidCon (US/Europe/Australia)](#vidcon)
+2. [PlayList Live (US)](#playlist)
+3. [Beautycon (US/UK)](#beautycon)
+4. [YouTube Fanfest (Various international locations)](#fanfest)
+5. [RTX (US/UK/Australia)](#rtx)
+6. [Amplify Live (Australia)](#amplify)
+7. [Summer in the City (UK)](#sitc)
+
+## **The Most Important YouTube Events**
+
+Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
+
+#### 1. **[VidCon](http://vidcon.com/)**
+
+**VidCon US:** June (Anaheim, California)
+
+**VidCon Europe (Amsterdam):** March/April
+
+**VidCon Australia:** August/September
+
+![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
+
+In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
+
+VidCon was founded by the Vlogbrothers in 2010 as a place for internet friends to meet in real life.
+
+**Passes:**
+
+There are three different types of passes for VidCon – the Community Track, the Creator Track, and the Industry Track.
+
+The **Community Track** is for anyone who loves YouTube and wants a chance to see their favorite creators and meet other fans. Pricing ranges from $100 to $180, depending on how early you buy your ticket.
+
+The **Creator Track** gets you to access to all the same events as the Community badges (except for the Meet & Greet Lottery\*), plus even more panels and workshops that will help you become a better creator. Pricing ranges from $150 to $250 depending on how early you buy your ticket.
+
+The **Industry Track** is for anyone working in online video or video-adjacent industries, like advertising, branding, or talent management. There are panels on online marketing and working with influencers. Pricing ranges from $550 to $850, depending on when you buy your ticket.
+
+ \*The Meet and Greet Lottery is a chance for anyone attending with a Community or Industry pass to meet their favorite creator. You rank the 15 creators you’d most like to meet according to how much you want to meet them. A computerized system will determine who gets into which Meet & Greet.
+
+You have a two-week window (usually the first half of May) to submit your choices.
+
+#### 2. **[PlayList Live](http://www.playlist-live.com/home.php)**
+
+**Orlando, Florida:** April/May
+
+**Tri-State (Secaucus, New Jersey):** September
+
+**Washington DC:** September
+
+![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
+
+Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
+
+Playlist Live prides itself on having ‘non-stop interactive activities.’ These include chances to meet your favorite creators on the Saturday and Sunday of the event. Which meetups you get to attend are determined by first-come-first-serve online signup.
+
+**Passes:**
+
+Pricing may vary depending on which event you are attending and how early you purchase your ticket. The following ranges are an estimate. Not all pass types are available for all events.
+
+The **Standard Pass** ($75 - $130) is the basic pass for fans of the online video who want to meet their favorite creators, play games, and have a great time.
+
+The **Standard Pass + Merch** ($100-$155) gets you into the same events as the standard pass plus a t-shirt and a wristband.
+
+The **Standard Deluxe** ($120 - $205) comes with a hoodie, sunglasses, and a commemorative ticket.
+
+The **Parent Pass/Parent + Merch/Parent Deluxe** ($75-$200) is for parents who want to chaperone their kids around Playlist Live and includes access to everything the Standard Pass can access.
+
+The **Insight Pass** ($150-$205) is for anyone who wants to learn more about being a digital creator. You get Standard access as well as workshops and panels for successful creators and industry professionals designed to help you on your path.
+
+The **Insight + Merch/Insight Deluxe Passes** ($175-$280) you get the same access as an Insight Pass plus goodies like shirts, wristbands, commemorative tickets, and sunglasses.
+
+The **Premium Pass** ($250-$404) grants you standard access plus early access for meetup registration and a special VIP meetup.
+
+There is also business **Passes** with Merch and Deluxe (Business Deluxe can cost up to $330) options for people working in marketing, publicity, production, etc. These passes include access to an extra day of business and industry-specific programming.
+
+#### 3. **[Beautycon Festivals](https://beautycon.com/)**
+
+**Los Angeles:** July
+
+**New York:** April
+
+**London, UK:** November
+
+![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
+
+Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
+
+In 2017, 30,000 people attended Beautycon festivals internationally.
+
+**Passes:**
+
+**Two-Day General Admission** ($69) gets you in for the whole weekend, and you’ll also get a fabric wristband and other goodies.
+
+You can also get a **One-Day General Admission** to pass for $49\.
+
+The **Two-Day Hauler** pass ($199) gets you in the doors 2 hours before the General Admission passes, plus a VIP swag bag.
+
+General Admission and Hauler passes do not include access to programmed meetups.
+
+**Two-Day All Access** passes ($999) include early entry as well as reserved seating in the front row at the Min Stage, photo opportunities in the Halo Room, a tour of the Creator Gifting Suite, custom merch, credit at the Beautycon Shop online, plus everything from the General and Hauler packs.
+
+The final type of pass, the **Two-Day Beauty Insider** ($1999) pass, has everything the All-Access pass has plus a 2-night stay at a hotel downtown (for the LA festival).
+
+#### 4. **YouTube FanFest**
+
+These events are customized to the wherever festival is visiting, so you’re always sure to see the big and rising YouTube stars from your region. Generally, these events include performances and activities as well as a Meet & Greet.
+
+![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
+
+There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
+
+#### 5. **[RTX](https://www.rtxaustin.com/)**
+
+**Austin, Texas:** August
+
+[**London:**](https://rtxlondon.com/) September
+
+Sydney, Australia: February
+
+![rtx](https://images.wondershare.com/filmora/rtx.jpg)
+
+Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
+
+**Passes:**
+
+It costs $50 for a **Friday** or **Sunday** pass, and $55 for just **Saturday**. You’ll get an attendee bag and lanyard with your pass.
+
+The **Weekend** pass costs $110, and you get access to all 3 days plus the bag/lanyard and 1 autograph code.
+
+A **Weekend Plus** ($335) pass gets you everything the Weekend pass gets you plus 2 autograph codes, early access to the Expo hall on Friday, lounge access, and reserved seating at the stage.
+
+The **Platinum** pass is the most expensive at $729, and it includes everything the Weekend Plus pass does plus a priority line for panels, priority seating, and an exclusive party.
+
+#### 6. **[Amplify Live](http://www.thisisamplify.com/blog/cool-for-summer-amplifylive-syd-mel-faqs)**
+
+**Sydney, Australia:** April
+
+**Melbourne, Australia:** April
+
+These events showcase the biggest social medial talent and musical acts in Australia and New Zealand. In 2017 the headliners of the Cool for Summer tour were Lindsey Stirling, Dan & Phil, and Nash Grier.
+  
+Tickets for the **Cool for Summer** tour cost $65 or $75 AUD depending on how early you buy them.
+
+For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
+
+**Meet and Greet** tickets must be purchased separately from your event ticket.
+
+**Silver Meet and Greet**, $80 AUD: access to the ‘Cool for Summer Celebrity Zone’ featuring non-headliner talent.
+
+**Gold Meet and Greet**, $189 AUD: access to the ‘Cool for Summer Celebrity Zone’ plus a guaranteed meeting with one of the headliners (you choose which when you purchase).
+
+**Platinum Meet & Greet**, $450 AUD: meet all the headliners and get access to an exclusive VIP area, merch pack, and special entry.
+
+#### 7. **[Summer in the City](https://www.sitc-event.co.uk/)**
+
+**London, UK:** August
+
+![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
+
+This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
+
+Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
+
+There is one day of Summer in the City called ‘Creator Day’ (generally on Friday), which features educational workshops for creators and industry professionals.
+
+**Passes:**
+
+If you buy your tickets during early bird pricing, the prices will look like this:
+
+**Saturday** OR **Sunday**: £30.00
+
+**Saturday** AND **Sunday**: £45.00
+
+**Creator Day**: £30.00
+
+**Creator Day + Weekend**: £60.00
+
+**Industry Ticket**: £100.00
+
+Have you ever attended an offline YouTube event? Which one, and how did you like it?
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -944,10 +902,6 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 **VidCon Australia:** August/September
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -976,9 +930,6 @@ You have a two-week window (usually the first half of May) to submit your choice
 
 **Washington DC:** September
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
@@ -1049,10 +1000,6 @@ There is not a steady annual schedule for FanFests, but it has visited these cit
 
 Sydney, Australia: February
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
@@ -1115,9 +1062,6 @@ If you buy your tickets during early bird pricing, the prices will look like thi
 
 Have you ever attended an offline YouTube event? Which one, and how did you like it?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -1139,5 +1083,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-the-top-rated-ios-video-capture-apps/"><u>[New] Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[Updated] 2024 Approved Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-and-store-videos-effortlessly-with-our-top-list-for-2024/"><u>[Updated] Capture & Store Videos Effortlessly with Our Top List for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplified-guide-to-free-youtube-card-designing/"><u>2024 Approved Simplified Guide to Free YouTube Card Designing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-mac-6-video-grabber-apps-for-2024/"><u>Essential Mac 6 Video Grabber Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 How to Unlock a Disabled iPhone 6?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y100i-power-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y100i Power 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-standard-studio-or-beta-progress/"><u>In 2024, Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-proven-strategies-for-successful-youtube-shorts/"><u>In 2024, Proven Strategies for Successful YouTube Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast-for-2024/"><u>Innovative Approaches to Live Broadcasting on Youtube with WireCast for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-resolve-drivers-errors-for-your-hp-envy-4520-in-microsoft-windows/"><u>Step-by-Step Guide to Resolve Drivers Errors for Your HP Envy 4520 in Microsoft Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-space-heater-techwise-insights/"><u>Ultimate Guide to Choosing the Perfect Space Heater - TechWise Insights</u></a></li>
+</ul></div>
 

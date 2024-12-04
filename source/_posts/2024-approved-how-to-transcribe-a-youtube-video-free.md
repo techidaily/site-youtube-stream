@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Transcribe a YouTube Video [FREE]\""
-date: 2024-11-18T17:07:17.114Z
-updated: 2024-11-24T17:20:04.796Z
+date: 2024-11-29T16:19:05.842Z
+updated: 2024-12-03T23:49:56.768Z
 tags:
   - ai video
   - ai youtube
@@ -47,10 +47,6 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 
 ![Upload YouTube videos](https://images.wondershare.com/filmora/article-images/youtube-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2  Select Transcription Language
 
 On the **Details** page of the next box that appears, scroll down and click **MORE OPTIONS**, and select **English** in the **Video language** drop-down list under the **Language, subtitles, and closed captions (CC)** section.
@@ -58,7 +54,7 @@ On the **Details** page of the next box that appears, scroll down and click **MO
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3  Publish the Video
@@ -79,15 +75,15 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 
 ![YouTube Classic Studio](https://images.wondershare.com/filmora/article-images/youtube-edit-on-classic-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. **Download Transcription File**
 
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -127,10 +123,6 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 * Kapwing is free to use
@@ -153,6 +145,10 @@ Click **Auto-generate** from the right window, and follow the on-screen instruct
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Download the Transcription File**
 
 Click **Download SRT** from the left pane, and follow the instructions from there to download the transcription file in \*.srt format.
@@ -169,6 +165,10 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 
 * The auto-transcribed text might lack accuracy as the task is done by the speech-to-text tools that work in the background
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Benefits of Transcribing YouTube Videos
 
 You may need video transcriptions for several reasons, such as analyzing the summary of the entire speech in the video, extracting a single phrase or quote that was spoken in the clip, or making the video helpful even for those suffering from hearing impairment. When you **transcribe a YouTube video**, the transcript can be useful in many ways. Some of the most common benefits of transcribing a video include:
@@ -184,6 +184,10 @@ If the speaker in the video is from a different region and is using an accent th
 * **Repurposing on Blogs**
 
 If you own a blog that you have embedded your video to, the transcription could be used to add text to it so the target audience can get a fair idea of what the video is all about. This is useful because many people prefer reading over watching.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### YouTube Video Transcription FAQs
 
@@ -223,10 +227,6 @@ If you are looking for a quick and easy way of adding subtitles to your videos, 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -242,19 +242,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-beats-for-chats-adding-sound-to-whatsapp-for-2024/"><u>[New] Beats for Chats Adding Sound to WhatsApp for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-8-truly-effective-video-marketing-strategies/"><u>2024 Approved Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>2024 Approved Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725289803851-windows-11dvdmp4aviwmv/"><u>高效率Windows 11软件：DVD转换为MP4、AVI、WMV文件，锁定数据安全保存</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-geforce-gtx-1070-driver-issue-on-windows-10-solved/"><u>Fix GeForce GTX 1070 Driver Issue on Windows 10 [Solved]</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-generate-individual-meme-crafts-today/"><u>In 2024, Generate Individual Meme Crafts Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>In 2024, Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List Best Free Video Subtitles & Downloader</u></a></li>
-<li><a href="https://win-guides.techidaily.com/seamlessly-connect-windows-to-android-mastering-the-art-of-file-sharing-with-googlen-quick-share-top-tips-and-tricks/"><u>Seamlessly Connect Windows to Android: Mastering the Art of File Sharing with Google'n Quick Share - Top Tips and Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-video-downloading-tools-for-windows-10-64-bit-and-32-bit-free-trials-available/"><u>Top Video Downloading Tools for Windows 10 (64-Bit & 32-Bit) - Free Trials Available</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrading-from-apple-vision-prometa-quest-3-check-these-budget-friendly-xr-wearables-zdnet/"><u>Upgrading From Apple Vision Pro/Meta Quest 3? Check These Budget-Friendly XR Wearables | ZDNET</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-top-30-boosting-bots-for-enhanced-discord-servers/"><u>[Updated] 2024 Approved Top 30 Boosting Bots for Enhanced Discord Servers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-direct-downloading-of-audio-content-from-vimeo-videos-for-2024/"><u>[Updated] Direct Downloading of Audio Content From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-guide-10-immersive-youtube-vr-films/"><u>2024 Approved Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-synthesizing-creativity-a-brainstormers-toolkit-for-names/"><u>2024 Approved Synthesizing Creativity A Brainstormer’s Toolkit for Names</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-streaming-journey-by-activating-youtubes-av1/"><u>2024 Approved Transform Your Streaming Journey by Activating YouTube's AV1</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-minecraft-hiccups-and-enjoy-uninterrupted-gaming-expert-advice-for-your-pc/"><u>Fix Minecraft Hiccups & Enjoy Uninterrupted Gaming - Expert Advice for Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-your-social-media-content-with-chatgpt-a-step-by-step-guide/"><u>Improving Your Social Media Content with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-on-free-youtube-events-without-extra-cost/"><u>In 2024, Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/innovations-to-overcome-drivers-misstep-52/"><u>Innovations to Overcome Driver's Misstep #52</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
 </ul></div>
 

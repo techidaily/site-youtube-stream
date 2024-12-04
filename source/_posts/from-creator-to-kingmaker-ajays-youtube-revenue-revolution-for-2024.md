@@ -1,7 +1,7 @@
 ---
 title: "\"From Creator to Kingmaker  Ajay’s YouTube Revenue Revolution for 2024\""
-date: 2024-11-27T16:04:10.423Z
-updated: 2024-12-03T16:18:40.186Z
+date: 2024-11-30T00:17:36.619Z
+updated: 2024-12-03T23:18:01.182Z
 tags:
   - ai video
   - ai youtube
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/5NfuMlMPMBKJkrNl2mG5J5h7_YI=/400x300/fi
 If you have been following the who’s who of YouTube, then Ajey Nagar, also popularly known as CarryMinati is definitely not a new name for you and you must also be well aware of **CarryMinati YouTube income**. And, if you have not heard of this name before, then it is high time to know about this YouTube influencer who is an Asian and Indian sensation.
 
 Getting excited, we too!!! So, in this article, we will learn all about who is Ajey Nagar, what is CarryMinati, what makes this man so popular, what is his **CarryMinati monthly income**, his personal life, and much more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Who is CarryMinati?
 
@@ -63,10 +67,6 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 | Last 30 Days Views                              | 35 M+                                              |
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Why is Carry Minati trending on YouTube?
 
@@ -144,6 +144,10 @@ Step2 Next, go to Effects > Ai Portrait, and the options of the features can be 
 
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
@@ -156,17 +160,21 @@ Step5 When finally, all the settings are done, click on the Export button to sav
 
 ![wondershare filmora ai portrait 5](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hot FAQs on CarryMinati
 
 Below we have answered some hot frequently asked questions about CarryMinati.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Is Carry Minati married?
 
 No, till date, CarryMinati aka Ajay Nagar is not married.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How much CarryMinati earn from 1 video?
 
@@ -177,6 +185,10 @@ Calculating the income from a YouTube video can be a complicated task that depen
 Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Henry Cavil, and others celebrities.
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -298,6 +310,10 @@ Step5 When finally, all the settings are done, click on the Export button to sav
 ## Hot FAQs on CarryMinati
 
 Below we have answered some hot frequently asked questions about CarryMinati.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Is Carry Minati married?
 
@@ -371,10 +387,6 @@ If you search on YouTube and come across an age-restricted video, you will be as
 
 Now that we've learned about the four types of YouTube content, let's discuss how you can find unlisted YouTube videos:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Find Other People's Unlisted YouTube Videos?
 
 Since **unavailable videos in YouTube playlists are hidden** from general public viewers, you cannot find them on YouTube or Google search results.
@@ -405,19 +417,19 @@ To see your unlisted videos on your YouTube channel, do the following steps in s
 * See the hidden videos on your channel.
 
 ![unlisted videos on youtube](https://images.wondershare.com/filmora/article-images/changing-videos-visibility-to-see-unlisted-videos-on-youtube.png)
-
-Since YouTube has marked the videos uploaded before 2017 as private as of July 2021, you can find your old unlisted videos under the **"Private"** list. To access it, choose **"Private"** as the visibility option.
-
-### How To Find Unlisted YouTube Videos with Google
-
-Sometimes, unlisted YouTube videos appear on Google when someone shares the link to them on a public forum or website.
-
-To confirm this, open a browser on your computer or a mobile device, head to the Google website, and search for your query. With some luck, you can find these unlisted YouTube videos in the search results.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+Since YouTube has marked the videos uploaded before 2017 as private as of July 2021, you can find your old unlisted videos under the **"Private"** list. To access it, choose **"Private"** as the visibility option.
+
+### How To Find Unlisted YouTube Videos with Google
+
+Sometimes, unlisted YouTube videos appear on Google when someone shares the link to them on a public forum or website.
+
+To confirm this, open a browser on your computer or a mobile device, head to the Google website, and search for your query. With some luck, you can find these unlisted YouTube videos in the search results.
+
 ## You May Want to Know: Why Are So Many Unlisted Videos Now Private?
 
 All unlisted videos uploaded to YouTube before January 2017 were switched to private. Therefore, if you have any older unlisted videos added to your Playlist or embedded on your website, you won't be able to access them now.
@@ -460,13 +472,13 @@ If you search on YouTube and come across an age-restricted video, you will be as
 
 ![age restricted video on youtube](https://images.wondershare.com/filmora/article-images/age-restricted-videos-on-youtube.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Find Unlisted YouTube Videos
 
 Now that we've learned about the four types of YouTube content, let's discuss how you can find unlisted YouTube videos:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Find Other People's Unlisted YouTube Videos?
 
@@ -480,10 +492,6 @@ However, the following workaround can help you watch these YouTube videos withou
 
 **Step 2:** Use the search bar at the top of your screen to search for other people's YouTube playlists. You can also click the **"All Video"** or **"Random Videos"** option to find the hidden content of a user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To See Unlisted Videos on My YouTube Channel?
 
 To see your unlisted videos on your YouTube channel, do the following steps in sequence:
@@ -491,6 +499,10 @@ To see your unlisted videos on your YouTube channel, do the following steps in s
 **Step 1:** In the first step, install the [YouTube Studio](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator&hl=en&gl=US) app on your mobile device or visit its [website](https://studio.youtube.com/) using a browser on your computer. Next, launch the app and sign in to your channel's account using your email and password.
 
 ![youtube channel dashboard](https://images.wondershare.com/filmora/article-images/accessing-youtube-studio-to-see-unlisted-videos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: In the next step, tap/ click the **"Content"** tab and tap/click the **"Funnel"** icon at the top of the video list to access the visibility options.
 
@@ -504,10 +516,6 @@ To see your unlisted videos on your YouTube channel, do the following steps in s
 ![unlisted videos on youtube](https://images.wondershare.com/filmora/article-images/changing-videos-visibility-to-see-unlisted-videos-on-youtube.png)
 
 Since YouTube has marked the videos uploaded before 2017 as private as of July 2021, you can find your old unlisted videos under the **"Private"** list. To access it, choose **"Private"** as the visibility option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Find Unlisted YouTube Videos with Google
 
@@ -618,10 +626,6 @@ To help you uncover the content that you otherwise wouldn't have access to, we'v
 
 So, let's get started with our guide without any further delay!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Types of Videos on YouTube
 
 Firstly, let's learn about the background of the types of YouTube videos. YouTube videos fall into the following four broad categories:
@@ -646,13 +650,13 @@ If you search on YouTube and come across an age-restricted video, you will be as
 
 ![age restricted video on youtube](https://images.wondershare.com/filmora/article-images/age-restricted-videos-on-youtube.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Find Unlisted YouTube Videos
 
 Now that we've learned about the four types of YouTube content, let's discuss how you can find unlisted YouTube videos:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Find Other People's Unlisted YouTube Videos?
 
@@ -686,10 +690,6 @@ To see your unlisted videos on your YouTube channel, do the following steps in s
 ![unlisted videos on youtube](https://images.wondershare.com/filmora/article-images/changing-videos-visibility-to-see-unlisted-videos-on-youtube.png)
 
 Since YouTube has marked the videos uploaded before 2017 as private as of July 2021, you can find your old unlisted videos under the **"Private"** list. To access it, choose **"Private"** as the visibility option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Find Unlisted YouTube Videos with Google
 
@@ -724,19 +724,19 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exclusive-top-5-list-of-fb-video-downloaders/"><u>[New] 2024 Approved Exclusive TOP 5 List of FB Video Downloaders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expertise-in-iphone-photography-understanding-dimensions/"><u>[Updated] 2024 Approved Expertise in iPhone Photography Understanding Dimensions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-remote-collaboration-with-ease-mastering-skype-screen-share-capabilities-for-2024/"><u>[Updated] Enhancing Remote Collaboration with Ease Mastering Skype Screen-Share Capabilities for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-keep-a-permanent-record-fbm-calls-full-recording/"><u>[Updated] Keep a Permanent Record FBM Calls Full Recording</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-approach-to-finding-youtube-collaborators/"><u>2024 Approved Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-playbook-for-parallel-pursuit-of-youtube-videos/"><u>2024 Approved The Playbook for Parallel Pursuit of Youtube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>2024 Approved The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-5-online-youtube-mp3-converters-free-and-easy/"><u>2024 Approved Top 5 Online YouTube-MP3 Converters, Free and Easy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-make-money-with-a-beauty-channel-for-2024/"><u>How to Make Money with a Beauty Channel for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-value-budget-friendly-pros-for-high-impact-sports/"><u>In 2024, Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-passive-viewers-to-earnings-youtubes-monetization-mastery/"><u>In 2024, From Passive Viewers to Earnings YouTube's Monetization Mastery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-mastery-over-manual-signal-interpretation-systems/"><u>In 2024, Mastery Over Manual Signal Interpretation Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-past-chatgpts-word-limit-barrier/"><u>Navigating Past ChatGPT’s Word Limit Barrier</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209924205-9780486846002-the-power-of-crystals/"><u>The Power of Crystals | Free Book</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fifas-best-players-trendy-videos-on-youtube/"><u>[New] FIFA's Best Players Trendy Videos on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hidden-gems-in-window-11s-interface-top-30-tips-and-tricks-unveiled/"><u>[Updated] Hidden Gems in Window 11'S Interface Top 30 Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-obs-versus-streamlabs-the-live-stream-software-duel/"><u>[Updated] In 2024, OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-online-gif-conversion-for-videos-top-5/"><u>[Updated] Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-instagram-vids-with-advanced-editing-skills-for-2024/"><u>[Updated] Transform Your Instagram Vids with Advanced Editing Skills for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-propel-participation-through-unique-custom-story-queries/"><u>2024 Approved Propel Participation Through Unique, Custom Story Queries</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocketing-your-youtube-business-the-famebit-approach-to-sponsorships/"><u>2024 Approved Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-siri-how-apple-is-mirroring-microsofts-bing-with-its-latest-ai-innovation-insights-from-zdnet/"><u>Beyond Siri: How Apple Is Mirroring Microsoft's Bing with Its Latest AI Innovation - Insights From ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebot-technology/"><u>Empowering Websites with Cookiebot Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-60-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Realme Narzo 60 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-s23-tactical-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy S23 Tactical Edition Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-optimize-your-youtube-shorts-templates-effectively/"><u>In 2024, How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-money-trail-for-youtube-creators-revenue-realization/"><u>In 2024, The Money Trail for YouTube Creators Revenue Realization</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-fifa-players-visualized-data-infographics/"><u>In 2024, Top FIFA Players Visualized Data Infographics</u></a></li>
 </ul></div>
 

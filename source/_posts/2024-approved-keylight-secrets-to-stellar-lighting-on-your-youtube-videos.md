@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Keylight  Secrets to Stellar Lighting on Your YouTube Videos\""
-date: 2024-11-19T16:18:58.489Z
-updated: 2024-11-24T18:24:18.263Z
+date: 2024-12-02T20:25:26.757Z
+updated: 2024-12-03T16:03:37.693Z
 tags:
   - ai video
   - ai youtube
@@ -36,7 +36,7 @@ Below, I’ll go into detail on how you can set up your lighting equipment to ma
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Using Light You Already Have
@@ -65,17 +65,21 @@ Most home lighting is warmer in its color temperature. If you want to use your h
 
 Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Home Studio Lighting
 
 If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1. Light Control
 
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. 3-Point Lighting
 
@@ -84,7 +88,7 @@ The most common setup for studio lighting is 3-point lighting. For this kind of 
 ![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
@@ -92,10 +96,6 @@ Out of the three lights, the key light should be the brightest. When it is posit
 To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
 
 Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. 4-Point Lighting
 
@@ -105,15 +105,15 @@ What you’ll need to ensure that your background is sufficiently lit is 4-point
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Touch Up YouTube Videos with Filmora
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -132,22 +132,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-producing-teaser-videos-with-a-twist/"><u>[New] Producing Teaser Videos with a Twist</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-accurate-speech-to-text-googles-breakthrough-approach/"><u>[Updated] In 2024, Accurate Speech-to-Text Google's Breakthrough Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-name-inspiration-strategies-for-success/"><u>[Updated] In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-visionary-converter-peak-resolution-magic/"><u>[Updated] Visionary Converter Peak Resolution Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>2024 Approved How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-minecraft-banner-templates-get-them-here/"><u>2024 Approved Minecraft Banner Templates Get Them Here</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-info-on-short-form-media/"><u>2024 Approved Quick Info on Short Form Media</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-content-efficiently-adding-youtube-captions/"><u>2024 Approved Streamline Your Content Efficiently Adding YouTube Captions</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/gamer-wealth-wave-the-year-ahead-for-2024/"><u>Gamer Wealth Wave The Year Ahead for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>In 2024, How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-stardom-secrets-to-viral-video-success/"><u>In 2024, Rise to Stardom Secrets to Viral Video Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-trend-analysis-through-infographics/"><u>In 2024, Trend Analysis Through Infographics</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-click-free-experience-how-to-resolve-crackling-sounds/"><u>Logitech G Pro X Click-Free Experience: How to Resolve Crackling Sounds</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-fitbit-charge-3-is-it-still-a-top-contender/"><u>The Ultimate Guide to the Fitbit Charge 3 - Is It Still a Top Contender?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/thorough-examination-hero4-black-performance/"><u>Thorough Examination Hero4 Black Performance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-using-premiere-for-video-upload/"><u>[New] Step-by-Step Using Premiere for Video Upload</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-graphicgenius-suite/"><u>2024 Approved GraphicGenius Suite</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-keep-up-to-date-with-youtube-community-guidelines/"><u>2024 Approved Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ryans-wealth-wonders-a-kids-fortune-in-the-streaming-space/"><u>2024 Approved Ryan’s Wealth Wonders A Kid's Fortune in the Streaming Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-e13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto E13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/bio-engineered-healing-spaces-via-arvr-for-2024/"><u>Bio-Engineered Healing Spaces via AR/VR for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ideal-iphone-for-gaming-performance/"><u>Choosing Your Ideal iPhone for Gaming Performance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fix-your-canon-printers-non-print-problem-with-these-top-five-tricks-in-windows-11/"><u>Fix Your Canon Printer's Non-Print Problem with These Top Five Tricks in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-nord-ce-3-lite-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus Nord CE 3 Lite 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Yuva 2</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-13-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 13 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-the-leading-youtube-to-webm-video-conversion-tools/"><u>In 2024, Explore the Leading YouTube-to-WebM Video Conversion Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-live-tech-the-most-popular-streaming-tools-reviewed/"><u>In 2024, Prime Live Tech The Most Popular Streaming Tools Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers-for-2024/"><u>Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rust-from-crashing-forever-debugging-techniques-that-work/"><u>Stop Rust From Crashing Forever: Debugging Techniques That Work</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-distinct-features-ht-sub-vs-stereo-av-receiver/"><u>Understanding the Distinct Features: HT Sub Vs. Stereo A/V Receiver</u></a></li>
 </ul></div>
 

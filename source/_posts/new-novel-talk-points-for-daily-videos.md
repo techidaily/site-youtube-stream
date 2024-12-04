@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-12-02T16:44:48.537Z
-updated: 2024-12-03T16:24:58.261Z
+date: 2024-11-26T19:21:07.975Z
+updated: 2024-12-03T23:35:01.926Z
 tags:
   - ai video
   - ai youtube
@@ -33,7 +33,7 @@ How do you know [what you should talk about in your vlog](https://tools.techidai
 Before starting your daily vlogging, you have to figure out one important thing ahead of time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do you have a niche?
@@ -49,6 +49,10 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
@@ -62,7 +66,7 @@ By commenting on what you’re watching/reading you have a better chance of capi
 Carrying a camera around like Casey may or may not suit your lifestyle, but you can still pick out one story from your day to tell. It doesn’t have to be a major event, and you shouldn’t worry that it won’t be interesting to other people. It’s your personality they’re tuning in for, so even if you’re just talking about a funny thing your cat did it will keep your audience interested because a) it’s you talking about it and b) it gives them a bit of insight into your life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Whatever You Need to Get Out
@@ -92,16 +96,12 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 Sea monkeys can survive in space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EVERYTHING
 
 You could also just flick the camera on and tell the full story of your day like you’d do in a traditional daily blog. What did you have for breakfast, how was school/work, did you talk to any friends, how was the weather – anything and everything. Generally, these videos can run a bit long and don’t have a lot of snappy editing. They’re faster to make, which is good if you’re doing them every day, but the unpolished nature of them won’t appeal to everyone. It will be exactly what appeals to some people, though.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customize Your Vlog Stories with Powerful Video Editor
 
@@ -114,7 +114,7 @@ It’s got strategies that have worked for other YouTubers, boiled down to simpl
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -132,16 +132,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlock-the-full-potential-of-your-videos-on-instagram-platform/"><u>[New] 2024 Approved Unlock the Full Potential of Your Videos on Instagram Platform</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-explore-eco-films-learn-and-innovate-with-yts-green-screens/"><u>[New] Explore Eco-Films Learn & Innovate with YT's Green Screens</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-influencing-the-masses-powerful-tags-for-daily-engagement/"><u>[Updated] In 2024, Influencing the Masses Powerful Tags for Daily Engagement</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-calculating-your-commercial-break-even-as-a-podcaster/"><u>2024 Approved Calculating Your Commercial Break-Even as a Podcaster</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-raw-footage-to-polished-content-youtube-studio-edition/"><u>2024 Approved From Raw Footage to Polished Content YouTube Studio Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-device-choose-from-the-7-best-android-adblockers/"><u>2024 Approved Maximize Your Device Choose From the 7 Best Android AdBlockers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>In 2024, Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-your-signature-look-a-beginners-blueprint/"><u>In 2024, Unveiling Your Signature Look A Beginner's Blueprint</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/"><u>Resolving 'Unrecoverable Error' In DirectX: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-canon-mp2930-printer-drivers-for-multiple-windows-os/"><u>Step-by-Step Guide to Downloading and Installing Canon MP2930 Printer Drivers for Multiple Windows OS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques/"><u>Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-cinematography-the-aspect-ratio-formula-for-2024/"><u>[New] Mastering Cinematography The Aspect Ratio Formula for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[New] The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[New] Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-easy-steps-for-leveraging-speech-to-text-in-google-documents/"><u>[Updated] 2024 Approved Easy Steps for Leveraging Speech-to-Text in Google Documents</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>[Updated] Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>[Updated] In 2024, Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-edit-youtube-channel-description/"><u>2024 Approved How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantaneous-downloads-the-ultimate-toolkit-compilation/"><u>2024 Approved Instantaneous Downloads - The Ultimate Toolkit Compilation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-outstanding-films-not-on-mainstream-lists/"><u>2024 Approved Outstanding Films Not on Mainstream Lists</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-splitting-screen-techniques-for-engaging-youtube-content/"><u>2024 Approved Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>2024 Approved The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks-for-2024/"><u>Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/encountered-moisture-in-iphone-cable-connection-discover-the-2-effective-solutions/"><u>Encountered Moisture in iPhone Cable Connection? Discover the 2 Effective Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-follow-the-flow-of-forum-fancies/"><u>In 2024, Follow the Flow of Forum Fancies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leading-spots-for-advertising-on-youtube-videos/"><u>In 2024, Leading Spots for Advertising on YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/"><u>In 2024, Ultimate FreeFire Tag Collection Enhance Your YouTube Channels</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973420666-simple-and-fast-installation-of-realtek-asio-drivers-on-windows-10-get-started-today/"><u>Simple & Fast Installation of RealTek Asio Drivers on Windows 10 - Get Started Today</u></a></li>
 </ul></div>
 

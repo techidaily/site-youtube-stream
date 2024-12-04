@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix the Issue When Stardew Valley Fails to Start"
-date: 2024-11-28T16:37:21.372Z
-updated: 2024-12-03T16:17:14.039Z
+date: 2024-11-28T20:51:44.615Z
+updated: 2024-12-03T16:38:51.296Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/HaloInfinite_Multiplayer-1200x675.jpg)
 
  Halo Infinite multiplayer beta is now available. However, many players are reporting that they cannot launch the game and get a black screen with a little circle in the bottom left corner. Then the game crashes after a few seconds. If you’re facing the same issue, don’t worry. Here are some quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -41,10 +45,6 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -57,7 +57,7 @@ Recommended
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
@@ -88,10 +88,6 @@ If the issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -124,11 +120,15 @@ If the issue persists, take a look at the next fix.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
@@ -139,6 +139,10 @@ If the issue persists, take a look at the next fix.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  The Halo Infinite black screen issue may also be caused by software conflicts. To see if that’s the case, you can perform a clean boot. This will restart your PC with only essential services running, allowing you to figure out the potential conflicting software. Here’s how:
@@ -147,22 +151,18 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
@@ -174,7 +174,7 @@ If the issue persists, take a look at the next fix.
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
@@ -187,7 +187,7 @@ If the issue persists, take a look at the next fix.
 3. Follow the on-screen instructions to uninstall the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
@@ -216,19 +216,22 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-craft-engaging-trailers-that-drive-channels-sales/"><u>[New] How to Craft Engaging Trailers that Drive Channels' Sales</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-save-money-on-titles-exclusive-list-of-11-free-creators/"><u>[New] Save Money on Titles - Exclusive List of 11 Free Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-techniques-for-engaging-google-meet-audiences-with-laptop-based-ppt/"><u>[New] Techniques for Engaging Google Meet Audiences with Laptop-Based PPT</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ncovering-your-youtube-remarks-across-os-platforms-for-2024/"><u>[New] Uncovering Your YouTube Remarks Across OS Platforms for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-free-skype-mp3-logger-101-guide/"><u>[Updated] 2024 Approved Free Skype Mp3 Logger 101 Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-your-videos-first-impression-20-best-fonts/"><u>2024 Approved Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>2024 Approved Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-upcoming-google-pixel-watch-features-pricing-release-info/"><u>All You Need to Know About the Upcoming Google Pixel Watch - Features, Pricing, Release Info.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-killer-e2200-high-speed-gigabit-ethernet-network-adapter-drivers/"><u>Download the Killer E2200 High-Speed Gigabit Ethernet Network Adapter Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-stealthily-stream-youtube-via-phones-autoplay/"><u>In 2024, How to Stealthily Stream YouTube via Phone's Autoplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-pros-guide-to-exceptional-cameras-and-lenses-in-4k/"><u>In 2024, The Pro's Guide to Exceptional Cameras and Lenses in 4K</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>In 2024, Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-building-your-perfect-vinyl-record-system-top-turntables-and-audio-equipment-recommendations-zdnet/"><u>Ultimate Guide to Building Your Perfect Vinyl Record System: Top Turntables & Audio Equipment Recommendations | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-meta-ai-an-introduction/"><u>Understanding Meta AI: An Introduction</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[New] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>[New] Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>[New] List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-hdmi-laptop-to-tv-not-working/"><u>[Solved] HDMI Laptop to TV Not Working</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-income-via-youtube-channel/"><u>2024 Approved Mastering Income via YouTube Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailored-guide-to-youtube-trailer-production-with-filmora/"><u>2024 Approved Tailored Guide to YouTube Trailer Production with Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-video-cutting-and-compiling-in-studio/"><u>2024 Approved The Art of Video Cutting and Compiling in Studio</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discover-the-best-4k-capture-software-for-live-recording/"><u>Discover the Best 4K Capture Software for Live Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/erase-unwanted-focus-affinity-photo-for-2024/"><u>Erase Unwanted Focus - Affinity Photo for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exploring-youtubes-ownership-vs-cc-freedom-for-2024/"><u>Exploring YouTube's Ownership Vs. CC Freedom for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-influencing-audiences-with-short-form-videos/"><u>In 2024, Influencing Audiences with Short-Form Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-snipperpro-suite/"><u>In 2024, SnipperPro Suite</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-textual-terminals/"><u>In 2024, Tailoring Textual Terminals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-icloud-mailboxes-with-two-step-verification-best-practices-and-tips/"><u>Secure iCloud Mailboxes with Two-Step Verification - Best Practices and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-diagnosing-and-fixing-a-malfunctioning-razer-kraken-gaming-mic/"><u>Solution Steps: Diagnosing and Fixing a Malfunctioning Razer Kraken Gaming Mic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/icks-for-zero-cost-film-and-photography-resources/"><u>Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
 </ul></div>
 

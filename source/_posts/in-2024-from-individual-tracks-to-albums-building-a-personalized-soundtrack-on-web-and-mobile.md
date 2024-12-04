@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Individual Tracks to Albums  Building a Personalized Soundtrack on Web & Mobile\""
-date: 2024-11-21T19:43:28.060Z
-updated: 2024-11-24T20:45:32.860Z
+date: 2024-11-28T20:36:38.424Z
+updated: 2024-12-03T19:41:53.252Z
 tags:
   - ai video
   - ai youtube
@@ -25,10 +25,6 @@ So, if you are looking for information on creating a YouTube music playlist on y
 ## How to Create a YouTube Music Playlist?
 
 Are you one of those who want to listen to their favorite tracks while working out or carrying on their work-related tasks? If that's the case, a YouTube Playlist might come in handy as you don't have to search again and again for your songs on your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Create a YouTube Music Playlist on the Web?
 
@@ -78,10 +74,6 @@ Step1 Download and launch the YouTube Music app on your [iPhone](https://apps.ap
 
 ![create playlist on youtube music iPhone app](https://images.wondershare.com/filmora/article-images/2023/03/create-playlist-on-youtube-music-iPhone-app.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now tap the three horizontal lines with the Plus icon, tap **"+ NEW PLAYLIST"** at the bottom right corner of the screen, and type in the name of the new music playlist.
 
 ![new playlist option on youtube music app](https://images.wondershare.com/filmora/article-images/2023/03/new-playlist-option-on-youtube-music-app.png)
@@ -91,7 +83,7 @@ Step3 In the next step, type in the name of your new playlist, select your priva
 ![creating new youtube music playlist on iphone](https://images.wondershare.com/filmora/article-images/2023/03/creating-new-youtube-music-playlist-on-iPhone.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, close the video, tap **"Library"** at the bottom of the screen, scroll down and see your new YouTube music playlist.
@@ -109,6 +101,10 @@ Then, tap **"Create a new playlist"** at the bottom right corner of the screen, 
 Step2 In the next step, choose your privacy preferences and tap **"OK"** to create the new YouTube music playlist.
 
 ![creating youtube music playlist android](https://images.wondershare.com/filmora/article-images/2023/03/creating-youtube-music-playlist-android.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now tap to close the video, tap **"Library"** at the bottom of the screen, scroll down in the middle of the app and view your new YouTube music playlist.
 
@@ -156,6 +152,10 @@ Step4 Repeat the second and third steps to save all the other songs you wish to 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You can always edit your YouTube music playlist by changing its name, privacy, and description or adding and removing any tracks. It is also possible to delete any of your playlists or create and save multiple playlists on your device's web browser.
 
 ### How to Create a YouTube Music playlist on iPhone?
@@ -166,9 +166,17 @@ Step1 Download and launch the YouTube Music app on your [iPhone](https://apps.ap
 
 ![create playlist on youtube music iPhone app](https://images.wondershare.com/filmora/article-images/2023/03/create-playlist-on-youtube-music-iPhone-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Now tap the three horizontal lines with the Plus icon, tap **"+ NEW PLAYLIST"** at the bottom right corner of the screen, and type in the name of the new music playlist.
 
 ![new playlist option on youtube music app](https://images.wondershare.com/filmora/article-images/2023/03/new-playlist-option-on-youtube-music-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 In the next step, type in the name of your new playlist, select your privacy preferences, i.e., Private, Public, or unlisted, and tap **"Create"** to complete the process.
 
@@ -223,7 +231,7 @@ So, in this article, we have discussed a step-by-step process for creating **a Y
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Art of Turning Shorts Into MP4 with Quality
@@ -248,10 +256,6 @@ Video production entails a lot more than just composing and sharing your videos.
 
 03 [Tutorial for How to Record on GarageBand](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why do we need to download and convert YouTube Shorts video?
 
 Most YouTube Shorts are not easily accessible on mobile devices. Occasionally, users experience [YouTube Shorts not showing issue](https://tools.techidaily.com/wondershare/filmora/download/), which prompts them to look for solutions for resolving the problem. You might be wondering whether converting your files is one such solution. Ideally yes! Find below, possible reasons for downloading and converting YouTube Shorts to MP4.
@@ -286,10 +290,6 @@ This is an easy-to-use converter that you use freely to trim your videos as well
 
 ![convert shorts to mp4 with freemake](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 1\. Download Freemake
 
 First, use any browser to download the Freemake app on your computer. Then choose custom installation. You also have the chance to deselect popping optional applications that present themselves for installation.
@@ -315,6 +315,10 @@ Easily engage an online tool to convert YouTube shorts to MP4 popular format wit
 First, choose the YouTube Short video that you wish to convert to MP4\. You can add your file from your computer or online sources like YouTube into the converter.
 
 ![convert shorts to mp4 online](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2\. Customize settings
 
@@ -544,6 +548,10 @@ Another reason to get YouTube shorts to MP4 is for portability issues. Since MP4
 
 MP4 file format supports a high degree of lossless output quality as compared to other file formats. MP4 is highly preferred so that the recipient achieves the original output quality of the converted file. With MP4, you can also retain other parameters like title, sample rate, and channel among others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can we convert YouTube shorts to mp4?
 
 The importance of converting videos to MP4 format is weighty. But how do you convert YouTube Shorts to MP4? Plenty of apps are available for easy conversion. Both free, paid, and online converter apps can serve the purpose. Let’s check how to convert your files for free with the Freemake app, via an online app, and using the reliable tool, Filmora.
@@ -553,10 +561,6 @@ The importance of converting videos to MP4 format is weighty. But how do you con
 This is an easy-to-use converter that you use freely to trim your videos as well as convert them to various formats. The drawbacks are that it leaves a watermark on your videos and will bundle you with extra software for installation with its free version. You, however, can evade this if you upgrade to the Premium version.
 
 ![convert shorts to mp4 with freemake](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 1\. Download Freemake
 
@@ -593,10 +597,6 @@ CloudConvert lets you customize the output settings like video codec, bitrate, r
 Wait for the YouTube Shorts to be converted to MP4 format. You can then save your files to your computer and share them with friends via other social media apps like Instagram and Facebook. You can also directly post to Shorts as MP4 files.
 
 ![convert shorts to mp4 online using cloudconvert](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3) Convert YouTube video to MP4 using Filmora
 
@@ -645,7 +645,7 @@ When you are certain you have the perfect video, click on the “Export” tab t
 ![convert youtube shorts to mp4 with Filmora](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -699,7 +699,7 @@ This is an easy-to-use converter that you use freely to trim your videos as well
 ![convert shorts to mp4 with freemake](https://images.wondershare.com/filmora/article-images/2021/shorts-to-mp4-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 1\. Download Freemake
@@ -803,17 +803,24 @@ You are not limited to using any video file format. Several reasons may also com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-writing-dialogue-with-impact-in-film-scripts-for-2024/"><u>[New] Writing Dialogue with Impact in Film Scripts for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-to-creating-yt-shorts/"><u>[Updated] In 2024, The Ultimate Guide to Creating YT Shorts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-luxury-on-wheels-a-compre-written-in-the-stars-for-2024/"><u>[Updated] Luxury on Wheels - A Compre Written in the Stars for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-examining-the-financial-success-strategies-of-t-series-on-youtube/"><u>2024 Approved Examining the Financial Success Strategies of T-Series on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-proven-hashtags-for-youtube-audience-surge/"><u>2024 Approved Proven #Hashtags for YouTube Audience Surge</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-simple-guide-changing-your-voice-in-online-battles-pubg-for-2024/"><u>A Simple Guide Changing Your Voice in Online Battles (PUBG) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/gain-1000-followers-on-youtube-with-agile-strategies-for-2024/"><u>Gain 1,000 Followers on YouTube with Agile Strategies for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-unblock-the-login-sequence-in-windows-10-and-11/"><u>How to Unblock the Login Sequence in Windows 10 & 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>In 2024, Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-sonys-new-vr-experience-price-estimates-launch-timeline-feature-overview-and-whispered-rumors/"><u>Inside Scoop on Sony's New VR Experience – Price Estimates, Launch Timeline, Feature Overview & Whispered Rumors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapshot-sophistication-editing-to-dazzle-for-2024/"><u>Snapshot Sophistication Editing to Dazzle for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-ingenuity-of-twelve-souths-bookbook-v2-the-perfect-blend-for-your-macbook-case/"><u>Unveiling the Ingenuity of Twelve South's BookBook V2 - The Perfect Blend for Your MacBook Case</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[New] Filmmaker's Toolkit Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-motivational-speaker-appraisal-edition-8/"><u>2024 Approved Motivational Speaker Appraisal, Edition 8</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>2024 Approved Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-your-footage-up-a-notch-advanced-techniques-for-360-videos-on-youtube/"><u>2024 Approved Taking Your Footage Up a Notch Advanced Techniques for 360° Videos on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-footage-a-complete-youtube-studio-editing-course/"><u>2024 Approved Transform Your Footage A Complete YouTube Studio Editing Course</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>2024 Approved Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/buy-subscribers-wisely-watch-your-numbers-soar-in-2024/"><u>Buy Subscribers Wisely, Watch Your Numbers Soar, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>In 2024, From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-6-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 6 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infusing-creative-edge-in-your-youtube-trailer-production/"><u>In 2024, Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-blue-screen-usage-guide/"><u>In 2024, Simplified Blue Screen Usage Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-premium-image-quality-through-youtubes-av1-settings/"><u>In 2024, Unlock Premium Image Quality Through YouTube's AV1 Settings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stabilizing-screen-quality-after-upgrading-to-windows-10/"><u>Stabilizing Screen Quality After Upgrading to Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-ai-and-smart-homes-chatgpts-impact/"><u>The Intersection of AI & Smart Homes: ChatGPT's Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/triumphant-three-column-widget-setup-in-the-latest-win11-version/"><u>Triumphant Three-Column Widget Setup in the Latest Win11 Version</u></a></li>
 </ul></div>
 

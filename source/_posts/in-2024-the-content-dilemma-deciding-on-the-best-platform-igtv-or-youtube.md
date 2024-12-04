@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Content Dilemma  Deciding on the Best Platform - IGTV or YouTube\""
-date: 2024-11-22T19:19:50.066Z
-updated: 2024-11-24T17:09:29.102Z
+date: 2024-12-02T19:58:31.395Z
+updated: 2024-12-03T22:41:16.238Z
 tags:
   - ai video
   - ai youtube
@@ -68,10 +68,6 @@ At the moment, views and likes can’t be monetized on IGTV, so most influencers
 
 Knowing how many people watched the entire video or how many likes and comments certain types of videos get can help you produce content that attracts a larger audience on all social networks. The metrics such as engagement or view-through rates can be essential during online marketing campaigns as they can suggest how many people are watching your videos and for how long. The analytics tools YouTube provides are much more diverse than those offered by IGTV that only lets you see the audience retention graph and the number of views and comments a video currently has. YouTube is an obviously a much better option for anyone who wants to conduct an in-depth analysis of their content’s performance, although the tools on IGTV are still powerful enough to indicate which type of content your audience likes the most.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Shouldn’t You Use YouTube and IGTV For the Same Purposes?
 
 You shouldn’t assume that you can post the same type of videos on your YouTube and IGTV channels, just because they are both video sharing platforms. The content you create for your IGTV channel needs to be dynamic and entertaining in order to captivate the audience’s attention. Posting tutorials or hour-long gaming videos on IGTV won’t attract as many viewers as on YouTube, which is why businesses who want to use IGTV to promote their products and services need to choose the content carefully. Furthermore, the videos that last between two and five minutes are still by far the most popular on IGTV, so even though technically you can upload a video that lasts one hour to your IGTV channel, the chances are that such long videos won’t get a lot of views.
@@ -91,10 +87,6 @@ However, no matter which video platform you choose, you need to ensure the video
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -112,7 +104,7 @@ IGTV receives quite a lot of attention from marketers and content creators alike
 [YouTube Shorts vs. TikTok: Which One Is Better? >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## IGTV VS YouTube: What's the difference
@@ -153,6 +145,10 @@ At the moment, views and likes can’t be monetized on IGTV, so most influencers
 
 Knowing how many people watched the entire video or how many likes and comments certain types of videos get can help you produce content that attracts a larger audience on all social networks. The metrics such as engagement or view-through rates can be essential during online marketing campaigns as they can suggest how many people are watching your videos and for how long. The analytics tools YouTube provides are much more diverse than those offered by IGTV that only lets you see the audience retention graph and the number of views and comments a video currently has. YouTube is an obviously a much better option for anyone who wants to conduct an in-depth analysis of their content’s performance, although the tools on IGTV are still powerful enough to indicate which type of content your audience likes the most.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Shouldn’t You Use YouTube and IGTV For the Same Purposes?
 
 You shouldn’t assume that you can post the same type of videos on your YouTube and IGTV channels, just because they are both video sharing platforms. The content you create for your IGTV channel needs to be dynamic and entertaining in order to captivate the audience’s attention. Posting tutorials or hour-long gaming videos on IGTV won’t attract as many viewers as on YouTube, which is why businesses who want to use IGTV to promote their products and services need to choose the content carefully. Furthermore, the videos that last between two and five minutes are still by far the most popular on IGTV, so even though technically you can upload a video that lasts one hour to your IGTV channel, the chances are that such long videos won’t get a lot of views.
@@ -171,10 +167,6 @@ However, no matter which video platform you choose, you need to ensure the video
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -303,10 +295,6 @@ At the moment, views and likes can’t be monetized on IGTV, so most influencers
 
 Knowing how many people watched the entire video or how many likes and comments certain types of videos get can help you produce content that attracts a larger audience on all social networks. The metrics such as engagement or view-through rates can be essential during online marketing campaigns as they can suggest how many people are watching your videos and for how long. The analytics tools YouTube provides are much more diverse than those offered by IGTV that only lets you see the audience retention graph and the number of views and comments a video currently has. YouTube is an obviously a much better option for anyone who wants to conduct an in-depth analysis of their content’s performance, although the tools on IGTV are still powerful enough to indicate which type of content your audience likes the most.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Shouldn’t You Use YouTube and IGTV For the Same Purposes?
 
 You shouldn’t assume that you can post the same type of videos on your YouTube and IGTV channels, just because they are both video sharing platforms. The content you create for your IGTV channel needs to be dynamic and entertaining in order to captivate the audience’s attention. Posting tutorials or hour-long gaming videos on IGTV won’t attract as many viewers as on YouTube, which is why businesses who want to use IGTV to promote their products and services need to choose the content carefully. Furthermore, the videos that last between two and five minutes are still by far the most popular on IGTV, so even though technically you can upload a video that lasts one hour to your IGTV channel, the chances are that such long videos won’t get a lot of views.
@@ -323,10 +311,6 @@ However, no matter which video platform you choose, you need to ensure the video
 * And more waiting for you to discover.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -384,136 +368,8 @@ I know what you’re thinking - “What?! That’s insane.” The first piece of
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
-## 3. Check the weather forecast in advance
-
-When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-## 4. Create 3-5 videos in advance
-
-This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
-
-## 5. Be creative! Create audios (audio-only videos)
-
-In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
-
-I hope these tips can help you on your journey with YouTube while still working a full-time job.
-
-## Make a YouTube Video with Wondershare Filmora
-
-Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
-
-Just try it and create your own YouTube video!
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
-
-I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
-
-So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
-
-[1\. Don't force yourself to post on specific days](#specificdays)
-
-[2\. Keep track of all your ideas in one notebook planner](#notebook)
-
-[3\. Check the weather forecast in advance](#weather)
-
-[4\. Create 3-5 videos in advance](#createvideos)
-
-[5. Be creative! Create audios (audio-only videos)](#createaudio)
-
-## 1. Don’t force yourself to post on specific days
-
-I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
-
-## 2. Keep track of all your ideas in one notebook planner
-
-A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
-
-## 3. Check the weather forecast in advance
-
-When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-## 4. Create 3-5 videos in advance
-
-This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
-
-## 5. Be creative! Create audios (audio-only videos)
-
-In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
-
-I hope these tips can help you on your journey with YouTube while still working a full-time job.
-
-## Make a YouTube Video with Wondershare Filmora
-
-Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
-
-Just try it and create your own YouTube video!
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
-
-I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
-
-So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
-
-[1\. Don't force yourself to post on specific days](#specificdays)
-
-[2\. Keep track of all your ideas in one notebook planner](#notebook)
-
-[3\. Check the weather forecast in advance](#weather)
-
-[4\. Create 3-5 videos in advance](#createvideos)
-
-[5. Be creative! Create audios (audio-only videos)](#createaudio)
-
-## 1. Don’t force yourself to post on specific days
-
-I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2. Keep track of all your ideas in one notebook planner
-
-A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3. Check the weather forecast in advance
@@ -576,9 +432,77 @@ I know what you’re thinking - “What?! That’s insane.” The first piece of
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
+## 3. Check the weather forecast in advance
+
+When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
+
+## 4. Create 3-5 videos in advance
+
+This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+## 5. Be creative! Create audios (audio-only videos)
+
+In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
+
+I hope these tips can help you on your journey with YouTube while still working a full-time job.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Make a YouTube Video with Wondershare Filmora
+
+Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
+
+Just try it and create your own YouTube video!
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
+
+I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
+
+So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
+
+[1\. Don't force yourself to post on specific days](#specificdays)
+
+[2\. Keep track of all your ideas in one notebook planner](#notebook)
+
+[3\. Check the weather forecast in advance](#weather)
+
+[4\. Create 3-5 videos in advance](#createvideos)
+
+[5. Be creative! Create audios (audio-only videos)](#createaudio)
+
+## 1. Don’t force yourself to post on specific days
+
+I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2. Keep track of all your ideas in one notebook planner
+
+A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
 ## 3. Check the weather forecast in advance
 
@@ -593,6 +517,82 @@ This week I am on PTO (paid time off) which has given me a lot more time to film
 In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
 
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Make a YouTube Video with Wondershare Filmora
+
+Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
+
+Just try it and create your own YouTube video!
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
+
+I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
+
+So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
+
+[1\. Don't force yourself to post on specific days](#specificdays)
+
+[2\. Keep track of all your ideas in one notebook planner](#notebook)
+
+[3\. Check the weather forecast in advance](#weather)
+
+[4\. Create 3-5 videos in advance](#createvideos)
+
+[5. Be creative! Create audios (audio-only videos)](#createaudio)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1. Don’t force yourself to post on specific days
+
+I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
+
+## 2. Keep track of all your ideas in one notebook planner
+
+A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
+
+## 3. Check the weather forecast in advance
+
+When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
+
+## 4. Create 3-5 videos in advance
+
+This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+## 5. Be creative! Create audios (audio-only videos)
+
+In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
+
+I hope these tips can help you on your journey with YouTube while still working a full-time job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make a YouTube Video with Wondershare Filmora
 
@@ -625,17 +625,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>[New] In 2024, Advanced Tactics Preserving the Integrity of WhatsApp Talks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-streamlining-your-monetization-mastering-youtube-adsense/"><u>[New] In 2024, Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>[New] Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-your-musical-library-effortlessly-top-6-android-apps/"><u>2024 Approved Navigate Your Musical Library Effortlessly - Top 6 Android Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-ways-to-share-youtube-listings/"><u>2024 Approved Navigating the Ways to Share YouTube Listings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-a05s-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy A05s Lock Screen Password</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-premier-football-vids-key-youtube-infographic-data/"><u>In 2024, Premier Football Vids Key YouTube Infographic Data</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-streamline-your-videos-a-guide-to-igtv-posting/"><u>In 2024, Streamline Your Videos A Guide to IGTV Posting</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-youtuber-enigma-decoded-exciting-questionnaires-leading-to-your-ideal-creator-profile/"><u>In 2024, The YouTuber Enigma Decoded Exciting Questionnaires Leading to Your Ideal Creator Profile</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ize-youtube-creations-a-guide-to-high-quality-visuals/"><u>Optimize YouTube Creations A Guide to High-Quality Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>[New] 2024 Approved Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>[Updated] Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lowering-sound-gradually-a-logic-pro-method/"><u>2024 Approved Lowering Sound Gradually A Logic Pro Method</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-tutorial-for-professional-looking-youtube-channels/"><u>2024 Approved The Ultimate Tutorial for Professional-Looking YouTube Channels</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-cles-de-la-comprehension-des-architectures-32-bit-et-64-bit/"><u>Découvrez Les Clés De La Compréhension Des Architectures 32-Bit Et 64-Bit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expertise-in-action-leading-youtube-text-to-video-devices-for-2024/"><u>Expertise in Action Leading Youtube Text-to-Video Devices for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>In 2024, From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-first-use-to-expertise-a-comprehensive-fcp-guidebook/"><u>In 2024, From First Use to Expertise A Comprehensive FCP Guidebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quickclip-artisan/"><u>In 2024, QuickClip Artisan</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-youtube-trailer-editing-with-filmora/"><u>In 2024, The Essential Guide to YouTube Trailer Editing with Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-imovie-content-for-youtube-distribution-for-2024/"><u>Mastering iMovie Content for YouTube Distribution for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags-for-2024/"><u>Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unbiased-comparison-final-cut-pro-and-lumafusion-which-one-is-right-for-you/"><u>Updated 2024 Approved Unbiased Comparison Final Cut Pro and LumaFusion - Which One Is Right for You?</u></a></li>
 </ul></div>
 

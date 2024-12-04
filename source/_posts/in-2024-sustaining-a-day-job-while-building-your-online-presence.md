@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sustaining a Day Job While Building Your Online Presence"
-date: 2024-12-01T16:21:53.137Z
-updated: 2024-12-03T16:38:30.272Z
+date: 2024-11-29T18:59:36.960Z
+updated: 2024-12-03T16:11:48.865Z
 tags:
   - ai video
   - ai youtube
@@ -54,81 +54,13 @@ A notebook planner is essential for keeping my life organized and on track. When
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
 
-## 5. Be creative! Create audios (audio-only videos)
-
-In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
-
-I hope these tips can help you on your journey with YouTube while still working a full-time job.
-
-## Make a YouTube Video with Wondershare Filmora
-
-Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
-
-Just try it and create your own YouTube video!
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
-
-I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
-
-So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
-
-[1\. Don't force yourself to post on specific days](#specificdays)
-
-[2\. Keep track of all your ideas in one notebook planner](#notebook)
-
-[3\. Check the weather forecast in advance](#weather)
-
-[4\. Create 3-5 videos in advance](#createvideos)
-
-[5. Be creative! Create audios (audio-only videos)](#createaudio)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 1. Don’t force yourself to post on specific days
-
-I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
-
-## 2. Keep track of all your ideas in one notebook planner
-
-A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
-
-## 3. Check the weather forecast in advance
-
-When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-## 4. Create 3-5 videos in advance
-
-This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -182,6 +114,10 @@ I know what you’re thinking - “What?! That’s insane.” The first piece of
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
@@ -197,7 +133,7 @@ In the event that life gets too crazy, it’s perfectly fine to do just audio. M
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make a YouTube Video with Wondershare Filmora
@@ -250,9 +186,85 @@ A notebook planner is essential for keeping my life organized and on track. When
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+## 5. Be creative! Create audios (audio-only videos)
+
+In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
+
+I hope these tips can help you on your journey with YouTube while still working a full-time job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Make a YouTube Video with Wondershare Filmora
+
+Wondershare Filmora is one application that people prefer over any other video editing application due to its easy-to-use editing tools and social media aimed settings. This application can help any beginner with a desire to shoot a movie, achieve his dream even without the availability of high-tech cameras or equipment in his hand. The features like video stabilization feature and lens correction allow removing the major defects that occur while capturing a video. A large number of filters in the application can be used to give the cinematic effect whether it be a short video or a long movie.
+
+Just try it and create your own YouTube video!
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+I’ve been on YouTube for two years now and it’s no secret that I’ve had my challenges balancing it with my full-time job — and avoiding YouTube burnout. I’m a Social Worker, which means I’m always juggling my time between conducting home visits, returning phone calls and emails, and round-the-clock documentation on my clients. YouTube can be a great source of passive income, but it takes time before you can [make money on YouTube](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html).
+
+I’ve had to put a lot of effort into staying consistent with my YouTube channel. Through trial and error, I’ve learned some things that have worked tremendously, while others have been epic fails.
+
+So, to save you and your viewers some of the same struggles, here are 5 tips I recommend for keeping your channel running successfully and having work-life balance!
+
+[1\. Don't force yourself to post on specific days](#specificdays)
+
+[2\. Keep track of all your ideas in one notebook planner](#notebook)
+
+[3\. Check the weather forecast in advance](#weather)
+
+[4\. Create 3-5 videos in advance](#createvideos)
+
+[5. Be creative! Create audios (audio-only videos)](#createaudio)
+
+## 1. Don’t force yourself to post on specific days
+
+I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
+
+## 2. Keep track of all your ideas in one notebook planner
+
+A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
+
+## 3. Check the weather forecast in advance
+
+When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
+
+## 4. Create 3-5 videos in advance
+
+This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -305,176 +317,16 @@ You’ve probably heard of stories about individuals who managed to find financi
 Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Case Study of McJuggerNuggets
 
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
-Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
-
-#### AdSense
-
-Monetization of videos through AdSense is one of the easiest ways that you can start to profit off your videos. Registering for a [Google AdSense](https://www.google.com/adsense/start/#?modal%5Factive=none) can earn you between $0.30 and $2.00 per thousand ad impressions (an impression is a click, not a view). How much you make per ad impression depends on a lot of things, including the time of year. There are good months for advertising revenue and bad months. December is usually the hottest month for making money through AdSense because of the holiday shopping season. Some of the other months where you can see huge profits include September for back-to-school, June, and March.
-
-More popular channels get higher paying ads, and it is harder to earn ad revenue in popular vlogging genres (i.e. gaming) than in more obscure niches.
-
-#### Target the Right Demographic
-
-Some of the largest YouTuber success stories are creators who primarily target younger audiences. Others target men or women specifically. Think about who you want your audience to be and make videos that will appeal to them.
-
-#### Multichannel Networks
-
-Once you hit a certain level of subscribership and views you will start getting invited to MCMs. In some cases, multichannel network promotions could entitle you to discounts on merchandise and products. Be careful: a multichannel network will always want you to sign a contract, and they will take over your AdSense account.
-
-#### Social Blade
-
-This site will provide details about your subscription count, which of your videos has the best watch time, and more. It will give you a good impression of what you should be including in your videos and how you can make more money from your channel.
-
-#### Uploading Your Videos at the Right Time
-
-Uploading videos at the right time will make sure that you are on the front page of recently uploaded videos when people are let out of school or taking a break from work. This will earn you lots of views. Set an upload time for all of your videos each day and stick to that schedule.
-
-#### Check out Webinars
-
-Looking into webinars and videos of what other popular YouTube experts have done will help you model their success.
-
-#### Collaborate with Other YouTubers
-
-When you create a collab video you and your partner are each introduced to each other’s subscribers.
-
-#### Keep Quality Up
-
-Putting time and effort into every upload will ensure that you won’t lose subscribers or viewers because you got a bit lazy.
-
-#### Do Follow-Up Videos
-
-If you have a particular video that has a lot of views, you may want to consider creating follow-up videos. This can be a great way to generate lots of views.
-
-#### Complete Regular Research
-
-Regular research into your target market will help you to create the trendiest new content.
-
-#### Don't Get Discouraged
-
-Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
-
-## Edit Your Videos with High-Quality Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-You’ve probably heard of stories about individuals who managed to find financial success on YouTube. If your dream is to [make money on YouTube](https://tools.techidaily.com/wondershare/filmora/download/) it's important to remember that regular people are doing it.
-
-Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
-
-## Case Study of McJuggerNuggets
-
-![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
-
-#### AdSense
-
-Monetization of videos through AdSense is one of the easiest ways that you can start to profit off your videos. Registering for a [Google AdSense](https://www.google.com/adsense/start/#?modal%5Factive=none) can earn you between $0.30 and $2.00 per thousand ad impressions (an impression is a click, not a view). How much you make per ad impression depends on a lot of things, including the time of year. There are good months for advertising revenue and bad months. December is usually the hottest month for making money through AdSense because of the holiday shopping season. Some of the other months where you can see huge profits include September for back-to-school, June, and March.
-
-More popular channels get higher paying ads, and it is harder to earn ad revenue in popular vlogging genres (i.e. gaming) than in more obscure niches.
-
-#### Target the Right Demographic
-
-Some of the largest YouTuber success stories are creators who primarily target younger audiences. Others target men or women specifically. Think about who you want your audience to be and make videos that will appeal to them.
-
-#### Multichannel Networks
-
-Once you hit a certain level of subscribership and views you will start getting invited to MCMs. In some cases, multichannel network promotions could entitle you to discounts on merchandise and products. Be careful: a multichannel network will always want you to sign a contract, and they will take over your AdSense account.
-
-#### Social Blade
-
-This site will provide details about your subscription count, which of your videos has the best watch time, and more. It will give you a good impression of what you should be including in your videos and how you can make more money from your channel.
-
-#### Uploading Your Videos at the Right Time
-
-Uploading videos at the right time will make sure that you are on the front page of recently uploaded videos when people are let out of school or taking a break from work. This will earn you lots of views. Set an upload time for all of your videos each day and stick to that schedule.
-
-#### Check out Webinars
-
-Looking into webinars and videos of what other popular YouTube experts have done will help you model their success.
-
-#### Collaborate with Other YouTubers
-
-When you create a collab video you and your partner are each introduced to each other’s subscribers.
-
-#### Keep Quality Up
-
-Putting time and effort into every upload will ensure that you won’t lose subscribers or viewers because you got a bit lazy.
-
-#### Do Follow-Up Videos
-
-If you have a particular video that has a lot of views, you may want to consider creating follow-up videos. This can be a great way to generate lots of views.
-
-#### Complete Regular Research
-
-Regular research into your target market will help you to create the trendiest new content.
-
-#### Don't Get Discouraged
-
-Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Edit Your Videos with High-Quality Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-You’ve probably heard of stories about individuals who managed to find financial success on YouTube. If your dream is to [make money on YouTube](https://tools.techidaily.com/wondershare/filmora/download/) it's important to remember that regular people are doing it.
-
-Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Case Study of McJuggerNuggets
-
-![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
 
@@ -598,9 +450,157 @@ Regular research into your target market will help you to create the trendiest n
 
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
+## Edit Your Videos with High-Quality Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+You’ve probably heard of stories about individuals who managed to find financial success on YouTube. If your dream is to [make money on YouTube](https://tools.techidaily.com/wondershare/filmora/download/) it's important to remember that regular people are doing it.
+
+Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
+
+## Case Study of McJuggerNuggets
+
+![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
+
+#### AdSense
+
+Monetization of videos through AdSense is one of the easiest ways that you can start to profit off your videos. Registering for a [Google AdSense](https://www.google.com/adsense/start/#?modal%5Factive=none) can earn you between $0.30 and $2.00 per thousand ad impressions (an impression is a click, not a view). How much you make per ad impression depends on a lot of things, including the time of year. There are good months for advertising revenue and bad months. December is usually the hottest month for making money through AdSense because of the holiday shopping season. Some of the other months where you can see huge profits include September for back-to-school, June, and March.
+
+More popular channels get higher paying ads, and it is harder to earn ad revenue in popular vlogging genres (i.e. gaming) than in more obscure niches.
+
+#### Target the Right Demographic
+
+Some of the largest YouTuber success stories are creators who primarily target younger audiences. Others target men or women specifically. Think about who you want your audience to be and make videos that will appeal to them.
+
+#### Multichannel Networks
+
+Once you hit a certain level of subscribership and views you will start getting invited to MCMs. In some cases, multichannel network promotions could entitle you to discounts on merchandise and products. Be careful: a multichannel network will always want you to sign a contract, and they will take over your AdSense account.
+
+#### Social Blade
+
+This site will provide details about your subscription count, which of your videos has the best watch time, and more. It will give you a good impression of what you should be including in your videos and how you can make more money from your channel.
+
+#### Uploading Your Videos at the Right Time
+
+Uploading videos at the right time will make sure that you are on the front page of recently uploaded videos when people are let out of school or taking a break from work. This will earn you lots of views. Set an upload time for all of your videos each day and stick to that schedule.
+
+#### Check out Webinars
+
+Looking into webinars and videos of what other popular YouTube experts have done will help you model their success.
+
+#### Collaborate with Other YouTubers
+
+When you create a collab video you and your partner are each introduced to each other’s subscribers.
+
+#### Keep Quality Up
+
+Putting time and effort into every upload will ensure that you won’t lose subscribers or viewers because you got a bit lazy.
+
+#### Do Follow-Up Videos
+
+If you have a particular video that has a lot of views, you may want to consider creating follow-up videos. This can be a great way to generate lots of views.
+
+#### Complete Regular Research
+
+Regular research into your target market will help you to create the trendiest new content.
+
+#### Don't Get Discouraged
+
+Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
+
+## Edit Your Videos with High-Quality Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+You’ve probably heard of stories about individuals who managed to find financial success on YouTube. If your dream is to [make money on YouTube](https://tools.techidaily.com/wondershare/filmora/download/) it's important to remember that regular people are doing it.
+
+Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com/user/McJuggerNuggets), which has grown to over 3.4 million subscribers. He makes enough money to live off of YouTube alone. Here is a case study of how he made his first $10,000 on YouTube:
+
+## Case Study of McJuggerNuggets
+
+![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
+
+Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
+
+#### AdSense
+
+Monetization of videos through AdSense is one of the easiest ways that you can start to profit off your videos. Registering for a [Google AdSense](https://www.google.com/adsense/start/#?modal%5Factive=none) can earn you between $0.30 and $2.00 per thousand ad impressions (an impression is a click, not a view). How much you make per ad impression depends on a lot of things, including the time of year. There are good months for advertising revenue and bad months. December is usually the hottest month for making money through AdSense because of the holiday shopping season. Some of the other months where you can see huge profits include September for back-to-school, June, and March.
+
+More popular channels get higher paying ads, and it is harder to earn ad revenue in popular vlogging genres (i.e. gaming) than in more obscure niches.
+
+#### Target the Right Demographic
+
+Some of the largest YouTuber success stories are creators who primarily target younger audiences. Others target men or women specifically. Think about who you want your audience to be and make videos that will appeal to them.
+
+#### Multichannel Networks
+
+Once you hit a certain level of subscribership and views you will start getting invited to MCMs. In some cases, multichannel network promotions could entitle you to discounts on merchandise and products. Be careful: a multichannel network will always want you to sign a contract, and they will take over your AdSense account.
+
+#### Social Blade
+
+This site will provide details about your subscription count, which of your videos has the best watch time, and more. It will give you a good impression of what you should be including in your videos and how you can make more money from your channel.
+
+#### Uploading Your Videos at the Right Time
+
+Uploading videos at the right time will make sure that you are on the front page of recently uploaded videos when people are let out of school or taking a break from work. This will earn you lots of views. Set an upload time for all of your videos each day and stick to that schedule.
+
+#### Check out Webinars
+
+Looking into webinars and videos of what other popular YouTube experts have done will help you model their success.
+
+#### Collaborate with Other YouTubers
+
+When you create a collab video you and your partner are each introduced to each other’s subscribers.
+
+#### Keep Quality Up
+
+Putting time and effort into every upload will ensure that you won’t lose subscribers or viewers because you got a bit lazy.
+
+#### Do Follow-Up Videos
+
+If you have a particular video that has a lot of views, you may want to consider creating follow-up videos. This can be a great way to generate lots of views.
+
+#### Complete Regular Research
+
+Regular research into your target market will help you to create the trendiest new content.
+
+#### Don't Get Discouraged
+
+Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
 ## Edit Your Videos with High-Quality Video Editor
 
@@ -629,20 +629,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-following-fades-track-losses-on-insta/"><u>2024 Approved Following Fades Track Losses on Insta</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-complexities-of-youtube-copyright-claims/"><u>2024 Approved Navigating the Complexities of YouTube Copyright Claims</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-paving-the-way-to-youtube-stardom-through-effective-seo-keywords/"><u>2024 Approved Paving the Way to YouTube Stardom Through Effective SEO Keywords</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-securely-sharing-visuals-learn-the-art-of-screencast-with-ezvid/"><u>2024 Approved Securely Sharing Visuals Learn the Art of Screencast with Ezvid</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>2024 Approved Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-breathtaking-tiled-photographic-artistry/"><u>Crafting Breathtaking Tiled Photographic Artistry</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-and-video-converter-winx-dvd/"><u>DVD 리퍼 & Video Converter 소품 - WinX DVD 소프트웨어 | 정교한 기능, 효율적인 아이폰 전송</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/find-your-perfect-vlog-title-best-free-name-generators-for-2024/"><u>Find Your Perfect Vlog Title - Best Free Name Generators for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalize-your-channel-with-free-pics/"><u>In 2024, Personalize Your Channel With Free Pics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shegames-legends-youtubes-number-one-ten/"><u>In 2024, SheGames Legends YouTube's Number One Ten</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-viewership-into-cash-with-carminati-ajay/"><u>In 2024, Turning Viewership Into Cash with Carminati (Ajay)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-xs-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone XS Max Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/us-vs-uk-a-linguistic-comparison/"><u>US vs UK: A Linguistic Comparison</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zen-5-ai-ryzen-hx-370-outperforms-competitors-with-unmatched-single-core-speed-intel-core-ultra-7-268v-and-ryzen-9-7945hx3d-fall-behind/"><u>Zen 5 AI Ryzen HX 370 Outperforms Competitors with Unmatched Single-Core Speed: Intel, Core Ultra 7 268V and Ryzen 9 7945HX3D Fall Behind</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>[New] Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-sound-excellence-for-podcasters-ultimate-audio-interface-guide/"><u>[New] Sound Excellence for Podcasters Ultimate Audio Interface Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-vault-selection-for-top-corporate-use/"><u>[New] Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-chromebook-and-hp-beginners-guide-to-webcam-recordings-for-2024/"><u>[Updated] Chromebook & HP Beginner’s Guide to Webcam Recordings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-these-top-12-tactics-to-surge-your-youtube-views/"><u>2024 Approved Leverage These Top 12 Tactics to Surge Your YouTube Views</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-small-business-video-markets/"><u>2024 Approved Navigating Small Business Video Markets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-your-youtube-profile-a-guide/"><u>2024 Approved Securing Your YouTube Profile A Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-snicker-sounds-hilarious-song-imitations/"><u>2024 Approved Snicker Sounds Hilarious Song Imitations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>2024 Approved Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>2024 Approved Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-zero-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Zero 30 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-every-detail-on-mac-free-in-2024/"><u>Capture Every Detail on Mac - Free, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-redmi-12-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Redmi 12 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-your-music-library-transitioning-from-spotify-to-youtube-music/"><u>In 2024, Optimizing Your Music Library Transitioning From Spotify To YouTube Music</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 

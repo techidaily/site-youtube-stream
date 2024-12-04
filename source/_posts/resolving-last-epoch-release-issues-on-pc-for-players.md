@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2024-11-26T16:07:31.311Z
-updated: 2024-12-03T16:05:50.021Z
+date: 2024-11-29T22:18:27.776Z
+updated: 2024-12-03T23:59:42.282Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
 Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is finally[here](https://www.epicgames.com/store/en-US/p/immortals-fenyx-rising?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=4b35838425c74992ad42e1276b2161ca) , giving you a gorgeous world to explore. However, many players reported various issues with this new title, such as the game not launching or stuck on loading. If you face the same predicament, don’t worry. Here are some quick fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t need to try them all. Just work your way down until you find the one that solves your problem.
@@ -26,10 +30,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
 
@@ -42,7 +42,7 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
@@ -54,9 +54,17 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -73,7 +81,15 @@ There are mainly two ways you can do this:
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
@@ -86,17 +102,13 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -105,10 +117,6 @@ There are mainly two ways you can do this:
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
@@ -123,16 +131,8 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
@@ -160,16 +160,22 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capture-video-perfection-in-minutes/"><u>[New] 2024 Approved Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-snapshot-sophistication-expert-advice-on-editing-magic/"><u>[New] 2024 Approved Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-prime-freefire-content-creation-on-youtube/"><u>[New] Prime FreeFire Content Creation on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-to-free-youtube-closure-creation/"><u>[New] Quick Guide to Free YouTube Closure Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-tutorial-designing-striking-video-thumbnails-for-social-media-success/"><u>[New] Step-by-Step Tutorial Designing Striking Video Thumbnails for Social Media Success</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-deciphering-the-meanings-behind-facebooks-status-symbols-a-closer-look-at-the-blues/"><u>[Updated] 2024 Approved Deciphering the Meanings Behind Facebook's Status Symbols A Closer Look at the Blues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-avengers-the-marvellous-world-builders/"><u>2024 Approved Pioneering Avengers The Marvellous World-Builders</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-windows-8-avi-editor-fast-and-reliable-video-editing-software-updated-2023-for-2024/"><u>New Windows 8 AVI Editor Fast and Reliable Video Editing Software - Updated 2023 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-privacy-a-comprehensive-walkthrough-for-activating-vpn-on-ios-devices-insights-by-zdnet/"><u>Protect Your Privacy: A Comprehensive Walkthrough for Activating VPN on iOS Devices, Insights by ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-sd-cards-optimal-for-digital-photography-equipment/"><u>Top Rated SD Cards Optimal for Digital Photography Equipment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-professional-livestream-tools-outside-of-standard-obs/"><u>[New] Professional Livestream Tools Outside of Standard OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[New] Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-concentrate-on-core-affinity-photo-trick/"><u>[Updated] Concentrate on Core - Affinity Photo Trick</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[Updated] Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-greener-marketing-blend-screens-subscription-tech/"><u>2024 Approved Greener Marketing Blend Screens, Subscription Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-investment-icons-top-15-youtube-stock-gurus/"><u>2024 Approved Investment Icons Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-this-years-unexpected-cinematic-gems/"><u>2024 Approved This Year's Unexpected Cinematic Gems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtubes-tagging-system-unveiled/"><u>2024 Approved YouTube's Tagging System Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/buy-the-perfect-winx-festival-collection-on-the-web/"><u>Buy the Perfect WinX Festival Collection on the Web</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-yourself-from-video-edges-on-youtube-for-2024/"><u>Free Yourself From Video Edges on YouTube for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-make-your-ssd-appear-again-on-windows-1011-using-four-proven-fixes/"><u>How To Make Your SSD Appear Again On Windows 10/11 Using Four Proven Fixes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-steps-to-restore-your-youtube-shorts-thumbnails/"><u>In 2024, Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-in-capturing-conversations-for-later-review-for-2024/"><u>Masterclass in Capturing Conversations for Later Review for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-monetization-a-cpm-perspective-for-2024/"><u>Mastering YouTube Monetization A CPM Perspective for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-profitability-the-dos-and-donts-of-youtube-monetization-for-2024/"><u>Maximize Profitability – The Do's and Don'ts of YouTube Monetization for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-netflix-and-youtubers-how-jake-paul-succeeded-for-2024/"><u>Navigating Netflix & YouTubers How Jake Paul Succeeded for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-game-installation-woes-fixing-disk-write-problems-made-simple/"><u>Steam Game Installation Woes? Fixing Disk Write Problems Made Simple</u></a></li>
 </ul></div>
 
