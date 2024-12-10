@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-11-28T00:00:40.974Z
-updated: 2024-12-03T18:15:47.669Z
+date: 2024-12-06T16:00:48.808Z
+updated: 2024-12-10T16:05:00.079Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -28,10 +32,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -46,11 +46,15 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,14 +73,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -108,6 +108,10 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -116,21 +120,17 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,16 +159,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-comparing-vsdc-to-best-screen-recording-software/"><u>[New] Comparing VSDC to Best Screen Recording Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-highlights-on-instagram-3-ways/"><u>[New] How to Make Highlights on Instagram [3 Ways]</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-posting-twitter-videos-on-snapchat/"><u>[New] Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-channel-identity-essential-youtube-naming-strategies/"><u>[Updated] In 2024, Elevate Your Channel Identity Essential YouTube Naming Strategies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>2024 Approved Fixing Shorts The Thumbnail Not Showing Dilemma</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-make-your-shorts-thumbnail-pop-up/"><u>2024 Approved Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-startup-steps-for-successful-youtubers-setting-up-channels-securing-sales/"><u>In 2024, Startup Steps for Successful Youtubers Setting Up Channels, Securing Sales</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-student-engagement-using-youtube-as-a-teaching-tool/"><u>In 2024, Unlocking Student Engagement Using YouTube as a Teaching Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-edge-windows-11-update-say-goodbye-to-unwanted-crashes/"><u>Microsoft Edge Windows 11 Update - Say Goodbye to Unwanted Crashes!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essentials-of-whatsapp-call-messages-for-2024/"><u>The Essentials of WhatsApp Call Messages for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[New] 2024 Approved From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] Harnessing Home Content A Commercialized Vlog Journey</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sifting-through-the-differences-igtv-vs-youtube-in-a-direct-comparison/"><u>[New] Sifting Through the Differences IGTV Vs. YouTube in a Direct Comparison</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[Updated] 2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-and-tips-for-chromes-non-saving-files-in-the-windows-network/"><u>Fixes and Tips for Chrome's Non-Saving Files in the Windows Network</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuito-ottimizza-la-qualita-video-con-i-nostri-programmi-software-a-12-pezzi/"><u>Gratuito - Ottimizza La Qualità Video Con I Nostri Programmi Software a 12 Pezzi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>In 2024, Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6 In Different Conditionsin</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>In 2024, The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-fifa-matches-visualized-data-highlights/"><u>In 2024, Top FIFA Matches Visualized Data Highlights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-essential-drivers-for-your-hp-designjet-500-printer-with-these-fresh-downloads/"><u>Install Essential Drivers for Your HP DesignJet 500 Printer with These Fresh Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/jump-to-youtube-affiliate-ranking-with-a-swift-10000-views-for-2024/"><u>Jump to YouTube Affiliate Ranking with a Swift 10,000 Views for 2024</u></a></li>
 </ul></div>
 

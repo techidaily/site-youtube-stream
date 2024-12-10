@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-11-26T19:21:07.975Z
-updated: 2024-12-03T23:35:01.926Z
+date: 2024-12-03T16:03:04.136Z
+updated: 2024-12-10T16:04:37.441Z
 tags:
   - ai video
   - ai youtube
@@ -32,10 +32,6 @@ How do you know [what you should talk about in your vlog](https://tools.techidai
 
 Before starting your daily vlogging, you have to figure out one important thing ahead of time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do you have a niche?
 
   You should have a niche. In a genre as broad as vlogging it is important to have some kind of hook that sets you apart from other vloggers. This can be an interest that you have, an industry you work in, or even a field of study you’re involved in at school. If you’re into technology, for example, you’ll always have a wealth of subjects to vlog about because all you’ll have to do is look at the day’s tech news and make a video reporting and commenting on it.
@@ -49,25 +45,21 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
 
 By commenting on what you’re watching/reading you have a better chance of capitalizing on a trending topic people are searching for. You could also find yourself an audience by becoming involved in fan communities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Snapshots of Your Day
 
  Casey Neistat is the master of this. He is always ready with a camera on hand so that, when something interesting happens, he can capture it and build his daily vlog around it.
 
 Carrying a camera around like Casey may or may not suit your lifestyle, but you can still pick out one story from your day to tell. It doesn’t have to be a major event, and you shouldn’t worry that it won’t be interesting to other people. It’s your personality they’re tuning in for, so even if you’re just talking about a funny thing your cat did it will keep your audience interested because a) it’s you talking about it and b) it gives them a bit of insight into your life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Whatever You Need to Get Out
 
@@ -96,16 +88,24 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 Sea monkeys can survive in space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EVERYTHING
 
 You could also just flick the camera on and tell the full story of your day like you’d do in a traditional daily blog. What did you have for breakfast, how was school/work, did you talk to any friends, how was the weather – anything and everything. Generally, these videos can run a bit long and don’t have a lot of snappy editing. They’re faster to make, which is good if you’re doing them every day, but the unpolished nature of them won’t appeal to everyone. It will be exactly what appeals to some people, though.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Your Vlog Stories with Powerful Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **We’ve got a new eBook out!**
 
@@ -114,7 +114,7 @@ It’s got strategies that have worked for other YouTubers, boiled down to simpl
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -132,22 +132,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-cinematography-the-aspect-ratio-formula-for-2024/"><u>[New] Mastering Cinematography The Aspect Ratio Formula for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>[New] The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[New] Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-easy-steps-for-leveraging-speech-to-text-in-google-documents/"><u>[Updated] 2024 Approved Easy Steps for Leveraging Speech-to-Text in Google Documents</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>[Updated] Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>[Updated] In 2024, Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-edit-youtube-channel-description/"><u>2024 Approved How to Edit YouTube Channel Description</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantaneous-downloads-the-ultimate-toolkit-compilation/"><u>2024 Approved Instantaneous Downloads - The Ultimate Toolkit Compilation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-outstanding-films-not-on-mainstream-lists/"><u>2024 Approved Outstanding Films Not on Mainstream Lists</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-splitting-screen-techniques-for-engaging-youtube-content/"><u>2024 Approved Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>2024 Approved The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-editing-game-top-5-final-cut-pro-tips-and-tricks-for-2024/"><u>Elevate Your Video Editing Game Top 5 Final Cut Pro Tips and Tricks for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/encountered-moisture-in-iphone-cable-connection-discover-the-2-effective-solutions/"><u>Encountered Moisture in iPhone Cable Connection? Discover the 2 Effective Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-follow-the-flow-of-forum-fancies/"><u>In 2024, Follow the Flow of Forum Fancies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-leading-spots-for-advertising-on-youtube-videos/"><u>In 2024, Leading Spots for Advertising on YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/"><u>In 2024, Ultimate FreeFire Tag Collection Enhance Your YouTube Channels</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973420666-simple-and-fast-installation-of-realtek-asio-drivers-on-windows-10-get-started-today/"><u>Simple & Fast Installation of RealTek Asio Drivers on Windows 10 - Get Started Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-closer-conversations-mastering-in-camera-precision/"><u>[New] 2024 Approved Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-a-captivated-audience-in-3-steps/"><u>[New] 2024 Approved Crafting a Captivated Audience in 3 Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-7-best-adblock-apps-for-android/"><u>[New] 7 Best AdBlock Apps for Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-imovie-for-beginners-building-intriguing-openers-for-youtube/"><u>[New] IMovie for Beginners Building Intriguing Openers for YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-snappy-fortnite-visuals-in-no-time/"><u>[New] Snappy Fortnite Visuals in No Time</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>[New] Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlined-approach-upload-your-videos-from-youtube-to-dailymotion/"><u>2024 Approved Streamlined Approach Upload Your Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>2024 Approved The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-playlist-tweaking-on-youtube/"><u>In 2024, The Ultimate Playlist Tweaking on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-patch-applied-protection-restored/"><u>Local Security Patch Applied – Protection Restored</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/massive-subscriber-jump-for-a-sensible-5-investment-for-2024/"><u>Massive Subscriber Jump for a Sensible $5 Investment for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/persistent-system-lockups-whats-behind-your-pcs-constant-halts-insights-from-yl-software-professionals/"><u>Persistent System Lockups: What's Behind Your PC's Constant Halts - Insights From YL Software Professionals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-advertising-earning-navigating-vimeos-revenue-landscape-for-2024/"><u>The Art of Advertising Earning Navigating Vimeo's Revenue Landscape for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-shuts-down-abruptly-unplanned/"><u>Win11 Shuts Down Abruptly, Unplanned</u></a></li>
 </ul></div>
 

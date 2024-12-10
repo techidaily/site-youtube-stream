@@ -1,7 +1,7 @@
 ---
 title: Transform Your Browsing - A Guide to AgentGPT's AIs
-date: 2024-12-01T22:25:52.241Z
-updated: 2024-12-03T19:51:55.724Z
+date: 2024-12-05T16:04:22.221Z
+updated: 2024-12-10T16:04:18.970Z
 tags:
   - chatgpt
   - open-ai
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ## Avoid Downloading the Malicious Google Bard Program - It's a Risk
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -39,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  The scammers, who have no affiliation with Google, specifically used Facebook posts to spread their malware. For instance, the scammers imply their version of Bard is a paid app to download when Google Bard itself is free to use and doesn't require a download.
 
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
 
@@ -94,18 +94,22 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-auditory-interpretation-made-easy-priceless-access/"><u>[New] In 2024, Auditory Interpretation Made Easy, Priceless Access</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-speed-tutorial-changing-photos-into-engaging-youtube-thumbnails/"><u>[New] Speed Tutorial Changing Photos Into Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unlocking-creative-sound-discover-free-voice-alterations-for-2024/"><u>[New] Unlocking Creative Sound Discover Free Voice Alterations for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-6-video-transcription-services/"><u>[Updated] High-Quality 6 Video Transcription Services</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>2024 Approved Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>2024 Approved Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-elite-selection-of-compact-laptop-recharge-units/"><u>2024'S Elite Selection of Compact Laptop Recharge Units</u></a></li>
-<li><a href="https://games-able.techidaily.com/concealing-gaming-trails-silent-steam-play/"><u>Concealing Gaming Trails: Silent Steam Play</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro Phone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-the-most-out-of-creative-commons-licenses/"><u>In 2024, Making the Most Out of Creative Commons Licenses</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tdr-alert-glitchy-opengl-error-now-corrected/"><u>TDR Alert: Glitchy OpenGL Error Now Corrected</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/upside-down-up-in-popularity-the-instagram-way-for-2024/"><u>Upside Down, Up in Popularity The Instagram Way for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[New] Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-learn-to-save-youtube-playback-as-a-free-screencast/"><u>[Updated] Learn to Save YouTube Playback as a Free Screencast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>2024 Approved Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-balance-mastering-tripod-usage-in-video-blogging/"><u>2024 Approved The Art of Balance Mastering Tripod Usage in Video Blogging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>2024 Approved Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-techniques-5-audio-recording-tools-in-windows-11/"><u>Essential Techniques 5 Audio Recording Tools in Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/examining-the-income-stream-for-t-series-youtube-channel-for-2024/"><u>Examining the Income Stream for T-Series YouTube Channel for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-twitter-to-snaps-a-guide-to-cross-platform-posting/"><u>From Twitter to Snaps A Guide to Cross-Platform Posting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/giggles-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-embed-a-youtube-playlist-on-a-website/"><u>In 2024, How To Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-spark-10-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Spark 10 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-masterful-guide-to-professional-online-etiquette-on-youtube/"><u>In 2024, Masterful Guide to Professional Online Etiquette on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-youtubes-legal-framework-vs-cc/"><u>In 2024, Understanding YouTube's Legal Framework Vs. CC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-best-5-tools-for-youtube-video-url-shortening/"><u>In 2024, Unveiling the Best 5 Tools for YouTube Video URL Shortening</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-sign-ins-in-windows-11-shifting-from-pin-to-more-secure-authentication/"><u>Reimagining Sign-Ins in Windows 11: Shifting From PIN to More Secure Authentication</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-samsungs-app-ecosystem-on-your-tv-screen/"><u>The Ultimate Breakdown of Samsung's App Ecosystem on Your TV Screen</u></a></li>
 </ul></div>
 

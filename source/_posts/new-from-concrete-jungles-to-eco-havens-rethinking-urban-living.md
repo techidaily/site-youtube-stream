@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Concrete Jungles to Eco Havens  Rethinking Urban Living\""
-date: 2024-11-27T00:16:44.629Z
-updated: 2024-12-03T22:47:37.134Z
+date: 2024-12-05T16:08:36.156Z
+updated: 2024-12-10T16:06:30.355Z
 tags:
   - ai video
   - ai youtube
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why YouTube channel description is important
 
  If you have a YouTube channel and if you are not getting the number of views that you wish to have, there are possibly several problems. Maybe, your content is not enticing enough. Or maybe, it is because you do not have the right YouTube channel description. Generally speaking, the description of your channel will provide visitors of a snapshot of what the channel is all about. It appears in the about tab of your page. This is an elevator pitch, which will be an opportunity for you to show other people why they should watch your videos.
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
 
  This is actually a process that is pretty much straightforward, provided that you know how it can be done. Here are the simple steps that you should follow:
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on "About."
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
 
 * Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
@@ -110,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Bonus: Tips for YouTube Video Description
@@ -131,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -146,16 +146,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience/"><u>[New] How to Pick a Perfect Virtual Reality Device Evaluating Portability (Mobile) Versus Connected Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[New] In 2024, From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-most-engaging-history-youtube-creators-for-students/"><u>[New] In 2024, The Most Engaging History YouTube Creators for Students</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-reel-it-in-pro-level-techniques-for-youtube-video-editors/"><u>[New] Reel It In Pro-Level Techniques for YouTube Video Editors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-complete-windows-10-hacks-playbook/"><u>[Updated] In 2024, The Complete Windows 10 Hacks Playbook</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-indoor-adventures-select-escapade-venues-for-2024/"><u>[Updated] Ultimate Indoor Adventures Select Escapade Venues for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-with-these-top-10-instagram-reel-apps/"><u>[Updated] Unleash Creativity with These Top 10 Instagram Reel Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-toolkit-3d-video-entrances-ranked/"><u>2024 Approved The Essential Toolkit 3D Video Entrances Ranked</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube/"><u>In 2024, Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mitigating-the-risk-of-youtube-sanctions-for-2024/"><u>Mitigating the Risk of YouTube Sanctions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unlocking-visual-magic-diy-animation-and-fx-crafts/"><u>[New] 2024 Approved Unlocking Visual Magic DIY Animation and FX Crafts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-from-shopping-spree-to-stardom-editing-your-haul-video/"><u>[Updated] 2024 Approved From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-leading-no-ad-android-screen-recorder-hacks-for-2024/"><u>[Updated] Leading No-Ad Android Screen Recorder Hacks for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovating-sustainable-communities-within-the-concrete-jungle/"><u>2024 Approved Innovating Sustainable Communities Within the Concrete Jungle</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-quality-collectibles-premium-packages-unlinked-to-gaming-products/"><u>High-Quality Collectibles: Premium Packages Unlinked to Gaming Products</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-concurrent-frames-per-second-decrease-on-your-pc-gaming-rig/"><u>How to Fix Concurrent Frames Per Second Decrease on Your PC Gaming Rig</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-see-your-subscribers-on-youtube-for-2024/"><u>How to See Your Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-track-and-validate-channels-earnings/"><u>In 2024, Track and Validate Channels' Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/valorant-thumbnails-made-professionally-without-delay-for-2024/"><u>Valorant Thumbnails Made Professionally, Without Delay for 2024</u></a></li>
 </ul></div>
 

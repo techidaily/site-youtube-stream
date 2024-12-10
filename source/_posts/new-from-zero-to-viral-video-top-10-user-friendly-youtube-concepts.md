@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2024-11-27T19:45:01.489Z
-updated: 2024-12-03T20:48:49.355Z
+date: 2024-12-08T16:01:36.564Z
+updated: 2024-12-10T16:00:56.063Z
 tags:
   - ai video
   - ai youtube
@@ -53,10 +53,6 @@ Anything that happens during your day can become a topic for your YouTube vlog. 
 
 Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Express An Opinion
 
 Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
@@ -77,15 +73,15 @@ Are you a Tarantino fan? Why not? When you are struggling to find inspiration fo
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. What’s on Your Phone?
 
 There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
 
 Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Make a Slideshow
 
@@ -99,10 +95,6 @@ Education is our only hope for a better world so if you know how to do something
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. 10 Things About You
 
 Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
@@ -110,7 +102,7 @@ Being open is important, so why not share 10 things about yourself you think you
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Video Rant
@@ -121,6 +113,10 @@ Don't try to fake a rant, because they only work if they are natural. Scripting 
 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Start Editing Videos with Beginner-friendly Software
 
 If you start your YouTube channel but have no video editing experience, Wondershare Filmora will definitely help you get over the problems. Download Filmora now!
@@ -128,10 +124,14 @@ If you start your YouTube channel but have no video editing experience, Wondersh
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -148,24 +148,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-essential-image-editors-tips-for-text-in-pictures/"><u>[New] Essential Image Editors Tips for Text in Pictures</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>[New] From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unwinding-utopia-premier-idle-games/"><u>[Updated] In 2024, Unwinding Utopia Premier Idle Games</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-online-video-editors-for-youtube/"><u>2024 Approved Free Online Video Editors for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-audience-alteration-software-selection/"><u>2024 Approved Leading Audience Alteration Software Selection</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-fix-annoyance-free-deletion-of-youtube-comments/"><u>2024 Approved Quick Fix Annoyance-Free Deletion of Youtube Comments</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/examining-youtubes-noteworthy-chats-for-2024/"><u>Examining YouTube's Noteworthy Chats for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-selecting-superior-pc-components-from-toms-hardware-hub/"><u>Expert Advice on Selecting Superior PC Components From Tom's Hardware Hub</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/illuminating-success-brightening-up-your-youtube-videos-for-2024/"><u>Illuminating Success Brightening Up Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-high-revenue-streaming-star-across-the-globe/"><u>In 2024, High Revenue Streaming Star Across the Globe</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy F34 5G FRP</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creativity-in-youtube-production-an-intro-to-wmm/"><u>In 2024, Unlock Creativity in YouTube Production An Intro to WMM</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-views-with-these-top-rated-keyword-analysis-tools-for-2024/"><u>Maximize Views with These Top-Rated Keyword Analysis Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-level-gaming-premium-vr-players-reviewed-for-2024/"><u>Next-Level Gaming Premium VR Players Reviewed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173579642-nintendos-past-present-in-your-palm/"><u>Nintendo's Past, Present in Your Palm</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/under-1000-expert-picks-for-ultimate-laptop-value-and-performance-of-2024-pcmag/"><u>Under $1,000: Expert Picks for Ultimate Laptop Value and Performance of 2024 | PCMag</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/your-next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored/"><u>Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ai-7/"><u>고급 AI 비디오 업스케일링 기술: 7가지 탁월한 소프트웨어 선보기</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-migrating-twitch-videos-to-youtube/"><u>[New] In 2024, Expert Tips Migrating Twitch Videos to YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>[Updated] In 2024, Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-to-tune-video-to-audible-file/"><u>[Updated] Tweet-to-Tune Video to Audible File</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>2024 Approved Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-in-your-channel-through-studio/"><u>2024 Approved Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-launching-your-sports-network-from-a-mac-desktop/"><u>In 2024, Launching Your Sports Network From a Mac Desktop</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-thumbnail-mastery-for-youtube-channel-graphics/"><u>In 2024, Thumbnail Mastery for YouTube Channel Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-play-experience-fix-lag-issues-in-forza-horizon-5-now/"><u>Optimizing Play Experience: Fix Lag Issues in Forza Horizon 5 Now!</u></a></li>
 </ul></div>
 

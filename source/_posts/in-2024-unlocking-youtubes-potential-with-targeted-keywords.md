@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking YouTube's Potential with Targeted Keywords"
-date: 2024-12-02T19:37:11.958Z
-updated: 2024-12-04T00:43:12.445Z
+date: 2024-12-09T16:01:15.725Z
+updated: 2024-12-10T16:00:47.272Z
 tags:
   - ai video
   - ai youtube
@@ -74,10 +74,6 @@ You can start your research by typing the keywords into YouTube's search bar and
 
 ![use google keyword planner for yuotube keyword research](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This tool is helpful for keyword difficulty and monthly searches volume assessment. If you only want to know the number of organic visits a given keyword gets, Google Keyword Planner might be helpful. The tool allows you to create lists consisting of related keywords and provides information about CPC (cost per click) and potential traffic in general.
 
 #### 3\. Using YouTube Suggestions
@@ -88,10 +84,6 @@ What makes YouTube unique is its ability to suggest content based on your locati
 
 ![ Using YouTube Analytic for yuotube keyword research](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 YouTube has a built-in Keyword Tool that is extremely helpful for researching the best keywords to use in your video titles, descriptions, and tags. This method allows you to see video search keywords with which users are finding your content. It is possible to review top organic keywords together with the respective engagement metrics, including bounce rate and average view duration.
 
 #### 5\. Using Third-Party YouTube Keyword Tools
@@ -101,6 +93,10 @@ Last but not least, there are several third-party tools available on the market 
 ##### vidIQ
 
 ![ VidIQ youtube keyword research tool](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Designed to boost YouTube views, vidIQ is an effective SEO tool. The tool recommends keywords, descriptions, and titles that will help you to get more views and subscribers.
 
@@ -124,10 +120,6 @@ Qusetion: Are keywords and Tags the Same Thing?
 
 Answer: The main difference between tags and keywords is where you will place them. Keywords describe the content in your video to help search engines and YouTube's algorithm find your video. Tags describe what the content in your video is about and how it's connected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Great YouTube Videos with Filmora
 
 Having high-quality videos can make you stand out from your competitors. Filmora is a video editing software that allows you to create amazing YouTube videos. It has powerful editing tools that will enhance the quality of your videos.
@@ -137,6 +129,10 @@ You can also add over 800 cool effects and filters to your videos to make them f
 Additionally, you can adjust the dynamic range and white balance of Your YouTube videos. Furthermore, you can fine-tune the audio of your video to make it crisp and eliminate camera shake.
 
 The best part is: Filmora is compatible with macOS X 10.12 or later and Windows 7, 8, and 10\. It also supports all popular standard HD videos, audio, and image file formats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -184,10 +180,6 @@ There are several ways of conducting keyword research for YouTube to find out wh
 
 ![youtube keyword search](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Although this method doesn't provide all available search options, it's still good for getting an idea of the type of keyword with which you're dealing.
 
 You can start your research by typing the keywords into YouTube's search bar and reviewing the displayed results. It might be helpful to check out similar videos or video playlists. If your search seems too wide, you can enter several keywords at once (separated by commas), which will help you find better results.
@@ -231,10 +223,6 @@ You can also use TubeBuddy to find and evaluate a range of YouTube keywords. You
 ##### Keyword Keg
 
 ![Keyword Keg youtube keyword research tool](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Using the YouTube suggest API, Keyword Keg shows you the terms users search most and the monthly number of searches. You'll also see what other people are paying for CPC (cost per click). You can use this data to determine the best keywords for your YouTube videos.
 
@@ -396,10 +384,6 @@ Video marketing is expensive, and that is why you have to find every possible ed
 
 Because keyword research allows your target audience to find you, this means more opportunities for you. Most of the users will share entertaining videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Research Keywords on YouTube?
 
 There are several ways of conducting keyword research for YouTube to find out what people are searching for and determine the content in your video. They include:
@@ -415,6 +399,10 @@ You can start your research by typing the keywords into YouTube's search bar and
 #### 2\. Using Google's Keyword Planner Tool
 
 ![use google keyword planner for yuotube keyword research](https://images.wondershare.com/filmora/article-images/2021/youtube-keyword-research-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This tool is helpful for keyword difficulty and monthly searches volume assessment. If you only want to know the number of organic visits a given keyword gets, Google Keyword Planner might be helpful. The tool allows you to create lists consisting of related keywords and provides information about CPC (cost per click) and potential traffic in general.
 
@@ -513,6 +501,10 @@ Here are some things to do before you start writing your script for YouTube:
 
 Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Find an area that is not distracting
 
 Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
@@ -524,6 +516,10 @@ Now that you're ready to sit down and write, here's what you do:
 ### 1\. Create an outline for your story
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Set the tone
 
@@ -555,98 +551,9 @@ While you are scripting and focusing on the information you want to deliver, it�
 
 Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
-## After Writing your YouTube Video Script
-
-After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
-
-These are the tips to keep in mind when considering how to write a script for a YouTube video.
-
-## Add Subtitles to Your YouTube Video with Wondershare Filmora
-
-Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Thinking about how to write a script for a YouTube video?
-
-You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
-
-1. [Before Write Your YouTube Script](#before)
-2. [Writing a Script for a YouTube Video](#writing)
-3. [After Writing Your YouTube Video Script](#after)
-4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Before You Write Your YouTube Script
-
-Here are some things to do before you start writing your script for YouTube:
-
-### 1\. Collect Ideas
-
-Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
-
-### 2\. Find an area that is not distracting
-
-Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
-
-## Writing a Script for a YouTube Video
-
-Now that you're ready to sit down and write, here's what you do:
-
-### 1\. Create an outline for your story
-
-The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
-
-### 2\. Set the tone
-
-The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
-
-### 3\. Just keep writing
-
-When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
-
-### 4\. Make sure that the script is well structured
-
-It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
-
-For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
-
-Note:
-
-* **Keep It Concise**
-
-In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
-
-Tell people up front what point you are trying to make before you jump into making it.
-
-* **Be Interactive**
-
-Talk to people, not at them.
-
-While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
-
-Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
 ## After Writing your YouTube Video Script
 
@@ -659,10 +566,6 @@ These are the tips to keep in mind when considering how to write a script for a 
 Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -695,6 +598,10 @@ Here are some things to do before you start writing your script for YouTube:
 
 Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Find an area that is not distracting
 
 Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
@@ -706,10 +613,6 @@ Now that you're ready to sit down and write, here's what you do:
 ### 1\. Create an outline for your story
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set the tone
 
@@ -826,6 +729,10 @@ While you are scripting and focusing on the information you want to deliver, it�
 
 Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## After Writing your YouTube Video Script
 
 After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
@@ -837,6 +744,99 @@ These are the tips to keep in mind when considering how to write a script for a 
 Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Thinking about how to write a script for a YouTube video?
+
+You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
+
+1. [Before Write Your YouTube Script](#before)
+2. [Writing a Script for a YouTube Video](#writing)
+3. [After Writing Your YouTube Video Script](#after)
+4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
+
+## Before You Write Your YouTube Script
+
+Here are some things to do before you start writing your script for YouTube:
+
+### 1\. Collect Ideas
+
+Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
+
+### 2\. Find an area that is not distracting
+
+Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
+
+## Writing a Script for a YouTube Video
+
+Now that you're ready to sit down and write, here's what you do:
+
+### 1\. Create an outline for your story
+
+The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
+
+### 2\. Set the tone
+
+The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 3\. Just keep writing
+
+When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
+
+### 4\. Make sure that the script is well structured
+
+It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
+
+For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
+
+Note:
+
+* **Keep It Concise**
+
+In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
+
+Tell people up front what point you are trying to make before you jump into making it.
+
+* **Be Interactive**
+
+Talk to people, not at them.
+
+While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
+
+Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
+
+## After Writing your YouTube Video Script
+
+After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
+
+These are the tips to keep in mind when considering how to write a script for a YouTube video.
+
+## Add Subtitles to Your YouTube Video with Wondershare Filmora
+
+Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -861,22 +861,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-boost-productivity-premier-tools-for-unfollowing-tweets/"><u>[New] 2024 Approved Boost Productivity Premier Tools for Unfollowing Tweets</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-infusing-homes-with-suns-invisible-light/"><u>[New] 2024 Approved Infusing Homes with Sun's Invisible Light</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[New] How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>[New] Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-simplified-methods-to-validate-your-youtube-status/"><u>[New] Simplified Methods to Validate Your YouTube Status</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-virtual-racing-for-cyclists/"><u>[Updated] 2024 Approved Best Virtual Racing for Cyclists</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-8-techniques-for-high-quality-pc-audio-documentation-for-2024/"><u>[Updated] 8 Techniques for High-Quality PC Audio Documentation for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/explore-our-picks-best-free-movie-downloads-in-one-handy-list/"><u>Explore Our Picks: Best Free Movie Downloads in One Handy List</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-online-services-for-youtube-subtitles-download-for-2024/"><u>Free Online Services for YouTube Subtitles Download for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-transform-brainstorms-into-youtube-channel-names-for-2024/"><u>How To Transform Brainstorms Into YouTube Channel Names for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-insight-into-t-series-profit-from-youtube-platforms/"><u>In 2024, Insight Into T-Series Profit From YouTube Platforms</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>In 2024, Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-premium-8-editors-compatible-with-linux/"><u>In 2024, Premium 8 Editors Compatible with Linux</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>In 2024, The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-mouse-responsiveness-problems-on-your-personal-computer/"><u>Resolving Mouse Responsiveness Problems on Your Personal Computer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-video-content-strategies-on-youtube/"><u>Unveiling Video Content Strategies on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlocking-professional-filming-on-windows-macos-ios/"><u>[New] 2024 Approved Unlocking Professional Filming on Windows, macOS, iOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-dji-phantom-4-analysis-and-review/"><u>[New] Complete DJI Phantom 4 Analysis and Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-syncing-twitter-vids-with-instagrams-social-sharing/"><u>[Updated] 2024 Approved Syncing Twitter Vids with Instagram's Social Sharing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-thumbnails-guide-what-size-yields-success/"><u>[Updated] 2024 Approved The Ultimate Thumbnails Guide What Size Yields Success?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-satirize-a-guide-to-parody-production/"><u>2024 Approved How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>2024 Approved Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quiet-quests-for-cinematic-joy-top-free-films-on-youtube/"><u>2024 Approved Quiet Quests for Cinematic Joy Top Free Films on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-triple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>2024 Approved Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-hidden-secrets-for-advanced-win10-users/"><u>2024 Approved Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/6-free-software-to-convert-youtube-to-mp3-for-iphone-for-2024/"><u>6 Free Software to Convert YouTube to MP3 for iPhone for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prolonged-youtube-visibility-through-continuous-cc-membership/"><u>In 2024, Prolonged YouTube Visibility Through Continuous CC Membership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>In 2024, Stay in the Limelight How to Keep YouTube CC and Boost Views</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>New How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-thc-absorption-in-human-tissue/"><u>The Science Behind THC Absorption in Human Tissue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-30-camcorders-personalized-front-display/"><u>Top 30 Camcorders Personalized Front Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-written-communication-with-ai-companions/"><u>Transform Written Communication with AI Companions</u></a></li>
 </ul></div>
 

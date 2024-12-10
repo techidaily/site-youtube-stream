@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix the Issue When Stardew Valley Fails to Start"
-date: 2024-11-28T20:51:44.615Z
-updated: 2024-12-03T16:38:51.296Z
+date: 2024-12-07T16:06:40.969Z
+updated: 2024-12-10T16:03:57.323Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/HaloInfinite_Multiplayer-1200x675.jpg)
 
  Halo Infinite multiplayer beta is now available. However, many players are reporting that they cannot launch the game and get a black screen with a little circle in the bottom left corner. Then the game crashes after a few seconds. If you’re facing the same issue, don’t worry. Here are some quick fixes for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -55,10 +51,6 @@ Recommended
 4. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -105,11 +97,19 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
  If your system is up to date and you still get a black screen, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Allow the game through Windows Firewall
 
@@ -119,15 +119,11 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
@@ -140,7 +136,7 @@ If the issue persists, take a look at the next fix.
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
@@ -152,7 +148,7 @@ If the issue persists, take a look at the next fix.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
@@ -167,6 +163,10 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
@@ -174,7 +174,7 @@ If the issue persists, take a look at the next fix.
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
@@ -187,7 +187,7 @@ If the issue persists, take a look at the next fix.
 3. Follow the on-screen instructions to uninstall the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
@@ -216,22 +216,22 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[New] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue/"><u>[New] Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>[New] List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-hdmi-laptop-to-tv-not-working/"><u>[Solved] HDMI Laptop to TV Not Working</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-income-via-youtube-channel/"><u>2024 Approved Mastering Income via YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailored-guide-to-youtube-trailer-production-with-filmora/"><u>2024 Approved Tailored Guide to YouTube Trailer Production with Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-video-cutting-and-compiling-in-studio/"><u>2024 Approved The Art of Video Cutting and Compiling in Studio</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/discover-the-best-4k-capture-software-for-live-recording/"><u>Discover the Best 4K Capture Software for Live Recording</u></a></li>
-<li><a href="https://article-helps.techidaily.com/erase-unwanted-focus-affinity-photo-for-2024/"><u>Erase Unwanted Focus - Affinity Photo for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/exploring-youtubes-ownership-vs-cc-freedom-for-2024/"><u>Exploring YouTube's Ownership Vs. CC Freedom for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-influencing-audiences-with-short-form-videos/"><u>In 2024, Influencing Audiences with Short-Form Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-snipperpro-suite/"><u>In 2024, SnipperPro Suite</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-textual-terminals/"><u>In 2024, Tailoring Textual Terminals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-icloud-mailboxes-with-two-step-verification-best-practices-and-tips/"><u>Secure iCloud Mailboxes with Two-Step Verification - Best Practices and Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-diagnosing-and-fixing-a-malfunctioning-razer-kraken-gaming-mic/"><u>Solution Steps: Diagnosing and Fixing a Malfunctioning Razer Kraken Gaming Mic</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/icks-for-zero-cost-film-and-photography-resources/"><u>Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[New] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-prime-locations-to-find-rich-text-enhancements/"><u>[Updated] 2024 Approved Prime Locations to Find Rich Text Enhancements</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728475089195-2022/"><u>2022最新版頂級硬碟修復魔術師：完美重建磁區</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>2024 Approved Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-get-started-with-youtube-video-ad-building-without-spending/"><u>2024 Approved Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>2024 Approved Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>2024 Approved Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-installation-tips-for-dell-docking-stations-a-complete-walkthrough/"><u>Easy Driver Installation Tips for DELL Docking Stations – A Complete Walkthrough</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-upside-down-world-of-instagram-videos/"><u>Exploring the Upside-Down World of Instagram Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-like-a-pro-gopro-video-editing-on-mac-for-beginners/"><u>In 2024, Edit Like a Pro GoPro Video Editing on Mac for Beginners</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-sources-for-dj-template-video-downloads/"><u>In 2024, Perfect Sources for DJ Template Video Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>In 2024, Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>In 2024, The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uncover-the-leaders-1-6-in-global-short-video-clips/"><u>In 2024, Uncover the Leaders #1-#6 in Global Short Video Clips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-wirecast-technology-for-dynamic-youtube-live-experiences-for-2024/"><u>Leveraging WireCast Technology for Dynamic Youtube Live Experiences for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-guide-to-exciting-and-fun-mac-gaming-experiences/"><u>The Ultimate Guide to Exciting and Fun Mac Gaming Experiences</u></a></li>
 </ul></div>
 

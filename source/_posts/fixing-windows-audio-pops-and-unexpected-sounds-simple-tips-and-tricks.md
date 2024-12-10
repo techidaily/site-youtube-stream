@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Audio Pops & Unexpected Sounds - Simple Tips & Tricks
-date: 2024-11-29T19:12:45.198Z
-updated: 2024-12-04T00:43:35.305Z
+date: 2024-12-08T16:06:37.780Z
+updated: 2024-12-10T16:03:35.956Z
 tags:
   - win11
   - win10
@@ -36,11 +36,7 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3, check the volume settings
@@ -51,6 +47,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
@@ -63,6 +63,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -71,10 +75,14 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
@@ -82,7 +90,7 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![show disabled device](https://images.drivereasy.com/wp-content/uploads/2016/08/show-disabled-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After it is listed, right-click on the speakers and click**Enable** .
@@ -103,16 +111,12 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -124,10 +128,6 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -151,22 +151,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-dissecting-the-moto-z2-a-smart-device-review/"><u>[New] In 2024, Dissecting the Moto Z2 A Smart Device Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamlessly-blend-apple-music-and-videos/"><u>[New] Seamlessly Blend Apple Music & Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-streamline-and-shine-the-top-5-video-quality-tools/"><u>[New] Streamline & Shine The Top 5 Video Quality Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-deep-dive-android-edition-of-adobe-lightroom-review/"><u>[Updated] 2024 Approved Deep Dive Android Edition of Adobe Lightroom Review</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-live-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>2024 Approved Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-hidden-dynamics-of-live-video-images-on-youtube/"><u>2024 Approved The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>2024 Approved Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 7 Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-astronomy-photographers-website-selection/"><u>In 2024, Astronomy Photographers' Website Selection</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>In 2024, From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-invigorating-cold-season-selecting-warm-video-themes/"><u>In 2024, Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-cover-art-crafting-for-fighting-games/"><u>In 2024, Quick Cover Art Crafting for Fighting Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>In 2024, Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-seamless-transitions-in-vlogs-with-jump-cuts-magic/"><u>In 2024, Seamless Transitions in Vlogs with Jump Cuts Magic</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unleashing-potential-growth-in-youtube-traffic/"><u>In 2024, Unleashing Potential Growth in YouTube Traffic</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/legitimate-strategies-to-amass-over-a-million-youtube-views-for-2024/"><u>Legitimate Strategies to Amass Over a Million YouTube Views for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unveiling-instagrams-background-replace-technique/"><u>Unveiling Instagram’s Background Replace Technique</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-vids-effortless-mp4-extraction-at-your-fingertips/"><u>[New] FB Vids Effortless MP4 Extraction at Your Fingertips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-instagrams-top-spot-in-minutes/"><u>[Updated] In 2024, Unlocking Instagram's Top Spot in Minutes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-latest-series-captivating-qanda-for-podcast-audience/"><u>[Updated] Latest Series Captivating Q&A for Podcast Audience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-recording-battle-obs-studio-against-fraps/"><u>[Updated] Real-Time Recording Battle OBS Studio Against Fraps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction/"><u>2024 Approved Get More Eyeballs Perfect Your YouTube Description Templates for Viewer Attraction</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>2024 Approved Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-micro-musings-video-characters-and-sounds/"><u>2024 Approved Micro Musings Video Characters & Sounds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-canoscan-lide-120-scanner-drivers-newest-version-available-now/"><u>Find & Install CanoScan Lide-120 Scanner Drivers: Newest Version Available Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nubia-z50-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nubia Z50 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a25-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A25 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-v29e-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo V29e to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-investigating-how-t-series-earns-from-youtube-viewership/"><u>In 2024, Investigating How T-Series Earns From YouTube Viewership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>In 2024, Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-youtube-revenue-models-today/"><u>In 2024, Understanding YouTube Revenue Models Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
 
