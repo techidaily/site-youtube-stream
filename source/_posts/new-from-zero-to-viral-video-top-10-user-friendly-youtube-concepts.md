@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2024-12-08T16:01:36.564Z
-updated: 2024-12-10T16:00:56.063Z
+date: 2024-12-12T16:47:48.096Z
+updated: 2024-12-16T18:32:12.808Z
 tags:
   - ai video
   - ai youtube
@@ -41,6 +41,10 @@ They say that less is more, so let's have a look at how you can apply this princ
 9. [10 Things About You](#nine)
 10. [Video Rant](#ten)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Introduce Yourself
 
 Let the world know who you are and what you do. If you are planning on starting a YouTube channel, or if you’ve already been posting videos on a topic but haven’t formally introduced yourself, it’s a great idea to put some thought into an introduction video. Producing such a YouTube video will enable you to introduce yourself to your future subscribers and give them an idea as to what your channel is all about.
@@ -73,10 +77,6 @@ Are you a Tarantino fan? Why not? When you are struggling to find inspiration fo
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. What’s on Your Phone?
 
 There were over two billion smartphone users worldwide in 2017, and this number is only going to continue rising in the next couple of years. Furthermore, thousands of YouTubers are already producing unimaginable amounts of videos about the latest apps or smartphone devices.
@@ -89,11 +89,19 @@ There's no need to constantly produce new videos because you can just take some 
 
 If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make a Tutorial
 
 Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. 10 Things About You
 
@@ -102,7 +110,7 @@ Being open is important, so why not share 10 things about yourself you think you
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Video Rant
@@ -114,7 +122,7 @@ Don't try to fake a rant, because they only work if they are natural. Scripting 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Editing Videos with Beginner-friendly Software
@@ -123,15 +131,7 @@ If you start your YouTube channel but have no video editing experience, Wondersh
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -148,14 +148,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-migrating-twitch-videos-to-youtube/"><u>[New] In 2024, Expert Tips Migrating Twitch Videos to YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>[Updated] In 2024, Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweet-to-tune-video-to-audible-file/"><u>[Updated] Tweet-to-Tune Video to Audible File</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>2024 Approved Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-potential-in-your-channel-through-studio/"><u>2024 Approved Unleashing Potential in Your Channel Through Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/embedding-echoes-adding-audio-to-your-powerpoint-slides/"><u>Embedding Echoes Adding Audio to Your PowerPoint Slides</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-launching-your-sports-network-from-a-mac-desktop/"><u>In 2024, Launching Your Sports Network From a Mac Desktop</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-thumbnail-mastery-for-youtube-channel-graphics/"><u>In 2024, Thumbnail Mastery for YouTube Channel Graphics</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-play-experience-fix-lag-issues-in-forza-horizon-5-now/"><u>Optimizing Play Experience: Fix Lag Issues in Forza Horizon 5 Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-insider-look-at-youtube-revenue-policies/"><u>2024 Approved Insider Look at YouTube Revenue Policies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-10-no-cost-software-for-professional-capture-at-home/"><u>2024 Approved Top 10 No-Cost Software for Professional Capture at Home</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/boost-conversion-with-advanced-cookiebot-personalization-techniques/"><u>Boost Conversion with Advanced Cookiebot Personalization Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-tips-for-capturing-evening-portraits-for-2024/"><u>Essential Tips for Capturing Evening Portraits for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-8-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-could-you-make-on-youtube-snippets/"><u>In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/integrating-annotations-for-enhanced-engagement-for-2024/"><u>Integrating Annotations for Enhanced Engagement for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-your-device-choose-from-the-7-best-android-adblockers-for-2024/"><u>Maximize Your Device Choose From the 7 Best Android AdBlockers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/modelfarm-slashes-product-faults-by-half-using-unreal-engine-and-intel-cpus-upgrading-to-amd-ryzen-9-for-enhanced-solo-core-efficiency/"><u>ModelFarm Slashes Product Faults by Half Using Unreal Engine and Intel CPUs - Upgrading to AMD Ryzen 9 for Enhanced Solo Core Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160552147-unbeatable-summer-deals-on-your-ps-games/"><u>Unbeatable Summer Deals on Your PS Games!</u></a></li>
 </ul></div>
 

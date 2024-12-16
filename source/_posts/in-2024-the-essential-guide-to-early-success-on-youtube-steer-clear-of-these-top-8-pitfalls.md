@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Guide to Early Success on YouTube  Steer Clear of These Top 8 Pitfalls\""
-date: 2024-12-05T16:02:38.441Z
-updated: 2024-12-10T16:04:05.941Z
+date: 2024-12-15T17:03:58.076Z
+updated: 2024-12-16T18:55:41.876Z
 tags:
   - ai video
   - ai youtube
@@ -30,6 +30,10 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  
 
 ### 1\. Failing to have a long-term vision
@@ -67,7 +71,7 @@ New YouTubers often make the mistake of having weak intros. Starting at the begi
 To read more on how some of the most successful YouTubers effectively do their intros, check out my blogpost on “[How To Edit YouTube Videos Like a YouTuber](https://tools.techidaily.com/wondershare/filmora/download/).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Forgetting to engage with subscribers
@@ -75,21 +79,17 @@ To read more on how some of the most successful YouTubers effectively do their i
 An important thing to do as a new YouTuber is engaging with your subscribers. Some new YouTubers, though, are so focused and busy with the production side of things that they forget to do the community side of things, including responding to comments. By not responding to comments as a new YouTuber, you hurt your potential to get more comments consistently from your subscribers. If your video’s comments section is very active, YouTube ranks your video higher in the videos it recommends to viewers.
 
 Connecting with your audience shouldn’t just be limited to YouTube either. Use your other social media channels to connect with your audience as well.
+
+### 7\. Not promoting with social media
+
+YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
+
+New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-### 7\. Not promoting with social media
-
-YouTube isn’t the only social media platform that people are spending their time on. People are spending their time on all kinds of different social media platforms, like Twitter, Facebook, and Instagram. The more content in all of these platforms that you create to promote your video, the more potential your video has to be seen by their users.
-
-New YouTubers sometimes forget to promote their videos and channel using other social media platforms. Consequently, they miss out on the opportunity to get views from multiple sources of social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Spamming comments
 
 Commenting on other YouTube videos is another way to get your channel discovered from people reading over comments. If your profile picture and comment appears interesting enough, out of curiosity, people just might click your username to have a look at your channel.
@@ -99,6 +99,10 @@ But rather than leaving interesting comments that are related to the video, rath
 Spam comments annoy YouTubers. It would be much more beneficial to your channel to build good relationships with other YouTubers to possibly collaborate on a video together in the future.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -116,15 +120,7 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Failing to have a long-term vision
 
@@ -199,7 +195,7 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  
@@ -210,15 +206,15 @@ One common mistake that a lot of new YouTubers make is failing to have a long-te
 
 If you can think of the kind of content you’ll love to consistently create and share in the long-run, you’ll not only be able to narrow down your brand and effectively communicate to your audience who you are and what your channel is all about, but you’ll also have a better idea on what to put out next.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Choosing an ineffective custom URL
 
 Another mistake I made with my first YouTube channel was choosing an ineffective custom URL. Because my last name is Kim, I wanted to make my custom URL “YouTube.com/kimagination.” But it wasn’t available. So, I took “kimaginati0n” with a zero where the “o” should be. I thought it was a good idea back then but it was a terrible idea.
 
 Choose a custom URL with words that can’t be confused with other similar-sounding words. For consistency across all your different social media accounts, try to choose a custom URL that matches the usernames of all your other social media channels. If the username you want isn’t available, then keep on trying to come up with a good name that is available. When you’ve secured the same username across all your different social media channels, you can then very simply promote yourself and all your social media channels by displaying just the social media icons followed by your one username.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Coming up with titles that won't get searched
 
@@ -264,6 +260,10 @@ Spam comments annoy YouTubers. It would be much more beneficial to your channel 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -281,10 +281,6 @@ In the ten years that I’ve been a YouTuber, I’ve made a lot of mistakes. I l
 ![Mistakes To Avoid As a New YouTuber](https://images.wondershare.com/filmora/mistakes-to-avoid-as-a-new-youtuber.jpg)
 
 ###  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Failing to have a long-term vision
 
@@ -460,6 +456,10 @@ Be it a vlog or blog, please ensure that it’s original and not a copy from oth
 
 And to up your content game, you can even use the calculator to determine the value of your content and estimated revenue from AdSense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2) Keywords
 
 Keywords are phrases and words that describe your service or product. The ones you choose will help show your ads to users.
@@ -567,10 +567,6 @@ Also, if RPM is $4.00 from 45,000 ad impressions, your estimated earnings would 
 
 ($4.00 \* 45,000) / 1000 = $180.00
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AdSense Pay Per View
 
 Lastly, if you’re looking for an exact answer regarding how much it pays per view, know that it varies and is based on different factors, such as niche or audience demographic.
@@ -586,10 +582,6 @@ After understanding AdSense’s way to pay for 1,000 views, formula, or pay per 
 On Average, you can expect AdSense to pay something around $0.20 to $15 on a click. Talking about estimated earnings or one click, it depends on the cost-per-click in the niche, including the publisher's earnings and competition among rival advertisers.
 
 And if you’re wondering, cost-per-click is when a user clicks on your ad, and you earn money for it. However, advertisers always decide the cost-per-click for ads. In this case, some advertisers don’t hesitate to pay extra, depending on what they intend to advertise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: AdSense Earnings Per Thousand Pageviews Examples
 
@@ -650,6 +642,10 @@ More so, if a video performs better slightly, it’ll start to reach its full po
 
 And if your video starts to perform better and faster in those 3-6 months, it’ll likely do better in the longer run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5) Video Duration
 
 Focus on the length of your video, as it determines how many ads can be shown in it. This part also influences your earning potential. When your video is longer in length, it’ll increase its worth.
@@ -691,6 +687,10 @@ Before you try earning money via AdSense, consider the following pros and cons.
 * You need a lot of traffic to make some serious money.
 * Adding several ads can annoy your viewers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Monetizing your YouTube channel for AdSense is great for having a steady passive income. But, it’s a time-consuming process and has a set of advantages and disadvantages.
@@ -716,20 +716,22 @@ If you already have a YouTube channel and a certain number of views, you can tak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>[New] Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-much-does-youtube-pay-for-1-million-views/"><u>[New] How Much Does YouTube Pay for 1 Million Views?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-blueprint-for-successful-collaborative-video-production-on-youtube/"><u>[New] In 2024, The Blueprint for Successful Collaborative Video Production on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sprint-towards-subscriber-goal-reach-1000/"><u>[New] Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[Updated] 2024 Approved Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>[Updated] From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hasty-habits-presentation-file-recording/"><u>2024 Approved Hasty Habits Presentation File Recording</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovative-brainstroming-techniques-for-channels-names/"><u>2024 Approved Innovative Brainstroming Techniques for Channels' Names</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-establishing-a-signature-persona-on-youtube/"><u>2024 Approved Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlit-splendor-hues-and-highlights-technique/"><u>2024 Approved Streamlit Splendor Hues and Highlights Technique</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/effective-techniques-for-screen-display-on-google-meet/"><u>Effective Techniques for Screen Display on Google Meet</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/gutmann-wipe-method-safe-and-secure-disk-erasure-techniques/"><u>Gutmann Wipe Method: Safe and Secure Disk Erasure Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-get-paid-to-review-products-on-youtube/"><u>In 2024, How to Get Paid to Review Products on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-zooms-background-blurring-magic/"><u>In 2024, Mastering Zoom's Background-Blurring Magic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mobility-boosted-video-stability-device/"><u>Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-5-best-photo-video-maker-with-music/"><u>[New] 2024 Approved 5 Best Photo Video Maker With Music</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seeking-access-to-all-mutually-shared-media-in-chats/"><u>[New] 2024 Approved Seeking Access to All Mutually-Shared Media in Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-groundbreaking-alternatives-to-the-conventional-fbx-recorder-games/"><u>[New] In 2024, Groundbreaking Alternatives to the Conventional FBX Recorder Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-kinemasters-expert-strategies-for-video-transitions/"><u>[New] Kinemaster's Expert Strategies for Video Transitions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status/"><u>[New] Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-revenue-riches-masterful-methods-for-monetizing-on-mobile-youtube/"><u>[New] Revenue Riches Masterful Methods for Monetizing on Mobile YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-hide-and-seek-top-5-for-secret-story-lovers/"><u>[Updated] In 2024, Hide & Seek Top 5 For Secret Story Lovers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unbeatable-freebie-subtitle-services-our-top-picks/"><u>[Updated] In 2024, Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>2024 Approved Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mind-matters-top-educational-youtube-picks/"><u>2024 Approved Mind Matters Top Educational YouTube Picks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-synchronized-screenscape-tv-loops-of-online-media/"><u>2024 Approved Synchronized Screenscape TV Loops of Online Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transition-tactics-setting-up-personalbusiness-youtube-channels-on-smartphones/"><u>2024 Approved Transition Tactics Setting Up Personal/Business YouTube Channels on Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-typewriter-key-malfunctions-in-computers/"><u>Expert Tips for Resolving Typewriter Key Malfunctions in Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-zte-axon-40-lite-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From ZTE Axon 40 Lite To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-online-video-hubs-picking-between-vimeo-youtube-and-dailymotion/"><u>In 2024, Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-simple-way-to-control-comment-functionality-in-youtube/"><u>In 2024, The Simple Way to Control Comment Functionality in YouTube</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unveiling-the-commanders-behind-the-boxer-uprising-with-expertise-from-yl-software-solutions/"><u>Unveiling the Commanders Behind the Boxer Uprising with Expertise From YL Software Solutions</u></a></li>
 </ul></div>
 

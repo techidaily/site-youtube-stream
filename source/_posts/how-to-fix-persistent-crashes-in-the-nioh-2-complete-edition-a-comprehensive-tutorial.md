@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2024-12-04T16:02:16.961Z
-updated: 2024-12-10T16:04:11.248Z
+date: 2024-12-10T16:46:54.866Z
+updated: 2024-12-16T18:08:36.575Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -37,18 +41,18 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
@@ -56,7 +60,7 @@ Here are the steps:
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -87,6 +91,10 @@ There are mainly two ways you can update the graphics driver:
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -103,10 +111,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -115,15 +119,11 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
@@ -132,6 +132,10 @@ There are mainly two ways you can update the graphics driver:
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -145,10 +149,6 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -175,24 +175,16 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>[New] GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-hand-held-balance-for-sharp-images/"><u>[New] Hand-Held Balance for Sharp Images</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] How to Fix the Green Screen on YouTube on Mac?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-starter-kit-the-essential-youtube-setup/"><u>[New] Starter Kit The Essential YouTube Setup</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-reel-effect-creating-compelling-loops-on-ig/"><u>[New] The Reel Effect Creating Compelling Loops on IG</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[Updated] 2024 Approved Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-essential-sandbox-experiences-for-gamers/"><u>[Updated] Essential Sandbox Experiences for Gamers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>2024 Approved Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flawless-online-invitation-crafting-youtube-subscription-buttons/"><u>2024 Approved Flawless Online Invitation Crafting YouTube Subscription Buttons</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-methods-to-validate-youtube-login/"><u>2024 Approved Methods to Validate YouTube Login</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/effortless-google-photo-mosaics-your-accelerated-guide-for-2024/"><u>Effortless Google Photo Mosaics - Your Accelerated Guide for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-create-cartoon-characters-from-your-photos/"><u>In 2024, Create Cartoon Characters From Your Photos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-8-endorsed-methods-for-video-marketing-success/"><u>In 2024, Top 8 Endorsed Methods for Video Marketing Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>In 2024, Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209824209-9781683256120-los-secretos-de-los-suenos/"><u>Los secretos de los sueños | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-integrating-chatgpt-into-your-windows-experience/"><u>Ultimate Tutorial: Integrating ChatGPT Into Your Windows Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-frame-by-frame-verbalizer/"><u>[New] Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-instagram-aesthetics-creating-charming-collages/"><u>[Updated] Mastering Instagram Aesthetics Creating Charming Collages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamlining-videography-optimize-for-instagram-for-2024/"><u>[Updated] Streamlining Videography Optimize For Instagram for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-ai-editmaster-for-stunning-images/"><u>2024 Approved Pinnacle AI EditMaster for Stunning Images</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactical-transformations-in-small-business-videography/"><u>2024 Approved Tactical Transformations in Small Business Videography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-role-of-youtube-images-in-video-promotion-and-discovery/"><u>2024 Approved The Role of Youtube Images in Video Promotion and Discovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-guide-resolving-iphone-app-crash-issues-with-effective-fixes-9-17/"><u>Expert Guide: Resolving iPhone App Crash Issues with Effective Fixes #9-#17</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/grand-selection-of-incredibly-affordable-footage-for-2024/"><u>Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-your-channels-engagement-with-targeted-youtube-links-for-2024/"><u>Ignite Your Channel's Engagement with Targeted YouTube Links for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>In 2024, Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
 </ul></div>
 

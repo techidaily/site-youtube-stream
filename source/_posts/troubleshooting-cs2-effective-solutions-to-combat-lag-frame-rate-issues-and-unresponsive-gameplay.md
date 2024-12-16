@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-12-06T16:00:48.808Z
-updated: 2024-12-10T16:05:00.079Z
+date: 2024-12-15T16:58:20.229Z
+updated: 2024-12-16T16:49:57.169Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -47,20 +47,20 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -73,13 +73,17 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -103,14 +107,14 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -122,10 +126,6 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -159,21 +159,24 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[New] 2024 Approved From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] Harnessing Home Content A Commercialized Vlog Journey</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sifting-through-the-differences-igtv-vs-youtube-in-a-direct-comparison/"><u>[New] Sifting Through the Differences IGTV Vs. YouTube in a Direct Comparison</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>[Updated] 2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/expert-audio-enhancement-toolkit-for-2024/"><u>Expert Audio Enhancement Toolkit for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixes-and-tips-for-chromes-non-saving-files-in-the-windows-network/"><u>Fixes and Tips for Chrome's Non-Saving Files in the Windows Network</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuito-ottimizza-la-qualita-video-con-i-nostri-programmi-software-a-12-pezzi/"><u>Gratuito - Ottimizza La Qualità Video Con I Nostri Programmi Software a 12 Pezzi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone without Any Data Loss</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>In 2024, Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6 In Different Conditionsin</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>In 2024, The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-fifa-matches-visualized-data-highlights/"><u>In 2024, Top FIFA Matches Visualized Data Highlights</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-essential-drivers-for-your-hp-designjet-500-printer-with-these-fresh-downloads/"><u>Install Essential Drivers for Your HP DesignJet 500 Printer with These Fresh Downloads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/jump-to-youtube-affiliate-ranking-with-a-swift-10000-views-for-2024/"><u>Jump to YouTube Affiliate Ranking with a Swift 10,000 Views for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-decades-best-list-of-budget-friendly-desktop-recorders/"><u>[New] 2024 Approved Decade's Best List of Budget-Friendly Desktop Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[New] Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximize-your-income-winning-at-monetizing-social-media-videos/"><u>[New] In 2024, Maximize Your Income Winning at Monetizing Social Media Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>[New] Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[New] Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveil-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>2024 Approved Unveil Your Narrative Transforming Photos to Videos Using Your Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-straightforward-approach-to-image-distortion/"><u>A Straightforward Approach to Image Distortion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/calculate-the-average-length-of-each-vehicle-in-kilometers-since-1-meter-0001-kilometers/"><u>Calculate the Average Length of Each Vehicle in Kilometers (Since 1 Meter = 0.001 Kilometers).</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ensuring-broad-device-support-a-step-by-step-guide-on-converting-xavcs-videos-into-mp4-format/"><u>Ensuring Broad Device Support: A Step-by-Step Guide on Converting XAVC(S) Videos Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-crackling-sounds-from-pc-speakers-on-windowss/"><u>Expert Advice: Eliminating Crackling Sounds From PC Speakers on Windowss</u></a></li>
+<li><a href="https://win-web.techidaily.com/for-temperature-conversion-if-multiple-temperatures-are-provided-within-one-statement-or-sentence-list-each-converted-temperature-separately-and-format-them173/"><u>For Temperature Conversion, if Multiple Temperatures Are Provided Within One Statement or Sentence, List Each Converted Temperature Separately and Format Them as Follows: Original: XX°F = YY.Y°C.</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hashing-it-out-best-tags-to-transform-views-and-profit-for-2024/"><u>Hashing It Out Best Tags to Transform Views & Profit for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-adsense-a-step-by-step-approach-for-youtubers/"><u>In 2024, Navigating AdSense A Step-by-Step Approach for YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-outro-essentials-made-simple-top-6-free-edition/"><u>In 2024, Outro Essentials Made Simple, Top 6 Free Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-path-to-mastery-in-using-cc-licenses/"><u>In 2024, Simplified Path to Mastery in Using CC Licenses</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocketing-traffic-the-power-of-collaborative-youtube-outros/"><u>In 2024, Skyrocketing Traffic The Power of Collaborative YouTube Outros</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-todays-ultimate-tutorial-ios-based-youtube-videos-uploading/"><u>In 2024, Today's Ultimate Tutorial IOS-Based YouTube Videos Uploading</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-adding-comment-features-in-windows-11-on-solid-state-drives/"><u>Step-by-Step Guide: Adding Comment Features in Windows 11 on Solid State Drives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-voice-to-text-applications/"><u>Top Tier Voice to Text Applications</u></a></li>
 </ul></div>
 

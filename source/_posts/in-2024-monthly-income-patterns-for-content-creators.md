@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Monthly Income Patterns for Content Creators"
-date: 2024-12-05T16:08:32.218Z
-updated: 2024-12-10T16:00:25.414Z
+date: 2024-12-12T16:44:53.009Z
+updated: 2024-12-16T18:43:46.599Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,10 @@ As mentioned earlier, YouTube pays monthly. It’s usually within the first 10-1
 
 Also, you must comply with the YouTube monetization policies and not be suspended by YouTube in the past month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How Does YouTube Pay – Typical Methods Used
 
 Research shows that YouTube’s average pay rate is within the range of $0.01 to $0.03 per ad view. This means for every 1,000 ad views, a YouTuber could earn $18, while for every 1,000 video views, you could earn $3 to $5\. You might ask “Does YouTube pay creators per view?’ Well, the answer is NO, YouTube doesn’t pay creators per view. They pay per monetized view.
@@ -57,6 +61,10 @@ Besides ads, there are other ways to monetize your YouTube channel. You could al
 ### 1\. Affiliate Marketing
 
 ![youtube affilate marketing](https://images.wondershare.com/filmora/article-images/2022/11/does-youtube-pay-monthly-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You might have come across YouTube videos where the creators talk about their favorite brands and add links to the platform for the brand. Well, that’s a form of affiliate marketing.
 
@@ -118,6 +126,10 @@ Research shows that YouTube’s average pay rate is within the range of $0.01 to
 
 However, to get started making money per monetized views, you need to join the YouTube Partnership Program. As mentioned earlier, YouTube Partner Program (YPP) gives creators access to start generating revenue with their channel once they reach a minimum of 1,000 YouTube subscribers and 4,000 watch ours in the last twelve months. It gives creators access to different monetization features like advertising, merchandise sales, fan funding, and lots more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ● Earn Money Through Ad Views
 
 Advertisers pay for YouTube ads based on clicks and impressions, and YouTube monetizes creators' videos by displaying these ads in different advertising formats like pre-roll, display, etc. So, once these ads display in your video and your subscribers click on them, you get paid.
@@ -133,10 +145,6 @@ The image below displays the requirement to start displaying ads on your YouTube
 ## Part 3: More Opportunities To Earn More Money From YouTube
 
 Besides ads, there are other ways to monetize your YouTube channel. You could also earn through a corporate sponsorship from brands, selling your products, etc. Keep reading to find out more ways to earn money from YouTube.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Affiliate Marketing
 
@@ -173,10 +181,6 @@ At this point, you should already have a brief idea of how YouTube monetization 
 ### 1\. Who is The Richest YouTuber?
 
 The richest YouTuber as of 2021 is Mr. Beast. He has made up to $54 million in revenue from his YouTube channel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Do YouTubers Get Paid Well?
 
@@ -238,10 +242,6 @@ YouTube’s search engine can be your best ally on the quest for great tags. Thi
 
 This method may not be too precise, but the idea is to quickly gather information and perhaps get some inspiration for more creative or complex tags. Most of the suggestions will be logical, but there can be a few unexpected combinations you’d never think of. Be very careful when translating the findings to your own situation, since the fact that some terms are popular doesn’t mean they are relevant for your video. Another problem is that slightly altered terminology can significantly change the effectiveness of the tag, so you should ideally use the suggested phrases in the exact form as you found them or not at all. If you do make adjustments, you should test the new tag through the same auto-complete tool and see how it fares.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.  Try YouTube Tag Generators
 
 If you’d like to dig a little deeper, there are multiple dedicated tools that can assist you in picking the most suitable YouTube tags for every video you upload. Let’s examine a few of them in greater detail:
@@ -294,10 +294,6 @@ There are lots of filters, overlays and effects pre-programmed in [Wondershare F
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -321,10 +317,14 @@ In this article, I will show you how to find great tags for your YouTube videos 
 3. [Study Your YouTube Rivals' Tags](#rival)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Find YouTube Tags \[3 Effective Ways\]
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Use YouTube’s Auto-Suggest Tool to Get Tags
 
@@ -408,11 +408,11 @@ In this article, I will show you how to find great tags for your YouTube videos 
 2. [Try YouTube Tag Generators](#gen)
 3. [Study Your YouTube Rivals' Tags](#rival)
 
-## Part 1: How to Find YouTube Tags \[3 Effective Ways\]
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 1: How to Find YouTube Tags \[3 Effective Ways\]
 
 ### 1. Use YouTube’s Auto-Suggest Tool to Get Tags
 
@@ -420,14 +420,10 @@ YouTube’s search engine can be your best ally on the quest for great tags. Thi
 
 ![ Find YouTube Video Tag](https://images.wondershare.com/filmora/article-images/find-youtube-tag-by-searching.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This method may not be too precise, but the idea is to quickly gather information and perhaps get some inspiration for more creative or complex tags. Most of the suggestions will be logical, but there can be a few unexpected combinations you’d never think of. Be very careful when translating the findings to your own situation, since the fact that some terms are popular doesn’t mean they are relevant for your video. Another problem is that slightly altered terminology can significantly change the effectiveness of the tag, so you should ideally use the suggested phrases in the exact form as you found them or not at all. If you do make adjustments, you should test the new tag through the same auto-complete tool and see how it fares.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.  Try YouTube Tag Generators
@@ -459,6 +455,10 @@ If you are able to locate the most successful videos with content similar to you
 Currently used to manage more than 30,000 YouTube channels, this powerful video marketing suite can also help with tag selection. It can enlarge your tag library by a factor of 10, and provide you with a direct comparison with your chief competitors. In addition to increasing your views, this app can help you monitor your visibility on social networks, and track detailed statistics that describe the performance of your video. In other words, this is a comprehensive package that will help you manage your channel in a professional way.
 
 What’s your YouTube tag strategy?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: YouTube Tag FAQs
 
@@ -507,7 +507,7 @@ In this article, I will show you how to find great tags for your YouTube videos 
 ## Part 1: How to Find YouTube Tags \[3 Effective Ways\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1. Use YouTube’s Auto-Suggest Tool to Get Tags
@@ -535,6 +535,10 @@ Want more tools to generate YouTube tags? Check our picks of the [best YouTube v
 #### #3\. [BetterWaytoWeb](http://www.betterwaytoweb.com/tag-generator-for-youtube)
 
 While this free-to-use tool has a very simple interface and won’t require any background knowledge to use, it still provides valuable information. It can suggest suitable tags for your new video based on the main keyword you provide, speeding up your research considerably. It can also analyze the tags placed on an existing YouTube video, which is important for deducing how other authors working in the same category are optimizing their content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Study Your YouTube Rivals' Tags
 
@@ -569,10 +573,6 @@ There are lots of filters, overlays and effects pre-programmed in [Wondershare F
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -595,22 +595,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-discreet-peek-into-fb-narratives-for-2024/"><u>[New] Discreet Peek Into FB Narratives for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>[New] Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-initial-cinematic-recording-dissection/"><u>[Updated] Initial Cinematic Recording Dissection</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-surf-tips-for-multiple-youtube-views/"><u>2024 Approved Streamline Your Surf Tips for Multiple Youtube Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-youtubes-veiled-content-a-detailed-protocol/"><u>2024 Approved Unveiling YouTube's Veiled Content A Detailed Protocol</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-no-start-windows-vms-and-vmware-error/"><u>Essential Fixes: No-Start Windows VMs & VMware Error</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fresh-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-exclusive-savings-hp-omens-transcend-laptop-with-rtx-engine-and-immersive-oled-display-cut-price-by-300/"><u>Get Exclusive Savings: HP Omen's Transcend Laptop with RTX Engine & Immersive OLED Display, Cut Price by $300!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-red-magic-8s-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-mobile-profits-enabling-youtubers-revenue/"><u>In 2024, Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-snug-scenes-for-snowy-screens-a-focused-list/"><u>In 2024, Snug Scenes for Snowy Screens A Focused List</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/leading-5-audio-caps-for-streaming-enthusiasts-for-2024/"><u>Leading 5 Audio Caps for Streaming Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-your-iphone-standby-feature-with-these-4-effective-fixes/"><u>Restore Your iPhone Standby Feature with These 4 Effective Fixes</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-3-outils-gratuits-pour-la-sauvegarderecuperation-de-windows-11-guerir-vos-problemes-logiciels/"><u>Top 3 Outils Gratuits Pour La Sauvegarde/Récupération De Windows 11 : Guérir Vos Problèmes Logiciels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-music-unlocked-the-ultimate-library-for-videographers/"><u>[New] 2024 Approved Free Music Unlocked The Ultimate Library for Videographers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-comprehensive-examination-of-webcamflex-pro-for-2024/"><u>[New] A Comprehensive Examination of WebcamFlex Pro for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-filmmaking-skills-on-youtube-and-diverse-platforms/"><u>[New] Expert Filmmaking Skills on YouTube and Diverse Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>[New] Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-real-time-gamcapture-hacks-and-insights/"><u>[New] In 2024, Real-Time GamCapture Hacks and Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-life-in-full-hd-with-yi/"><u>2024 Approved The Ultimate Guide to Capturing Life in Full HD with Yi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>2024 Approved Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-proteger-efficacement-votre-surface-de-stockage-avec-les-deux-meilleurs-moyens-sur-onedrive/"><u>Comment Protéger Efficacement Votre Surface De Stockage Avec Les Deux Meilleurs Moyens Sur OneDrive</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210143078-9781641533614-directing-the-movies-in-your-subconscious-mind/"><u>Directing the Movies in Your Subconscious mind | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-animated-gifs-creating-from-youtube-videos-online/"><u>In 2024, Mastering Animated GIFs Creating From Youtube Videos Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-youtube-shorts-knowledge/"><u>In 2024, Navigating Through YouTube Shorts Knowledge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-building-a-hit-youtube-video-preview/"><u>In 2024, Strategies for Building a Hit YouTube Video Preview</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>In 2024, The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>In 2024, Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing/"><u>In 2024, Unleash Creativity Learning Sony Vegas Techniques for YouTube Video Editing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267793323-unlock-creative-potential-fix-and-master-photoshop-cs8-on-windows-today/"><u>Unlock Creative Potential: Fix and Master PhotoShop CS8 on Windows Today</u></a></li>
 </ul></div>
 

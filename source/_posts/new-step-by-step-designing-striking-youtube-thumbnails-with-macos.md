@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Designing Striking Youtube Thumbnails with macOS\""
-date: 2024-07-29T21:31:04.166Z
-updated: 2024-07-30T21:31:04.166Z
+date: 2024-12-11T17:20:05.915Z
+updated: 2024-12-16T16:59:35.271Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 # How to Make a YouTube Thumbnail On Mac
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,14 +30,8 @@ As a Youtuber, the first thing you would want is to achieve is a high number of 
 
 However, if you are wondering how that can be achieved then fret no longer for this article will explain the simple process of creating youtube thumbnails easily. All you need is a capable thumbnail maker like [FilmoraX](https://tools.techidaily.com/wondershare/filmora/download/) that can do it all for you in one automagical flourish!
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube thumbnail mac](https://images.wondershare.com/filmora/Mac-articles/youtube-thumbnail-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## What is a Youtube Thumbnail?
 
 A youtube thumbnail is a smaller version of the video, a snapshot that you choose as a preview of your video. A Thumbnail is extremely important because it is essentially the outer packaging of your video; its front cover.
@@ -52,15 +43,13 @@ thumbnails are a significant factor in determining the number of views a Youtube
 If you don’t create a thumbnail then youtube will generate one by itself which may not be so enticing for viewers. The purpose of the thumbnail is to make your videos stand out among the rest so you need to pay attention to it!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to make Youtube Thumbnails on Mac
 
 You can easily create interesting thumbnails for youtube videos using a thumbnail maker like[FilmoraX](https://tools.techidaily.com/wondershare/filmora/download/) . Here is a step by step guide:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Preview the video and choose the still snapshot
 
 The first step in creating a thumbnail is to import the final video into the FilmoraX editor on your MacBook.
@@ -73,20 +62,29 @@ You can easily choose the frame from the video or use the preview frame button t
 
 ![thumbnails editor](https://images.wondershare.com/filmora/Mac-articles/thumbnails-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Add text, shape, and image overlays
 
 Once you’ve chosen the frame for the thumbnail, the next step would be to add text to it to catch the attention of the audience. You can also adjust the thumbnail size as per your requirement, however, the ideal size would be 1280x720 pixels with a minimum width of 640 pixels.
 
 ![add text on thumbnail](https://images.wondershare.com/filmora/Mac-articles/add-text-on-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Add effects
 
 FilmoraX has a wide range of effects that you can apply to your videos or pictures to make them look more attractive.
 
 ![filter9](https://images.wondershare.com/filmora/guide/filter-9-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4. Save the thumbnail
 
@@ -98,10 +96,11 @@ So, using this thumbnail maker you can easily create custom thumbnails for your 
 
 #### Conclusion
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Hopefully, the above-mentioned steps have given you enough insight and clarity on making creative and good youtube thumbnails. Using [FilmoraX](https://tools.techidaily.com/wondershare/filmora/download/) will further simplify the process for you with its amazing tools and features![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -111,12 +110,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-proven-methods-for-boosting-video-watchers/"><u>[New] Proven Methods for Boosting Video Watchers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-redefine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>[New] Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-searchability-expert-techniques-for-tag-application/"><u>[New] Streamline Searchability Expert Techniques for Tag Application</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveil-windows-xps-essential-movie-making-features/"><u>[New] Unveil Windows XP’s Essential Movie Making Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-steps-to-save-youtube-videos/"><u>[Updated] In 2024, Easy Steps to Save YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-quick-pexels-tips-for-visual-explorers-for-2024/"><u>[Updated] Quick Pexels Tips for Visual Explorers for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>2024 Approved Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-tuning-your-frames-with-videoleap/"><u>2024 Approved Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>2024 Approved Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-channel-description-perfection/"><u>2024 Approved The Ultimate Guide to Channel Description Perfection</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-t-series-profit-generation-methods-on-youtube/"><u>2024 Approved Unveiling T-Series' Profit Generation Methods on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-humble-beginnings-to-sponsored-success-channels-blueprint-for-2024/"><u>From Humble Beginnings to Sponsored Success Channels' Blueprint for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-easter-salutations-in-various-tongues/"><u>Global Easter Salutations in Various Tongues</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 10 5G Phone?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/"><u>In 2024, Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastery-over-drivers-manual-update-techniques-in-xp/"><u>Mastery Over Drivers: Manual Update Techniques in XP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-realistic-performance-expectations-for-your-pc/"><u>Understanding Realistic Performance Expectations for Your PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Infographic Yearbook of 2017'S Youtube Insights & Trends\""
-date: 2024-07-29T21:31:59.391Z
-updated: 2024-07-30T21:31:59.391Z
+date: 2024-12-10T17:22:59.166Z
+updated: 2024-12-16T18:24:16.062Z
 tags:
   - ai video
   - ai youtube
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 # Infographic - Mind Numbing YouTube Facts,Figures and Statistics
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -40,9 +28,6 @@ Since YouTube.com domain was first registered more than a decade ago, it has bec
 
 In 2017, more than 500 hours of video content are being uploaded to [YouTube](https://tools.techidaily.com/wondershare/filmora/download/) each minute, and over 1.5 billion active users utilize it to share their memories, music they love, business ideas or anything else they feel strongly about. The following infographic will present some of the most interesting YouTube facts and statistics that will enable you to understand better one of the most popular websites ever created.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
@@ -85,23 +70,6 @@ Since YouTube.com domain was first registered more than a decade ago, it has bec
 
 In 2017, more than 500 hours of video content are being uploaded to [YouTube](https://tools.techidaily.com/wondershare/filmora/download/) each minute, and over 1.5 billion active users utilize it to share their memories, music they love, business ideas or anything else they feel strongly about. The following infographic will present some of the most interesting YouTube facts and statistics that will enable you to understand better one of the most popular websites ever created.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
@@ -128,9 +96,6 @@ Naturally, music is the most searched term on YouTube, and celebrities like Just
 
 Let us know what you think about these interesting facts about YouTube in the comments below and feel free to share this article with your friends and colleagues.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -173,13 +138,6 @@ Naturally, music is the most searched term on YouTube, and celebrities like Just
 
 Let us know what you think about these interesting facts about YouTube in the comments below and feel free to share this article with your friends and colleagues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -196,9 +154,6 @@ Since YouTube.com domain was first registered more than a decade ago, it has bec
 
 In 2017, more than 500 hours of video content are being uploaded to [YouTube](https://tools.techidaily.com/wondershare/filmora/download/) each minute, and over 1.5 billion active users utilize it to share their memories, music they love, business ideas or anything else they feel strongly about. The following infographic will present some of the most interesting YouTube facts and statistics that will enable you to understand better one of the most popular websites ever created.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mind blowing youtube stats facts 2017](https://filmora.wondershare.com/youtube-video-editing/mind-blowing-youtube-stats-facts-2017.jpg)
 
 It’s hard to pick highlights from such an interesting and comprehensive read, but a couple of key stats shine out.
@@ -225,9 +180,6 @@ Naturally, music is the most searched term on YouTube, and celebrities like Just
 
 Let us know what you think about these interesting facts about YouTube in the comments below and feel free to share this article with your friends and colleagues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -254,6 +206,10 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -335,9 +291,6 @@ This tool is offering high-quality results with competitive marketing strategies
 * Risk-free.
 * Follow the most effective SEO strategies.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Tag Properly on YouTube?
 
 #### Tip 1 Relevancy
@@ -365,8 +318,9 @@ In 12 steps, you can[improve your YouTube SEO](https://www.filmora.io/community-
 Any good or bad experiences with YouTube tag generators? Share in the comment and discuss with other YouTubers!
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
@@ -402,9 +356,6 @@ Metadata and engagement are 2 key factors that YouTube uses to determine your vi
 | [Tag Keywords](#tagsyoutube) | Free                                                | A complete list of tags with filtering capabilities.                                                     |
 | [SEO Book](#p15)             | Free                                                | Suggest tags based on your title, description, and keywords.                                             |
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Best 5 YouTube Tag Generators
 
 #### 1. [Rapid Tags](https://rapidtags.io/)
@@ -465,6 +416,10 @@ This tool is offering high-quality results with competitive marketing strategies
 * Risk-free.
 * Follow the most effective SEO strategies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tag Properly on YouTube?
 
 #### Tip 1 Relevancy
@@ -491,26 +446,15 @@ In 12 steps, you can[improve your YouTube SEO](https://www.filmora.io/community-
 
 Any good or bad experiences with YouTube tag generators? Share in the comment and discuss with other YouTubers!
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -542,8 +486,9 @@ Metadata and engagement are 2 key factors that YouTube uses to determine your vi
 | [SEO Book](#p15)             | Free                                                | Suggest tags based on your title, description, and keywords.                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best 5 YouTube Tag Generators
 
 #### 1. [Rapid Tags](https://rapidtags.io/)
@@ -582,6 +527,10 @@ It is the best way to optimize your channel tags, descriptions, and titles. One 
 #### 4. [Tags YouTube](http://tagsyoutube.com/)
 
 ![YouTube Video Tag Maker: Tags YouTube](https://images.wondershare.com/filmora/article-images/tags-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Price: Free
 
@@ -630,15 +579,16 @@ In 12 steps, you can[improve your YouTube SEO](https://www.filmora.io/community-
 
 Any good or bad experiences with YouTube tag generators? Share in the comment and discuss with other YouTubers!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Making Better YouTube Videos with Filmora
 
 As one of the most widely used video editing software in YouTube video editing, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Download the free trial version and get started now.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -728,9 +678,6 @@ This tool is offering high-quality results with competitive marketing strategies
 * Risk-free.
 * Follow the most effective SEO strategies.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Tag Properly on YouTube?
 
 #### Tip 1 Relevancy
@@ -764,10 +711,14 @@ As one of the most widely used video editing software in YouTube video editing, 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -788,5 +739,16 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-affordable-pc-video-recording-tools/"><u>[Updated] 2024 Approved Affordable PC Video Recording Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>[Updated] 2024 Approved Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-virtual-venture-gears-choosing-best-metaverse-headsets/"><u>[Updated] In 2024, Virtual Venture Gears Choosing Best Metaverse Headsets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-hashtags-for-six-figure-youtube-growth/"><u>2024 Approved Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-palette-perfection-the-colorists-manual/"><u>2024 Approved Palette Perfection The Colorist's Manual</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-click-reward-spectrum/"><u>2024 Approved The Ultimate Click Reward Spectrum</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/dvd-burning-secrets-unveiled-expert-tips-for-flawless-rip-and-copy-techniques/"><u>DVD Burning Secrets Unveiled: Expert Tips for Flawless Rip and Copy Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-your-mac-techniques-to-remove-green-screen-effects/"><u>In 2024, Streamlining Your Mac Techniques to Remove Green Screen Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/legitimate-protocols-for-achieving-over-a-million-viewership-for-2024/"><u>Legitimate Protocols for Achieving Over a Million Viewership for 2024</u></a></li>
+</ul></div>
 

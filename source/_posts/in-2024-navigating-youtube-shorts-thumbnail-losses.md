@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Shorts Thumbnail Losses"
-date: 2024-12-02T19:33:21.400Z
-updated: 2024-12-03T17:36:38.215Z
+date: 2024-12-15T19:05:25.468Z
+updated: 2024-12-16T17:11:20.264Z
 tags:
   - ai video
   - ai youtube
@@ -81,10 +81,6 @@ Of course, ensuring that the video quality is high is key to getting more views.
 
 ![filmora mobile feature showcase](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-filmora.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The best thing is that you don't need to transfer the video from your phone to your computer and back. Wondershare Filmora is available on mobile. And it's one of the best tools for enhancing a short-form video.
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
@@ -96,10 +92,6 @@ Making money from YouTube Shorts was challenging. The platform pays content crea
 Luckily, that's going to change. Starting this year, Shorts will be a part of the YouTube Partner Program. This means that you can make money from the ads that people watch on Shorts. According to YouTube, creators will keep 45% of the revenue. It will be distributed based on your share of total Shorts views.
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
@@ -129,6 +121,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Like the Shorts video.
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
@@ -137,6 +133,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Scroll down to find "Liked Videos." Click on it.
 
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
@@ -144,6 +144,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -155,10 +159,6 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
 
 ![filmora mobile feature showcase](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-filmora.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The best thing is that you don't need to transfer the video from your phone to your computer and back. Wondershare Filmora is available on mobile. And it's one of the best tools for enhancing a short-form video.
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
@@ -171,10 +171,6 @@ Luckily, that's going to change. Starting this year, Shorts will be a part of th
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
 You can watch Shorts like normal YouTube videos where you can rewind when you want to. Follow these steps.
@@ -185,28 +181,24 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![shorts tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Pause the video.
 
 ![paused a shorts video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-2.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Click "Library" on the left panel.
 
 ![library tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select the Shorts you just watched. It should be on the top and first on the list.
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On a Mobile Phone
@@ -214,6 +206,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Open the YouTube app. Watch a Shorts video.
 
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Like the Shorts video.
 
@@ -223,10 +219,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Scroll down to find "Liked Videos." Click on it.
 
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
@@ -234,6 +226,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -269,78 +265,50 @@ Scroll down to find out this infographic made by [Filmora](https://tools.techida
 
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
-In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
-
-**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
-
-One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
-
-**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
-
-As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
-
-Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
-
-![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
-
-In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
-
-**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
-
-One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
-
-**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
-
-As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
-
-Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
-
-![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
-
-In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
-
-**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
-
-One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
-
-**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
-
-As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
+
+**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
+
+One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
+
+**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
+
+As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
+
+Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
+
+![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
+
+In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
+
+**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
+
+One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
+
+**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
+
+As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -358,7 +326,39 @@ Scroll down to find out this infographic made by [Filmora](https://tools.techida
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
+
+**Chatbots** represent a significant force on the market since 80% of chatbots can be utilized for providing non-stop services. Some estimations say that up to 30% of all chat conversations on the Internet will be with chatbots as soon as 2018\. Despite the rapid automatization of the Internet, influencers still play a large role in online marketing, and they will continue to do so because they can produce a ten-time rise in conversion rates. Over 90% of people who at one point used influencer marketing think that it is an effective marketing technique that almost certainly provides results.
+
+One force on the market that needs to be reckoned with are **Smartphones**. The amount of time an average internet user spends on social networks from their Smartphone is significantly larger than the amount of time spent on those same networks from a desktop computer. This means that optimizing online content for Smartphones will become even more important in 2018, than it already is.
+
+**Live Streaming Takes the Center Stage**. Some studies have shown that 80% of customers would prefer to watch a live video streamed by a brand than to read a post. To make things even more interesting, it is estimated that by 2020 80% of Internet traffic will be generated by video content and the video streaming market could easily become $70,5 billion industry by 2021 if its growth continues at this pace.
+
+As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The landscape of the social media has been constantly changing over the course of the previous decade. New technologies and features like AI (artificial intelligence), AR (augmented reality) have made possible things we couldn't even imagine at the turn of the century.
+
+Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
+
+![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
@@ -394,17 +394,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>[New] Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cut-the-clutter-convert-videos-discover-the-best-alternatives-for-flv-to-yt/"><u>[Updated] 2024 Approved Cut the Clutter, Convert Videos Discover the Best Alternatives for Flv to YT</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-free-gamers-choice-top-10-easy-record-software-listing/"><u>[Updated] Free Gamers' Choice Top 10 Easy Record Software Listing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>2024 Approved From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-fixes-todays-rapidly-watched-videos/"><u>In 2024, Quick Fixes Today's Rapidly Watched Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timestamp-use-for-increased-youtube-traction/"><u>In 2024, Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-animators-odyssey-crafting-your-own-fx-realm/"><u>In 2024, The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>In 2024, Transform Your Clips Step-by-Step YouTube End Screen Tutorials</u></a></li>
-<li><a href="https://article-helps.techidaily.com/sky-drones-their-genres-for-2024/"><u>Sky Drones Their Genres for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-fixing-the-unresponsive-mic-feature-on-oculus-quest-2/"><u>Step-by-Step Guide: Fixing the Unresponsive Mic Feature on Oculus Quest 2</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782621-9781620550755-tools-for-tantra/"><u>Tools for Tantra | Free Book</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[New] In 2024, Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-partner-filmmaking-for-channel-expansion-and-engagement/"><u>[New] Partner Filmmaking for Channel Expansion & Engagement</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>[New] Pinnacle of Presence A Strategic Approach for Live Video Graphics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-10-video-editors-webcams-reimagined-for-2024/"><u>[Updated] Ultimate 10 Video Editors Webcams Reimagined for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-plotline-path-to-youtube-prosperity/"><u>2024 Approved Plotline Path to YouTube Prosperity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/creer-des-videos-de-haute-qualite-convertissez-fichiers-avi-en-mp4-gratuitement-sur-movavi/"><u>Créer Des Vidéos De Haute Qualité : Convertissez Fichiers AVI en MP4 Gratuitement Sur Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-strategies-for-effective-youtube-short-creation/"><u>In 2024, Top Strategies for Effective YouTube Short Creation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-d-link-powerline-adapter-2000-straightforward-configuration-and-high-speed-data-transmission/"><u>In-Depth Review of D-Link Powerline Adapter 2000: Straightforward Configuration and High-Speed Data Transmission</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-combining-your-favorite-songs-into-one-spotify-list/"><u>The Ultimate Guide to Combining Your Favorite Songs Into One Spotify List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
 </ul></div>
 

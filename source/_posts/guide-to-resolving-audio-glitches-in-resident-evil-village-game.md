@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolving Audio Glitches in Resident Evil Village Game
-date: 2024-12-04T16:04:47.510Z
-updated: 2024-12-10T16:02:34.695Z
+date: 2024-12-12T18:40:05.959Z
+updated: 2024-12-16T16:21:26.923Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex.jpg)
 
  Microphone not working when you’re on a Webex meeting? You’re not alone! Such audio issues are quite common but they’re usually not hard to fix. Even if you’re not familiar with computer, follow this post and you’ll be able to tackle the Webex microphone not working issue easily and quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  If your mic is securely plugged in but still not working in Webex, continue to more solutions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Allow Webex to access your microphone
 
  On a Windows PC, you can manually adjust the permission for your microphone and choose specific apps to access it. To let your microphone work with Webex and pick up voice without problems, you’ll need to turn on the permission.
@@ -57,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/4-3.jpg)
 4. Scroll down and toggle on the button below**Allow apps to access your microphone** and**Allow desktop apps to access your microphone** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/allow-access-to-microphone-1.jpg)
 
  Once you’ve allowed the microphone access to your apps, check if the problem is resolved. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your audio driver
@@ -90,6 +82,10 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-11.jpg)
 
@@ -97,10 +93,6 @@ There are mainly two ways you can update the audio driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now check if your microphone works in the Webex meeting. If not, there’s one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Check the Webex settings
 
@@ -111,10 +103,18 @@ There are mainly two ways you can update the audio driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings.jpg)
 3. Select**Audio** from the left pane. Under the Microphone section, select your preferred audio device from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-3.jpg)
 4. You can also adjust the volume by dragging the slider. Then click Save to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/webex-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, you can click the Test button under Microphone to see if everything goes back to normal.
 
@@ -139,20 +139,19 @@ There are mainly two ways you can update the audio driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-video-perfection-in-minutes/"><u>[New] Capture Video Perfection in Minutes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-proven-methods-to-record-your-favorite-streaming-hulu-shows/"><u>[Updated] 2024 Approved Proven Methods to Record Your Favorite Streaming Hulu Shows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>2024 Approved Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-preferred-choices-affordable-channels-for-newbie-monetizers/"><u>2024 Approved Preferred Choices Affordable Channels for Newbie Monetizers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-soundtrack-strategists-guide-to-youtube-playlists/"><u>2024 Approved The Soundtrack Strategist's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/expert-tips-to-perfectly-utilize-instagrams-sound-stickers-for-2024/"><u>Expert Tips to Perfectly Utilize Instagram's Sound Stickers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a05s-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A05s to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-v29e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo V29e</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-y78plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y78+ in Minutes | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-foundational-codes-for-youtube-enthusiasts/"><u>In 2024, Foundational Codes for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-and-learn-with-animated-youtubers-top-picks-for-today/"><u>In 2024, Laugh and Learn with Animated YouTubers - Top Picks for Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-choices-the-premier-portable-devices-for-editors/"><u>In 2024, Prime Choices The Premier Portable Devices for Editors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-upgrade-your-video-playback-activating-av1-on-youtube/"><u>In 2024, Upgrade Your Video Playback Activating AV1 on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/lasting-freedom-how-to-banish-youtube-shorts-permanently-for-2024/"><u>Lasting Freedom How To Banish YouTube Shorts Permanently for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-tech-selection-dive-into-toms-world-of-hardware-reviews-and-guides/"><u>Mastering Tech Selection: Dive Into Tom's World of Hardware Reviews and Guides</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-out-distractions-in-photos-for-2024/"><u>[Updated] Cutting Out Distractions in Photos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-making-every-penny-count-in-youtube-webinars/"><u>[Updated] Making Every Penny Count in Youtube Webinars</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-chordcatcher-software-insight/"><u>2024 Approved ChordCatcher Software Insight</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>2024 Approved MP3 Upload Process Stream, Convert & Share on YouTube Quickly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-cash-through-youtube-content-sales/"><u>2024 Approved Securing Cash Through YouTube Content Sales</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vlc-tutorial-the-art-of-video-angling/"><u>2024 Approved VLC Tutorial The Art of Video Angling</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-common-mistakes-in-purchasing-an-oled-monitor/"><u>Correcting Common Mistakes in Purchasing an OLED Monitor</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-azures-new-radius-offering-transformative-open-source-tech-empowering-multi-cloud-operations-zdnet/"><u>Exploring Azure's New Radius Offering: Transformative Open Source Tech Empowering Multi-Cloud Operations | ZDNET</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-the-globe-top-10-travelers-youtube-guide/"><u>In 2024, Explore the Globe Top 10 Traveler's YouTube Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-gain-command-over-youtubes-video-playback-speed/"><u>In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>In 2024, Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failure-during-login-on-windows-1011/"><u>Solving User Profile Service Failure During Login on Windows 10/11</u></a></li>
 </ul></div>
 

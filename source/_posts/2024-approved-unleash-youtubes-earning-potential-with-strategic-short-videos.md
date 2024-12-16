@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash YouTube's Earning Potential with Strategic Short Videos\""
-date: 2024-10-06T22:44:06.475Z
-updated: 2024-10-12T21:45:26.850Z
+date: 2024-12-15T17:03:28.771Z
+updated: 2024-12-16T17:46:41.760Z
 tags:
   - ai video
   - ai youtube
@@ -23,6 +23,10 @@ YouTube Shorts have grown in popularity since the launch of the platform in 2021
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 1\. YouTube Shorts Monetization: Eligibility Criteria**
 
@@ -91,18 +95,15 @@ Click **Start** to review and accept YouTube’s Base terms.
 
 ![youtube base terms](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-6.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 6
 
 Link your existing AdSense account if you have one. If not. Click **Start** to set up a new one.
 
 ![youtube link adsense](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-7.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 7
 
@@ -111,10 +112,7 @@ Wait for YouTube to review and approve your application. The process will normal
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
@@ -164,6 +162,10 @@ Narration is an important aspect of YouTube Shorts. You can tell what is happeni
 ### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Just like other vertical social media videos, Shorts require some bit of personalization. You may want to add a bit of elements or filters. The AI Portrait feature automatically removes background with high accuracy to further enhance your videos. It also comes with over 70 portrait and sticker effects to bring out the mood you are going after. Automatically recognize the faces of your subjects and add AR stickers on the go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -234,18 +236,15 @@ If you are eligible for the YPP, you will see an **Apply** Click on it to go to 
 
 ![youtube get notified](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 5
 
 Click **Start** to review and accept YouTube’s Base terms.
 
 ![youtube base terms](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-6.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 6
 
@@ -258,19 +257,6 @@ Link your existing AdSense account if you have one. If not. Click **Start** to s
 Wait for YouTube to review and approve your application. The process will normally take a month. Once you are approved for the YPP, go to the Earn section in YouTube Studio. Then accept the Shorts Monetization Module. This will allow you to access ads and other money-making tools on YouTube.
 
 ![youtube monetization module](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-8.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The instructions shared above are for applying for the YPP using a computer or desktop. You will still follow the same steps when using a mobile device, but you will do so using the YouTube Studio app.
 
@@ -307,13 +293,6 @@ The best way to reap big from Shorts YouTube monetization is to make quality vid
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 The choice of Filmora features you use on your editing projects will depend on your goals. Here are a few favorites to get you started:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **1\.** [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -358,6 +337,10 @@ According to YouTube's help center, there are some things to remember when creat
 * First, make sure that the thumbnail size is 1280 pixels by 720 pixels and 640 pixels wide. It is the best YouTube thumbnail size.
 * When it comes to the thumbnail dimension, make sure to use an aspect ratio of 16:9.
 * Also, your YouTube thumbnail image should not exceed 2MB and is in either JPG, GIF or PNG format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Resize Your YouTube Thumbnail
 
@@ -446,10 +429,7 @@ Step2 Drag and drop the image into the timeline and **click** the green "**Expor
 ![adjust filmora export settings](https://images.wondershare.com/filmora/article-images/filmora-adjust-gif-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 As the recommended size of a YouTube Thumbnail is 1280 \* 720 pixels, you can set the resolution to 1280 \* 720\. Then click **Apply** and **Export** the GIF. You can now upload the GIF thumbnail to your YouTube account.
@@ -468,6 +448,10 @@ Step1 Install and **launch** GIMP on your computer.
 
 ![gimp install](https://images.wondershare.com/filmora/article-images/gimp-install.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Click on "**File**" > "**Open**," then search for the file you want to resize.
 
 ![gimp open thumbnail](https://images.wondershare.com/filmora/article-images/gimp-open-thumbnail.JPG)
@@ -483,6 +467,10 @@ Step4 Click on "**File**" > "**Export As**" and **toggle** the "**Select File Ty
 Step5 You can change the quality of the image and **click** the "**Export**" button to save the thumbnail.
 
 ![gimp export thumbnail](https://images.wondershare.com/filmora/article-images/gimp-export-thumbnail.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison of These 4 YouTube Thumbnail Resizing Methods
 
@@ -544,6 +532,10 @@ Step3 As the recommended size of a YouTube Thumbnail is 1280 \* 720 pixels, you 
 
 ![filmora adjust resolution](https://images.wondershare.com/filmora/article-images/filmora-adjust-resolution.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4\. Convert Images to YouTube Thumbnail Using Third-Party Software
 
 In addition to using dedicated video editing software, several third-party image editing programs can be used to resize images for use as YouTube thumbnails. Programs like [GIMP](https://www.gimp.org/) are popular for this purpose, as it offers a wide range of tools and features for editing and resizing images.
@@ -563,13 +555,6 @@ Step2 Click on "**File**" > "**Open**," then search for the file you want to res
 Step3 Click on "**Image**" > "**Scale Image**" and make sure that the resolution is 1920 by 1080.
 
 ![gimp edit resolution](https://images.wondershare.com/filmora/article-images/gimp-edit-resolution.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Click on "**File**" > "**Export As**" and **toggle** the "**Select File Type (By Extension)**" option. **Choose** JPG/JPEG format because it can compress the thumbnail enough to stay within the limit of 2 megabytes.
 
@@ -605,19 +590,6 @@ However, using a third-party image editing program may require a learning curve 
 
 Each of the four methods for resizing YouTube thumbnails has its pros and cons, and the best method will depend on the user's specific needs and preferences.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article explored four methods for resizing YouTube thumbnails: using the Windows default app, online converters, Wondershare Filmora, and image editing programs like GIMP. Each method has advantages and disadvantages; the best one depends on your specific needs and preferences. No matter your chosen method, you can resize YouTube thumbnails confidently with these tools and techniques.
@@ -637,19 +609,22 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-professional-colors-with-central-luts/"><u>[Updated] Achieving Professional Colors with Central Luts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-revenue-division-on-youtube-shorts/"><u>[Updated] In 2024, Mastering Revenue Division on YouTube Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>2024 Approved Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/canvas-magic-how-to-banish-the-unwanted-backdrop-for-2024/"><u>Canva's Magic How to Banish the Unwanted Backdrop for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fullview-media-collaboration-guidebook-for-2024/"><u>FullView Media Collaboration Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>In 2024, Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>In 2024, Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-20-proplus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 20 Pro+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-insights-small-business-video-mastery/"><u>In 2024, Infographic Insights Small Business Video Mastery</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/melodic-memory-bank-save-and-analyze-music-files/"><u>Melodic Memory Bank Save & Analyze Music Files</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-online-revenue-multiplatform-studio-use/"><u>[New] Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-mac-streamnetflix-with-screen-capture/"><u>[New] Mastering Mac StreamNetflix with Screen Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-simplifying-creative-workflow-adding-text-to-photography-files/"><u>[New] Simplifying Creative Workflow Adding Text to Photography Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-choice-of-gopro-film-editing-programs/"><u>[New] Ultimate Choice of GoPro Film-Editing Programs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-platform-variations-youtube-vs-dailymention/"><u>2024 Approved Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-journey-to-greatness-top-10-travel-youtubers/"><u>2024 Approved Journey to Greatness Top 10 Travel Youtubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-visual-effects-discover-youtubes-green-screen-treasure/"><u>2024 Approved Master Visual Effects Discover YouTube’s Green Screen Treasure</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-outsmart-automated-views-to-propel-your-channel/"><u>2024 Approved Outsmart Automated Views to Propel Your Channel</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-the-features-of-samsung-galaxy-fit-a-trusted-ally-in-staying-fit/"><u>Decoding the Features of Samsung Galaxy Fit - A Trusted Ally in Staying Fit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-core-interface-youtube-studio-explained/"><u>In 2024, The Core Interface YouTube Studio Explained</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-time-management-for-those-balancing-careers-and-youtubing/"><u>In 2024, Time Management for Those Balancing Careers and YouTubing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas-for-2024/"><u>Learn to Cropping & Composition The Audio-Visual Balance in Canvas for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-highlight-video-production-made-easy-top-desktop-and-mobile-apps/"><u>New In 2024, Highlight Video Production Made Easy Top Desktop and Mobile Apps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-expert-guide-to-safe-and-effective-information-purging-techniques/"><u>Stellar's Expert Guide to Safe and Effective Information Purging Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4v-movavi/"><u>무료 M4V 변환기: 인터넷을 통해 쉽게 구성된 Movavi 기술</u></a></li>
 </ul></div>
 

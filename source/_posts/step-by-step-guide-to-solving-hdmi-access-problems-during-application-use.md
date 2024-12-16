@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Solving HDMI Access Problems During Application Use
-date: 2024-12-07T16:01:19.134Z
-updated: 2024-12-10T16:04:52.809Z
+date: 2024-12-11T18:40:46.356Z
+updated: 2024-12-16T18:20:30.526Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ## PUBG Voice Chatting Trouble? Here's a Step-by-Step Guide to Solving It
 
 **Voice chat is not working** in PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) Duo or Squad mode? This is so frustrating. But don’t worry, whether you’re getting issues like PUBG voice chat not working, or PUBG mic not working, there is something you can do to fix your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix voice chat not working in PUBG
 
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is voice chat not working in PUBG?
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
  Sometimes you can hear from your friends but they can’t hear you, and sometimes you can’t hear your friend’s chat but they can hear you. This is annoying. The possible reason is the incorrect settings for your microphone, or the hardware faulty issues.  Sometimes it’s hard to troubleshoot the cause, but there are something you can do to solve the voice chat not working issue in your PUBG.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -55,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2665c0c8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Microphone** on the left pane, and make sure Microphone access for this device is on, and the status is**On** for**PUBG** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ad8d38e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Log in PUBG and see if your microphone works this time.
 
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd2ffadbaf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Playback** tab, and make sure to set your microphone to**Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd33128459.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Recording** tab, and make sure your microphone is the**Default Device** .
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd419e19e4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Make sure to**uncheck** the box next to**Allow application to take exclusive control of this device** . Then click**Apply** and**OK** .
@@ -106,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd457cd7a1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Save your settings.  8) Restart your computer and try PUBG voice again to see if it works.  If this method doesn’t work for you, don’t worry. We have other solutions to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update sound card driver
 
@@ -153,13 +157,13 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd86b39d96.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Make sure the**Microphone volume** and**Receive volume** is dragged to medium or high, so you can hear from your friends and you can be heard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd888581ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Save your changes and open PUBG again to see if it works for voice chat.
 
@@ -171,35 +175,31 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Modify the game file settings
 
  Sometimes the improper settings in your game configuration files can also cause the voice chat not working issue in your PUBG game. So follow the steps below:  1) Type**%appdata%** in the**search** bar from the**Start** menu, then select**%appdata%** in**File Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fd9f253113.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Windows will open the**File Explorer** , then click**AppData** in the directory bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda44e6191.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to**Local** \>**TslGame** \>**Saved** \>**Config** \>**WindowsNoEditor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdac264979.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Open the file named**GameUserSettings.ini** in Notepad or .txt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae51587f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) In the file that you open, make sure the following settings is configured correctly:
 
@@ -234,15 +234,19 @@ VoiceOutputVolume=100
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-steps-for-ipad-video-capture-for-2024/"><u>[New] Easy Steps for iPad Video Capture for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-spark-interest-everyones-free-with-our-youtube-banner-samples/"><u>[New] Spark Interest - Everyone's Free With Our YouTube Banner Samples</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>[Updated] 2024 Approved Immerse in PC Game Moments - Capture Perfectly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-evaluation-samsung-gear-360-vr-camera-for-2024/"><u>Comprehensive Evaluation Samsung Gear 360 VR Camera for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harnessing-online-revenue-multiplatform-studio-use/"><u>In 2024, Harnessing Online Revenue Multiplatform Studio Use</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-music-blends/"><u>In 2024, Mastering YouTube Music Blends</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-pricey-and-practical-mophie-powerstation-ac-charger/"><u>In-Depth Analysis of the Pricey & Practical Mophie Powerstation AC Charger</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/masterclass-top-10-makeup-artists-shaping-online-beauty-trends-for-2024/"><u>Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/professional-video-editor-essentials-top-5-macos-sierra-software-for-2024/"><u>Professional Video Editor Essentials Top 5 macOS Sierra Software for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-adobe-photos-sway-decrease-a-crucial-feature/"><u>[Updated] 2024 Approved Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elite-guide-from-concept-to-compelling-fullscreen-edits-in-premiere-pro/"><u>[Updated] Elite Guide From Concept to Compelling Fullscreen Edits in Premiere Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-defeating-youtube-short-issues/"><u>2024 Approved Mastering the Art of Defeating YouTube Short Issues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-picks-microphones-for-diverse-online-audiences/"><u>2024 Approved Perfect Picks Microphones for Diverse Online Audiences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>2024 Approved Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/3-pro-level-plans-to-preserve-precise-gaming-moments/"><u>3 Pro-Level Plans to Preserve Precise Gaming Moments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/device-disparity-enhancing-your-windows-browsers-pace/"><u>Device Disparity: Enhancing Your Windows Browser's Pace</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-remedies-for-troubleshooting-windows-updates-with-yl-software-insights/"><u>Efficient Remedies for Troubleshooting Windows Updates with YL Software Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hacking-youtube-success-peak-audience-engagement-timing/"><u>In 2024, Hacking YouTube Success Peak Audience Engagement Timing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-enriching-youtube-videos-with-harmonics/"><u>In 2024, The Ultimate Guide to Enriching YouTube Videos with Harmonics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-meizu-21-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Meizu 21 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Samsung Galaxy A05</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restore-your-lost-kik-photos-and-messages-a-comprehensive-guide/"><u>Restore Your Lost Kik Photos and Messages: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-july-2024s-latest-windows-system-enhancements-and-patches/"><u>What's New: July 2024'S Latest Windows System Enhancements & Patches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers\""
-date: 2024-10-07T20:56:45.754Z
-updated: 2024-10-12T21:39:37.325Z
+date: 2024-12-11T17:39:14.378Z
+updated: 2024-12-16T18:03:23.948Z
 tags:
   - ai video
   - ai youtube
@@ -89,16 +89,13 @@ Step3 Edit the image using the available tools, such as cropping, rotating, and 
 
 ![pixellab editing options](https://images.wondershare.com/filmora/article-images/pixellab-editing-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Add text to the image and **customize** it to your liking.
 
 ![pixellab add text](https://images.wondershare.com/filmora/article-images/pixellab-add-text.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5 Change the resolution of the image to **1280 x 720 pixels**.
 
@@ -147,6 +144,10 @@ Step5 Tap Save in the top right corner to upload the thumbnail to your video.
 
 ![youtube save thumbnail](https://images.wondershare.com/filmora/article-images/youtube-save-thumbnail.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! Your new thumbnail will now be displayed on your YouTube video, helping it stand out and attract more views. You can repeat this process for other videos if you want to add a custom thumbnail.
 
 ## It May Interest You – Make YouTube Thumbnails on Windows/Mac
@@ -168,6 +169,10 @@ To create a thumbnail using Filmora on your Windows or Mac computer, follow thes
 Step1 Launch Filmora, add the picture to the timeline and **select** the AI Portrait option in the Effects panel to cut out the subject from the background.
 
 ![filmora interface](https://images.wondershare.com/filmora/article-images/filmora-interface.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Scale up and reposition the photo.
 
@@ -191,13 +196,6 @@ Add a video
 
 This video will show you how to use Filmora to create a custom thumbnail for your YouTube video, step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## People Also Ask
 
 Here are some common questions that people have when it comes to creating YouTube thumbnails on mobile.
@@ -207,13 +205,6 @@ Here are some common questions that people have when it comes to creating YouTub
 There are many different apps and tools that YouTubers use to create thumbnails for their videos. The best app for creating YouTube thumbnails will depend on your needs and skill level.
 
 If you're looking for a quick and easy way to create a thumbnail on your mobile device, start with the built-in Photos app or a third-party app like Canva. If you need more advanced customization options or are comfortable with graphic design software, consider using Adobe Photoshop or another tool.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q2\. What Is YouTube Thumbnail Size?
 
@@ -280,6 +271,10 @@ Step6 Save the image to your gallery by exporting it.
 
 This method is best for users looking for more advanced customization options and higher image quality for their YouTube thumbnails. It's also a good option for users with experience with graphic design software and who are comfortable using advanced editing tools. If you're looking for a quick and easy way to create a thumbnail and only need a few customization options, consider using the built-in Photos app or other simpler methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Add Thumbnails to YouTube Videos on Mobile
 
 Once you've created your thumbnail image, it's time to add it to your YouTube video. Adding a thumbnail to your YouTube video on your mobile device is a simple process that only requires a few steps.
@@ -299,10 +294,7 @@ Step3 Tap on the video and tap the "**Edit**" button in the top right corner of 
 ![youtube edit video](https://images.wondershare.com/filmora/article-images/youtube-edit-video.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Tap the **Custom thumbnail** button and **upload** the image you want to use from your photo library.
@@ -356,6 +348,10 @@ For more detailed instructions and a visual guide, you can watch the following v
 Add a video
 
 This video will show you how to use Filmora to create a custom thumbnail for your YouTube video, step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## People Also Ask
 
@@ -428,6 +424,10 @@ Step 2:
 
 ![search irdium youtube extension](https://images.wondershare.com/filmora/article-images/searching-iridium-for-youtube-extension.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3:
 
 * Open the extension page.
@@ -435,13 +435,6 @@ Step 3:
 * Click the"Add Extension"option in the pop-up menu.
 
 ![add extension on youtube](https://images.wondershare.com/filmora/article-images/adding-iridium-for-youtube-to-chrome.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4:Open a new page, visit [YouTube](https://www.youtube.com/), and a pop-up window will appear. Select"Close"to terminate it, and clickthe"Menu"(hamburger) icon in the top left corner of the screen. Next, scroll down and open your savedPlaylistthat you want to reverse.
 
@@ -478,6 +471,10 @@ Step 2: Hover over the video, and you will see two horizontal lines next to it. 
 You can also utilize the "Sort" option to reverse the playlist. To do so, click "Sort" at the top of the playlist above the videos and select "Date Published (Oldest)" to change the order.
 
 ![reverse youtube playlist order](https://images.wondershare.com/filmora/article-images/sorting-the-playlist-order-to-reverse-it.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Bonus Tip for YouTube Creator: Make Your Own YouTube Channel Trailer
 
@@ -653,13 +650,6 @@ Step 4:Open a new page, visit [YouTube](https://www.youtube.com/), and a pop-up 
 
 ![iridium for youtube](https://images.wondershare.com/filmora/article-images/iridium-for-youtube.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Click the "Play All" option in the details section of the playlist and click the Iridium button on the right side of the screen. This will open a new tab with different settings for your playlist. Go to the Video tab, and under the "Playlist" header, toggle the button next to "Enable reverse playlist control" to change the settings.
 
 ![set iridim for youtube](https://images.wondershare.com/filmora/article-images/setting-iridium-for-youtube-to-reverse-playlist.png)
@@ -710,18 +700,15 @@ Step 3: Scroll down on your channel's dashboard, select a video, and click the t
 
 ![youtube playlist reverse order](https://images.wondershare.com/filmora/article-images/adding-playlist-to-private-playlist-to-reverse-order.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, provide a name, set the privacy settings to "Private," and click "Create."
 
 Step 4: In the final step, head to the Playlist tab, click "View Full Playlist" to open the new playlist, and click the "three dots" in the details area on the left. Next, select "Playlist Settings" and toggle the button next to "Add new videos to top of playlist" to enable it.
 
 You can now add more videos to your playlist, and each one will be added to the top. This method helps you arrange the YouTube playlist as you desire.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -770,16 +757,13 @@ Step 4:Open a new page, visit [YouTube](https://www.youtube.com/), and a pop-up 
 
 ![iridium for youtube](https://images.wondershare.com/filmora/article-images/iridium-for-youtube.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Click the "Play All" option in the details section of the playlist and click the Iridium button on the right side of the screen. This will open a new tab with different settings for your playlist. Go to the Video tab, and under the "Playlist" header, toggle the button next to "Enable reverse playlist control" to change the settings.
 
 ![set iridim for youtube](https://images.wondershare.com/filmora/article-images/setting-iridium-for-youtube-to-reverse-playlist.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's about it. You will now be able to watch a YouTube playlist in reverse order.
 
@@ -854,18 +838,22 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-pathway-to-exceptional-gopro-adventures/"><u>[New] A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-free-film-resource-highlights-where-to-start-your-search/"><u>[New] Free Film Resource Highlights Where to Start Your Search</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>[New] Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-video-watching-experience-with-easy-timestamp-addition/"><u>[New] Streamline Your Video Watching Experience with Easy Timestamp Addition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-rise-to-youtube-prominence-top-strategies-at-a-glance-for-2024/"><u>[Updated] Rise to YouTube Prominence Top Strategies at a Glance for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-meizu-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Meizu</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-costs-not-quality-final-cut-pro-education-bundle-offers/"><u>Cut Costs, Not Quality Final Cut Pro Education Bundle Offers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-frames-per-second-fps-performance-issues-resolved/"><u>Cyberpunk 2077'S Frames Per Second (FPS) Performance Issues Resolved</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos-for-2024/"><u>From Ideas to Action How to Transform Photos Into Engaging Mobile Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-12-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 12 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-spark-go-2024-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Spark Go (2024) Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-penning-parting-prose-for-press/"><u>In 2024, Penning Parting Prose for Press</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-stream-like-never-before-turning-on-youtubes-av1/"><u>[New] Stream Like Never Before Turning On YouTube's AV1</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-whip-up-your-own-web-humor-snippet-for-2024/"><u>[New] Whip Up Your Own Web Humor Snippet for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[Updated] In 2024, Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-the-tricks-for-flawless-file-imports-on-windows-10/"><u>[Updated] In 2024, Unveiling the Tricks for Flawless File Imports on Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[Updated] Preserve Your Memories Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-hottest-tiktok-trends-on-twitter/"><u>[Updated] The Hottest TikTok Trends on Twitter</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-images-with-motion-blur-in-illustrator/"><u>2024 Approved Enhancing Images with Motion Blur in Illustrator</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-yt-thumbnails-aspect-ratios-decoded/"><u>2024 Approved Optimal YT Thumbnails Aspect Ratios Decoded</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-star-status-buttons-and-growth-accolades/"><u>2024 Approved Streaming Star Status - Buttons & Growth Accolades</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-magic-advanced-kinemaster-techniques-for-2024/"><u>Crafting Cinematic Magic Advanced Kinemaster Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-profitable-streaming-start-top-8-income-strategies/"><u>In 2024, Profitable Streaming Start Top 8 Income Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shortcuts-to-wealth-in-youtube-shorts/"><u>In 2024, Shortcuts to Wealth in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/insiders-look-at-top-9-free-platforms-for-designing-youtube-logos-for-2024/"><u>Insider's Look at Top 9 FREE Platforms for Designing YouTube Logos for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/march-madness-mixes-download-the-latest-and-hottest-music-videos-perfect-for-your-beats-the-video-pool-collection/"><u>March Madness Mixes: Download the Latest & Hottest Music Videos Perfect for Your Beats - The Video Pool Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-joy-con-calibration-for-flawless-gameplay/"><u>Xbox Joy-Con Calibration for Flawless Gameplay</u></a></li>
 </ul></div>
 

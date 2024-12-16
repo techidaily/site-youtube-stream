@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Child Prodigy Who Conquered Currency with Content"
-date: 2024-12-03T16:07:57.042Z
-updated: 2024-12-10T16:07:47.108Z
+date: 2024-12-13T17:48:21.021Z
+updated: 2024-12-16T16:43:15.728Z
 tags:
   - ai video
   - ai youtube
@@ -72,10 +72,6 @@ Moreover, YouTubers earn from other sources besides the ads on their videos, so 
 
 ![ryan kaji merchandise](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here is a quantified average of the earning statistics for **Ryan’s World income** in tabular format.
 
 | **Ryan Kaji Ryan’s World Income**       |                   |
@@ -86,6 +82,10 @@ Here is a quantified average of the earning statistics for **Ryan’s World inco
 | Subscribers                             | 33.3 million      |
 | Video Views (on average)                | 800,000+          |
 | Views for the last 30 days (on average) | 277.59 million    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ryan Kaji’s Annual Income between 2016-2022
 
@@ -99,10 +99,6 @@ As he grew in age, his content shifted to fit his interests at 6 years of age, w
 
 In 2020, he earned around USD 29.5 million and USD 27 million in 2021\. The **Ryan ToysReview income** further grew to USD 35 million in 2022, and it is expected to increase in the upcoming time, especially with his videos raking in millions of views in recent times.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Popularity across social media
 
 The leading social media platform where Ryan Kaji grew his strength is YouTube, and he currently enjoys a massive fan following. His channel, Ryan’s World, has an overall subscriber base of around 33.3 million YouTube users. These include primarily children as well as other adults, either who enjoy his content or those who watch along with their kids. He also has an Instagram account for his channel with around 159k followers.
@@ -110,7 +106,7 @@ The leading social media platform where Ryan Kaji grew his strength is YouTube, 
 ![ryan kaji instagram](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Besides that, the total **Ryan’s World earnings** also come from his other YouTube channels, managed under the company his parents established afterward. These include Ryan ToysReview, The Studio Space, Ryan’s Family Review, EK Doodles, and three more.
@@ -272,15 +268,15 @@ As he grew in age, his content shifted to fit his interests at 6 years of age, w
 
 In 2020, he earned around USD 29.5 million and USD 27 million in 2021\. The **Ryan ToysReview income** further grew to USD 35 million in 2022, and it is expected to increase in the upcoming time, especially with his videos raking in millions of views in recent times.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Popularity across social media
 
 The leading social media platform where Ryan Kaji grew his strength is YouTube, and he currently enjoys a massive fan following. His channel, Ryan’s World, has an overall subscriber base of around 33.3 million YouTube users. These include primarily children as well as other adults, either who enjoy his content or those who watch along with their kids. He also has an Instagram account for his channel with around 159k followers.
 
 ![ryan kaji instagram](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Besides that, the total **Ryan’s World earnings** also come from his other YouTube channels, managed under the company his parents established afterward. These include Ryan ToysReview, The Studio Space, Ryan’s Family Review, EK Doodles, and three more.
 
@@ -320,6 +316,10 @@ Each video has an engaging title that speaks on the central theme while keeping 
 
 ![ryan kaji video with highest 2 billion views](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: How to be a YouTuber and Make Videos like Ryan Kaji
 
 Yes, the quality and presentation of the videos on the channel are one of critical pieces that caused the high **Ryan Kaji net worth**. If you plan to start your YouTube channel, you should focus on video editing to optimize its quality. In this context, the [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software is an excellent tool to use.
@@ -329,10 +329,6 @@ Yes, the quality and presentation of the videos on the channel are one of critic
 [**Wondershare Filmora**](https://tools.techidaily.com/wondershare/filmora/download/) is a high-grade video editing software that allows users to create dynamic, eye-grabbing, and intuitive videos efficiently. You can use the features available in this Mac and Windows-based software to merge, cut, split, and more your video clips into one cohesive project. It is simple to add filters with pre-set FX plugins like Boris FX, among other available options, for a unique video look.
 
 Additionally, you can adjust the coloring of your videos with Color Matching and Color Correction features and add titles/transitions, among others. You can add voiceover and audio effects and adjust the video's volume, tone, and soundtrack. AI-based features are also available here for quick automated edits (Instant Mode), removing background by focusing on only the subject (AI Portrait), and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to use Filmora to create engaging videos for YouTube?
 
@@ -368,10 +364,6 @@ Or, you can directly post the video to your linked YouTube account.
 
 Step7 Tap the Export button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Overall, Ryan Kaji saw great success with his stunning and engaging videos on his YouTube channel over the years. Also, he focused on other ventures, with the support of the team behind his channel, for income and editing work.
@@ -400,6 +392,10 @@ But, while starting, your funding will be less. It would help if you handled the
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -411,10 +407,6 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
@@ -423,8 +415,105 @@ We’ve summarized the key points about setting up talking head style video shot
 
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
+### 1.  Close Quarters Wide-Angle Vlog Set-Up
+
+Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
+
+With this set-up, you’re going to need a camera with a wide-angle lens, a tripod, a camera-mounted shotgun mic for sound, and a ring light for light.
+
+Set your camera on the tripod and mount the shotgun mic directly on the camera shoe (the electronic bracket on the top of the camera). Inside the circular space of your ring light, position your camera right in the middle of it so that you can shoot your video through it without getting any part of the lighting equipment in your shot.
+
+In the video above, Sean Cannell demonstrates this set-up. As you can see from this example, the wide-angle lens is able to squeeze in a lot of what’s in front of the camera into the shot.
+
+Objects and people that just make it into the sides of the frame will appear more stretched out as the wide-angle causes distortion and enhances perspectives.
+
+If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2.  Medium Vlog Set-Up
+
+If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
+
+For this set-up, you’ll be using a slightly longer standard/normal lens (like a 35mm or a 50mm lens) attached to your camera which would be set on a tripod. Since this longer lens will show less of the surrounding areas as it “zooms” closer into whatever is in front, you will need to sit further back, away from your camera.
+
+Now that you’re further away from your camera, a camera-mounted shotgun mic may not be the best mic for you. For better sound recording, you’ll need a shotgun mic fixed on a mic stand that is set up like a boom mic, positioned just outside of your camera frame.
+
+At the 39 second mark of the above video, electronic music producer deadmau5 is positioned right in the center of this particular set-up.
+
+You can see from how even the background and couch looks across the entire camera frame that there is no distortion or enhanced perspective.
+
+It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 3.  Two Person Vlog Set-Up
+
+If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
+
+If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you can see that there’s a lot of space to the left and right of deadmau5\. Now imagine the same shot but with two people.
+
+With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
+
+### 4.  Long Teleprompter Vlog Set-Up
+
+If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
+
+For this set-up, you’ll need all the same equipment as the medium vlog set-up, but you’ll additionally need a teleprompter placed in front of your camera equipped with a long telephoto lens.
+
+You will have to sit much further back away from your camera for two main reasons. Firstly, you want to be able to fit yourself in your much more zoomed-in camera frame (effect of the long telephoto lens). Secondly, you want to be far enough that the camera cannot detect your eyes reading from left to right. You’ll want to be around six meters away from a 17” teleprompter monitor or around four meters away from a 10” teleprompter monitor.
+
+In the above video, Jared Polin uses a long teleprompter vlog set-up.
+
+In the video, he says there’s about 8 feet (2.4 meters) between himself and his lens. At the 1:15 mark of his video, Jared demonstrates how this set-up works.
+
+It is difficult to know whether the movement in his eyes is caused by not being far enough from the lens or from his horizontal nystagmus condition in his eyes.
+
+Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
+
+## Tips for Making a Talking Head Video Better
+
+To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+A big part of being a YouTuber involves talking to the camera. How you set up your talking-head shot depends on many factors, including how much space you have, what kind of look you’re going for, and how many people you want to fit in one frame. Here are four ways to set up your talking-head shots for YouTube.
+
+| Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
+
+We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
+
+![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.  Close Quarters Wide-Angle Vlog Set-Up
@@ -487,10 +576,6 @@ To make a talking-head video more interesting, you can add some background music
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -507,6 +592,10 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
@@ -543,95 +632,6 @@ At the 39 second mark of the above video, electronic music producer deadmau5 is 
 You can see from how even the background and couch looks across the entire camera frame that there is no distortion or enhanced perspective.
 
 It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
-
-### 3.  Two Person Vlog Set-Up
-
-If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
-
-If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you can see that there’s a lot of space to the left and right of deadmau5\. Now imagine the same shot but with two people.
-
-With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
-
-### 4.  Long Teleprompter Vlog Set-Up
-
-If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
-
-For this set-up, you’ll need all the same equipment as the medium vlog set-up, but you’ll additionally need a teleprompter placed in front of your camera equipped with a long telephoto lens.
-
-You will have to sit much further back away from your camera for two main reasons. Firstly, you want to be able to fit yourself in your much more zoomed-in camera frame (effect of the long telephoto lens). Secondly, you want to be far enough that the camera cannot detect your eyes reading from left to right. You’ll want to be around six meters away from a 17” teleprompter monitor or around four meters away from a 10” teleprompter monitor.
-
-In the above video, Jared Polin uses a long teleprompter vlog set-up.
-
-In the video, he says there’s about 8 feet (2.4 meters) between himself and his lens. At the 1:15 mark of his video, Jared demonstrates how this set-up works.
-
-It is difficult to know whether the movement in his eyes is caused by not being far enough from the lens or from his horizontal nystagmus condition in his eyes.
-
-Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-## Tips for Making a Talking Head Video Better
-
-To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-A big part of being a YouTuber involves talking to the camera. How you set up your talking-head shot depends on many factors, including how much space you have, what kind of look you’re going for, and how many people you want to fit in one frame. Here are four ways to set up your talking-head shots for YouTube.
-
-| Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
-
-We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
-
-![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
-
-## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
-
-### 1.  Close Quarters Wide-Angle Vlog Set-Up
-
-Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
-
-With this set-up, you’re going to need a camera with a wide-angle lens, a tripod, a camera-mounted shotgun mic for sound, and a ring light for light.
-
-Set your camera on the tripod and mount the shotgun mic directly on the camera shoe (the electronic bracket on the top of the camera). Inside the circular space of your ring light, position your camera right in the middle of it so that you can shoot your video through it without getting any part of the lighting equipment in your shot.
-
-In the video above, Sean Cannell demonstrates this set-up. As you can see from this example, the wide-angle lens is able to squeeze in a lot of what’s in front of the camera into the shot.
-
-Objects and people that just make it into the sides of the frame will appear more stretched out as the wide-angle causes distortion and enhances perspectives.
-
-If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
-
-### 2.  Medium Vlog Set-Up
-
-If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
-
-For this set-up, you’ll be using a slightly longer standard/normal lens (like a 35mm or a 50mm lens) attached to your camera which would be set on a tripod. Since this longer lens will show less of the surrounding areas as it “zooms” closer into whatever is in front, you will need to sit further back, away from your camera.
-
-Now that you’re further away from your camera, a camera-mounted shotgun mic may not be the best mic for you. For better sound recording, you’ll need a shotgun mic fixed on a mic stand that is set up like a boom mic, positioned just outside of your camera frame.
-
-At the 39 second mark of the above video, electronic music producer deadmau5 is positioned right in the center of this particular set-up.
-
-You can see from how even the background and couch looks across the entire camera frame that there is no distortion or enhanced perspective.
-
-It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.  Two Person Vlog Set-Up
 
@@ -771,20 +771,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-exploring-effective-financial-gains-through-youtube-shorts/"><u>[New] Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guidelines-to-erase-youtube-recordings-on-pc/"><u>2024 Approved Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://fox-within.techidaily.com/best-techniques-for-downloading-myvideo-content-from-pc-or-mac/"><u>Best Techniques for Downloading MyVideo Content From PC or Mac</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ihome-zenergy-bedside-sleep-therapy-machine-review/"><u>IHome Zenergy Bedside Sleep Therapy Machine Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-pova-6-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Pova 6 Pro 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pivotal-information-in-the-realm-of-asmr/"><u>In 2024, Pivotal Information in the Realm of ASMR</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>In 2024, Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-rising-through-rhythm-how-to-submit-music-to-youtube/"><u>In 2024, Rising Through Rhythm How to Submit Music to YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-videos-into-stories-discover-the-top-10-reactions/"><u>In 2024, Transform Videos Into Stories Discover the Top 10 Reactions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-video-potential-essential-courses-for-new-creators/"><u>In 2024, Unlocking Video Potential Essential Courses for New Creators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-maker-for-mac-easily-make-videos-on-mac/"><u>New Best Video Maker for Mac Easily Make Videos on Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-big-on-amazons-latest-innovation-the-echo-spot-alarm-clock-with-a-whopping-40-discount-during-prime-day-shop-now/"><u>Save Big on Amazon's Latest Innovation: The Echo Spot Alarm Clock with a Whopping 40% Discount During Prime Day – Shop Now!</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamline-hd-media-effective-facebook-mobile-sharing/"><u>Streamline HD Media: Effective Facebook Mobile Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-smart-choice-selecting-the-top-5-webcams-for-clear-audio/"><u>[New] 2024 Approved Smart Choice Selecting the Top 5 Webcams for Clear Audio</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-flawless-playlist-integration-techniques-in-web-development/"><u>[New] Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-start-recording-youtube-content-on-your-own-terms/"><u>[New] Start Recording YouTube Content on Your Own Terms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>[Updated] 2024 Approved Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[Updated] 2024 Approved Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-knowledge-for-youtube-short-creators/"><u>[Updated] Essential Knowledge for YouTube Short Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-youtube-channel-art-templates-find-them-here/"><u>2024 Approved Free YouTube Channel Art Templates - Find Them Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-role-of-timestamps-in-content-longevity-and-popularity/"><u>2024 Approved The Role of Timestamps in Content Longevity and Popularity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-free-editors-androids-ultimate-choice/"><u>2024 Approved Top Free Editors Android's Ultimate Choice</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/msvcp110dll5/"><u>如何迅速找回MSVCP110.dll：完整教程和5种高级策略解决失灵问题</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comprehensive-andaseat-kaiser-3-analysis-latest-insights-from-zdnets-2022-review/"><u>Comprehensive AndaSeat Kaiser 3 Analysis - Latest Insights From ZDNet's 2022 Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/finding-the-perfect-dj-template-video-download-for-your-events-for-2024/"><u>Finding the Perfect DJ Template Video Download for Your Events for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/illusions-unveiled-discerning-genuine-supporters-in-digital-platforms-for-2024/"><u>Illusions Unveiled Discerning Genuine Supporters in Digital Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-getting-started-macbook-cam-recording/"><u>In 2024, Getting Started MacBook Cam Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unravel-the-secrets-to-sequential-video-viewing-no-charges/"><u>In 2024, Unravel the Secrets to Sequential Video Viewing (No Charges)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/problembehebung-des-zurucksetzens-in-windows-einschliesslich-der-hangenbleiben-bei-1-34-64-und-99/"><u>Problembehebung Des Zurücksetzens in Windows Einschließlich Der Hängenbleiben Bei 1%, 34%, 64% Und 99%</u></a></li>
+<li><a href="https://win-web3.techidaily.com/strong-brand-identity-pineapple-has-a-distinctive-brand-image-associated-with-quality-innovation-and-premium-products-that-appeal-to-consumers-worldwide/"><u>Strong Brand Identity: PineApple Has a Distinctive Brand Image Associated with Quality, Innovation, and Premium Products that Appeal to Consumers Worldwide.</u></a></li>
 </ul></div>
 

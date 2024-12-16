@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Live Streaming 360 Video to Youtube"
-date: 2024-12-09T16:05:54.620Z
-updated: 2024-12-10T16:05:09.904Z
+date: 2024-12-13T18:30:24.787Z
+updated: 2024-12-16T18:25:04.328Z
 tags:
   - ai video
   - ai youtube
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 * [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
 * [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
 
 **Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![ official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Get your application and install it on your Mac or PC as per need.
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![ click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6:**  You will find option to register to application with your respective device. Select and hit register.
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![led ](https://images.wondershare.com/filmora/article-images/led.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 10:** Now you need to plug in the USB cable again with your computer.
 
 **Step 11:** Visit the official site of OBS and download your software; install it on your system.
@@ -83,25 +83,25 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![device as ](https://images.wondershare.com/filmora/article-images/device-as.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 14:** Now from available list select Theta UVC as your active video capture source.
 
 ![Theta UVC ](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 15:** You need to adjust screen as per your requirements.
 
 ![screen ](https://images.wondershare.com/filmora/article-images/screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 16:** Now move to YouTube and then hit New Live Events option.
 
 ![new live events ](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 17:** Complete the basic information.
 
@@ -113,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![new stream option ](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
 
 ![ingesting settings ](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
 
@@ -151,28 +151,28 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![allie app ](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6:** Now users need to hit stream icon on screen.
 
 ![  icon on ](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
 
 ![click submit ](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
 
 ![SNS platform ](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -191,19 +191,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>[Updated] 2024 Approved Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-channels-on-the-fly-tubebuddy-essentials/"><u>2024 Approved Mastering Channels on the Fly - TubeBuddy Essentials</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube/"><u>2024 Approved Streamlining the Process of Finding Your Own Musical Compilation on Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos/"><u>2024 Approved Superior Way of Stitching GoPro Recordings in Extended Spherical Videos</u></a></li>
-<li><a href="https://solve-news.techidaily.com/movavi-avi-3g2/"><u>無限制網路邊強化：以 Movavi AVI 格式快速轉換3G2影片</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-select-an-iphone-that-maximizes-your-gaming-experience/"><u>How to Select an iPhone That Maximizes Your Gaming Experience</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-remedy-for-hidden-shorts-video-thumbnails/"><u>In 2024, Remedy for Hidden Shorts Video Thumbnails</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-process-for-free-youtube-introend-making/"><u>In 2024, Step-by-Step Process for Free YouTube Intro/End Making</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>In 2024, The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-ps4-recording-in-obs-a-detailed-walkthrough/"><u>In 2024, Ultimate PS4 Recording in OBS - A Detailed Walkthrough</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/live-and-record-flawlessly-find-the-best-conference-tech-today/"><u>Live and Record Flawlessly - Find the Best Conference Tech Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/review-spotlight-on-yuneecs-aerodrone-typhoon-h-for-2024/"><u>Review Spotlight on Yuneec’s AeroDrone Typhoon H for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/smart-strategies-for-entrepreneurial-video-marketing/"><u>SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-reach-a-millennium-of-youtube-followers-fast/"><u>[New] Reach a Millennium of YouTube Followers Fast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-free-webinar-organizing-with-youtube-help/"><u>[New] Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stunning-slideshow-for-social-sharing/"><u>[Updated] 2024 Approved Stunning Slideshow for Social Sharing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flawless-foundations-top-youtube-skincare-routines/"><u>2024 Approved Flawless Foundations Top YouTube Skincare Routines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-gain-popularity-on-youtube-11-powerful-seo-techniques-for-video-content/"><u>2024 Approved Gain Popularity on YouTube 11 Powerful SEO Techniques for Video Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-youtubes-potential-with-smart-use-of-gaming-hashtags/"><u>2024 Approved Unlock YouTube's Potential with Smart Use of Gaming Hashtags</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-your-ultimate-guide-to-telegram-web-navigation/"><u>2024 Approved Your Ultimate Guide to Telegram Web Navigation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-gaming-presence-with-these-top-14-video-ideas-for-2024/"><u>Boost Your Gaming Presence with These Top 14 Video Ideas for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-online-da-pbm-a-png-utilizzando-movavi-il-tuo-riferimento-esperto-per-la-grafica-digitale/"><u>Conversione Gratuita Online Da PBM a PNG Utilizzando Movavi: Il Tuo Riferimento Esperto per La Grafica Digitale</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-estimate-income-from-youtube-video-snippets-for-2024/"><u>How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-history-streams-that-will-transform-your-study-habits/"><u>In 2024, History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-maze-of-youtube-short-mistakes/"><u>In 2024, Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/securing-your-childs-content-the-essentials-of-kid-friendly-dvd-safeguarding/"><u>Securing Your Child's Content: The Essentials of Kid-Friendly DVD Safeguarding</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-alter-your-windows-pc-wallpaper-tips-from-yl-computing/"><u>Step-by-Step Guide: Alter Your Windows PC Wallpaper - Tips From YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/take-control-of-your-tiktok-videos-learn-numeric-editing-techniques/"><u>Take Control of Your TikTok Videos Learn Numeric Editing Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a78-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A78 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zip-to-srt-converting-zip-extracts-to-subtitle-files/"><u>Zip to SRT Converting ZIP Extracts to Subtitle Files</u></a></li>
 </ul></div>
 
