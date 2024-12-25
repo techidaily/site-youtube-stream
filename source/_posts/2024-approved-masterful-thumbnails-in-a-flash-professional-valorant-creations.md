@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterful Thumbnails in a Flash  Professional Valorant Creations\""
-date: 2024-12-10T16:05:47.658Z
-updated: 2024-12-16T18:19:45.210Z
+date: 2024-12-17T16:59:11.270Z
+updated: 2024-12-25T09:44:36.073Z
 tags:
   - ai video
   - ai youtube
@@ -64,17 +64,21 @@ Step4 Drag the screenshot from the media library into the timeline.
 
 ![filmora add screenshot](https://images.wondershare.com/filmora/article-images/filmora-add-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Use the "[**Smart**](https://tools.techidaily.com/wondershare/filmora/download/) [**Cutout**](https://tools.techidaily.com/wondershare/filmora/download/)" feature to select and cut out specific elements from the screenshot.
 
 ![filmora smart cutout](https://images.wondershare.com/filmora/article-images/filmora-smart-cutout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Choose the elements of the screenshot that you want to keep.
 
 ![filmora select elements](https://images.wondershare.com/filmora/article-images/filmora-select-elements.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Remove any parts of the screenshot that you do not want to include in the thumbnail.
 
@@ -200,6 +204,10 @@ Step2 Launch Filmora and **create** a new project.
 
 ![filmora create project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Import the screenshot into the media library by **clicking** the "**Import**" button.
 
 ![filmora import media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
@@ -216,9 +224,17 @@ Step6 Choose the elements of the screenshot that you want to keep.
 
 ![filmora select elements](https://images.wondershare.com/filmora/article-images/filmora-select-elements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step7 Remove any parts of the screenshot that you do not want to include in the thumbnail.
 
 ![filmora remove elements](https://images.wondershare.com/filmora/article-images/filmora-remove-elements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step8 Extract the selected elements from the screenshot. You can **resize** the elements as desired.
 
@@ -255,6 +271,10 @@ Step15 Choose a still frame that you like and take a snapshot of it.
 Step16 Select the snapshot format and storage path. The snapshot will appear in the media library.
 
 ![filmora save location](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step17 Right-click on the snapshot and **select** "**Reveal in Explorer**" to find the file on your computer. You can now use it as your Valorant thumbnail.
 
@@ -312,10 +332,6 @@ Hiko is currently a content creator for 100 Thieves, a gaming organization he re
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
 C9 meL is a highly respected professional Valorant player and leader of the team Cloud 9 White. She is known for her sense of humor, helpful tips, and Agent tutorials and montages. As the in-game leader for her team, MeL has developed exceptional game sense and strategic skills, making her a valuable teacher and resource for other players.
@@ -341,10 +357,6 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Income Insight: Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue
 
@@ -385,10 +397,6 @@ The process of checking YouTube income on an Android or iOS device is also strai
 Step1 Make sure you have the latest version of the YouTube app on your phone. If not, you can install it from Google Play Store or App Store.
 
 ![how to check youtube income on mobile phone 1](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Log in to your YouTube account and tap on the Profile icon at the top side. Then, select Your Channel.
 
@@ -460,6 +468,10 @@ Step3 Drag-n-drop the video you uploaded to the Timeline.
 
 ![drag n drop video to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 To remove unwanted background from your video, click Effects from the top side of the screen. Select AI Portrait from the left side of the screen and select a preferred AI Portrait effect that you’ll like to use in the video.
 
 ![select ai portrait filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-10.jpg)
@@ -480,10 +492,6 @@ Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected 
 
 ![add subscribe watermark filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step8 Preview the edited video. If you’re satisfied with the output, click the Export button at the top bar and choose Burn DVD from the drop-down list.
 
 ![preview edited video filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-15.jpg)
@@ -496,17 +504,9 @@ Step9 Enter file name in the box next to Label. Then, navigate to Folder Path an
 
 Starting a YouTube channel can be quite hard from start, but make it a priority to upload at least two quality videos every week. Yes, the more quality videos you post, the more you attract the viewer to like your videos, and the higher your chances of getting new subscribers, thereby increasing your YouTube earnings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Promote your Videos
 
 Promoting your YouTube videos is a great way to increase your YouTube earnings. Once you post a new video on YouTube, you can share it to your other social media profiles or websites to increase views and attract new folks to watch the video. The more views you get the more money you’ll make.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Hot FAQs on YouTube channel earnings check
 
@@ -533,6 +533,10 @@ Finance & Investing - $12.25
 Educational Videos - $9.89
 
 Photography & Film Making - $7.31
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -588,6 +592,10 @@ Step2 Tap Analytics from the bottom menu and select Revenue from the top of the 
 
 ![how to check youtube income on mobile phone 5](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The information that you’ll find in the YouTube revenue analytics includes the following;
 
 * **RPM (Revenue Per Mile);** This is the metric that displays how much a creator has earned per 1000 video views.
@@ -597,10 +605,6 @@ The information that you’ll find in the YouTube revenue analytics includes the
 * **Transaction Revenue;** The transaction revenue metric is a breakdown of how much a creator has earned from membership and merch.
 * **Top Earnings;** It shows the data of the video with the highest estimated revenue.
 * **Ad Type;** This displays the percentage of revenue earned from the different types of ads.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How your YouTube earnings are calculated
 
@@ -652,10 +656,6 @@ Step5 Next, drag-n-dop the chosen AI Portrait effect to the timeline. After that
 
 ![drag n drop ai portrait to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Double-click the AI Portrait effect from the Timeline. From the pop-up that appears, adjust the settings according to your requirements.
 
 ![adjust ai portrait effect filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-12.jpg)
@@ -663,6 +663,10 @@ Step6 Double-click the AI Portrait effect from the Timeline. From the pop-up tha
 Step7 You can add Subscribe watermark by clicking the >> icon at the top of the screen, then select Element.
 
 ![click element filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose the ‘Social Media Show Element 07’ Effects. Drag-n-drop the selected effect to the Timeline.
 
@@ -675,10 +679,6 @@ Step8 Preview the edited video. If you’re satisfied with the output, click the
 Step9 Enter file name in the box next to Label. Then, navigate to Folder Path and choose where you want the file to be saved. Afterward, click Export to Finish.
 
 ![export edited videos filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-check-youtube-income-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Upload videos regularly
 
@@ -737,19 +737,18 @@ Checking YouTube income is not a big deal. This article has covered every necess
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-exploring-biggest-fifa-footage-trends-in-graphics/"><u>[New] Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-peak-performers-in-the-world-of-web-videos/"><u>[New] Peak Performers in the World of Web Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-simplify-collaboration-share-and-connect-through-playlists/"><u>[New] Simplify Collaboration Share & Connect Through Playlists</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-want-to-explore-every-shared-piece-by-friends-through-messaging/"><u>[Updated] Want to Explore Every Shared Piece By Friends Through Messaging</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-shot-securement-keeping-cameras-still-on-arms-only/"><u>2024 Approved Shot Securement Keeping Cameras Still on Arms Only</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/creating-compelling-youtube-live-content-with-wirecast/"><u>Creating Compelling Youtube Live Content with WireCast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-world-of-smartwatches-functions-and-features-explained/"><u>Discover the World of Smartwatches: Functions & Features Explained</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-the-disconnection-of-razer-hardware-from-synapse-in-win-1011/"><u>Fixing the Disconnection of Razer Hardware From Synapse in Win 10/11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-outro-crafting-for-beginners-top-6-free-resources/"><u>In 2024, Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-starfield-freezing-issues-optimizing-game-performance-on-windows-computers/"><u>Overcome Starfield Freezing Issues: Optimizing Game Performance on Windows Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-selection-of-top-10-no-cost-conference-software/"><u>Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-end-of-rdo-crashes-expert-tips-and-fixes-for-a-seamless-gaming-experience/"><u>The End of RDO Crashes: Expert Tips and Fixes for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transformez-vos-fichiers-avi-en-mp3-sans-frais-haute-definition-assuree/"><u>Transformez Vos Fichiers AVI en MP3 Sans Frais - Haute Définition Assurée</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>[Updated] 2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-audience-analysis-the-art-of-finding-your-market/"><u>[Updated] 2024 Approved Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-acceleration-trendsetting-with-likes-and-videos/"><u>[Updated] Instagram Acceleration Trendsetting with Likes & Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfecting-video-segmentation-for-enhanced-viewing-experience-on-youtube/"><u>2024 Approved Perfecting Video Segmentation for Enhanced Viewing Experience on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>2024 Approved Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-for-constructing-your-youtube-musical-assortment/"><u>2024 Approved The Ultimate Checklist for Constructing Your YouTube Musical Assortment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-purging-youtube-videos/"><u>2024 Approved The Ultimate Guide to Purging YouTube Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enabling-pip-for-youtube-viewing-on-your-iphone/"><u>Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-platform-question-whos-the-best-vimeo-or-youtubeplusdailymotion/"><u>In 2024, The Ultimate Platform Question Who's the Best - Vimeo or YouTube+Dailymotion?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-youtubes-mechanism-post-upload/"><u>In 2024, Unveiling YouTube's Mechanism Post-Upload</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-barnes-and-nobles-nook-glowlight-plus-maximizing-reading-experience-with-a-large-screen/"><u>In-Depth Look at Barnes & Noble's Nook GlowLight Plus: Maximizing Reading Experience with a Large Screen</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/seamless-integration-of-professional-and-educational-email-into-windows-1110-a-step-by-step-guide/"><u>Seamless Integration of Professional and Educational Email Into Windows 11/10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-simple-techniques-for-effortless-undersea-vids-for-2024/"><u>Unveiling Simple Techniques for Effortless Undersea Vids for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2024-12-13T17:22:52.921Z
-updated: 2024-12-16T17:59:09.902Z
+date: 2024-12-24T07:12:53.835Z
+updated: 2024-12-24T18:27:05.015Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,10 @@ How do you know [what you should talk about in your vlog](https://tools.techidai
 
 Before starting your daily vlogging, you have to figure out one important thing ahead of time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do you have a niche?
 
   You should have a niche. In a genre as broad as vlogging it is important to have some kind of hook that sets you apart from other vloggers. This can be an interest that you have, an industry you work in, or even a field of study you’re involved in at school. If you’re into technology, for example, you’ll always have a wealth of subjects to vlog about because all you’ll have to do is look at the day’s tech news and make a video reporting and commenting on it.
@@ -45,10 +49,6 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
@@ -61,10 +61,6 @@ By commenting on what you’re watching/reading you have a better chance of capi
 
 Carrying a camera around like Casey may or may not suit your lifestyle, but you can still pick out one story from your day to tell. It doesn’t have to be a major event, and you shouldn’t worry that it won’t be interesting to other people. It’s your personality they’re tuning in for, so even if you’re just talking about a funny thing your cat did it will keep your audience interested because a) it’s you talking about it and b) it gives them a bit of insight into your life.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Whatever You Need to Get Out
 
 _Flula is frequently puzzled by English expressions, like 'Party Pooper', and needs to get his confusion off his chest at odd hours of the day._
@@ -74,6 +70,10 @@ _Flula is frequently puzzled by English expressions, like 'Party Pooper', and ne
 It does not matter what it is that is making you have this strong reaction (unless, again, it’s an actual person who might see your video and cause problems for you). If you’re mad about a real injustice in the world then that’s a great thing to talk about – you might even raise some awareness for the issue – but you can also rant about your favorite flavor of yogurt being cut and that’ll be engaging to viewers too.
 
 Alternatively: you could do a vlog about how happy you are to have gotten engaged or a vlog about how happy you are that it was sunny today, and your enthusiasm will carry your audience through either video with you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What did you learn today?
 
@@ -92,7 +92,7 @@ The puya chilensis is a plant that ‘eats’ sheep (sheep get stuck to it, star
 Sea monkeys can survive in space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EVERYTHING
@@ -104,7 +104,7 @@ You could also just flick the camera on and tell the full story of your day like
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **We’ve got a new eBook out!**
@@ -114,7 +114,7 @@ It’s got strategies that have worked for other YouTubers, boiled down to simpl
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -132,19 +132,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube/"><u>[New] First-Time Streamers Unite Learn OBS & Broadcast to Youtube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio/"><u>[New] Taking Your Photo Skills to New Heights Creating Timelapse Footage with GoPro Studio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-immersive-memories-a-compreeved-guide-to-saving-your-vr-gaming-journey-for-2024/"><u>[Updated] Immersive Memories A Compreeved Guide to Saving Your VR Gaming Journey for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>2024 Approved Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-turn-your-shorts-into-cash-effective-monetization-techniques/"><u>2024 Approved Turn Your Shorts Into Cash Effective Monetization Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-camera-for-videos-mirrorless-vs-dslr-showdown/"><u>In 2024, Best Camera for Videos Mirrorless Vs. DSLR Showdown</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bridging-the-gap-between-individual-images-using-picshot/"><u>In 2024, Bridging the Gap Between Individual Images Using Picshot</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>In 2024, Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-sound-clarity-for-youtube-audiences-for-2024/"><u>Mastering Sound Clarity for YouTube Audiences for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-updates-pl2e33-universal-serial-bus-communication-driver/"><u>Secure Updates: PL2e33 Universal Serial Bus Communication Driver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-wi-fi-range-extenders-of-2024/"><u>The Best Wi-Fi Range Extenders of 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-resolving-steam-disk-write-failures/"><u>Troubleshooting Guide: Resolving Steam Disk Write Failures</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/winning-the-game-of-tv-recording-on-a-budget-pc-for-2024/"><u>Winning the Game of TV Recording on a Budget PC for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-understanding-and-executing-essential-mukbang-elements/"><u>[New] 2024 Approved Understanding and Executing Essential Mukbang Elements</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-turbo-speed-for-snapchat-newcomers-video-edition/"><u>[New] In 2024, Turbo Speed for Snapchat Newcomers Video Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-gaming-systems-high-performance-meets-style/"><u>[New] Premium Gaming Systems High Performance Meets Style</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-storytellers-edge-integrating-youtube-vids-with-ig-for-2024/"><u>[New] The Storyteller's Edge Integrating YouTube Vids with IG for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone-for-2024/"><u>[Updated] Cutting Down Curated Content How to Delete FB Story (PC & Phone) for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-surpassing-the-ranks-essential-factors-uncovered/"><u>2024 Approved Surpassing the Ranks Essential Factors Uncovered</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-blueprint-for-successful-freefire-videos-on-youtube/"><u>2024 Approved The Ultimate Blueprint for Successful FreeFire Videos on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-visionary-educators-guide-to-multimedia-use/"><u>2024 Approved The Visionary Educator's Guide to Multimedia Use</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-wealth-wave-of-the-philanthropic-maverick-mr-beast/"><u>2024 Approved The Wealth Wave of the Philanthropic Maverick, Mr. Beast</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exclusive-free-mcb-visual-tools-for-2024/"><u>Exclusive Free MCB Visual Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-superior-airflow-with-maxsuns-new-itx-board-featuring-reversed-gpu-slot-technology/"><u>Experience Superior Airflow with MaxSun's New ITX Board Featuring Reversed GPU Slot Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos-for-2024/"><u>How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-guide-to-playing-twitter-on-chromium-browser/"><u>In 2024, Guide to Playing Twitter on Chromium Browser</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-imaginedge-coder/"><u>In 2024, ImaginEdge Coder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-imovie-hacks-for-unique-and-memorable-youtube-openers/"><u>In 2024, IMovie Hacks for Unique and Memorable YouTube Openers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-live-watch-tracker-applications/"><u>In 2024, Live Watch Tracker Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-one-screen-many-screens-the-art-of-parallel-viewing/"><u>In 2024, One Screen, Many Screens The Art of Parallel Viewing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-strategies-using-leading-networks-facebook-twitter-instagram-and-youtube/"><u>Social Media Strategies Using Leading Networks - Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotify-masterclass-seamlessly-blending-multiple-playlists-together/"><u>Spotify Masterclass: Seamlessly Blending Multiple Playlists Together</u></a></li>
 </ul></div>
 
