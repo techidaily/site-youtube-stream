@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Shorts Thumbnail Losses"
-date: 2024-12-15T19:05:25.468Z
-updated: 2024-12-16T17:11:20.264Z
+date: 2024-12-29T20:13:09.933Z
+updated: 2025-01-03T17:58:53.127Z
 tags:
   - ai video
   - ai youtube
@@ -21,6 +21,10 @@ Video thumbnails are important since they encourage people to click and watch th
 That said, it is a problem you want to solve. Here are 7 FAQs about YouTube Shorts thumbnails. They may help you with fixing this issue.
 
 ![youtube shorts thumbnail not showing problem](https://images.wondershare.com/filmora/article-images/youtube-shorts-thumbnail-not-showing.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q1\. Can I Customize YouTube Shorts Thumbnails?
 
@@ -44,6 +48,10 @@ Adding a custom thumbnail for YouTube Shorts is the same as adding one for long-
 * Navigate to the Thumbnail section. Click "Create Thumbnail."
 
 ![changing shorts thumbnail on youtube studio](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-change-thumbnail-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q2\. Why Are YouTube Shorts Thumbnails Not Showing?
 
@@ -85,6 +93,10 @@ The best thing is that you don't need to transfer the video from your phone to y
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q6\. Do YouTube Shorts Make Money?
 
 Making money from YouTube Shorts was challenging. The platform pays content creators who are doing well through the Creator Fund. However, as Shorts grew, the payout became smaller.
@@ -92,6 +104,10 @@ Making money from YouTube Shorts was challenging. The platform pays content crea
 Luckily, that's going to change. Starting this year, Shorts will be a part of the YouTube Partner Program. This means that you can make money from the ads that people watch on Shorts. According to YouTube, creators will keep 45% of the revenue. It will be distributed based on your share of total Shorts views.
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
@@ -121,10 +137,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Like the Shorts video.
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
@@ -132,10 +144,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Tap "Library"
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Scroll down to find "Liked Videos." Click on it.
 
@@ -146,7 +154,7 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -171,6 +179,10 @@ Luckily, that's going to change. Starting this year, Shorts will be a part of th
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
 You can watch Shorts like normal YouTube videos where you can rewind when you want to. Follow these steps.
@@ -180,10 +192,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Open a Shorts video on YouTube.
 
 ![shorts tab on the youtube website](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Pause the video.
 
@@ -197,23 +205,19 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
 
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Like the Shorts video.
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Tap "Library"
 
@@ -226,10 +230,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -249,12 +249,20 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Social Media Forecasting Through Data Visualization
 
 # Infographic - Social Media Trends
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -264,10 +272,6 @@ The landscape of the social media has been constantly changing over the course o
 Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
 
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
 
@@ -326,7 +330,7 @@ Scroll down to find out this infographic made by [Filmora](https://tools.techida
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
@@ -356,10 +360,6 @@ The landscape of the social media has been constantly changing over the course o
 Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
 
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
 
@@ -394,17 +394,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[New] In 2024, Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-partner-filmmaking-for-channel-expansion-and-engagement/"><u>[New] Partner Filmmaking for Channel Expansion & Engagement</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pinnacle-of-presence-a-strategic-approach-for-live-video-graphics/"><u>[New] Pinnacle of Presence A Strategic Approach for Live Video Graphics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-10-video-editors-webcams-reimagined-for-2024/"><u>[Updated] Ultimate 10 Video Editors Webcams Reimagined for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-plotline-path-to-youtube-prosperity/"><u>2024 Approved Plotline Path to YouTube Prosperity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/creer-des-videos-de-haute-qualite-convertissez-fichiers-avi-en-mp4-gratuitement-sur-movavi/"><u>Créer Des Vidéos De Haute Qualité : Convertissez Fichiers AVI en MP4 Gratuitement Sur Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-strategies-for-effective-youtube-short-creation/"><u>In 2024, Top Strategies for Effective YouTube Short Creation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-d-link-powerline-adapter-2000-straightforward-configuration-and-high-speed-data-transmission/"><u>In-Depth Review of D-Link Powerline Adapter 2000: Straightforward Configuration and High-Speed Data Transmission</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-combining-your-favorite-songs-into-one-spotify-list/"><u>The Ultimate Guide to Combining Your Favorite Songs Into One Spotify List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-peeking-into-apeaksofts-2023-screen-recording-features/"><u>[New] Peeking Into Apeaksoft’s 2023 Screen Recording Features</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-wiping-out-youtube-video-downloads/"><u>[New] Step by Step Wiping Out YouTube Video Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-deciphering-the-twitter-archive-a-beginners-tutorial/"><u>2024 Approved Deciphering the Twitter Archive A Beginner's Tutorial</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-money-trail-exploring-mr-beasts-path/"><u>2024 Approved The Money Trail Exploring Mr. Beast's Path</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-conserver-vos-emails-gmail-sur-un-disque-dur-externe-une-methode-simple/"><u>Comment Conserver Vos Emails Gmail Sur Un Disque Dur Externe : Une Méthode Simple</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/exploring-biggest-fifa-footage-trends-in-graphics-for-2024/"><u>Exploring Biggest FIFA Footage Trends in Graphics for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-idea-to-income-metrics-and-money-making-magic-with-creator-reels/"><u>From Idea to Income: Metrics and Money-Making Magic with Creator Reels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-best-10-free-image-transformers-jpg-to-gif-edition/"><u>In 2024, Best 10 FREE Image Transformers JPG to GIF Edition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a05s-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy A05s to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok/"><u>In 2024, The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok?</u></a></li>
 </ul></div>
 

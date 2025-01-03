@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2024-12-21T01:21:33.382Z
-updated: 2024-12-25T07:54:09.254Z
+date: 2024-12-30T21:33:45.752Z
+updated: 2025-01-03T16:26:05.941Z
 tags:
   - ai video
   - ai youtube
@@ -48,7 +48,7 @@ Let the world know who you are and what you do. If you are planning on starting 
 These kinds of videos make great channel trailers, and they’re a good way to highlight the topics you'll be covering on your channel in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Vlog About Your Day
@@ -71,15 +71,15 @@ Everywhere around you, there are items you can review. The Apple Watch and the l
 
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Your Favorite Songs / Movies / Etc
 
 Are you a Tarantino fan? Why not? When you are struggling to find inspiration for your videos, just think about the things you like. Your subscribers are interested in you, so they’ll be interested in knowing about your favorite movies or music albums. Books, movies, and music are an inexhaustible source of fresh ideas because there is always a new song or a film you can talk about in your video.
 
 You can do a ‘my 5 favorite songs’ type of video, or talk in detail about just one favorite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. What’s on Your Phone?
 
@@ -99,6 +99,10 @@ Education is our only hope for a better world so if you know how to do something
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. 10 Things About You
 
 Being open is important, so why not share 10 things about yourself you think your audience would find interesting or which you think are important for people to know. The top 10 things structure is often used in YouTube videos because it provides a clear rhythm to a video clip, and it enables you to gradually increase the tension as the video progresses.
@@ -106,7 +110,7 @@ Being open is important, so why not share 10 things about yourself you think you
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Video Rant
@@ -123,14 +127,10 @@ If you start your YouTube channel but have no video editing experience, Wondersh
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -148,19 +148,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-art-of-describing-your-podcast-with-flair/"><u>[New] In 2024, The Art of Describing Your Podcast with Flair</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unmasked-photos-simple-blur-solutions-with-piscart/"><u>[Updated] Unmasked Photos Simple Blur Solutions with PiscArt</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-greener-marketing-blend-screens-subscription-tech/"><u>2024 Approved Greener Marketing Blend Screens, Subscription Tech</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-huawei-p60-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Huawei P60 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-files-a-step-by-step-windows-process/"><u>Converting Files: A Step-by-Step Windows Process</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unsuccessful-attempts-to-connect-to-nvidia-geforce-in-windows-11/"><u>Fixing Unsuccessful Attempts to Connect to Nvidia GeForce in Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-yourself-from-video-edges-on-youtube-for-2024/"><u>Free Yourself From Video Edges on YouTube for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/from-zero-to-hero-profit-on-reddit-with-no-experience-top-13-for-2024/"><u>From Zero to Hero Profit on Reddit with No Experience (Top 13) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-a-mark-with-google-slides-by-adding-youtube-videos/"><u>In 2024, Making a Mark with Google Slides by Adding YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-steps-to-restore-your-youtube-shorts-thumbnails/"><u>In 2024, Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/keyboard-failure-heres-how-to-get-it-typing-again/"><u>Keyboard Failure? Here’s How to Get It Typing Again</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-monetization-a-cpm-perspective-for-2024/"><u>Mastering YouTube Monetization A CPM Perspective for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-netflix-and-youtubers-how-jake-paul-succeeded-for-2024/"><u>Navigating Netflix & YouTubers How Jake Paul Succeeded for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[New] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>[New] In 2024, Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mediameld-mixer/"><u>[Updated] MediaMeld Mixer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revealing-the-top-six-where-to-grab-your-snack-videos/"><u>2024 Approved Revealing the Top Six Where to Grab Your Snack Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-key-to-attracting-views-youtube-image-marketing/"><u>2024 Approved The Key to Attracting Views YouTube Image Marketing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-note-30i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Note 30i Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beat-gadget-fomo-and-save-money-affordable-vr-specs-tackle-the-new-iphone-features-challenge-smarttech-trends/"><u>Beat Gadget FOMO & Save Money: Affordable VR Specs Tackle the New iPhone Features Challenge | SmartTech Trends</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hering-the-complexity-of-online-content-monetization/"><u>Deciphering the Complexity of Online Content Monetization</u></a></li>
+<li><a href="https://discover-able.techidaily.com/discovering-free-file-undelete-applications-the-complete-users-handbook-for-effective-data-restoration/"><u>Discovering Free File Undelete Applications: The Complete User's Handbook for Effective Data Restoration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-smoothly-view-youtube-videos-without-borders-for-2024/"><u>How to Smoothly View YouTube Videos without Borders for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>In 2024, From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-led-exploration-of-future-social-trends/"><u>In 2024, Infographic-Led Exploration of Future Social Trends</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-laughter-lane-navigating-to-the-top-15-funny-youtubers/"><u>In 2024, Laughter Lane Navigating to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-for-enthralling-try-on-haul-videos/"><u>In 2024, Techniques for Enthralling Try-On Haul Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/infuse-your-visuals-with-melody-adding-music-in-youtube-editing-for-2024/"><u>Infuse Your Visuals With Melody Adding Music in YouTube Editing for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/monetizing-makeup-tutorial-content-for-2024/"><u>Monetizing Makeup Tutorial Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-iphone-n-charge-rates-with-esrs-new-qi2-magsafe-battery-chargers-the-ultimate-guide-to-faster-heat-free-power-using-cryoboost-technology-9/"><u>Revolutionize Your iPhone N Charge Rates with ESR's New Qi2 MagSafe Battery Chargers: The Ultimate Guide to Faster, Heat-Free Power Using CryoBoost Technology | GadgetInsight</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424552--the-watkins-dictionary-of-magic/"><u>The Watkins Dictionary of Magic | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleashing-the-potential-of-iphone-photos-through-motion-blur-for-2024/"><u>Unleashing the Potential of iPhone Photos Through Motion Blur for 2024</u></a></li>
 </ul></div>
 

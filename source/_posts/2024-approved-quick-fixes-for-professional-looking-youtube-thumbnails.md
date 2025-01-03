@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fixes for Professional-Looking YouTube Thumbnails\""
-date: 2024-12-17T17:13:59.477Z
-updated: 2024-12-24T18:47:31.553Z
+date: 2024-12-31T17:09:55.130Z
+updated: 2025-01-03T21:33:07.891Z
 tags:
   - ai video
   - ai youtube
@@ -43,10 +43,6 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
@@ -59,96 +55,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
-**Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
-
-![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
-
-**Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
-
-![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
-
-**Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
-
-![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
-
-**Step 08:** Double click on any of these effects to see how they will look like on your footage.
-
-![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
-
-**Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
-
-![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
-
-**Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
-
-![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
-
-**Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
-
-![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
-
-**Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
-
-![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
-
-#### Conclusion
-
-This is how your Youtube thumbnail will look like after applying all the above-mentioned effects and settings.
-
-This article on making a thumbnail for your Youtube is just an idea for you, and you can use your creativity to create amazing thumbnails using other features of Filmora. These cool thumbnails will help you attract more viewers and click, which will ultimately help you grow your Youtube Channel. Unlike all other articles and tutorials that show you how to make a thumbnail for Youtube, this method is free and doesn't need any technical skills to be implemented.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Youtube is one of the widely and most used video-sharing platforms all around the world. Being such a huge platform, billions of users upload different videos every second, making it a very competitive platform. Getting your videos noticed and clicked by others requires so many factors to be considered. One of the main factors that increase the chances of your videos being connected and seen by others is an attractive thumbnail. It is the first and the most important factor that helps the viewers decide what to watch and ignore. According to an estimate, among all the best-performing videos on Youtube, 90% have custom thumbnails. So, if you are looking forward to increasing the number of clicks on your videos, having a custom thumbnail is one of the most important things to consider. There are multiple ways to make a thumbnail for Youtube, but most are paid and difficult to use. In this article, we will discuss a hack to make a thumbnail for your Youtube free.
-
----
-
-**You might be interested in:**
-
-* [How to Make Game Streaming Video with AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
-* [How to Make Reaction Video with AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-## How to make a thumbnail for Youtube using AI Portrait
-
-With time, Filmora brings new and advanced features for its users to equip them with all the necessary tools required for effective and efficient video editing. One of its latest features is AI Portrait. This feature has several uses and benefits. This feature is designed for Gamers, Vlogger, and other related genres to help them make their videos stand out from the crowd and gain more clicks and views. AI Portrait contains several effects that help you make the human element of the video separate from the background and make it more obvious. We can also use the AI Portrait effects to make beautiful and attractive thumbnails for your Youtube. Follow these steps to create a stunning thumbnail for your Youtube videos.
-
-**Step 01:** Open Filmora X. If it is not already installed on your computer, download and install its latest version from [here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
-
-**Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
-
-![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 03:** Change the Aspect Ratio to 16:9 if it is not set to it already. 16:9 aspect ratio is the standard size of Youtube thumbnails that represents the best possible results.
-
-![ai-portrait-thumbnail-step3](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
-
-**Step 04:** Choose a background of your choice for your thumbnail. You can choose a background from the sample colors provided by Filmora.
-
-![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
@@ -265,9 +174,96 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
 
+#### Conclusion
+
+This is how your Youtube thumbnail will look like after applying all the above-mentioned effects and settings.
+
+This article on making a thumbnail for your Youtube is just an idea for you, and you can use your creativity to create amazing thumbnails using other features of Filmora. These cool thumbnails will help you attract more viewers and click, which will ultimately help you grow your Youtube Channel. Unlike all other articles and tutorials that show you how to make a thumbnail for Youtube, this method is free and doesn't need any technical skills to be implemented.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Youtube is one of the widely and most used video-sharing platforms all around the world. Being such a huge platform, billions of users upload different videos every second, making it a very competitive platform. Getting your videos noticed and clicked by others requires so many factors to be considered. One of the main factors that increase the chances of your videos being connected and seen by others is an attractive thumbnail. It is the first and the most important factor that helps the viewers decide what to watch and ignore. According to an estimate, among all the best-performing videos on Youtube, 90% have custom thumbnails. So, if you are looking forward to increasing the number of clicks on your videos, having a custom thumbnail is one of the most important things to consider. There are multiple ways to make a thumbnail for Youtube, but most are paid and difficult to use. In this article, we will discuss a hack to make a thumbnail for your Youtube free.
+
+---
+
+**You might be interested in:**
+
+* [How to Make Game Streaming Video with AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
+* [How to Make Reaction Video with AI Portrait](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## How to make a thumbnail for Youtube using AI Portrait
+
+With time, Filmora brings new and advanced features for its users to equip them with all the necessary tools required for effective and efficient video editing. One of its latest features is AI Portrait. This feature has several uses and benefits. This feature is designed for Gamers, Vlogger, and other related genres to help them make their videos stand out from the crowd and gain more clicks and views. AI Portrait contains several effects that help you make the human element of the video separate from the background and make it more obvious. We can also use the AI Portrait effects to make beautiful and attractive thumbnails for your Youtube. Follow these steps to create a stunning thumbnail for your Youtube videos.
+
+**Step 01:** Open Filmora X. If it is not already installed on your computer, download and install its latest version from [here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
+
+**Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
+
+![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
+
+**Step 03:** Change the Aspect Ratio to 16:9 if it is not set to it already. 16:9 aspect ratio is the standard size of Youtube thumbnails that represents the best possible results.
+
+![ai-portrait-thumbnail-step3](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 04:** Choose a background of your choice for your thumbnail. You can choose a background from the sample colors provided by Filmora.
+
+![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
+
+![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
+
+**Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
+
+![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
+
+**Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
+
+![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+**Step 08:** Double click on any of these effects to see how they will look like on your footage.
+
+![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
+
+**Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
+
+![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
+
+**Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
+
+![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
+
+**Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
+
+![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+**Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
+
+![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
 
 #### Conclusion
 
@@ -328,9 +324,17 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
 
 ![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
@@ -386,10 +390,6 @@ Follow @Shanoon Cox
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -419,6 +419,10 @@ Window lighting for me was especially difficult to work with because I live in a
 
 Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Home Lighting
 
 Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
@@ -430,6 +434,10 @@ Notice how the color of Daniel's skin looks much more orange here (above) than t
 Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
 
 Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Home Studio Lighting
 
@@ -458,6 +466,10 @@ As a YouTuber, you may not only want yourself to be seen optimally with proper l
 What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Touch Up YouTube Videos with Filmora
 
@@ -491,105 +503,6 @@ Below, I’ll go into detail on how you can set up your lighting equipment to ma
 ## Part 1: Using Light You Already Have
 
 Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
-
-### 1.  Window Lighting
-
-The best thing about window lighting is that it’s free. The worst thing about it is that it’s uncontrollable. The amount of light you get in your video can vary with all the changes in the weather.
-
-Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
-
-![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
-
-Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 2. Home Lighting
-
-Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
-
-![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
-
-Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
-
-Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
-
-Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Part 2: Home Studio Lighting
-
-If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
-
-### 1. Light Control
-
-The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
-
-### 2. 3-Point Lighting
-
-The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
-
-![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
-
-Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
-
-To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
-
-Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
-
-### 3. 4-Point Lighting
-
-As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
-
-What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
-
-For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
-### Touch Up YouTube Videos with Filmora
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When it comes to sensitivity to light, no consumer-level camera sensor comes close in performance to the human eye. Many newbies to videography, though, don’t think about this when they use their camera indoors and discover that their recorded footage appears too dark.
-
-If you want to use your camera indoors as many YouTubers do, you’ll need to have extra light. But the solution is not as simple as surrounding yourself with lamps that are all randomly placed.
-
-Below, I’ll go into detail on how you can set up your lighting equipment to make your YouTube videos look good.
-
-| Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Part 1: Using Light You Already Have
-
-Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.  Window Lighting
 
@@ -704,8 +617,91 @@ If you rather not deal with all the window and home lighting challenges, you can
 
 The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
 
+### 2. 3-Point Lighting
+
+The most common setup for studio lighting is 3-point lighting. For this kind of lighting you’ll need three lights: a key light, a fill light, and a back light (also called a hair light).
+
+![3-Point Lighting](https://images.wondershare.com/filmora/article-images/youtube-lighting-3-point-lighting.jpg)
+
+Out of the three lights, the key light should be the brightest. When it is positioned to the left of you (as shown in the diagram above) your right side will have shadows.
+
+To minimize the shadows on your right side, use a weaker light as a fill light. You don’t want your fill light to completely eliminate all your shadows or else your shot will look flat.
+
+Lastly, a backlight positioned behind you can give an appealing highlight to the ends of your head and even help to separate your hair from blending into your background if both happen to be dark.
+
+### 3. 4-Point Lighting
+
+As a YouTuber, you may not only want yourself to be seen optimally with proper lighting, but you may also want your background to be seen optimally, especially if you’ve taken the time to decorate it for your audience.
+
+What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
+
+For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
+
+### Touch Up YouTube Videos with Filmora
+
+[Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best video editing software for YouTube beginners to start the YouTube channel. So, if you find the lighting isn't perfect after recording, you can use the Auto Color Enhancement feature in Filmora to adjust the color with one-click. Or, you can change the white balance, Light, color, and HSL manually. Filmora also features some presets and [LUTs templates](https://tools.techidaily.com/wondershare/filmora/download/), which allows you to apply pre-programmed effects to video for color correction faster.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+When it comes to sensitivity to light, no consumer-level camera sensor comes close in performance to the human eye. Many newbies to videography, though, don’t think about this when they use their camera indoors and discover that their recorded footage appears too dark.
+
+If you want to use your camera indoors as many YouTubers do, you’ll need to have extra light. But the solution is not as simple as surrounding yourself with lamps that are all randomly placed.
+
+Below, I’ll go into detail on how you can set up your lighting equipment to make your YouTube videos look good.
+
+| Table of Contents [Using Light You Already Have](#USING-LIGHT-YOU-ALREADY-HAVE) [Window Lighting](#Window-Lighting)[Home Lighting](#Home-Lighting) [Home Studio Lighting](#HOME-STUDIO-LIGHTING) [Light Control](#Light-Control)[3-Point Lighting](#Three-Point-Lighting)[4-Point Lighting](#four-point-lighting) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Part 1: Using Light You Already Have
+
+Most beginner YouTubers light their videos with what they already have. That’s what I did to start as well. In the past, my video recording space consisted of natural sunlight coming from my window and ceiling light for times when the sunlight wasn’t strong enough.
+
+### 1.  Window Lighting
+
+The best thing about window lighting is that it’s free. The worst thing about it is that it’s uncontrollable. The amount of light you get in your video can vary with all the changes in the weather.
+
+Window lighting for me was especially difficult to work with because I live in a very rainy and cloudy city, Vancouver, Canada, where we pretty much just get three months of good sun.
+
+![  YouTube Video Lighting ](https://images.wondershare.com/filmora/article-images/window-lighting-comparison.jpg)
+
+Above are two freeze frames from one of Daniel's past window-lit vlogs. Although these two frames are both from the same vlog, you can see that the image on the right looks brighter due to clearer skies at that moment. These varying amounts of light is what you will have to deal with if you choose to light your YouTube video with window lighting.
+
+### 2. Home Lighting
+
+Home lighting is another source of light that many new YouTubers use. In the past, when my window light wasn’t strong enough to light my video recording space, I would turn on the ceiling light.
+
+![Mixed Lighting](https://images.wondershare.com/filmora/article-images/home-lighting-for-youtube-videos.jpg)
+
+Notice how the color of Daniel's skin looks much more orange here (above) than the color of the skin in the two side-by-side window lighting examples? The side of the face also appears to look bluer. This all happened because he mixed up different color temperatures shining out of the two lights (cooler window light and warmer ceiling light).
+
+Most home lighting is warmer in its color temperature. If you want to use your home lights without everything being orange-tinted, you’ll need to switch out your light bulbs for daytime LED light bulbs.
+
+Ceiling lights are also typically situated in the center of a room in order to light an entire room evenly. This is not likely to be the best location for your filming video. Since the ceiling light was directly above the face in the above example, you can see harder shadows beneath his cheeks.
+
+## Part 2: Home Studio Lighting
+
+If you rather not deal with all the window and home lighting challenges, you can set up studio lighting in your home.
+
+### 1. Light Control
+
+The first thing you’ll want to do to set up studio lighting in your home is to pick a room to film in and eliminate as much external lighting as you can. Use blinds, curtains, towels, or any thick fabric to block sunlight from shining into your room.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. 3-Point Lighting
@@ -727,6 +723,10 @@ As a YouTuber, you may not only want yourself to be seen optimally with proper l
 What you’ll need to ensure that your background is sufficiently lit is 4-point lighting setup. The 4-point lighting setup is the same as a 3-point lighting setup, but with an additional light shining at your background.
 
 For more information on lighting equipment, check out my [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Touch Up YouTube Videos with Filmora
 
@@ -757,22 +757,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-starters-manual-to-mastering-screen-clarity/"><u>[New] 2024 Approved Starter's Manual to Mastering Screen Clarity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>[New] VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-insider-secrets-for-online-gamers-channel-templates/"><u>2024 Approved Insider Secrets for Online Gamers' Channel Templates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>2024 Approved Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-professional-insight-elevating-your-youtube-video-experience/"><u>2024 Approved Professional Insight Elevating Your YouTube Video Experience</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-smooth-integration-of-timestamps-into-desktopmobile-youtube-videos/"><u>2024 Approved Smooth Integration of Timestamps Into Desktop/Mobile YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-soundtrack-synthesis-crafting-the-perfect-youtube-list/"><u>2024 Approved Soundtrack Synthesis Crafting the Perfect YouTube List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-possible-causes-for-look-around-feature-failure-on-your-iphone/"><u>6 Possible Causes for Look Around Feature Failure on Your iPhone</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-upsurge-is-it-nearing-climb-out/"><u>Facebook's Upsurge: Is It Nearing Climb-Out?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>In 2024, From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-youtube-numbers-views-and-earnings-unpacked/"><u>In 2024, Navigating the Youtube Numbers Views & Earnings Unpacked</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-overcoming-low-resolution-output-in-obs/"><u>In 2024, Overcoming Low-Resolution Output in OBS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pursuing-peak-performance-selecting-premium-drone-motors/"><u>In 2024, Pursuing Peak Performance Selecting Premium Drone Motors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revamping-your-podcasts-identity-leading-ai-tools/"><u>In 2024, Revamping Your Podcast's Identity Leading AI Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-the-algorithm-maximizing-earning-potential-on-youtube/"><u>In 2024, Understanding the Algorithm Maximizing Earning Potential on YouTube</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-zero-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Zero 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-year-end-curation-of-youtubes-most-compelling-stories-for-2024/"><u>[New] A Year-End Curation of YouTube’s Most Compelling Stories for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-seamless-transition-of-photos-from-your-device-to-snapchat/"><u>[New] In 2024, How-To Seamless Transition of Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>[New] The Art of Audio Finesse Advanced Editing Strategies for Podcasters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[Updated] Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-virtual-voyages-exploring-new-genre/"><u>[Updated] In 2024, Virtual Voyages Exploring New Genre</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>2024 Approved Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-high-revenue-streaming-star-across-the-globe/"><u>2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rhythms-companion-finding-premium-club-vids/"><u>2024 Approved Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamlessly-connect-your-youtube-and-tiktok-accounts/"><u>2024 Approved Seamlessly Connect Your YouTube and TikTok Accounts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erate-engagement-the-best-12-ways-to-increase-video-popularity-for-2024/"><u>Accelerate Engagement - The Best 12 Ways to Increase Video Popularity for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-excellent-no-cost-online-radio-software-top-picks-and-downloads/"><u>Discover Excellent No-Cost Online Radio Software – Top Picks and Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fullview-media-collaboration-guidebook-for-2024/"><u>FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-insights-small-business-video-mastery/"><u>In 2024, Infographic Insights Small Business Video Mastery</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-embedding-yt-videos-on-your-website-for-2024/"><u>Mastering the Art of Embedding YT Videos on Your Website for 2024</u></a></li>
 </ul></div>
 

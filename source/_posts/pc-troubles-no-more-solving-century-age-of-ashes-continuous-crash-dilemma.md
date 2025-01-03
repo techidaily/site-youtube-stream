@@ -1,7 +1,7 @@
 ---
 title: "PC Troubles No More - Solving 'Century: Age of Ashes' Continuous Crash Dilemma"
-date: 2024-12-18T09:27:30.054Z
-updated: 2024-12-24T23:08:48.902Z
+date: 2024-12-30T18:00:37.086Z
+updated: 2025-01-03T17:31:52.259Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 **After Effects keeps crashing on your Windows computer?** Don’t worry… Although it’s frustrating, you’re definitely not the only one to run into this problem. Lots of Windows users have reported the very same issue recently. The good news is, you’ve landed in the right spot and you should be able to fix it pretty easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 4. [Delete the temp folder of After Effects](https://tools.techidaily.com/drivereasy/download/)
 5. [Reinstall codecs and plugins](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Temporarily disable hardware acceleration
 
@@ -50,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
 1. Launch After Effects and go to**Edit** \>**Preferences** \>**Previews…** .  
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -91,10 +99,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -113,12 +117,12 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -137,11 +141,15 @@ There’re mainly two ways you can update your graphics drivers:
 2. Click**OK** to delete all files from your disk cache.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -157,10 +165,6 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
@@ -168,10 +172,6 @@ If After Effects still crashes, try the next fix, below.
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
@@ -205,20 +205,22 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[New] In 2024, Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pioneering-methods-to-develop-a-memorable-youtube-introduction/"><u>[New] Pioneering Methods to Develop a Memorable YouTube Introduction</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-approach-to-best-youtube-thumbnails-for-2024/"><u>[Updated] A Step-by-Step Approach to Best YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mobile-entertainment-made-easy-download-funimate-apk/"><u>[Updated] In 2024, Mobile Entertainment Made Easy Download Funimate APK</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-chroma-key-techniques-for-professional-videos/"><u>2024 Approved Mastering Chroma Key Techniques for Professional Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-content-curation-with-youtubes-watch-later-feature/"><u>2024 Approved Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sizzling-shots-capturing-culinary-magic/"><u>2024 Approved Sizzling Shots Capturing Culinary Magic</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-youtube-footage-for-ultimate-quality/"><u>2024 Approved Transforming YouTube Footage for Ultimate Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-evga-graphics-cards-drivers-for-windows/"><u>Download & Update Latest EVGA Graphics Cards Drivers for Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-big-sur-readiness-system-and-hardware-guide/"><u>In 2024, Big Sur Readiness System & Hardware Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-your-view-count-cross-platform-studio-methods/"><u>In 2024, Harness Your View Count Cross-Platform Studio Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-techniques-to-halt-live-streams-in-qt-player/"><u>In 2024, Techniques to Halt Live Streams in QT Player</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/krijg-gratis-online-bmp-in-image-naar-png-konvertiering-movavi-image-editor/"><u>Krijg Gratis Online BMP-In Image Naar PNG Konvertiering - Movavi Image Editor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/precision-in-capturing-an-expert-obs-skype-guide-for-2024/"><u>Precision in Capturing An Expert OBS Skype Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-finding-prominent-comment-spotlights/"><u>[New] Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rapid-rendering-of-epic-battle-royale-tiles/"><u>[New] Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtubes-video-comment-features/"><u>[Updated] Mastering YouTube's Video Comment Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>[Updated] The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>2024 Approved Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>2024 Approved Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-reveal-8-authentic-online-video-advancement-hacks/"><u>2024 Approved Reveal 8 Authentic Online Video Advancement Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-video-stories-your-brands-new-voice/"><u>2024 Approved Video Stories Your Brand's New Voice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/aria-headphones-review-pioneering-sound-quality/"><u>Aria Headphones Review: Pioneering Sound Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chucklechops-witworks-corp-for-2024/"><u>ChuckleChops WitWorks Corp for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-boltguns-lags-winning-techniques-for-windows-users/"><u>Eliminating Boltgun's Lags: Winning Techniques for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-customer-motivations-behind-the-apple-vision-pro-3500-investment-zdnet-insights/"><u>Exploring Customer Motivations Behind the Apple Vision Pro $3,500 Investment | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-idea-to-internet-fame-becoming-a-vtuber-for-2024/"><u>From Idea to Internet Fame Becoming a VTuber for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-peeling-back-the-layers-of-magix-image-suite/"><u>In 2024, Peeling Back the Layers of MAGIX Image Suite</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-strategies-for-measuring-yt-success-metrics-and-revenue/"><u>In 2024, Stepwise Strategies for Measuring YT Success Metrics and Revenue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-three-legal-and-safe-methods-of-downloading-youtube-tunes/"><u>In 2024, Three Legal & Safe Methods of Downloading YouTube Tunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-mixer-with-macos-for-smooth-streaming-for-2024/"><u>Integrating Mixer with macOS for Smooth Streaming for 2024</u></a></li>
 </ul></div>
 

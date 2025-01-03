@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Transcribe a YouTube Video [FREE]\""
-date: 2024-12-12T19:11:06.151Z
-updated: 2024-12-16T16:34:37.835Z
+date: 2024-12-29T16:27:44.275Z
+updated: 2025-01-03T21:57:36.629Z
 tags:
   - ai video
   - ai youtube
@@ -53,10 +53,6 @@ On the **Details** page of the next box that appears, scroll down and click **MO
 
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3  Publish the Video
 
 Follow the on-screen instructions from this point to publish the video, and wait while YouTube automatically transcribes and [adds the close captions](https://tools.techidaily.com/wondershare/filmora/download/) to it.
@@ -75,6 +71,10 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 
 ![YouTube Classic Studio](https://images.wondershare.com/filmora/article-images/youtube-edit-on-classic-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. **Download Transcription File**
 
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
@@ -82,7 +82,7 @@ Click and open the **Actions** drop-down list from the top-left corner of the le
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
@@ -116,6 +116,10 @@ Copy the URL of YouTube video you want to transcribe, go to <https://www.kapwing
 Click **Auto-generate** from the right window, and follow the on-screen instructions to **transcribe YouTube video to text**.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Download the Transcription File**
 
@@ -151,10 +155,6 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 * Kapwing is free to use
@@ -180,6 +180,10 @@ If the speaker in the video is from a different region and is using an accent th
 * **Repurposing on Blogs**
 
 If you own a blog that you have embedded your video to, the transcription could be used to add text to it so the target audience can get a fair idea of what the video is all about. This is useful because many people prefer reading over watching.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### YouTube Video Transcription FAQs
 
@@ -209,7 +213,7 @@ If you made any modifications to the transcript that was automatically generated
 ![Edit YouTube subtitles](https://images.wondershare.com/filmora/article-images/edit-automatic-youtube-video-transcription.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click to open the **Actions** drop-down list from the upper-left corner
@@ -222,10 +226,6 @@ If you made any modifications to the transcript that was automatically generated
 If you are looking for a quick and easy way of adding subtitles to your videos, letting **YouTube transcribe** for you could be a good approach. However, because these auto-generated transcriptions are created by machine learning algorithms, their accuracy cannot be counted on. Therefore, the best way to get the job done accurately is, let YouTube auto-transcribe your video, download the transcription file, make the necessary changes to it, and then upload the file back to the video.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -242,14 +242,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-14-dynamic-text-animation-samples/"><u>[New] 2024 Approved Unveiling 14 Dynamic Text Animation Samples</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-expert-advice-incorporating-narrative-elements-into-youtube-videos/"><u>[New] Expert Advice Incorporating Narrative Elements Into YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[New] FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>[New] Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/decoding-cyberpunk-eon-2077-an-exploration-of-its-shortcomings-and-brilliance/"><u>Decoding Cyberpunk Eon 2077: An Exploration of Its Shortcomings and Brilliance</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-successfully-embed-youtube-playlists-via-web-scripts-for-2024/"><u>How to Successfully Embed YouTube Playlists via Web Scripts for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-releases-information-on-z790-board-failures-due-to-flawed-pch-chips-manufacturing-glitch-affects-select-units-latest-news/"><u>MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-top-picks-best-split-screen-video-apps-for-iphone-and-android/"><u>New S Top Picks Best Split-Screen Video Apps for iPhone and Android</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-tiktok-video-magic-how-to-reverse-speed-up-and-slow-down-your-clips/"><u>Updated 2024 Approved TikTok Video Magic How to Reverse, Speed Up, and Slow Down Your Clips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-spotlighting-pioneering-talent-in-online-ad-craftsmanship/"><u>[New] Spotlighting Pioneering Talent in Online Ad Craftsmanship</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-avoiding-consequences-when-quitting-discord-spaces-for-2024/"><u>[Updated] Avoiding Consequences When Quitting Discord Spaces for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart-for-2024/"><u>[Updated] The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge/"><u>2024 Approved From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>2024 Approved How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-engagement-with-integrated-youtube-playlist-features/"><u>2024 Approved Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>2024 Approved The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-11-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 11 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-selecting-snug-winter-scenes-as-video-sets/"><u>In 2024, Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-voice-transformation-devices-for-creators/"><u>In 2024, Ultimate Voice Transformation Devices for Creators</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-easily-use-korean-to-english-video-translators/"><u>New How To Easily Use Korean to English Video Translators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-timeless-trove-of-freely-shared-works/"><u>The Timeless Trove of Freely Shared Works</u></a></li>
 </ul></div>
 

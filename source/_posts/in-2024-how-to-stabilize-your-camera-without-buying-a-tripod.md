@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Stabilize Your Camera without Buying a Tripod?"
-date: 2024-07-29T21:20:37.026Z
-updated: 2024-07-30T21:20:37.026Z
+date: 2024-12-29T16:32:03.140Z
+updated: 2025-01-03T21:08:00.471Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,6 @@ thumbnail: https://www.lifewire.com/thmb/kVXxldjY4nN2hgMn5Y-hRfsNJOk=/540x405/fi
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
@@ -39,9 +36,6 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -111,6 +105,10 @@ _Note: make sure the bolt is a fit for your camera before you get too far into t
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -129,16 +127,10 @@ When you’re trying to grow a channel on YouTube it can feel like equipment is 
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -155,14 +147,15 @@ Here it is with binder clips:
 
 And here it is with hair clips:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **DIY adjustable tripod using books and a towel**
 
@@ -187,9 +180,6 @@ Gorillapod’s are cool because you can use them like normal tripods, carry them
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -212,10 +202,11 @@ _**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 
 
 _Note: make sure the bolt is a fit for your camera before you get too far into this process._
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -231,9 +222,6 @@ Follow @Richard Bennett
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
@@ -242,10 +230,6 @@ Wondershare Filmora has the best video stabilization tool is your videos have a 
 
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -258,25 +242,16 @@ Hold your phone in landscape mode (horizontally, so it’s long rather than tall
 
 Here it is with binder clips:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 And here it is with hair clips:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -295,17 +270,15 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -328,12 +301,11 @@ _**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 
 
 _Note: make sure the bolt is a fit for your camera before you get too far into this process._
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -349,20 +321,18 @@ Follow @Richard Bennett
 
 When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### DIY Your Video with Wondershare Filmora
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here are 3 of our favorite DIY tripods.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### **DIY smartphone tripod using binder clips or hair clips**
 
 You’re a solo operation and your best camera is on your phone. That’s pretty common.
@@ -375,9 +345,6 @@ Hold your phone in landscape mode (horizontally, so it’s long rather than tall
 
 Here it is with binder clips:
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 And here it is with hair clips:
@@ -388,9 +355,6 @@ Now you can set your smartphone upon any stable surface, like a table or a stack
 
  _Here are some more cool ideas!_
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -408,9 +372,6 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
@@ -481,9 +442,6 @@ Luckily, this article offers YouTube SEO tips to help you create a solid strateg
 
 [**11 Useful YouTube SEO Tips to Help Boost Your Video Ranking**](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does YouTube SEO Work?
 
 YouTube SEO is an excellent way to ensure your videos get more views. The main goal of YouTube SEO is to rank high for specific keywords in search engines. As such, it is crucial to know how YouTube SEO works if you want to boost the ranking of your videos.
@@ -492,9 +450,6 @@ Whether you are a blogger, market researcher, or video marketer, you need YouTub
 
 Because search engine bots can't watch YouTube videos, they depend on accompanying text data when indexing them. So you must also know how to harness the power of text in your video, which can positively impact SEO, viewership, engagement, and user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Watch Video: YouTube SEO Tips 2022: Boost Your Video Ranking
 
 ## 11 Useful YouTube SEO Tips to Help Boost Your Video Ranking
@@ -503,11 +458,11 @@ Want to drive more traffic and increase your video views? Here are eleven YouTub
 
 #### 1\. Conduct Keyword Research First
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - conduct keywords reseaerch first](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When it comes to YouTube SEO, keywords are crucial. YouTube uses these keywords to determine the subject of your video, index the content, and then associate it with what users are searching for. As such, you must add them to certain fields, including description, tags, and title, when you are uploading the video file. YouTube will then get this information and use it to rank your video.
 
@@ -525,9 +480,6 @@ Each time you publish a new video, make sure you embed it on your website or blo
 
 #### 4\. Add Tags To The Video Description
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube seo tips - add tags to video](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-3.png)
 
 When you upload your video, remember to add tags to the "About" section of the page. You can do this by adding some relevant keywords with each tag like you would with blog posts.
@@ -536,18 +488,12 @@ When planning your strategy for YouTube keywords, you need to find 10-20 single 
 
 #### 5\. Edit The Filename
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![youtube seo tips - edit the file name](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-4.png)
 
 The filename of your video, or the "video URL," can also affect its rankings. Including keywords in this section will help the crawlers index your video faster, which will increase its chances of ranking higher.
 
 #### 6\. Add Subtitles and Closed Captions
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![youtube seo tips - add subtitles and closed captions](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-5.png)
 
 Adding subtitles and closed captions to your videos is also a good idea, especially if you want the video's ranking and viewership to improve. Subtitles make it easier for new viewers to understand your videos, especially if your audience comes from different linguistic backgrounds.
@@ -648,10 +594,6 @@ Each time you publish a new video, make sure you embed it on your website or blo
 
 #### 4\. Add Tags To The Video Description
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - add tags to video](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-3.png)
 
 When you upload your video, remember to add tags to the "About" section of the page. You can do this by adding some relevant keywords with each tag like you would with blog posts.
@@ -674,13 +616,14 @@ Adding subtitles and closed captions to your videos is also a good idea, especia
 
 ![youtube seo tips - select video category](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When uploading a video, be sure to select the most appropriate category for it. Essentially, this helps with SEO optimization because choosing the right category means that YouTube's algorithm will place your video in the proper search results. In turn, viewers will easily find your video and watch it.
 
 #### 8\. Use a Compelling Thumbnail
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube seo tips - use compelling thumbnail](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-7.png)
 
 Make sure you use [the right YouTube video thumbnail image](https://tools.techidaily.com/wondershare/filmora/download/), as this makes a big difference in the click-through rate. You might want to use high-quality, high-contrast images with a 16:9 aspect ratio. YouTube will choose which frame it will display as the video thumbnail. The platform will present three screenshots that you can choose from; however, you can upload your image or select a shot of another moment in the video.
@@ -745,19 +688,12 @@ Because search engine bots can't watch YouTube videos, they depend on accompanyi
 
 ### Watch Video: YouTube SEO Tips 2022: Boost Your Video Ranking
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 11 Useful YouTube SEO Tips to Help Boost Your Video Ranking
 
 Want to drive more traffic and increase your video views? Here are eleven YouTube SEO tips that will help you to boost your video ranking.
 
 #### 1\. Conduct Keyword Research First
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![youtube seo tips - conduct keywords reseaerch first](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-1.png)
 
 When it comes to YouTube SEO, keywords are crucial. YouTube uses these keywords to determine the subject of your video, index the content, and then associate it with what users are searching for. As such, you must add them to certain fields, including description, tags, and title, when you are uploading the video file. YouTube will then get this information and use it to rank your video.
@@ -766,10 +702,6 @@ For this reason, you have to know the keywords that best identify your videos an
 
 #### 2\. Use a Good Video Title
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - video title](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-2.png)
 
 The title of your video is the first thing other people see, and it's what decides whether or not they watch it. Given how important it is, you'll want to make sure that your title accurately reflects the content of your video and includes all relevant keywords.
@@ -788,9 +720,6 @@ When planning your strategy for YouTube keywords, you need to find 10-20 single 
 
 #### 5\. Edit The Filename
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube seo tips - edit the file name](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-4.png)
 
 The filename of your video, or the "video URL," can also affect its rankings. Including keywords in this section will help the crawlers index your video faster, which will increase its chances of ranking higher.
@@ -810,6 +739,10 @@ When uploading a video, be sure to select the most appropriate category for it. 
 #### 8\. Use a Compelling Thumbnail
 
 ![youtube seo tips - use compelling thumbnail](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure you use [the right YouTube video thumbnail image](https://tools.techidaily.com/wondershare/filmora/download/), as this makes a big difference in the click-through rate. You might want to use high-quality, high-contrast images with a 16:9 aspect ratio. YouTube will choose which frame it will display as the video thumbnail. The platform will present three screenshots that you can choose from; however, you can upload your image or select a shot of another moment in the video.
 
@@ -843,9 +776,6 @@ Google cares about how people respond to your content because this is what keeps
 
 #### 11\. Add End Screens and YouTube Cards
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - add end screens and youtube cards](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-8.png)
 
 YouTube cards encourage viewers to take action during your video. The cards show up in the top right corner of your videos; users can click on and explore more. Using YouTube cards is an excellent way to boost your ranking. YouTube allows you to add a maximum of five cards to each video.
@@ -882,9 +812,6 @@ Want to drive more traffic and increase your video views? Here are eleven YouTub
 
 #### 1\. Conduct Keyword Research First
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - conduct keywords reseaerch first](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-1.png)
 
 When it comes to YouTube SEO, keywords are crucial. YouTube uses these keywords to determine the subject of your video, index the content, and then associate it with what users are searching for. As such, you must add them to certain fields, including description, tags, and title, when you are uploading the video file. YouTube will then get this information and use it to rank your video.
@@ -893,9 +820,6 @@ For this reason, you have to know the keywords that best identify your videos an
 
 #### 2\. Use a Good Video Title
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![youtube seo tips - video title](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-2.png)
 
 The title of your video is the first thing other people see, and it's what decides whether or not they watch it. Given how important it is, you'll want to make sure that your title accurately reflects the content of your video and includes all relevant keywords.
@@ -906,9 +830,6 @@ Each time you publish a new video, make sure you embed it on your website or blo
 
 #### 4\. Add Tags To The Video Description
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![youtube seo tips - add tags to video](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-3.png)
 
 When you upload your video, remember to add tags to the "About" section of the page. You can do this by adding some relevant keywords with each tag like you would with blog posts.
@@ -919,23 +840,20 @@ When planning your strategy for YouTube keywords, you need to find 10-20 single 
 
 ![youtube seo tips - edit the file name](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The filename of your video, or the "video URL," can also affect its rankings. Including keywords in this section will help the crawlers index your video faster, which will increase its chances of ranking higher.
 
 #### 6\. Add Subtitles and Closed Captions
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube seo tips - add subtitles and closed captions](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-5.png)
 
 Adding subtitles and closed captions to your videos is also a good idea, especially if you want the video's ranking and viewership to improve. Subtitles make it easier for new viewers to understand your videos, especially if your audience comes from different linguistic backgrounds.
 
 #### 7\. Select Video Category
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - select video category](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-6.png)
 
 When uploading a video, be sure to select the most appropriate category for it. Essentially, this helps with SEO optimization because choosing the right category means that YouTube's algorithm will place your video in the proper search results. In turn, viewers will easily find your video and watch it.
@@ -976,9 +894,6 @@ Google cares about how people respond to your content because this is what keeps
 
 #### 11\. Add End Screens and YouTube Cards
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![youtube seo tips - add end screens and youtube cards](https://images.wondershare.com/filmora/article-images/2021/youtube-seo-tips-8.png)
 
 YouTube cards encourage viewers to take action during your video. The cards show up in the top right corner of your videos; users can click on and explore more. Using YouTube cards is an excellent way to boost your ranking. YouTube allows you to add a maximum of five cards to each video.
@@ -1000,5 +915,20 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-organizing-soundtracks-formulating-a-youtube-music-list/"><u>[New] Organizing Soundtracks Formulating a YouTube Music List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporating-jump-cuts-for-smoother-edits/"><u>2024 Approved Incorporating Jump Cuts for Smoother Edits</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>2024 Approved Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-polishing-your-youtube-production-post-publishment/"><u>2024 Approved Polishing Your YouTube Production Post-Publishment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-updated-youtube-income-guidelines/"><u>2024 Approved Updated YouTube Income Guidelines</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-asus-rog-phone-7-ultimate-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Asus ROG Phone 7 Ultimate in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-moto-g34-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Moto G34 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-100-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor 100 Pro Phone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-14-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 14 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/iphone-photography-secrets-unveiled-for-2024/"><u>IPhone Photography Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/mastering-user-management-a-guide-to-controlling-access-through-your-account-settings-in-yl-computings-platform/"><u>Mastering User Management: A Guide to Controlling Access Through Your Account Settings in YL Computing's Platform</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unlocking-adobe-premiere-pro-import-edit-and-export-video-files-with-ease/"><u>New Unlocking Adobe Premiere Pro Import, Edit, and Export Video Files with Ease</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-10-free-online-video-compression-tools-no-software-required-for-2024/"><u>Updated Top 10 Free Online Video Compression Tools No Software Required for 2024</u></a></li>
+</ul></div>
 

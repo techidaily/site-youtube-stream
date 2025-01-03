@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unparalleled Video Intros Made Easy with Online Tools"
-date: 2024-12-10T18:21:23.102Z
-updated: 2024-12-16T19:05:54.464Z
+date: 2024-12-31T21:11:49.738Z
+updated: 2025-01-03T22:11:38.899Z
 tags:
   - ai video
   - ai youtube
@@ -32,100 +32,7 @@ An intro video goes a long way towards building your brand and showing viewers t
 2. [5 Tips for Making Great Intros](#tips)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Free Intro Makers
-
-Here’s a list of 4 places you can create or download FREE YouTube intros with no watermark.
-
-#### [Blender](https://www.blender.org/)
-
-Blender is a free, open-source, ‘3D creation suite’. It’s great for modeling and animation, and you can even use it to make your YouTube intros.
-
-This is an extremely powerful program. You can create cartoons and video game prototypes in Blender. This does mean that it’s probably not realistic for someone with no experience in animation to jump in and make a quick intro for their YouTube channel. However, if you want to learn Blender, all of the information you need is easily accessible through the tutorials on their site.
-
-What’s a bit more realistic than learning an entire animation suite to make an intro is to download a premade template and just customize it in Blender. You can find YouTube intro templates that are editable in Blender on YouTube and [Velosofy](#velosofy).
-
-#### [Movietools](http://www.movietools.info/)
-
-This is a great site where you can download all kinds of free resources including video loops and animated backgrounds you can use to build YouTube intros.
-
-You cannot download a complete Intro with your own text and/or logo from Movietools the way you can with Panzoid, but they can provide most of the resources you would need to build a sequence in Filmora or another editor.
-
-Downloads from Movietools come as WMV (Windows Media) or MP4 files.
-
-#### [Panzoid](https://panzoid.com/)
-
- For a lot of creators, Panzoid is the default site they go to for YouTube intros, and that’s with good reason. Panzoid has an endless supply of intro templates (new ones are created weekly by members of their community) which you can edit right on the site.
-
-A lot of the intro templates on Panzoid include music, and almost all of them include 3D text.
-
-Click on a template you like and then click ‘open in clipmaker’.
-
-In the clipmaker, you’ll be able to edit the template however you like. The main change you’ll want to make will probably be to the text – you’ll want it to say your channel name. In the menu on the left side of the screen, you’ll see an icon that looks like a cube. Click on it to bring up a list of the objects in the sequence.
-
-The text will probably be under a heading such as ‘Group: All’, although there may be some variation on this depending on who built the template. Look for something that says ‘Group: Text’ in one of the dropdown menus and then look at where it says ‘Text: (the text from the template)’. There will probably be at least two fields like this for one word/line (they’re layers of the same thing). Make sure to edit them all to say the same thing or your intro will look odd.
-
-Click the icon that looks like an arrow pointing down to choose your quality (next to mode) and format before you export. The highest quality will make your clip slow to download, but that could be worth it since you’ll probably get a lot of use out of this clip and you only need to download it once.
-
-#### [Velosofy](https://www.velosofy.com/)
-
-Velosofy has a ton of great intro templates you can download for free. The only complication is that the downloads are project files for programs like Sony Vegas or After Effects, making it difficult to use them unless you have those programs.
-
-Luckily, one of the programs Velosofy has intro downloads for is [Blender](#blender), the free animation software discussed above. You can download YouTube intro templates from Velosofy to edit in Blender and end up with a great custom intro for free.
-
-## 5 Tips for Making a Great Intro
-
-Here are some tips for making an intro that supports the growth of your YouTube channel.
-
-#### 1\. Keep it Under 10 Seconds
-
-Someone who doesn’t know you, who is shopping around for the best video to watch on a particular topic, will not have the patience to sit through a long intro. In order to stop them from clicking away, you’ll need to keep your intro short. Ten seconds is the longest you can get away with, and that’s only if your intro is exciting and includes a lot of movement and music.
-
-Five seconds will be better than 10 seconds in most cases.
-
-#### 2\. Match Your Channel’s Branding
-
-Your intro should help to strengthen your personal brand by using the same kinds of colors and fonts found in your channel art and thumbnails.
-
-Beyond matching your visuals, your intro should support the general tone of your channel. If you tend to be upbeat in your videos, upbeat music and brighter colors are probably best. If you’re a tech channel, something sleek with a black background could be better.
-
-#### 3\. Use Music
-
-Viewers are likely to get distracted and click away during silent pauses. In order to keep their attention through your intro, you’ll need to include music, and maybe even a sound effect.
-
-#### 4\. Include Your Channel Name
-
-This might seem basic, but there are intros out there where the creator has overlooked this. One of the main purposes of your intro is to brand your video, so there’s nothing more important than including your channel name.
-
-#### 5\. Introduce Your Topic Before Your Intro
-
-Instead of putting your intro at the very beginning of your video, put a short clip ahead of it where you explain your topic. A viewer that is looking for you to get to the point quickly might click away if the first thing they see is the intro instead of information relevant to their search.
-
- What's your YouTube intro like? Can you think of a way you'd like to change or improve it?
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-An intro video goes a long way towards building your brand and showing viewers that you’re serious about YouTube. Here’s where you can make or download intros, plus some tips on making intros that support the growth of your channel.
-
-1. [4 Free Intro Makers](#makers)
-2. [5 Tips for Making Great Intros](#tips)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Intro Makers
@@ -257,9 +164,98 @@ Velosofy has a ton of great intro templates you can download for free. The only 
 
 Luckily, one of the programs Velosofy has intro downloads for is [Blender](#blender), the free animation software discussed above. You can download YouTube intro templates from Velosofy to edit in Blender and end up with a great custom intro for free.
 
+## 5 Tips for Making a Great Intro
+
+Here are some tips for making an intro that supports the growth of your YouTube channel.
+
+#### 1\. Keep it Under 10 Seconds
+
+Someone who doesn’t know you, who is shopping around for the best video to watch on a particular topic, will not have the patience to sit through a long intro. In order to stop them from clicking away, you’ll need to keep your intro short. Ten seconds is the longest you can get away with, and that’s only if your intro is exciting and includes a lot of movement and music.
+
+Five seconds will be better than 10 seconds in most cases.
+
+#### 2\. Match Your Channel’s Branding
+
+Your intro should help to strengthen your personal brand by using the same kinds of colors and fonts found in your channel art and thumbnails.
+
+Beyond matching your visuals, your intro should support the general tone of your channel. If you tend to be upbeat in your videos, upbeat music and brighter colors are probably best. If you’re a tech channel, something sleek with a black background could be better.
+
+#### 3\. Use Music
+
+Viewers are likely to get distracted and click away during silent pauses. In order to keep their attention through your intro, you’ll need to include music, and maybe even a sound effect.
+
+#### 4\. Include Your Channel Name
+
+This might seem basic, but there are intros out there where the creator has overlooked this. One of the main purposes of your intro is to brand your video, so there’s nothing more important than including your channel name.
+
+#### 5\. Introduce Your Topic Before Your Intro
+
+Instead of putting your intro at the very beginning of your video, put a short clip ahead of it where you explain your topic. A viewer that is looking for you to get to the point quickly might click away if the first thing they see is the intro instead of information relevant to their search.
+
+ What's your YouTube intro like? Can you think of a way you'd like to change or improve it?
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Nov 01, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+An intro video goes a long way towards building your brand and showing viewers that you’re serious about YouTube. Here’s where you can make or download intros, plus some tips on making intros that support the growth of your channel.
+
+1. [4 Free Intro Makers](#makers)
+2. [5 Tips for Making Great Intros](#tips)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Free Intro Makers
+
+Here’s a list of 4 places you can create or download FREE YouTube intros with no watermark.
+
+#### [Blender](https://www.blender.org/)
+
+Blender is a free, open-source, ‘3D creation suite’. It’s great for modeling and animation, and you can even use it to make your YouTube intros.
+
+This is an extremely powerful program. You can create cartoons and video game prototypes in Blender. This does mean that it’s probably not realistic for someone with no experience in animation to jump in and make a quick intro for their YouTube channel. However, if you want to learn Blender, all of the information you need is easily accessible through the tutorials on their site.
+
+What’s a bit more realistic than learning an entire animation suite to make an intro is to download a premade template and just customize it in Blender. You can find YouTube intro templates that are editable in Blender on YouTube and [Velosofy](#velosofy).
+
+#### [Movietools](http://www.movietools.info/)
+
+This is a great site where you can download all kinds of free resources including video loops and animated backgrounds you can use to build YouTube intros.
+
+You cannot download a complete Intro with your own text and/or logo from Movietools the way you can with Panzoid, but they can provide most of the resources you would need to build a sequence in Filmora or another editor.
+
+Downloads from Movietools come as WMV (Windows Media) or MP4 files.
+
+#### [Panzoid](https://panzoid.com/)
+
+ For a lot of creators, Panzoid is the default site they go to for YouTube intros, and that’s with good reason. Panzoid has an endless supply of intro templates (new ones are created weekly by members of their community) which you can edit right on the site.
+
+A lot of the intro templates on Panzoid include music, and almost all of them include 3D text.
+
+Click on a template you like and then click ‘open in clipmaker’.
+
+In the clipmaker, you’ll be able to edit the template however you like. The main change you’ll want to make will probably be to the text – you’ll want it to say your channel name. In the menu on the left side of the screen, you’ll see an icon that looks like a cube. Click on it to bring up a list of the objects in the sequence.
+
+The text will probably be under a heading such as ‘Group: All’, although there may be some variation on this depending on who built the template. Look for something that says ‘Group: Text’ in one of the dropdown menus and then look at where it says ‘Text: (the text from the template)’. There will probably be at least two fields like this for one word/line (they’re layers of the same thing). Make sure to edit them all to say the same thing or your intro will look odd.
+
+Click the icon that looks like an arrow pointing down to choose your quality (next to mode) and format before you export. The highest quality will make your clip slow to download, but that could be worth it since you’ll probably get a lot of use out of this clip and you only need to download it once.
+
+#### [Velosofy](https://www.velosofy.com/)
+
+Velosofy has a ton of great intro templates you can download for free. The only complication is that the downloads are project files for programs like Sony Vegas or After Effects, making it difficult to use them unless you have those programs.
+
+Luckily, one of the programs Velosofy has intro downloads for is [Blender](#blender), the free animation software discussed above. You can download YouTube intro templates from Velosofy to edit in Blender and end up with a great custom intro for free.
 
 ## 5 Tips for Making a Great Intro
 
@@ -399,10 +395,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Revel in the Rhythm of Rising Text
 
@@ -443,7 +435,7 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
@@ -456,10 +448,6 @@ Click **EXPORT** from the top of the interface, go to the **Local** tab in the *
 
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
 
 Double click the text track, go to the **Chroma Key** effect, select the **Color Picker** tool, and click anywhere in the Preview window to get things right. Finally, export the entire project to your preferred output format as explained in **Step 4**.
@@ -467,6 +455,10 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
 
@@ -479,10 +471,6 @@ Some most trusted websites to generate **bounce text** are listed below:
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
 
@@ -509,6 +497,10 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 **Step 2: Customize the Text and Choose Animation Effect**
 
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
@@ -580,10 +572,6 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Generate Animated Bouncing Texts Online
 
 If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
@@ -636,6 +624,10 @@ Generating **bounce text** effect is much simpler when you use Wondershare Filmo
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -667,10 +659,6 @@ Click **Titles** from the standard toolbar at the top, and click and drag your p
 In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
 
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Add Shake Filters**
 
@@ -688,6 +676,10 @@ Click **EXPORT** from the top of the interface, go to the **Local** tab in the *
 
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
 
 Double click the text track, go to the **Chroma Key** effect, select the **Color Picker** tool, and click anywhere in the Preview window to get things right. Finally, export the entire project to your preferred output format as explained in **Step 4**.
@@ -695,10 +687,6 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
 
@@ -737,6 +725,10 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 **Step 2: Customize the Text and Choose Animation Effect**
 
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
@@ -784,11 +776,19 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Add Shake Filters**
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
@@ -881,21 +881,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/erfecting-youtube-videos-with-angle-rotation-mastery/"><u>[New] Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-creative-commons-key-to-video-content-sharing/"><u>[New] YouTube Creative Commons Key to Video Content Sharing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-orchestrating-a-journey-through-hidden-youtube-archives/"><u>2024 Approved Orchestrating a Journey Through Hidden YouTube Archives</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-youtube-videos-adding-subtitles-and-cc-proficiently/"><u>2024 Approved Streamlining YouTube Videos Adding Subtitles & CC Proficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-most-enjoyable-free-movies-to-watch-on-youtube-in-july-2024/"><u>Discover the Most Enjoyable Free Movies to Watch on YouTube in July 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-solutions-for-fixing-missing-class-errors-in-windows-systems/"><u>Effective Solutions for Fixing ‘Missing Class’ Errors in Windows Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-iphone-speech-recordings/"><u>Getting Started with iPhone Speech Recordings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-realme-narzo-n53-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Realme Narzo N53 Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-world-of-youtube-subscription-services/"><u>In 2024, Inside the World of YouTube Subscription Services</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-jump-cuts-for-dynamic-vlogging/"><u>In 2024, Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>In 2024, Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-speedy-spread-of-youtube-playlists-techniques/"><u>In 2024, Speedy Spread of Youtube Playlists Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-zoom-audio-high-fidelity-and-unmuted-channels-for-2024/"><u>Mastering Zoom Audio High Fidelity & Unmuted Channels for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mp3-broadcasting-made-easy-upload-tutorial-for-youtube-for-2024/"><u>MP3 Broadcasting Made Easy Upload Tutorial for YouTube for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/video-to-cartoon-conversion-made-easy-a-beginners-guide-for-2024/"><u>Video to Cartoon Conversion Made Easy A Beginners Guide for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-charting-growth-the-best-online-stock-yts/"><u>[New] 2024 Approved Charting Growth The Best Online Stock YTs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-15-best-youtube-channels-for-stock-market-to-follow/"><u>[New] In 2024, 15 Best YouTube Channels for Stock Market to Follow</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>[New] In 2024, Spark Interest with Animated Text A Guide for Instagram Storytellers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-enthralling-viewers-stream-with-success-even-if-youre-just-starting-out/"><u>[Updated] 2024 Approved Enthralling Viewers Stream with Success, Even if You're Just Starting Out</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-team-ups-finding-perfect-co-stars-for-2024/"><u>[Updated] Mastering YouTube Team-Ups Finding Perfect Co-Stars for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-7-dslr-selections-for-in-depth-vlog-documentaries/"><u>2024 Approved Optimal 7 DSLR Selections For In-Depth Vlog Documentaries</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-triple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>2024 Approved Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-and-effective-privatevpn-examination-discovering-the-strengths-of-a-budget-friendly-high-performance-community-based-security-solution/"><u>Affordable and Effective PrivateVPN Examination: Discovering the Strengths of a Budget-Friendly, High-Performance, Community-Based Security Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile-for-2024/"><u>From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-your-video-framing-journey-without-a-budget-on-youtube/"><u>In 2024, Navigate Your Video Framing Journey Without a Budget on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transferring-tracks-a-guide-to-offline-youtube-for-ios-users/"><u>In 2024, Transferring Tracks A Guide to Offline YouTube for iOS Users</u></a></li>
 </ul></div>
 

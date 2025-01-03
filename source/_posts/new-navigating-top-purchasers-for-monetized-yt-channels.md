@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Top Purchasers for Monetized YT Channels"
-date: 2024-12-15T18:14:42.636Z
-updated: 2024-12-16T17:21:30.659Z
+date: 2024-12-27T20:36:16.933Z
+updated: 2025-01-03T18:06:30.046Z
 tags:
   - ai video
   - ai youtube
@@ -39,10 +39,6 @@ Investing in a pre-existing, monetized YouTube channel is a great idea. It saves
 * [Trustiu](#filmora9)
 * [Accs Market](#filmora10)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\.** [**UseViral**](https://useviral.com/buy-youtube-channel-with-monetization-enabled)
 
 This is one of the best options available to buy monetize YouTube channel. They offer precious monetized YouTube channel packages. Your new channel will be ready for monetization with more than 4,000 watch time hours and a 1,000+ subscriber base.
@@ -60,6 +56,10 @@ To get your monetized channel, you will be required to fill out a brief question
 This is a well-known social media growth strategist that allows you to buy a monetized YouTube channel. The site stands out for offering assistance with growing the YouTube channel and other social media platforms.
 
 ![slidesmedia](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 SlidesMedia promises to use only human editors on your YouTube channel. They give you a channel with genuine content. You also get the assurance that the content is not bot-generated..
 
@@ -134,7 +134,7 @@ PlayerUp offers monetized YouTube channels for sale in its marketplace. The plat
 ![playerup](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-8.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The high quality of the videos posted in the channels under sale will make them stand out in marketing campaigns. This is also a great platform for buying branded content and advanced filters.
@@ -185,6 +185,10 @@ The auto-synchronization feature allows you to effortlessly match your audio wit
 
 ![ai auto synchronization](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-12.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [**Auto Reframe**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 With the rise of YouTube Shorts, reframing your videos is now more of a necessity than an option. You need to appeal to both YouTube viewers and those who consume content in the vertical orientation. The Filmora Auto Reframe feature allows you to automatically resize your videos with no editing skills needed. To use this feature:
@@ -200,10 +204,6 @@ One of the ways is by clicking on the Auto Reframe option when you launch Filmor
 Define the aspect ratio in the dialogue box that opens. A widescreen has an aspect ratio of 16:9 while a vertical one is 9:16.
 
 ![auto reframe 2](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-14.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Analyze and Auto Reframe the Video
 
@@ -258,6 +258,10 @@ This is a well-known social media growth strategist that allows you to buy a mon
 
 ![slidesmedia](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 SlidesMedia promises to use only human editors on your YouTube channel. They give you a channel with genuine content. You also get the assurance that the content is not bot-generated..
 
 **Price:** $529 - $2400.
@@ -269,6 +273,10 @@ SlidesMedia promises to use only human editors on your YouTube channel. They giv
 AudienceGain is a popular social media marketing platform. They offer a wide range of services, including selling monetized YouTube channels.
 
 ![audiencegain](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With a proven track record, AudienceGain stands out for offering quality customer service. They support you before, during, and after the purchase. They also provide organically grown channels to make sure you are not demonetized.
 
@@ -288,19 +296,11 @@ Fameswap offers a safe method of communication between vendors and buyers throug
 
 **Customer Rating**: 8.5/10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\.** [**Eazy Viral**](https://eazyviral.com/product/buy-monetized-youtube-channel/)
 
 Another excellent choice is to buy a monetized YouTube channel. It allows you to choose from numerous channel types. Users also specify the number of subscribers and watch times they want.
 
 ![eazy viral](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Eazy Viral promises quality content that will not infringe on the rights of others. They also make it simple to monetize your videos and safeguard your AdSense account.
 
@@ -344,10 +344,6 @@ The high quality of the videos posted in the channels under sale will make them 
 
 **Customer Rating**: 7.5/10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **9\.** [**Trustiu**](https://www.trustiu.com/en/buy-youtube-channel)
 
 This is a great choice for for satisfying shopping experience. The platform makes it easy to purchase YouTube channels almost instantly.
@@ -378,15 +374,15 @@ In addition to buying a monetized YouTube channel, you will need to create quali
 
 Wondershare offers a wide range of features that make video editing fun and easy. From automation tools to video enhancement, you can do a lot to your video on the same platform. The most useful features for YouTube monetization include:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [**AI Copywriting**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 This feature integrates the ChatGPT API, allowing you to get inspiration through AI-generating scripts. You can also generate text during video editing, as well as YouTube Titles and Descriptions.
 
 ![ai copywriting](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-11.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [**Auto Synchronization**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -409,10 +405,6 @@ One of the ways is by clicking on the Auto Reframe option when you launch Filmor
 Define the aspect ratio in the dialogue box that opens. A widescreen has an aspect ratio of 16:9 while a vertical one is 9:16.
 
 ![auto reframe 2](https://images.wondershare.com/filmora/article-images/2023/where-to-buy-a-monetized-youtube-channel-a-complete-guide-14.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Analyze and Auto Reframe the Video
 
@@ -448,6 +440,10 @@ In today’s world where businesses are going digital, it is very important to t
 
 If you are a budding YouTuber or just looking at starting to make YouTube videos, you should consider among your editing tools a YouTube Clip Maker. It is an application that has all the tools necessary for you to edit videos in a fast and convenient way and enables you to upload the completed videos to YouTube. It is a simple tool with a friendly-to-use interface for editing videos, it should be a must-have for all users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Best YouTube Clip Maker Filmora
 
 Filmora is a feature-rich audio and video editor that helps beginners with the editing of their audio and video files. The designers did their job with the armature editors in mind. It gives them a simple and easy-to-use layout that makes the work less complicated. Filmora has a built-in feature that lets you record your music and voice and also trim, merge, and cut a split your mp3 files.
@@ -455,10 +451,6 @@ Filmora is a feature-rich audio and video editor that helps beginners with the e
 Besides all the wonderful features, Filmora lets you make adjustments to speed, pitch, and volume, this makes you improve the clarity of your audio file. The app can be used to customize ringtones and specialized sound effects for your presentation.
 
 ![drag video to timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -546,6 +538,10 @@ Step 3:**Share**
 
 You can export your project up to 4k and 60fps. The app saves directly to your camera’s roll besides letting you share to social media.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Related FAQs
 
 ****How to Make a Clip from a YouTube Video** **？**
@@ -623,7 +619,7 @@ Export
 Once you are done editing and happy with the outcome, select the Export button to start rendering the video. Here you can choose to publish it on YouTube or save it for other uses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. YouTube Clip Maker for Android and iPhone
@@ -741,6 +737,10 @@ Adjust your video's appearance parameters by blending color modes, adding light 
 Step 3:**Share**
 
 You can export your project up to 4k and 60fps. The app saves directly to your camera’s roll besides letting you share to social media.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Related FAQs
 
@@ -867,16 +867,24 @@ YouTubers use several video editors for their work. Some of the most popular edi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[Updated] In 2024, How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporate-no-cost-tunes-to-boost-your-vlogs/"><u>2024 Approved Incorporate No-Cost Tunes to Boost Your Vlogs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-rise-above-the-noise-must-have-video-seo-tools/"><u>2024 Approved Rise Above the Noise – Must-Have Video SEO Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>A Picture's Worth a Thousand Dollars Online Top Photo Cloud Services Reviewed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/detailed-review-and-tips-picsart-users-for-2024/"><u>Detailed Review & Tips PicsArt Users for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/enhance-subscriber-relationships-in-4-simple-steps-using-massmail-software/"><u>Enhance Subscriber Relationships in 4 Simple Steps Using MassMail Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-premium-quality-the-lenovo-tab-m10-fhdplus-2020-review-stunning-screen-on-a-shoestring/"><u>Experience Premium Quality: The Lenovo Tab M10 (FHD+, 2020) Review - Stunning Screen on a Shoestring</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>In 2024, Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-32-free-backup-solutions-evaluated-and-compared-for-you/"><u>Ultimate List of 32 FREE Backup Solutions, Evaluated and Compared for You</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>[New] Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[New] From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-complete-guide-to-facebook-dominance-business-edition/"><u>[New] In 2024, The Complete Guide to Facebook Dominance Business Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-incors-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings/"><u>[New] Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>[New] Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-drawing-apps-for-iphones/"><u>[Updated] 2024 Approved Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-video-streams-across-networks-using-vlc/"><u>2024 Approved Navigating Video Streams Across Networks Using VLC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-streams-of-cash-from-content-creation/"><u>2024 Approved Securing Streams of Cash From Content Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-open-source-templates-transform-your-youtube-channel/"><u>In 2024, Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-peeking-into-pixel-performance-a-complete-guide-to-measuring-views-and-income-on-youtube/"><u>In 2024, Peeking Into Pixel Performance A Complete Guide to Measuring Views and Income on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>In 2024, Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>In 2024, Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-free-tunes-steps-for-youtube-content-creators/"><u>In 2024, Unlock Free Tunes Steps for YouTube Content Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-network-outage-at-connection-terminal/"><u>Resolved: Network Outage at Connection Terminal</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-bamboo-seamless-upgrade-and-installation/"><u>Wacom Bamboo: Seamless Upgrade and Installation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-note-30-vip-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Note 30 VIP? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

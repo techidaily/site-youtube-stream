@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplify Your Life  A Guide on Quick Removal of YouTube Feedback\""
-date: 2024-07-29T21:22:10.166Z
-updated: 2024-07-30T21:22:10.166Z
+date: 2025-01-01T19:02:07.986Z
+updated: 2025-01-03T17:52:15.505Z
 tags:
   - ai video
   - ai youtube
@@ -35,6 +35,10 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [Part 3: How to Delete Your Comments from YouTube?](#part3)
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete YouTube Comments from Desktop?
 
@@ -70,8 +74,9 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Delete Your Comments from Your Phone?
 
 Don’t have a desktop handy? This section will tell you how you can delete your comments you posted on your or someone else’s YouTube video from your mobile.
@@ -86,9 +91,6 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -107,15 +109,12 @@ To find your History from your desktop, you need to click on the three horizonta
 2. Once you find your target comment, click on the three vertical dots that appear on its right side. You will find the Report option from the pop-up menu. Click on that.
 3. When you tap Report, another dialogue box will appear. From the list of options, choose the most appropriate option, tap on Report at the lower right corner of the pop-up, and complete the process. YouTube will do the rest.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete All Your Posted YouTube Comments?
 
 You can also delete all comments you ever posted on any YouTube video by hiding your channel. When you do this, you can hide your video content temporarily. But it will irreversibly erase all your comments throughout YouTube. If you are curious, read on to know how you can do it.
@@ -129,23 +128,25 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![   YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![   YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -153,12 +154,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-countdown-configuration-guide-for-obs-enthusiasts/"><u>[New] Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fists-vs-followers-choosing-the-champion/"><u>[New] Fists vs Followers Choosing the Champion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-subscribe-does-it-really-amplify-watch-time/"><u>[New] Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-screens-final-touches/"><u>2024 Approved Mastering YouTube Screens' Final Touches</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-risk-free-youtube-video-mp4-downloading/"><u>2024 Approved Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>2024 Approved Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-software-drivers-for-lenovo-legion-5-pros-optimal-performance/"><u>Essential Software Drivers for Lenovo Legion ˈ5 Pro's Optimal Performance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-initiate-internet-income-low-cost-youtube-channel-buys/"><u>In 2024, Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-satire-skills-video-comedy-mastery-tips/"><u>In 2024, Satire Skills Video Comedy Mastery Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-visual-marking-in-youtube-posts-with-watermarks-and-logos/"><u>In 2024, Streamline Visual Marking in Youtube Posts with Watermarks & Logos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-swiftly-adjust-youtube-videos-to-mac-screen-ratios/"><u>In 2024, Swiftly Adjust YouTube Videos to Mac Screen Ratios</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-guide-prime-video-stabilizers/"><u>In 2024, Ultimate Guide Prime Video Stabilizers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-chuckle-inducing-layout/"><u>Optimal Chuckle-Inducing Layout</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-checklist-to-prepare-your-zoom-room/"><u>The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-sound-card-driver-packs-fast-download-for-windows-operating-systems/"><u>Top Sound Card Driver Packs - Fast Download for Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-the-future-the-latest-ipad-pro-and-air-models-set-to-launch-in-may-gadget-innovations-roundup/"><u>Unboxing the Future: The Latest iPad Pro and Air Models Set to Launch in May | Gadget Innovations Roundup</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-online-dailymotion-converter-fast-free-and-easy-to-use/"><u>Updated 2024 Approved Online Dailymotion Converter Fast, Free, and Easy to Use</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-most-popular-video-resume-builders-templates-and-tools-inside/"><u>Updated In 2024, S Most Popular Video Resume Builders Templates and Tools Inside</u></a></li>
+</ul></div>
 
