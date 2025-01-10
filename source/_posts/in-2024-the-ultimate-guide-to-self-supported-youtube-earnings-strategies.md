@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Self-Supported YouTube Earnings Strategies\""
-date: 2024-07-29T21:17:24.888Z
-updated: 2024-07-30T21:17:24.888Z
+date: 2025-01-08T16:16:19.470Z
+updated: 2025-01-10T16:31:17.328Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/rQ3q4SoJdzdvXlfXUbIk9JHjOFk=/400x300/fi
 
 # How to Make Money on YouTube Without Ads
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -35,20 +32,18 @@ But why should there be any other way? What’s wrong with simply focusing on ad
 
 More and more people are making a living by creating videos on YouTube. According to the [YouTube Partner Program](https://youtube-creators.googleblog.com/2018/01/additional-changes-to-youtube-partner.html), YouTube has seen a 40% year-over-year of channels making 6 figures from viewer ads engagements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best YouTube Video Editor--Wondershare Filmora
 
 Over thousands of hours of content are uploaded on YouTube every day and people are going crazy to earn money with video monetization. There should be a minimum time gap between your video shoot, editing, and uploading it to your channel. Wondershare Filmora Video Editor can help you get your videos edited faster. Not only the interface is simple and intuitive, it has both the basic and professional editing tools such as cutting, trimming, crop&zoom, a large collection of video effects and royalty-free music, and you can also upload the video directly on YouTube after editing. All of these make Filmora stand out in the queue and become a favorite tool to edit YouTube videos.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **What is the YouTube Partner Program (YPP)?**
 
 [YPP enables YouTubers to make money from an advertisement](https://www.filmora.io/community-blog/youtube-monetization---the-ultimate-guide-to-ad-revenue-422.html) that appears before or during their videos.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **How Much Money Can YouTubers Make from Ads?**
 
 The answer to this question varies depending on the channel and the audience, as YouTubers don’t make money for views but rather from how often people engage with the ads. If a viewer watches more than 30 seconds of the ad or clicks it, then the YouTuber will make money.
@@ -63,9 +58,6 @@ This is a general estimate of how much a YouTuber can make from ads once they qu
 
 \- 1000 video views will equal between $2-$5
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **Why It’s So Hard for YouTubers to Make Money From Ads**
 
 For new YouTubers, it is getting harder and harder to get to that point where their sole income can be from YouTube ads. Before they can make a penny, they must first qualify.
@@ -79,6 +71,10 @@ For new YouTubers, it is getting harder and harder to get to that point where th
  Once they have monetization turned on, it’s only the beginning. YouTubers need to create good content consistently. In order to earn $100 for the initial payout, they need an average of 50,000 views. That’s just $100! A lot of views and not a big payout. Hardly enough to quit your day job.
 
 That is why it is essential to have alternative ways to make money on YouTube, and not rely on the ads shown on your videos. So, without further ado, here are 4 other ways to make money on YouTube:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **1\. Sell Your Product or Service:**
 
@@ -114,6 +110,10 @@ _YouTuber, Jake Paul uses eCommerce platform_ [_Fanjoy_](https://fanjoy.co/colle
 
  ![YouTuber Sunny Lenarduzzi](https://images.wondershare.com/filmora/article-images/sunny-lenarduzzi2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _YouTuber and entrepreneur, Sunny Lenarduzzi uses YouTube as a platform to get clients for her consulting business._
 
 #### **How to Sell a Product or Service on YouTube**
@@ -142,19 +142,17 @@ The video is over 9 minutes long and not once does he tell his audience to buy a
 
 **Link in the description box:**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![link in the description box](https://images.wondershare.com/filmora/article-images/link-in-description-box4.jpg)
 
 **The YouTube Card:**
 
 ![youtube card tutorial](https://images.wondershare.com/filmora/article-images/youtube-card-tutorial5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube card details](https://images.wondershare.com/filmora/article-images/youtube-card-details6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can add one or multiple cards to direct viewers to your website or to another related video.
 
@@ -174,6 +172,10 @@ Lilly Singh did not start a YouTube channel to sell her book, [_How to Be a Baws
 
 For example, [Remi Cruz](https://www.youtube.com/watch?v=Uke6eXzgjQQ), a YouTuber with over 2.2 million subscribers. Remi created a beauty brand and DIY face mask, [Honey Pop](https://shophoneypop.com/), which could only have happened after taking the time to understand her supportive audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2\. Affiliate Marketing:**
 
 Businesses know that there are more eyes watching YouTube than ever — behind Google, YouTube is the second most popular place for people researching what to buy — and influencers and reviews are an effective method of getting sales. You can leverage that by participating in affiliate marketing as a YouTuber.
@@ -184,9 +186,6 @@ As a YouTuber, you can share your thoughts on products or services, and if there
 
 The average affiliate commission rate is between 5% to 30%, with a lot of variables. Some low price range items will have a higher commission, while higher-priced items will have lower commissions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![affiliate links](https://images.wondershare.com/filmora/article-images/affiliat-link8.jpg)
 
 _Travel YouTuber,_ [_Sorelle Amore_](https://www.youtube.com/user/SorelleIAm) _’s affiliate links to her vlogging gears._
@@ -227,10 +226,6 @@ Here is the list of 4 popular affiliate marketing networks:
 
 You can also partner with brands directly as many of them, such as [Sephora](https://www.sephora.com/affiliates) and [Canon](https://shop.usa.canon.com/shop/en/catalog/affiliate-program), will have their own affiliate program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **3\. Brand Deal or Sponsorships:**
 
 Selling out, that is often the thought when we hear creators getting brand deals and sponsorships, but that stigma is unfounded if the brand and the content are properly aligned. As your channel grows, you will begin to recognize brands that match your values — and the values of your viewers — and those that don’t.
@@ -249,10 +244,6 @@ The decision-makers behind brands might not be aware of influencers with a small
 
 If you want to get a brand deal and become an influencer on YouTube, then you will have to put yourself out there to be discovered and that is on an Influencer Marketing Network, such as [Famebit](https://famebit.com/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![famebit brand](https://images.wondershare.com/filmora/article-images/famebit-brand10.jpg)
 
 #### **How Influencer Marketing Platforms Like Famebit Works**
@@ -271,8 +262,9 @@ Steps to getting a brand deal:
  Unlike celebrity marketing, YouTube creators have shown brands over the years that they are inventive and clever with how they can present the brand to the audience to drive the best results. This type of independence is what makes YouTube influencer marketing special.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  
 
 ## **4\. Crowdfunding:**
@@ -322,13 +314,15 @@ Got questions about making money on YouTube? Leave a comment below. We love to h
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -336,4 +330,18 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>[New] Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-is-inshot-leading-video-editing-an-examination-review-for-2024/"><u>[Updated] Is InShot Leading Video Editing? An Examination Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-logic-pros-efficient-approach-to-softening-audio-levels/"><u>[Updated] Logic Pro's Efficient Approach to Softening Audio Levels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-road-less-filmed-journeying-into-the-heart-of-travel-vlogging/"><u>[Updated] The Road Less Filmed Journeying Into the Heart of Travel Vlogging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-launching-success-streamline-your-first-youtube-business-channels/"><u>2024 Approved Launching Success Streamline Your First YouTube Business Channels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-limelight-rhythms-the-creme-de-la-crop-of-yt-short-scores/"><u>2024 Approved Limelight Rhythms The Crème De La Crop of YT Short Scores</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/for-social-media-savants-distinguishing-between-igtv-and-youtube-for-2024/"><u>For Social Media Savants Distinguishing Between IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>In 2024, Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-non-starting-indexing-in-windows/"><u>Methods to Prevent Non-Starting Indexing in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-enhancing-your-acer-nitro-5-with-the-latest-driver-updates/"><u>Step-by-Step Tutorial: Enhancing Your Acer Nitro 5 with the Latest Driver Updates</u></a></li>
+</ul></div>
 

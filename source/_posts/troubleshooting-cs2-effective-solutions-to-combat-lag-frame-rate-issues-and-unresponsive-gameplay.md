@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting CS2: Effective Solutions to Combat Lag, Frame Rate Issues & Unresponsive Gameplay"
-date: 2024-12-29T19:58:55.099Z
-updated: 2025-01-03T18:19:31.039Z
+date: 2025-01-04T16:54:39.438Z
+updated: 2025-01-10T16:50:47.464Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
@@ -45,6 +45,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
@@ -65,6 +69,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -82,6 +90,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -91,18 +103,10 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -112,25 +116,21 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,21 +159,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-solid-foundation-youtube-video-script-basics/"><u>[New] 2024 Approved Building a Solid Foundation YouTube Video Script Basics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-frontline-contenders-top-7-action-fps-games/"><u>[New] 2024 Approved Frontline Contenders Top 7 Action FPS Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-harmonizing-your-camera-and-drone-with-a-pro-gimbal/"><u>[New] Harmonizing Your Camera and Drone with a Pro Gimbal</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-shopping-guide-to-the-best-websites-for-box-enigmas/"><u>[Updated] Exclusive Shopping Guide to the Best Websites for Box Enigmas</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-laying-the-groundwork-for-successful-channels/"><u>2024 Approved Laying The Groundwork For Successful Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-a-statement-with-free-profile-pics/"><u>2024 Approved Make a Statement With Free Profile Pics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-fast-sharing-youtube-playlists-made-simple/"><u>2024 Approved Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>2024 Approved Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pushing-past-plateaus-the-strategic-guide-for-youtube-success/"><u>2024 Approved Pushing Past Plateaus The Strategic Guide for Youtube Success</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a15-4g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A15 4G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-updates-for-your-scansnap-s1300i-quick-and-simple-installation-guide/"><u>Get the Latest Updates for Your ScanSnap S1300i - Quick & Simple Installation Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/harness-your-view-count-cross-platform-studio-methods-for-2024/"><u>Harness Your View Count Cross-Platform Studio Methods for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/learn-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs-for-2024/"><u>Learn to Record and Save Your Watching Experience on YouTube with Zero Costs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterclass-in-timelapse-capture-via-gopro-studio/"><u>Masterclass in Timelapse Capture via GoPro Studio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-turn-off-youtube-previews-on-all-devices/"><u>[Updated] 2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-thrift-in-tech-streaming-free-seminars-on-youtube/"><u>2024 Approved Thrift in Tech Streaming FREE Seminars on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>2024 Approved Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-video-editors-top-8-linux-picks/"><u>2024 Approved Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x7b-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor X7b Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-m14-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy M14 4G Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-15-pro-max-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 15 Pro Max Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-the-legal-aspects-of-youtube-content-capture/"><u>In 2024, Exploring the Legal Aspects of YouTube Content Capture</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A05?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-raising-the-bar-youtubes-live-streaming-excellence/"><u>In 2024, Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-your-youtube-earnings-a-triad-approach-to-financial-examination-and-analysis/"><u>In 2024, Unleash Your YouTube Earnings A Triad Approach to Financial Examination and Analysis</u></a></li>
+<li><a href="https://win-superb.techidaily.com/prevent-computer-overheating-with-proven-strategies-by-yl-software-experts/"><u>Prevent Computer Overheating with Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808309818-save-big-claim-your-20-off-deal-using-the-official-driver-easy-coupon-start-now/"><u>Save Big: Claim Your 20% Off Deal Using the Official Driver Easy Coupon - Start Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-updates-mac-data-software-with-enhanced-user-interface/"><u>Stellar Updates Mac Data Software with Enhanced User Interface</u></a></li>
 </ul></div>
 

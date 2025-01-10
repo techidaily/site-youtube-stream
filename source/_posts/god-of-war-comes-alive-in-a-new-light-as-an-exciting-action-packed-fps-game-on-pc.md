@@ -1,7 +1,7 @@
 ---
 title: God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!
-date: 2024-12-30T17:24:30.212Z
-updated: 2025-01-03T16:18:10.553Z
+date: 2025-01-05T16:24:36.967Z
+updated: 2025-01-10T17:08:20.772Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ God of War
 
  If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix the game fps drops, stuttering, and other performance issues easily!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the God of War FPS drops for other PC players. You probably don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -47,10 +43,6 @@ God of War
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, AAA titles like God of War work better with the latest graphics driver.
@@ -67,6 +59,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -90,6 +86,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
  If the Ultimate Performance option doesn’t appear on the power plan list, follow the steps below to unhide it:
@@ -101,14 +101,10 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -129,6 +125,10 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -155,10 +155,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays may interfere with God of War, and sometimes they may even introduce performance issues and compatibility issues. Try disabling the in-game overlay before playing the game.
@@ -170,18 +166,18 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -192,6 +188,10 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
@@ -222,21 +222,24 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-color-changes-11-essential-tips/"><u>[New] 2024 Approved Mastering Color Changes 11 Essential Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporate-no-cost-tunes-to-boost-your-vlogs/"><u>2024 Approved Incorporate No-Cost Tunes to Boost Your Vlogs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-youtube-melodies-safe-free-extraction-methods/"><u>2024 Approved Unlocking YouTube Melodies Safe, Free Extraction Methods</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/8-techniques-for-high-quality-pc-audio-documentation/"><u>8 Techniques for High-Quality PC Audio Documentation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/achieving-flawless-visual-balance-aspect-ratios-matter-for-2024/"><u>Achieving Flawless Visual Balance Aspect Ratios Matter for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizu-21withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizu 21with/without a PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-video-to-music-youtube-to-mp3-on-macos/"><u>In 2024, From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-social-media-trends/"><u>In 2024, Infographic - Social Media Trends</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovator-of-cinematic-soundscapes-and-imagery/"><u>In 2024, Innovator of Cinematic Soundscapes & Imagery</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-camon-30-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Camon 30 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>In 2024, The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>In 2024, Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformer-un-fichier-ogg-en-flac-gratuitement-online-par-movavi/"><u>Transformer Un Fichier OGG en FLAC Gratuitement - Online Par Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-with-error-code-critical-fixes/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite with Error Code Critical Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-next-move-an-enhanced-security-os-for-cutting-edge-ai-data-centers-insights-and-progress-report/"><u>Unveiling Apple's Next Move: An Enhanced Security OS for Cutting-Edge AI Data Centers | Insights and Progress Report</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-melody-mixin-adding-tracks-to-snapchat-vids/"><u>[New] In 2024, Melody Mixin' Adding Tracks to Snapchat Vids</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rhythms-companion-finding-premium-club-vids/"><u>[New] Rhythm's Companion Finding Premium Club Vids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>[Updated] 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-monetization-assessment-creators-income-gauge/"><u>[Updated] Monetization Assessment Creators’ Income Gauge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-for-social-media-savvy-content-sharers/"><u>2024 Approved Guide for Social Media Savvy Content Sharers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securely-distributing-exclusive-youtube-videos-through-gmail/"><u>2024 Approved Securely Distributing Exclusive YouTube Videos Through Gmail</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-no-tripod-path-to-flawless-images/"><u>2024 Approved The No-Tripod Path to Flawless Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722121343411-chatgpt-desktop-awaiting-explore-these-superb-free-community-driven-apps-now/"><u>ChatGPT Desktop Awaiting? Explore These Superb Free, Community-Driven Apps Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fixing-popular-youtube-short-snafus-for-2024/"><u>Fixing Popular YouTube Short Snafus for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-ace-the-social-game-10-essential-insta-tools-reviewed/"><u>In 2024, Ace the Social Game 10 Essential Insta-Tools Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hacks-for-preventing-youtube-short-failures/"><u>In 2024, Hacks for Preventing YouTube Short Failures</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>In 2024, Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beginners-blueprint-for-youtube-trailers-via-filmora/"><u>In 2024, The Beginner's Blueprint for YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-in-depth-technique-for-formulating-youtube-playlists/"><u>In 2024, The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://win-hot.techidaily.com/maximizing-efficiency-with-yl-software-solutions-discover-the-key-benefits-for-your-business/"><u>Maximizing Efficiency with YL Software Solutions: Discover the Key Benefits for Your Business</u></a></li>
+<li><a href="https://common-error.techidaily.com/steady-yourself-in-valorant-with-restart-fix/"><u>Steady Yourself in Valorant With Restart Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-tech-jobs-how-cybersecurity-cloud-computing-and-programming-are-shaping-the-market-zdnet/"><u>The Future of Tech Jobs: How Cybersecurity, Cloud Computing & Programming Are Shaping the Market | ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-what-to-do-when-your-iphones-home-button-fails/"><u>Troubleshooting: What To Do When Your iPhone's Home Button Fails?</u></a></li>
 </ul></div>
 
