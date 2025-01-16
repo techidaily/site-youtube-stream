@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Audio Pops & Unexpected Sounds - Simple Tips & Tricks
-date: 2025-01-06T16:17:32.572Z
-updated: 2025-01-10T16:58:17.423Z
+date: 2025-01-12T05:59:37.234Z
+updated: 2025-01-16T00:15:22.374Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -39,6 +35,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -48,6 +48,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
 
@@ -55,17 +59,13 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 5. If the sound is unmuted, move to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Try to move the slider up to increase the volume.  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/volume-mixer.jpg)
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set Speakers as Default
 
@@ -74,10 +74,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 1. Right-click the speaker icon at the bottom right corner of the desktop and click on**Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
@@ -89,7 +85,15 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -100,19 +104,15 @@ Follow these steps:
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57354ce2ad87d.png)
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -126,7 +126,7 @@ Follow these steps:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -151,22 +151,24 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-discover-the-power-of-audacity-for-mac-users-audio-recording-for-2024/"><u>[New] Discover the Power of Audacity for Mac Users' Audio Recording for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-add-narration-and-voiceovers-to-your-video/"><u>2024 Approved How to Add Narration and Voiceovers to Your Video</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-harness-the-power-of-obs-on-android-gadgets/"><u>2024 Approved How to Harness the Power of OBS on Android Gadgets</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-traffic-with-these-must-use-freefire-tags-for-videos/"><u>2024 Approved Maximize Traffic with These Must-Use FreeFire Tags for Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-invisible-trail-fbs-preview-functionality-explained/"><u>2024 Approved Navigating the Invisible Trail FB's Preview Functionality Explained</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-precision-and-perfection-a-guide-to-youtube-studio-video-edits/"><u>2024 Approved Precision and Perfection A Guide to YouTube Studio Video Edits</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-proven-techniques-for-captivating-viewers-with-live-video-graphics/"><u>2024 Approved Proven Techniques for Captivating Viewers with Live Video Graphics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-distribute-your-youtube-collection/"><u>2024 Approved Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-a05s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on A05s</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>In 2024, Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-videographer-to-income-generator-on-youtube/"><u>In 2024, From Videographer to Income Generator on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>In 2024, Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>In 2024, The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-the-oculus-quest-2-the-best-affordable-virtual-reality-adventure-awaits-in-this-in-depth-assessment/"><u>Mastering the Oculus Quest 2: The Best Affordable Virtual Reality Adventure Awaits in This In-Depth Assessment</u></a></li>
-<li><a href="https://win-able.techidaily.com/outriders-wont-boot-up-discover-easy-fixes-for-the-2022-pc-edition/"><u>Outriders Won't Boot Up? Discover Easy Fixes for the 2022 PC Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolution-found-for-device-error-48/"><u>Resolution Found for Device Error 48</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-using-gifs-in-instagram-comments-like-a-pro/"><u>The Ultimate Guide: Using GIFs in Instagram Comments Like a Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-windows-edition-filmmaking-essentials-expert-editor-suggestions/"><u>[New] 2024 Approved Windows Edition Filmmaking Essentials Expert Editor Suggestions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-deciphering-past-visual-content-inverse-queries-and-fb-techniques-for-2024/"><u>[New] Deciphering Past Visual Content Inverse Queries and FB Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-audio-guide-for-vloggers/"><u>[New] Expert Audio Guide for Vloggers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-fix-from-raw-images-to-high-quality-youtube-thumbnails/"><u>[New] Quick Fix From Raw Images To High-Quality YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-splitting-screen-techniques-for-engaging-youtube-content/"><u>[New] Splitting Screen Techniques for Engaging YouTube Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-guide-to-optimizing-your-picsart-experience/"><u>[Updated] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gliding-giants-olympic-skate-tales/"><u>2024 Approved Gliding Giants Olympic Skate Tales</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-streaming-to-mp3-top-10-online-audio-tools/"><u>2024 Approved Seamless Streaming to Mp3 Top 10 Online Audio Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocket-your-income-on-youtube-the-power-of-500-loyal-fans/"><u>2024 Approved Skyrocket Your Income on Youtube The Power of 500 Loyal Fans</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamlining-video-transfer-from-imovie-to-youtube-platform/"><u>2024 Approved Streamlining Video Transfer From iMovie to YouTube Platform</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/free-heic-converter/"><u>Aiseesoft HEIC Converter</u></a></li>
+<li><a href="https://discover-community.techidaily.com/diy-dvd-duplication-easy-methods-for-replicating-your-favorite-movies-and-shows/"><u>DIY DVD Duplication: Easy Methods for Replicating Your Favorite Movies and Shows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-vivo-s17t-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Vivo S17t</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers/"><u>In 2024, Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-a38-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo A38 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>In 2024, How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters-for-2024/"><u>Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-mystery-of-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Solving the Mystery of the Windows Error Code 0xC00000E9</u></a></li>
 </ul></div>
 

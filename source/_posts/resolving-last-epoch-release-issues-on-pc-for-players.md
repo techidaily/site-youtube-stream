@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Last Epoch' Release Issues on PC for Players
-date: 2025-01-06T16:35:37.118Z
-updated: 2025-01-10T16:03:13.847Z
+date: 2025-01-09T02:30:58.372Z
+updated: 2025-01-16T03:30:46.422Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524
 
 Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is finally[here](https://www.epicgames.com/store/en-US/p/immortals-fenyx-rising?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=4b35838425c74992ad42e1276b2161ca) , giving you a gorgeous world to explore. However, many players reported various issues with this new title, such as the game not launching or stuck on loading. If you face the same predicament, don’t worry. Here are some quick fixes to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You don’t need to try them all. Just work your way down until you find the one that solves your problem.
@@ -32,7 +28,7 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
@@ -45,6 +41,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -54,13 +54,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -79,15 +79,7 @@ There are mainly two ways you can do this:
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -98,16 +90,16 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
@@ -131,8 +123,16 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
@@ -160,14 +160,24 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[New] Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-for-using-instagrams-sound-emojis/"><u>[Updated] 2024 Approved Essential Tips for Using Instagram's Sound Emojis</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-make-money-with-a-beauty-channel-for-2024/"><u>[Updated] How to Make Money with a Beauty Channel for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-beyond-facetime-transformative-webcam-uses/"><u>[Updated] In 2024, Beyond FaceTime Transformative Webcam Uses</u></a></li>
-<li><a href="https://win-premium.techidaily.com/skype-3/"><u>「スマートな手順で失われたSkype会話記録を回復: 3つの裏技」</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-stats-galore-visualize-youtubes-fascinating-facts-2017/"><u>2024 Approved Stats Galore! Visualize YouTube's Fascinating Facts (2017)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-speed-focused-chroma-keying-101/"><u>In 2024, Speed-Focused Chroma Keying 101</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-best-budget-friendly-closer-tutorials-top-6-edition/"><u>In 2024, The Best Budget-Friendly Closer Tutorials Top 6 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-play-ifas-premier-gaming-showcase/"><u>Next Level Play: IFA's Premier Gaming Showcase</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fix-facebook-story-not-uploading-problem/"><u>[Updated] 2024 Approved Fix Facebook Story Not Uploading Problem</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>[Updated] Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-hidden-powerhouses-in-your-instagram-toolkit/"><u>[Updated] In 2024, The Hidden Powerhouses in Your Instagram Toolkit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>2024 Approved Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>2024 Approved From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-high-revenue-streaming-star-across-the-globe/"><u>2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-rotators-playbook-for-youtube-video-spinning/"><u>2024 Approved The Essential Rotator's Playbook for YouTube Video Spinning</u></a></li>
+<li><a href="https://win-help.techidaily.com/free-online-conversion-transform-tod-to-mpg-with-movavis-easy-tool/"><u>Free Online Conversion: Transform TOD to MPG with Movavi's Easy Tool</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fullview-media-collaboration-guidebook-for-2024/"><u>FullView Media Collaboration Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>In 2024, Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-insights-small-business-video-mastery/"><u>In 2024, Infographic Insights Small Business Video Mastery</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-definitive-guide-making-memorable-youtube-music-videos/"><u>In 2024, The Definitive Guide Making Memorable YouTube Music Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-top-5-avchd-video-editing-software-for-2024/"><u>New Unleash Your Creativity The Top 5 AVCHD Video Editing Software for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/picture-perfection-the-ultimate-iosandroid-covers-app-for-2024/"><u>Picture Perfection The Ultimate iOS/Android Covers App for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-complete-pathway-to-success-with-your-first-facebook-live-for-2024/"><u>The Complete Pathway to Success with Your First Facebook Live for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-chrome-stalling-issues-on-windows-11-systems/"><u>Troubleshooting Chrome Stalling Issues on Windows 11 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Zero 30 5G? | Dr.fone</u></a></li>
 </ul></div>
 

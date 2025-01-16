@@ -1,7 +1,7 @@
 ---
 title: Fix Your Frozen Chrome Browser Instantly in Windows 11 - Top Tips & Tricks
-date: 2025-01-08T16:11:41.913Z
-updated: 2025-01-10T16:22:44.901Z
+date: 2025-01-12T06:48:09.788Z
+updated: 2025-01-15T23:35:28.771Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
  Although the causes of this issue vary, here we’ve put together some fixes that proved working for many Windows Premiere Pro users. Whether Premiere Pro crashes on startup or crashes when it is rendering media, you can find a fix to try in this article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 5. [Close CPU/memory hogging applications](https://tools.techidaily.com/drivereasy/download/)
 6. [Check for overheating components](https://tools.techidaily.com/drivereasy/download/)
 7. [Update / reinstall Premier Pro](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -50,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  In other words, the latest graphics driver will unlock the full potential of your graphics card and give you a better experience for creating and gaming.
 
 There’re mainly two ways you can update your graphics drivers:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -70,6 +58,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -91,6 +83,10 @@ There’re mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -98,6 +94,10 @@ There’re mainly two ways you can update your graphics drivers:
  Launch Premiere Pro to see if it crashes or not. Normally, after you updated the graphics driver, the crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Reset your preferences
 
@@ -108,6 +108,10 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
@@ -120,14 +124,10 @@ It’s quite easy to reset your preferences. Here’s how:
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
@@ -141,13 +141,13 @@ If this fix doesn’t work, try the next fix, below.
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 See if this fix stops the crashing. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Close CPU / memory hogging applications
 
@@ -176,7 +176,7 @@ To cool down your computer, you may need to
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -205,21 +205,21 @@ To cool down your computer, you may need to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-make-a-youtube-trailer/"><u>[New] How To Make a YouTube Trailer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-identifying-and-accessing-your-music-picks-on-youtube/"><u>[New] Identifying and Accessing Your Music Picks on Youtube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-understanding-the-functionality-of-m1-max-clips/"><u>[Updated] 2024 Approved Understanding the Functionality of M1 Max Clips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp3-broadcasting-made-easy-upload-tutorial-for-youtube/"><u>2024 Approved MP3 Broadcasting Made Easy Upload Tutorial for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-editing-in-imovie-software/"><u>2024 Approved The Ultimate Guide to YouTube Editing in iMovie Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ient-ways-to-clean-your-youtube-watch-later-playlist/"><u>Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-value-online-image-editors-leading-15-at-zero-cost/"><u>In 2024, Best Value Online Image Editors - Leading 15 at Zero Cost</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-engagement-the-power-of-tailored-cards-and-ends-on-yt/"><u>In 2024, Maximizing Engagement The Power of Tailored Cards & Ends on YT</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-toms-experts/"><u>In-Depth Analysis of Computer Hardware by Tom’s Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/keeping-viewers-hooked-the-ultimate-guide-for-enhanced-audience-loyalty-on-youtube-for-2024/"><u>Keeping Viewers Hooked The Ultimate Guide for Enhanced Audience Loyalty on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mapping-out-the-next-wave-of-social-media-graphs-for-2024/"><u>Mapping Out the Next Wave of Social Media Graphs for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-online-video-creation-made-simple-wevideos-easy-editor/"><u>New In 2024, Online Video Creation Made Simple WeVideos Easy Editor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-accessing-and-upgrading-asus-bluetooth-drivers-with-minimal-hassle/"><u>Step-by-Step: Accessing & Upgrading ASUS Bluetooth Drivers with Minimal Hassle</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c67-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C67 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-n3-flip-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find N3 Flip Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-10-apps-and-games-to-explore-and-download/"><u>Windows 10 Apps and Games to Explore and Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>[New] 2024 Approved Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unveiling-the-most-compelling-ios-apps-for-psp-gaming/"><u>[New] 2024 Approved Unveiling the Most Compelling iOS Apps for PSP Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dial-up-definition-in-pictures-leading-10-internet-tools-for-clarity-for-2024/"><u>[New] Dial Up Definition in Pictures Leading 10 Internet Tools for Clarity for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-resolving-dark-scenes-on-youtube-videos/"><u>[New] Resolving Dark Scenes on YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-youtube-channel-url-with-these-tips/"><u>[New] Streamline Your YouTube Channel URL with These Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-to-the-best-game-editing-apps/"><u>2024 Approved Step-by-Step Guide to the Best Game Editing Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-components-that-lift-you-in-youtube-viewership/"><u>2024 Approved The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-crew-for-photographic-rhythm-films/"><u>2024 Approved Ultimate Crew for Photographic Rhythm Films</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/edge-your-way-to-success-instagrams-finest-border-applications/"><u>Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expressiveness-enhancing-youtube-comments-via-emojis-for-2024/"><u>Expressiveness Enhancing YouTube Comments via Emojis for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/graphic-portrayal-of-future-social-momentum-for-2024/"><u>Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-camon-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Camon 20 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-humorhexagonhub-photofunniesfactory/"><u>In 2024, HumorHexagonHub PhotoFunniesFactory</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-key-youtube-policies-every-channel-owner-must-understand/"><u>In 2024, Key YouTube Policies Every Channel Owner Must Understand</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289512649-winxvideo-ai/"><u>Winxvideo AI 智能提升：为您的视频质量打造无与俦亚</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Child Prodigy Who Conquered Currency with Content"
-date: 2025-01-08T16:43:14.962Z
-updated: 2025-01-10T17:10:04.747Z
+date: 2025-01-13T02:02:34.608Z
+updated: 2025-01-15T20:39:02.028Z
 tags:
   - ai video
   - ai youtube
@@ -56,10 +56,6 @@ Before going into this in detail, here is an overall summary of Ryan Kaji and hi
 
 Now that we know the primary data about Ryan, read on to learn about how he became famous on YouTube and his overall income, in more detail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Ryan Kaji YouTube Earning and Stats
 
 After seeing the notes about **Ryan’s World's yearly income** and other points, you must wonder how it has increased over the years. To simplify, most of his income comes from YouTube in terms of views and ad revenue, like most YouTubers.
@@ -75,10 +71,6 @@ If he earns higher, like USD 7 for every 1000 views, his annual average can incr
 Moreover, YouTubers earn from other sources besides the ads on their videos, so the overall **Ryan YouTube income** is likely even higher monthly and yearly. These additional sources include affiliate commissions, sponsorships, interviews at other platforms, and product sales/merchandise.
 
 ![ryan kaji merchandise](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here is a quantified average of the earning statistics for **Ryan’s World income** in tabular format.
 
@@ -113,10 +105,6 @@ Besides that, the total **Ryan’s World earnings** also come from his other You
 
 All of these channels combined get a substantial overall following base, though there are overlaps between all or some of them. Ryan Kaji also has a television series and video game under the brand, increasing his overall popularity. The series name is "Ryan's Mystery Playdate" on Nick Jr.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Why is Ryan Kaji Trending on YouTube?
 
 The overall view of **how much money does Ryan have** throughout the years and his social media popularity will surely give you an idea of how he amassed his impressive net worth. However, why exactly is he so popular on the platform when he focuses mainly on kid's toys instead of other things that appeal to the primarily adult userbase on YouTube?
@@ -150,6 +138,10 @@ Video Link: <https://www.youtube.com/watch?v=GcmDiyk3NJs>
 Each video has an engaging title that speaks on the central theme while keeping consistent with his content type, i.e., toys review. Plus, he has visually appealing thumbnails with edited imagery, and his vibrant personality is appealing as well. All in all, he covers all the main points necessary to create engaging content, and that naturally adds to **Ryan World salary.**
 
 ![ryan kaji video with highest 2 billion views](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: How to be a YouTuber and Make Videos like Ryan Kaji
 
@@ -233,10 +225,6 @@ Before going into this in detail, here is an overall summary of Ryan Kaji and hi
 
 Now that we know the primary data about Ryan, read on to learn about how he became famous on YouTube and his overall income, in more detail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Ryan Kaji YouTube Earning and Stats
 
 After seeing the notes about **Ryan’s World's yearly income** and other points, you must wonder how it has increased over the years. To simplify, most of his income comes from YouTube in terms of views and ad revenue, like most YouTubers.
@@ -281,10 +269,6 @@ In 2020, he earned around USD 29.5 million and USD 27 million in 2021\. The **Ry
 The leading social media platform where Ryan Kaji grew his strength is YouTube, and he currently enjoys a massive fan following. His channel, Ryan’s World, has an overall subscriber base of around 33.3 million YouTube users. These include primarily children as well as other adults, either who enjoy his content or those who watch along with their kids. He also has an Instagram account for his channel with around 159k followers.
 
 ![ryan kaji instagram](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Besides that, the total **Ryan’s World earnings** also come from his other YouTube channels, managed under the company his parents established afterward. These include Ryan ToysReview, The Studio Space, Ryan’s Family Review, EK Doodles, and three more.
 
@@ -350,6 +334,10 @@ Step3 After choosing the video file or files from your device, drag them to the 
 
 ![drag video to editor timeline](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 From the toolbar just above the timeline, click on the standard functions you want to use for editing the video. For example, click on the file and press the Crop icon.
 
 ![press the crop icon](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-9.jpg)
@@ -358,6 +346,10 @@ Step5 At the top-most toolbar, you can see many tabs for editing, like Effects, 
 
 ![click on audio tab and drag it to video](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Continue with further editing work using other tools available, like speed adjustment, background removal (chroma key), and more.
 
 Step6 After completing the edits, click the Export button. Choose to download it offline by selecting Local and choosing your preferred format. Make further changes in the settings.
@@ -365,6 +357,10 @@ Step6 After completing the edits, click the Export button. Choose to download it
 Or, you can directly post the video to your linked YouTube account.
 
 ![linked youtube account](https://images.wondershare.com/filmora/article-images/2022/11/ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube-2022-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Tap the Export button.
 
@@ -390,6 +386,10 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Engaging Audienranz with Solo Visual Content
 
 # 4 Ways To Set Up Your Talking-Head Shots For YouTube
@@ -407,9 +407,94 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
+
+We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
+
+![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
+
+### 1.  Close Quarters Wide-Angle Vlog Set-Up
+
+Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
+
+With this set-up, you’re going to need a camera with a wide-angle lens, a tripod, a camera-mounted shotgun mic for sound, and a ring light for light.
+
+Set your camera on the tripod and mount the shotgun mic directly on the camera shoe (the electronic bracket on the top of the camera). Inside the circular space of your ring light, position your camera right in the middle of it so that you can shoot your video through it without getting any part of the lighting equipment in your shot.
+
+In the video above, Sean Cannell demonstrates this set-up. As you can see from this example, the wide-angle lens is able to squeeze in a lot of what’s in front of the camera into the shot.
+
+Objects and people that just make it into the sides of the frame will appear more stretched out as the wide-angle causes distortion and enhances perspectives.
+
+If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
+
+### 2.  Medium Vlog Set-Up
+
+If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
+
+For this set-up, you’ll be using a slightly longer standard/normal lens (like a 35mm or a 50mm lens) attached to your camera which would be set on a tripod. Since this longer lens will show less of the surrounding areas as it “zooms” closer into whatever is in front, you will need to sit further back, away from your camera.
+
+Now that you’re further away from your camera, a camera-mounted shotgun mic may not be the best mic for you. For better sound recording, you’ll need a shotgun mic fixed on a mic stand that is set up like a boom mic, positioned just outside of your camera frame.
+
+At the 39 second mark of the above video, electronic music producer deadmau5 is positioned right in the center of this particular set-up.
+
+You can see from how even the background and couch looks across the entire camera frame that there is no distortion or enhanced perspective.
+
+It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
+
+### 3.  Two Person Vlog Set-Up
+
+If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
+
+If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you can see that there’s a lot of space to the left and right of deadmau5\. Now imagine the same shot but with two people.
+
+With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
+
+### 4.  Long Teleprompter Vlog Set-Up
+
+If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
+
+For this set-up, you’ll need all the same equipment as the medium vlog set-up, but you’ll additionally need a teleprompter placed in front of your camera equipped with a long telephoto lens.
+
+You will have to sit much further back away from your camera for two main reasons. Firstly, you want to be able to fit yourself in your much more zoomed-in camera frame (effect of the long telephoto lens). Secondly, you want to be far enough that the camera cannot detect your eyes reading from left to right. You’ll want to be around six meters away from a 17” teleprompter monitor or around four meters away from a 10” teleprompter monitor.
+
+In the above video, Jared Polin uses a long teleprompter vlog set-up.
+
+In the video, he says there’s about 8 feet (2.4 meters) between himself and his lens. At the 1:15 mark of his video, Jared demonstrates how this set-up works.
+
+It is difficult to know whether the movement in his eyes is caused by not being far enough from the lens or from his horizontal nystagmus condition in his eyes.
+
+Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
+
+## Tips for Making a Talking Head Video Better
+
+To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+A big part of being a YouTuber involves talking to the camera. How you set up your talking-head shot depends on many factors, including how much space you have, what kind of look you’re going for, and how many people you want to fit in one frame. Here are four ways to set up your talking-head shots for YouTube.
+
+| Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
@@ -454,6 +539,10 @@ If your talking-head shot has got to include two people, you can use a similar s
 If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you can see that there’s a lot of space to the left and right of deadmau5\. Now imagine the same shot but with two people.
 
 With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.  Long Teleprompter Vlog Set-Up
 
@@ -617,6 +706,10 @@ You can see from how even the background and couch looks across the entire camer
 
 It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.  Two Person Vlog Set-Up
 
 If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
@@ -625,102 +718,9 @@ If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you 
 
 With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
 
-### 4.  Long Teleprompter Vlog Set-Up
-
-If you want to read over a script but still make it appear like you’re looking straight into the camera, you’ll need to use a long teleprompter vlog set-up.
-
-For this set-up, you’ll need all the same equipment as the medium vlog set-up, but you’ll additionally need a teleprompter placed in front of your camera equipped with a long telephoto lens.
-
-You will have to sit much further back away from your camera for two main reasons. Firstly, you want to be able to fit yourself in your much more zoomed-in camera frame (effect of the long telephoto lens). Secondly, you want to be far enough that the camera cannot detect your eyes reading from left to right. You’ll want to be around six meters away from a 17” teleprompter monitor or around four meters away from a 10” teleprompter monitor.
-
-In the above video, Jared Polin uses a long teleprompter vlog set-up.
-
-In the video, he says there’s about 8 feet (2.4 meters) between himself and his lens. At the 1:15 mark of his video, Jared demonstrates how this set-up works.
-
-It is difficult to know whether the movement in his eyes is caused by not being far enough from the lens or from his horizontal nystagmus condition in his eyes.
-
-Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## Tips for Making a Talking Head Video Better
-
-To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-A big part of being a YouTuber involves talking to the camera. How you set up your talking-head shot depends on many factors, including how much space you have, what kind of look you’re going for, and how many people you want to fit in one frame. Here are four ways to set up your talking-head shots for YouTube.
-
-| Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
-
-We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
-
-![ Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
-
-### 1.  Close Quarters Wide-Angle Vlog Set-Up
-
-Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
-
-With this set-up, you’re going to need a camera with a wide-angle lens, a tripod, a camera-mounted shotgun mic for sound, and a ring light for light.
-
-Set your camera on the tripod and mount the shotgun mic directly on the camera shoe (the electronic bracket on the top of the camera). Inside the circular space of your ring light, position your camera right in the middle of it so that you can shoot your video through it without getting any part of the lighting equipment in your shot.
-
-In the video above, Sean Cannell demonstrates this set-up. As you can see from this example, the wide-angle lens is able to squeeze in a lot of what’s in front of the camera into the shot.
-
-Objects and people that just make it into the sides of the frame will appear more stretched out as the wide-angle causes distortion and enhances perspectives.
-
-If you look closely into Sean’s eyes, you can also see a specular highlight in the shape of a circle. Many people like the way eyes look against a ring light.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 2.  Medium Vlog Set-Up
-
-If you have more space and want to shoot a more professional-looking talking-head shot with more realistic perspectives, a medium vlog set-up may be a better alternative for you.
-
-For this set-up, you’ll be using a slightly longer standard/normal lens (like a 35mm or a 50mm lens) attached to your camera which would be set on a tripod. Since this longer lens will show less of the surrounding areas as it “zooms” closer into whatever is in front, you will need to sit further back, away from your camera.
-
-Now that you’re further away from your camera, a camera-mounted shotgun mic may not be the best mic for you. For better sound recording, you’ll need a shotgun mic fixed on a mic stand that is set up like a boom mic, positioned just outside of your camera frame.
-
-At the 39 second mark of the above video, electronic music producer deadmau5 is positioned right in the center of this particular set-up.
-
-You can see from how even the background and couch looks across the entire camera frame that there is no distortion or enhanced perspective.
-
-It appears that, to the right of deadmau5 (camera left), there is a key light and to his left (camera right) there may be a fill light for additional lighting. Behind the couch, there’s also a background uplight to create depth between the subject and the background. At the 1:30 mark of this trailer video, you can briefly see how the Masterclass camera crew set up their shot.
-
-### 3.  Two Person Vlog Set-Up
-
-If your talking-head shot has got to include two people, you can use a similar set-up as the medium vlog set-up detailed above.
-
-If you look back at the 39-second mark of deadmau5’s Masterclass trailer, you can see that there’s a lot of space to the left and right of deadmau5\. Now imagine the same shot but with two people.
-
-With two people, though, you’ll want to set up your mic slightly differently. Rather than using a directional shotgun mic with a narrow area of sensitivity, you’ll want to use a directional mic with a wider area of sensitivity.
 
 ### 4.  Long Teleprompter Vlog Set-Up
 
@@ -745,7 +745,7 @@ To make a talking-head video more interesting, you can add some background music
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -771,24 +771,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-host-a-webinar-on-youtube-for-free/"><u>[New] How to Host a Webinar on YouTube for Free</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-effortless-methods-amp-up-your-yt-video-quality/"><u>2024 Approved Effortless Methods Amp Up Your YT Video Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>2024 Approved From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-studio-to-screen-uploading-melodies-online/"><u>2024 Approved From Studio to Screen Uploading Melodies Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-innovative-hubs-of-affordable-visual-content-sources/"><u>2024 Approved Innovative Hubs of Affordable Visual Content Sources</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fast-guide-transforming-images-into-youtube-desktop-thumbnails-for-2024/"><u>Fast Guide Transforming Images Into YouTube Desktop Thumbnails for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flv-file-symphony-creating-a-single-youtube-playlist/"><u>In 2024, FLV File Symphony Creating a Single YouTube Playlist</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flv-video-unification-techniques/"><u>In 2024, FLV Video Unification Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-rpg-origins-vs-hybrid-designs-evolution/"><u>In 2024, RPG Origins Vs. Hybrid Designs Evolution</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timestamp-use-for-increased-youtube-traction/"><u>In 2024, Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-clips-step-by-step-youtube-end-screen-tutorials/"><u>In 2024, Transform Your Clips Step-by-Step YouTube End Screen Tutorials</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-winegard-fl5500a-antenna-reliable-functionality-with-expensive-price-point/"><u>In Depth Look at the Winegard FL5500A Antenna: Reliable Functionality with Expensive Price Point</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-wireless-network-driver-download-for-wi-fi-6-ax200-on-windows-11-and-10/"><u>Latest Intel Wireless Network Driver Download for Wi-Fi 6 AX200 on Windows 11 and 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/12336517-quick-vid-overview-top-tips-and-facts-now/"><u>Quick Vid Overview Top Tips & Facts Now!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/swift-methodology-to-weed-out-fake-pals-from-insta-network-for-2024/"><u>Swift Methodology to Weed Out Fake Pals From Insta Network for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rtisans-guide-to-blending-sound-with-visual-media-on-youtube-for-2024/"><u>The Artisan's Guide to Blending Sound with Visual Media on YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-implementing-website-pinging-essential-insights-and-best-practices/"><u>Understanding and Implementing Website Pinging - Essential Insights & Best Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-power-with-openais-api-functional-insights-and-applications/"><u>Unlocking Power with OpenAI's API: Functional Insights & Applications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-haul-vlogging-101-a-step-by-step-guide/"><u>[New] Haul Vlogging 101 A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-view-counts-eluding-mechanized-spectators/"><u>[New] Mastering View Counts Eluding Mechanized Spectators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-visual-vintner-techniques-for-flavorful-films/"><u>[New] The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-video-from-still-photos-through-pixiz-techniques/"><u>[Updated] 2024 Approved Mastering the Art of Video From Still Photos Through Pixiz Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-digital-laughter-lab-for-2024/"><u>[Updated] Digital Laughter Lab for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-b-roll-effective-techniques/"><u>[Updated] Maximizing B-Roll Effective Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-swing-mastery-kit-for-2024/"><u>[Updated] Swing Mastery Kit for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>2024 Approved How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-numbers-game-estimating-income-from-viral-content/"><u>2024 Approved The Numbers Game Estimating Income From Viral Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-watch-multiple-youtube-videos-at-one-time-in-2024/"><u>How To Watch Multiple YouTube Videos at One Time, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-c65-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco C65 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-guide-to-creating-compact-engaging-youtube-content/"><u>In 2024, Expert Guide to Creating Compact, Engaging YouTube Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-value-packed-mechanical-keyboards-reviewed/"><u>Most Value-Packed Mechanical Keyboards Reviewed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-apcindexmismatch-bsod-blue-screen-of-death-on-windows/"><u>Step-by-Step Solutions for APC_INDEX_MISMATCH BSOD (Blue Screen of Death) on Windows</u></a></li>
 </ul></div>
 

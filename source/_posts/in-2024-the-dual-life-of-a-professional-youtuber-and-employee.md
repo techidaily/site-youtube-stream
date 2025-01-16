@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Dual Life of a Professional YouTuber & Employee"
-date: 2025-01-09T17:07:37.707Z
-updated: 2025-01-10T16:01:32.942Z
+date: 2025-01-14T07:47:51.783Z
+updated: 2025-01-16T08:34:42.087Z
 tags:
   - ai video
   - ai youtube
@@ -42,10 +42,6 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 [5. Be creative! Create audios (audio-only videos)](#createaudio)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1. Don’t force yourself to post on specific days
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
@@ -111,7 +107,7 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2. Keep track of all your ideas in one notebook planner
@@ -121,10 +117,6 @@ A notebook planner is essential for keeping my life organized and on track. When
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4. Create 3-5 videos in advance
 
@@ -145,10 +137,6 @@ Just try it and create your own YouTube video!
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -182,9 +170,17 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3. Check the weather forecast in advance
 
@@ -319,7 +315,7 @@ It has become the norm for YouTubers to ask viewers to subscribe in their sign-o
 That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A More Effective Way of Asking For Subscribers
@@ -341,17 +337,153 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
 ![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+
+Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
+
+### Polish Your YouTube Videos with Filmora
+
+Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
+
+As one of the most widely used video editing software in YouTube video editing, [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Its features like motion tracking, audio ducking, keyframing, color matching and effects will help make your video impressive enough to get pepople to subscribe to your channel.
+
+Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The following is a step-by-step tutorial on how to get more subscribers by asking the right way. People are more likely to do something if you give them a bit of a nudge, and that includes subscribing to your YouTube channel.
+
+There are people who think that if people like their videos they’ll subscribe, so they shouldn’t bother people by asking. This is, simply put, wrong. When people are browsing YouTube their minds are on what video they want to watch next, not whether or not they want to subscribe – unless you remind them.
+
+1. [What is a 'Call To Action'?](#cta)
+2. [A More Effective Way of Asking for Subscribers](#betterway)  
+   1. [Step 1: How to Hook the Viewer](#hook)  
+   2. [Step 2: Get to The Point Quickly](#point)  
+   3. [Step 3: Create a Moment - Make Subscribing Part of the Experience](#moment)
+
+## What is a 'Call To Action'?
+
+It has become the norm for YouTubers to ask viewers to subscribe in their sign-offs. A typical CTA (‘call to action’) goes something like this:
+
+> _“Thanks for watching. If you liked this video, make sure to subscribe for more!”_
+
+That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
+
+## A More Effective Way of Asking For Subscribers
+
+Collins Key is one YouTuber who has mastered asking for subscribers early on, and given that he has over 7 million subscribers himself I’d say it’s working out. Check out the technique in this video collab with Brooklyn and Bailey:
+
+#### Step 1: How to Hook The Viewer
+
+As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
+
+![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+
+#### Step 2: Get to The Point Quickly
+
+Shortly after, while still in the first 30 seconds of the video, Collins gets right to the point and introduces the Twin Telepathy Challenge promised in the title of the video. The hook with the heater catching fire is effective, but it’s not essential. It happens to suit Collins’ style, and it happens to have happened. Getting to the main point of the video quickly – usually in the first 15 seconds, not the first 30 (it’s in the first 15 seconds that most viewers click away) – is vital. People click on videos for a reason, and if they don’t see a sign of that payoff quickly they’ll leave.
+
+#### Step 3: Create A Moment - Make Subscribing Part of the Experience
+
+It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
+
+![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+
+Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
+### Polish Your YouTube Videos with Filmora
+
+Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
+
+As one of the most widely used video editing software in YouTube video editing, [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Its features like motion tracking, audio ducking, keyframing, color matching and effects will help make your video impressive enough to get pepople to subscribe to your channel.
+
+Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The following is a step-by-step tutorial on how to get more subscribers by asking the right way. People are more likely to do something if you give them a bit of a nudge, and that includes subscribing to your YouTube channel.
+
+There are people who think that if people like their videos they’ll subscribe, so they shouldn’t bother people by asking. This is, simply put, wrong. When people are browsing YouTube their minds are on what video they want to watch next, not whether or not they want to subscribe – unless you remind them.
+
+1. [What is a 'Call To Action'?](#cta)
+2. [A More Effective Way of Asking for Subscribers](#betterway)  
+   1. [Step 1: How to Hook the Viewer](#hook)  
+   2. [Step 2: Get to The Point Quickly](#point)  
+   3. [Step 3: Create a Moment - Make Subscribing Part of the Experience](#moment)
+
+## What is a 'Call To Action'?
+
+It has become the norm for YouTubers to ask viewers to subscribe in their sign-offs. A typical CTA (‘call to action’) goes something like this:
+
+> _“Thanks for watching. If you liked this video, make sure to subscribe for more!”_
+
+That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## A More Effective Way of Asking For Subscribers
+
+Collins Key is one YouTuber who has mastered asking for subscribers early on, and given that he has over 7 million subscribers himself I’d say it’s working out. Check out the technique in this video collab with Brooklyn and Bailey:
+
+#### Step 1: How to Hook The Viewer
+
+As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
+
+![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+
+#### Step 2: Get to The Point Quickly
+
+Shortly after, while still in the first 30 seconds of the video, Collins gets right to the point and introduces the Twin Telepathy Challenge promised in the title of the video. The hook with the heater catching fire is effective, but it’s not essential. It happens to suit Collins’ style, and it happens to have happened. Getting to the main point of the video quickly – usually in the first 15 seconds, not the first 30 (it’s in the first 15 seconds that most viewers click away) – is vital. People click on videos for a reason, and if they don’t see a sign of that payoff quickly they’ll leave.
+
+#### Step 3: Create A Moment - Make Subscribing Part of the Experience
+
+It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
+
+![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+
+Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
+
 ### Polish Your YouTube Videos with Filmora
 
 Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
@@ -361,6 +493,10 @@ As one of the most widely used video editing software in YouTube video editing, 
 Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
 
@@ -395,6 +531,10 @@ It has become the norm for YouTubers to ask viewers to subscribe in their sign-o
 > _“Thanks for watching. If you liked this video, make sure to subscribe for more!”_
 
 That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A More Effective Way of Asking For Subscribers
 
@@ -431,150 +571,10 @@ Here is a tutorial video about how to use Filmora to edit your YouTube video. Ch
 That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The following is a step-by-step tutorial on how to get more subscribers by asking the right way. People are more likely to do something if you give them a bit of a nudge, and that includes subscribing to your YouTube channel.
-
-There are people who think that if people like their videos they’ll subscribe, so they shouldn’t bother people by asking. This is, simply put, wrong. When people are browsing YouTube their minds are on what video they want to watch next, not whether or not they want to subscribe – unless you remind them.
-
-1. [What is a 'Call To Action'?](#cta)
-2. [A More Effective Way of Asking for Subscribers](#betterway)  
-   1. [Step 1: How to Hook the Viewer](#hook)  
-   2. [Step 2: Get to The Point Quickly](#point)  
-   3. [Step 3: Create a Moment - Make Subscribing Part of the Experience](#moment)
-
-## What is a 'Call To Action'?
-
-It has become the norm for YouTubers to ask viewers to subscribe in their sign-offs. A typical CTA (‘call to action’) goes something like this:
-
-> _“Thanks for watching. If you liked this video, make sure to subscribe for more!”_
-
-That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
-
-## A More Effective Way of Asking For Subscribers
-
-Collins Key is one YouTuber who has mastered asking for subscribers early on, and given that he has over 7 million subscribers himself I’d say it’s working out. Check out the technique in this video collab with Brooklyn and Bailey:
-
-#### Step 1: How to Hook The Viewer
-
-As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
-
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
-
-#### Step 2: Get to The Point Quickly
-
-Shortly after, while still in the first 30 seconds of the video, Collins gets right to the point and introduces the Twin Telepathy Challenge promised in the title of the video. The hook with the heater catching fire is effective, but it’s not essential. It happens to suit Collins’ style, and it happens to have happened. Getting to the main point of the video quickly – usually in the first 15 seconds, not the first 30 (it’s in the first 15 seconds that most viewers click away) – is vital. People click on videos for a reason, and if they don’t see a sign of that payoff quickly they’ll leave.
-
-#### Step 3: Create A Moment - Make Subscribing Part of the Experience
-
-It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
-
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
-
-Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
-
-### Polish Your YouTube Videos with Filmora
-
-Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
-
-As one of the most widely used video editing software in YouTube video editing, [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Its features like motion tracking, audio ducking, keyframing, color matching and effects will help make your video impressive enough to get pepople to subscribe to your channel.
-
-Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The following is a step-by-step tutorial on how to get more subscribers by asking the right way. People are more likely to do something if you give them a bit of a nudge, and that includes subscribing to your YouTube channel.
-
-There are people who think that if people like their videos they’ll subscribe, so they shouldn’t bother people by asking. This is, simply put, wrong. When people are browsing YouTube their minds are on what video they want to watch next, not whether or not they want to subscribe – unless you remind them.
-
-1. [What is a 'Call To Action'?](#cta)
-2. [A More Effective Way of Asking for Subscribers](#betterway)  
-   1. [Step 1: How to Hook the Viewer](#hook)  
-   2. [Step 2: Get to The Point Quickly](#point)  
-   3. [Step 3: Create a Moment - Make Subscribing Part of the Experience](#moment)
-
-## What is a 'Call To Action'?
-
-It has become the norm for YouTubers to ask viewers to subscribe in their sign-offs. A typical CTA (‘call to action’) goes something like this:
-
-> _“Thanks for watching. If you liked this video, make sure to subscribe for more!”_
-
-That’s great. At the end of a video is a good place to ask people to subscribe, but is it the best and only place you should be reminding them? If you take a peek at your analytics and you might find that most of your viewers aren’t watching to the ends of your videos (people have short attention spans).
-
-## A More Effective Way of Asking For Subscribers
-
-Collins Key is one YouTuber who has mastered asking for subscribers early on, and given that he has over 7 million subscribers himself I’d say it’s working out. Check out the technique in this video collab with Brooklyn and Bailey:
-
-#### Step 1: How to Hook The Viewer
-
-As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
-
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-#### Step 2: Get to The Point Quickly
-
-Shortly after, while still in the first 30 seconds of the video, Collins gets right to the point and introduces the Twin Telepathy Challenge promised in the title of the video. The hook with the heater catching fire is effective, but it’s not essential. It happens to suit Collins’ style, and it happens to have happened. Getting to the main point of the video quickly – usually in the first 15 seconds, not the first 30 (it’s in the first 15 seconds that most viewers click away) – is vital. People click on videos for a reason, and if they don’t see a sign of that payoff quickly they’ll leave.
-
-#### Step 3: Create A Moment - Make Subscribing Part of the Experience
-
-It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
-
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
-
-Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Polish Your YouTube Videos with Filmora
-
-Even with the above tricks, you may not get the subscribers as you wish unless you can make sure your videos and contents are of high quality. As YouTube is getting more and more popular and more YouTubers are competing for subscribers, you will need to polish your YouTube videos.
-
-As one of the most widely used video editing software in YouTube video editing, [Filmora video editor](https://tools.techidaily.com/wondershare/filmora/download/) provides lots of templates and effects with an intuitive interface, which saves much time. Its features like motion tracking, audio ducking, keyframing, color matching and effects will help make your video impressive enough to get pepople to subscribe to your channel.
-
-Here is a tutorial video about how to use Filmora to edit your YouTube video. Check it out and try Filmora if you are interested.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-That's how you can get more YouTube subscribers by asking the right way. You may follow the instructions and try it yourself. Do not forget to [track your YouTube subscribers in real time](https://tools.techidaily.com/wondershare/filmora/download/) to make necessary adjustments.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -597,24 +597,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-first-steps-to-proficiency-in-iphone-voice-memos-for-2024/"><u>[New] From First Steps to Proficiency in iPhone Voice Memos for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-securing-youtube-partnership-a-comprehensive-guide-for-video-creators/"><u>[New] Securing YouTube Partnership A Comprehensive Guide for Video Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4-for-2024/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4 for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>[New] Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-confluence-of-visual-storytelling-and-soundtracks-top-5-for-2024/"><u>[New] The Ultimate Confluence of Visual Storytelling and Soundtracks (Top 5) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-auditcast-inspection-for-2024/"><u>[Updated] AuditCast Inspection for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-experts-guide-to-xbox-one-screen-captures-for-2024/"><u>[Updated] The Expert's Guide to Xbox One Screen Captures for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-short-form-trimming-videos-for-youtube/"><u>2024 Approved Mastering Short-Form Trimming Videos for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-steps-to-record-iphoneipad-screens-for-online-videos/"><u>2024 Approved Quick Steps to Record iPhone/iPad Screens for Online Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-quick-fix-for-turning-yt-lists-backwards/"><u>2024 Approved The Quick Fix for Turning YT Lists Backwards</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-young-entrepreneur-writes-his-own-financial-story/"><u>2024 Approved The Young Entrepreneur’ Writes His Own Financial Story</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/5-things-to-consider-before-you-buy-a-gaming-console/"><u>5 Things to Consider Before You Buy a Gaming Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-game-platform-9-advantages-with-steam/"><u>Essential Game Platform: 9 Advantages with Steam</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Huawei Bootloader Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-larger-prints-same-sharpness-standard/"><u>In 2024, Larger Prints, Same Sharpness Standard</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>In 2024, Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-animators-odyssey-crafting-your-own-fx-realm/"><u>In 2024, The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-embedding-youtube-playlist-content-for-2024/"><u>Mastering the Art of Embedding YouTube Playlist Content for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/stress-free-guide-simple-tactics-for-adding-soundtracks-on-facebook/"><u>Stress-Free Guide: Simple Tactics for Adding Soundtracks on Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works-for-2024/"><u>[New] Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-20-non-copyrighted-pubg-image-sequences/"><u>[New] In 2024, Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[New] Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably/"><u>2024 Approved First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-identifying-high-growth-youtube-channels-for-personal-development/"><u>2024 Approved Identifying High-Growth YouTube Channels for Personal Development</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-regular-payment-structures-in-youtuber-economics/"><u>2024 Approved Regular Payment Structures in YouTuber Economics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bringing-waterfront-scenes-alive-with-insta360s-x2/"><u>Bringing Waterfront Scenes Alive with Insta360's X2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-helpdesk-operations-gpt-3-and-whatsapp-alliance/"><u>Enhancing Helpdesk Operations: GPT-3 & WhatsApp Alliance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-download-and-update-nvidias-geforce-rtx-3070-for-windows-users-v11-and-v10/"><u>Ensure Optimal Performance: Download & Update NVIDIA's GeForce RTX 3070 for Windows Users (v11 and V10)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 7 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>In 2024, Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-earnings-in-beauty-vlogs/"><u>In 2024, Maximizing Earnings in Beauty Vlogs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unbeatable-choices-top-free-online-intros/"><u>In 2024, Unbeatable Choices Top Free Online Intros</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Max Making It Possible</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-surprising-potential-of-xbox-series-s-tiny-package-impressive-hardware-inside/"><u>Unpacking the Surprising Potential of Xbox Series S – Tiny Package, Impressive Hardware Inside!</u></a></li>
 </ul></div>
 

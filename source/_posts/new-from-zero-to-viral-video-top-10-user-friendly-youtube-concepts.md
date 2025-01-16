@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Viral Video  Top 10 User-Friendly YouTube Concepts\""
-date: 2025-01-08T16:39:03.259Z
-updated: 2025-01-10T16:58:49.934Z
+date: 2025-01-14T21:20:52.915Z
+updated: 2025-01-15T21:38:01.677Z
 tags:
   - ai video
   - ai youtube
@@ -53,6 +53,10 @@ Anything that happens during your day can become a topic for your YouTube vlog. 
 
 Strive to make visually dynamic videos, because just sitting or standing and talking in front of a camera for a few minutes isn't going to create much on-screen action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Express An Opinion
 
 Social media culture has enabled us to receive news instantly and react to it in any way we want. If you didn't like the latest update of your favorite video game, or if you’re excited about a line of makeup that’s coming out soon, make a video about it and share your opinion with the community that follows you on YouTube.
@@ -61,10 +65,6 @@ Opinion videos are great conversation starters. Expressing an opinion through a 
 
 You can express your opinions on virtually any topic, but being respectful while doing so is for the best if you don’t want to find yourself in a YouTube feud.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Review Anything
 
 Everywhere around you, there are items you can review. The Apple Watch and the latest season of Game of Thrones are equally good choices for a review video. However, when creating review videos you need to make sure that all the factual information you have is accurate, which is why it is much better to make review videos about topics you know a lot about.
@@ -72,7 +72,7 @@ Everywhere around you, there are items you can review. The Apple Watch and the l
 Review videos can also be a source of revenue because a lot of companies sponsor YouTubers who review their products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Your Favorite Songs / Movies / Etc
@@ -87,21 +87,25 @@ There were over two billion smartphone users worldwide in 2017, and this number 
 
 Finding a way to talk about the apps you like to use the most can be a good idea if you want to attract more visitors to your YouTube channel. However, you need to be clear about whether this is a lifestyle or vlog-style video covering a topic that usually exists in the tech genre, or if you are a tech YouTuber, so as not to confuse your audience (you don’t want people to start expecting app reviews if that’s not what you usually do).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Make a Slideshow
 
 There's no need to constantly produce new videos because you can just take some royalty-free music and create a slideshow from your old or new photos. The slideshow format will certainly allow you to try something different on your YouTube channel, while the photos you use in the slideshow can create a clear picture of who you are and what you do for your viewers.
 
 If you are a photography enthusiast you can also plan the entire slideshow in advance and then make a short video about how you created the images in the slideshow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make a Tutorial
 
 Education is our only hope for a better world so if you know how to do something well, don't be afraid to share your knowledge. A tutorial is a powerful educational tool that enables you to guide people through the entire process of making origami, solving a complicated video editing problem, maintaining a motorcycle, or anything else.
 
 YouTube channels that feature tutorials often have millions of followers, because YouTube is a popular place to go when you need information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. 10 Things About You
 
@@ -110,7 +114,7 @@ Being open is important, so why not share 10 things about yourself you think you
 These types of videos tend to create a better relationship with your audience because they make the viewer feel as if they know the person on the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Video Rant
@@ -120,10 +124,6 @@ Doing things when you are angry is usually a bad idea, but if you feel so strong
 Don't try to fake a rant, because they only work if they are natural. Scripting a video rant may be an interesting creative task, but genuine reactions are always more effective. If you want to deliver a more structured and planned video about a topic you feel strongly about, that’d be more like an opinion video.
 
 Do you have any [easy video ideas for other creators](https://tools.techidaily.com/wondershare/filmora/download/) to try?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Editing Videos with Beginner-friendly Software
 
@@ -148,16 +148,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile-for-2024/"><u>[New] Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-auto-track-cam-mount-for-smooth-shots/"><u>[New] Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>[Updated] The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-deciding-the-optimal-social-media-platform-tiktok-vs-youtube-shorts/"><u>2024 Approved Deciding the Optimal Social Media Platform TikTok Vs. YouTube Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigate-youtube-post-production-with-adobe-premiere/"><u>2024 Approved Navigate YouTube Post-Production with Adobe Premiere</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-safe-techniques-for-extracting-and-converting-youtube-audio-into-mp3/"><u>2024 Approved Safe Techniques for Extracting and Converting YouTube Audio Into MP3</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-wirecast-playbook-for-engaging-youtube-streamers/"><u>2024 Approved The Ultimate WireCast Playbook for Engaging YouTube Streamers</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo-for-2024/"><u>Love in Full Bloom Top 7 Premium Marriage Films From YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-excessive-processor-load-in-zoom-with-these-6-strategies/"><u>Resolve Excessive Processor Load in Zoom with These 6 Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-forcefully-reset-your-iphone-and-reach-the-recovery-interface/"><u>Troubleshooting Tips: How to Forcefully Reset Your iPhone & Reach the Recovery Interface</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enrich-your-videos-expert-recommended-players-guide/"><u>[New] 2024 Approved Enrich Your Videos Expert-Recommended Players' Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[New] In 2024, Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-smartphone-selection-for-superior-video-recording-for-2024/"><u>[New] Ultimate Smartphone Selection for Superior Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-probing-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>2024 Approved Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-cutting-down-on-workload-the-ultimate-mac-mp4-apps-list/"><u>In 2024, Cutting Down on Workload The Ultimate Mac MP4 Apps List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-insight-into-tseries-earnings-and-profitability-through-youtube-channels/"><u>In 2024, Insight Into TSeries' Earnings and Profitability Through YouTube Channels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mp3-to-video-stream-mp3-to-youtube-in-3-easy-steps/"><u>In 2024, MP3 to Video Stream MP3 to YouTube in 3 Easy Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-sns-hdr-effectiveness-and-hdr-competitors/"><u>In 2024, Navigating Through SNS HDR Effectiveness & HDR Competitors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tapping-into-youtubes-affiliate-income-streams/"><u>In 2024, Tapping Into YouTube's Affiliate Income Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-leading-titles-in-rapid-online-content-expansion/"><u>In 2024, The Leading Titles in Rapid Online Content Expansion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-your-individual-playlist-paradise-on-youtube/"><u>In 2024, Unveiling Your Individual Playlist Paradise on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/minuscule-motifs-musical-characters-tale-for-2024/"><u>Minuscule Motifs Musical Characters’ Tale for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimal-team-call-aesthetics-pre-call-and-post-call-tweaks/"><u>Optimal Team Call Aesthetics Pre-Call & Post-Call Tweaks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-workstations-elevated-with-amd-pro-8000-processor-family-and-integrated-npu-technology/"><u>Professional Workstations Elevated with AMD PRO 8000 Processor Family and Integrated NPU Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-reducing-playstation-4-fan-noise-why-it-happens-and-solutions/"><u>The Ultimate Guide to Reducing PlayStation 4 Fan Noise – Why It Happens & Solutions</u></a></li>
 </ul></div>
 
