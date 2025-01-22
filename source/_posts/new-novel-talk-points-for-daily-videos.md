@@ -1,7 +1,7 @@
 ---
 title: "[New] Novel Talk Points for Daily Videos"
-date: 2025-01-15T01:12:40.835Z
-updated: 2025-01-15T22:56:20.378Z
+date: 2025-01-20T17:16:31.635Z
+updated: 2025-01-22T02:26:49.282Z
 tags:
   - ai video
   - ai youtube
@@ -33,7 +33,7 @@ How do you know [what you should talk about in your vlog](https://tools.techidai
 Before starting your daily vlogging, you have to figure out one important thing ahead of time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do you have a niche?
@@ -49,6 +49,10 @@ The other reason it’s good to have a niche is that you’ll be able to use key
 
 Here are 4 things to talk about in your daily vlog:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are you watching/reading?
 
  If you’re really into a book or tv show, or if you saw a movie recently, then those are all good things to talk about (warn people if you’re going to spoil anything!). You do recaps, reviews, or just share a few thoughts you had. If you’re worried about alienating people who don’t watch/read the same stuff as you then you can keep it more general and just react to a few things from the media you’re consuming while also talking about your day. It’ll give you an anchor to build the rest of your video around, even if it’s not all you talk about.
@@ -56,7 +60,7 @@ Here are 4 things to talk about in your daily vlog:
 By commenting on what you’re watching/reading you have a better chance of capitalizing on a trending topic people are searching for. You could also find yourself an audience by becoming involved in fan communities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Snapshots of Your Day
@@ -66,7 +70,7 @@ By commenting on what you’re watching/reading you have a better chance of capi
 Carrying a camera around like Casey may or may not suit your lifestyle, but you can still pick out one story from your day to tell. It doesn’t have to be a major event, and you shouldn’t worry that it won’t be interesting to other people. It’s your personality they’re tuning in for, so even if you’re just talking about a funny thing your cat did it will keep your audience interested because a) it’s you talking about it and b) it gives them a bit of insight into your life.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Whatever You Need to Get Out
@@ -78,10 +82,6 @@ _Flula is frequently puzzled by English expressions, like 'Party Pooper', and ne
 It does not matter what it is that is making you have this strong reaction (unless, again, it’s an actual person who might see your video and cause problems for you). If you’re mad about a real injustice in the world then that’s a great thing to talk about – you might even raise some awareness for the issue – but you can also rant about your favorite flavor of yogurt being cut and that’ll be engaging to viewers too.
 
 Alternatively: you could do a vlog about how happy you are to have gotten engaged or a vlog about how happy you are that it was sunny today, and your enthusiasm will carry your audience through either video with you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What did you learn today?
 
@@ -107,15 +107,15 @@ You could also just flick the camera on and tell the full story of your day like
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **We’ve got a new eBook out!**
 
 It’s got strategies that have worked for other YouTubers, boiled down to simple action steps.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -132,20 +132,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boost-your-virtual-participation-with-increased-zooming/"><u>[New] Boost Your Virtual Participation with Increased Zooming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-streamlining-project-management-through-filmora-knowledge/"><u>[New] In 2024, Streamlining Project Management Through Filmora Knowledge</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-keep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube/"><u>[Updated] 2024 Approved Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-multi-platform-engagement-for-content-creators/"><u>2024 Approved Navigating Multi-Platform Engagement for Content Creators</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-mechanics-behind-youtube-once-a-video-goes-live/"><u>2024 Approved The Mechanics Behind YouTube Once a Video Goes Live</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-for-2024/"><u>How Much Money Can You Make via YouTube Ad Revenue and CPM Rates for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-youtube-titles-crafting-a-standout-brand/"><u>In 2024, Innovative YouTube Titles Crafting a Standout Brand</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-compelling-media-previews-for-channels/"><u>In 2024, Making Compelling Media Previews for Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pioneering-the-perfect-playlist-for-youtube-music-enthusiasts/"><u>In 2024, Pioneering the Perfect Playlist for YouTube Music Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-short-track-speed-skating-olympics-2022-highlights/"><u>In 2024, Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-walk-of-shadows-the-ultimate-list-of-greatest-zombie-games/"><u>In 2024, Walk of Shadows The Ultimate List of Greatest Zombie Games</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfect-phone-imaging-choose-the-best-camera-additions-for-2024/"><u>Perfect Phone Imaging Choose the Best Camera Additions for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-hurdles-on-the-path-of-human-advancement/"><u>Tackling Hurdles on the Path of Human Advancement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-iphone-interactivity-exploring-benefits-as-apple-integrates-nfc-with-app-makers-innovations-gizmodo/"><u>The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-auditory-adaptability-for-ace-gamers/"><u>[New] Auditory Adaptability for Ace Gamers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[New] Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-tips-embedding-moving-images-in-written-content/"><u>[New] Free Tips Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-visual-marketing-on-youtube-with-banners-and-thumbnails/"><u>[New] In 2024, Mastering Visual Marketing on YouTube with Banners & Thumbnails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-speedy-steps-scribbling-down-slides-in-ppt/"><u>[New] Speedy Steps Scribbling Down Slides in PPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-limiting-video-size-the-mac-way-to-insta-cutting/"><u>[Updated] Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-8-digital-hubs-offering-free-green-screen-elements-and-scenes/"><u>2024 Approved Find 8 Digital Hubs Offering Free Green-Screen Elements & Scenes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flv-video-unification-techniques/"><u>2024 Approved FLV Video Unification Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>2024 Approved How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-beginners-guide-to-youtube-shorts-nuances-for-2024/"><u>A Beginner's Guide to YouTube Shorts Nuances for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enriched-design-processes-using-chatgpt-for-3d-printing/"><u>Enriched Design Processes Using ChatGPT for 3D Printing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-practices-elevating-your-virtual-identity-on-facebook/"><u>In 2024, Best Practices Elevating Your Virtual Identity on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fifa-footage-analysis-trendy-video-patterns/"><u>In 2024, FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-videos-expert-insights-on-effective-tagging/"><u>In 2024, Optimizing Videos Expert Insights on Effective Tagging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>In 2024, Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-techniques-of-capturing-emotion-in-digital-gif-formats/"><u>In 2024, Techniques of Capturing Emotion in Digital GIF Formats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-instagram-lag-issues-a-guide-to-enhancing-speed-on-android-and-ios/"><u>Solve Your Instagram Lag Issues: A Guide to Enhancing Speed on Android & iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-chattips-to-curb-anxiety/"><u>Strategic ChatTips to Curb Anxiety</u></a></li>
 </ul></div>
 

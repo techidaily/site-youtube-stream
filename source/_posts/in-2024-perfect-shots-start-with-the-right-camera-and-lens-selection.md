@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfect Shots Start With The Right Camera & Lens Selection"
-date: 2024-07-29T21:06:19.484Z
-updated: 2024-07-30T21:06:19.484Z
+date: 2025-01-16T09:16:15.534Z
+updated: 2025-01-21T23:11:09.722Z
 tags:
   - ai video
   - ai youtube
@@ -79,19 +79,25 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Crop Factor
 
 Focal lengths in camera lenses are measured in millimeters. You can vlog yourself handheld with a 24mm lens on a camera with a full-frame sensor (the sensor is the piece of hardware inside your camera that turns the light it receives into a digital image). But if you use a 24mm lens on a camera with a smaller sensor, like an APS-C sensor or even smaller Micro 4/3 sensor, more of you will get cropped out (see below).
 
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Focal Length Equivalency Table
 
 This table shows you the focal lengths needed to achieve the same shot between cameras with different sensor sizes. In order to take a shot as wide as the shot I took of myself with the 24mm lens on my full-frame camera, I would need a 15mm lens on an APS-C sensor camera or a 12mm lens on a micro 4/3 camera.
@@ -108,18 +114,20 @@ This table shows you the focal lengths needed to achieve the same shot between c
 | Telephoto                   | 200mm      | 125mm | 100mm     |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![Camera lenses Aperture Range](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture-range.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Because larger aperture lenses let more light in, they need a shorter time for cameras to compose an image. This is why larger aperture lenses are also called “fast” lenses.
 
@@ -127,9 +135,6 @@ Fast lenses are more expensive because they cost more to produce. There’s a lo
 
 But do you even need a fast lens?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Vlogging With a Fast Lens
 
 #### Pros of Vlogging With a Fast Lens
@@ -144,9 +149,6 @@ But do you even need a fast lens?
 * Moving subjects more likely to get out of focus when shooting with a large aperture
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Optical Image Stabilization
 
 Finally, you’ll have to decide whether or not you want your lens to have built-in optical image stabilization (OIS).
@@ -167,12 +169,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[New] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-successful-mov-file-recording-in-windows-10-for-2024/"><u>[New] Secrets to Successful MOV File Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essentials-of-high-quality-audio-interfaces-in-podcasting-for-2024/"><u>[New] The Essentials of High-Quality Audio Interfaces in Podcasting for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-effective-techniques-for-building-robust-podcast-rss-feeds/"><u>[Updated] Effective Techniques for Building Robust Podcast RSS Feeds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-enhance-your-iphone-pics-in-minutes/"><u>[Updated] In 2024, Enhance Your iPhone Pics in Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-reactivate-bluetooth-via-win11-drivers/"><u>Efficiently Reactivate Bluetooth via Win11 Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-delete-temporary-files-on-windows-10-solved/"><u>How to Delete Temporary Files on Windows 10 [Solved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keep-your-videos-secure-youtube-to-mp4-downloading-safely/"><u>In 2024, Keep Your Videos Secure - YouTube-to-MP4 Downloading Safely</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-online-marketplace-for-profitable-yt-content/"><u>In 2024, Navigating the Online Marketplace for Profitable YT Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-profit-potential-unveiled-making-money-via-youtube/"><u>In 2024, Profit Potential Unveiled Making Money via YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-secrets-to-parallel-playback-prowess/"><u>In 2024, Unlocking the Secrets to Parallel Playback Prowess</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterclass-in-transforming-youtubes-shorts-to-mp4-for-2024/"><u>Masterclass in Transforming YouTube's Shorts to MP4 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-complete-snapchat-editors-toolbox-for-photo-finesse-for-2024/"><u>The Complete Snapchat Editor's Toolbox for Photo Finesse for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-and-hd-video-converter-the-official-download-center-for-free-high-quality-film-transfer-software/"><u>WinX DVD Ripper & HD Video Converter: The Official Download Center for Free High-Quality Film Transfer Software</u></a></li>
+</ul></div>
 
