@@ -1,7 +1,7 @@
 ---
 title: Transform Your Browsing - A Guide to AgentGPT's AIs
-date: 2025-01-18T11:33:58.748Z
-updated: 2025-01-21T21:19:59.199Z
+date: 2025-01-23T17:12:16.808Z
+updated: 2025-01-29T23:02:53.685Z
 tags:
   - chatgpt
   - open-ai
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ## Avoid Downloading the Malicious Google Bard Program - It's a Risk
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Google Bard?
@@ -40,22 +40,22 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -94,24 +94,18 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-tips-for-effective-google-podcast-sharing/"><u>[New] Advanced Tips for Effective Google Podcast Sharing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[New] From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-reel-in-views-mastering-the-art-of-instagrams-loop-videos/"><u>[New] In 2024, Reel in Views Mastering the Art of Instagram's Loop Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[New] Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>2024 Approved Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimizing-audience-retention-through-engaging-shorts/"><u>2024 Approved Optimizing Audience Retention Through Engaging Shorts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-list-top-10-youtube-subtitle-tools/"><u>2024 Approved The Ultimate List Top 10 YouTube Subtitle Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-techniques-converting-m4v-files-to-avi-format-both-online-and-offline/"><u>Best Techniques: Converting M4V Files to AVI Format Both Online & Offline</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>In 2024, From Hits to Strikes Expert YouTube Studio Editing Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-virtual-negativity-a-content-makers-guide/"><u>In 2024, Overcoming Virtual Negativity A Content Maker's Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a59-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A59 5G</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-steps-to-bypass-youtube-prohibitions/"><u>In 2024, Steps to Bypass YouTube Prohibitions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-video-makeup-through-color-alignment/"><u>In 2024, Transforming Video Makeup Through Color Alignment</u></a></li>
-<li><a href="https://common-error.techidaily.com/lonicera-periclymenum-european-honeysuckle-or-woodbine-native-to-europe-it-features-twining-stems-and-fragrant-tubular-flowers-that-bloom-in-the-summer/"><u>Lonicera Periclymenum (European Honeysuckle or Woodbine): Native to Europe, It Features Twining Stems and Fragrant Tubular Flowers that Bloom in the Summer.</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-best-ways-to-record-webinar/"><u>The Best Ways to Record Webinar</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-4-techniques-for-resolving-video-graininess-issues/"><u>Top 4 Techniques for Resolving Video Graininess Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/where-to-get-great-deals-on-cellphones-near-you/"><u>Where to Get Great Deals on Cellphones Near You</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels-for-2024/"><u>[New] Virtual Versus Vital Gears in the Pursuit of Perfect Pixels for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fifa-visuals-key-youtube-video-trends/"><u>2024 Approved FIFA Visuals Key YouTube Video Trends</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-investment-edutainment-the-best-channels-reviewed/"><u>2024 Approved Investment Edutainment The Best Channels Reviewed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-a-mark-on-youtube-proven-techniques-from-creator-studio-experts/"><u>2024 Approved Making a Mark on YouTube Proven Techniques From Creator Studio Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masters-designing-virtual-marvel-realms/"><u>2024 Approved Masters Designing Virtual Marvel Realms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-software-for-transforming-videos-into-ios-formats-ipad-iphone-and-more/"><u>Best Free Software for Transforming Videos Into iOS Formats: IPad, iPhone, and More!</u></a></li>
+<li><a href="https://facebook.techidaily.com/employers-guide-to-online-job-listings-facebook/"><u>Employer's Guide to Online Job Listings: Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-updated-youtube-income-guidelines/"><u>In 2024, Updated YouTube Income Guidelines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ustream-live-and-comparable-platforms/"><u>In 2024, Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-too-many-new-alleles-at-once-may-lead-to-unwanted-traits-or-genetic-instability/"><u>Introducing Too Many New Alleles at Once May Lead to Unwanted Traits or Genetic Instability</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/monetizing-micro-vlogs-a-step-by-step-guide-for-2024/"><u>Monetizing Micro-Vlogs A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-imagery-in-podcast-art-for-2024/"><u>Unlocking the Power of Imagery in Podcast Art for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220299174-wmvmp4-movavi/"><u>자이타리라인의 WMV/MP4 포맷터를 무료로 바꾸기: 최고 경품 Movavi</u></a></li>
 </ul></div>
 
