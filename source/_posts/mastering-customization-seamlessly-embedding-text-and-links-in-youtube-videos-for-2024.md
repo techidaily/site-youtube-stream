@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Customization  Seamlessly Embedding Text & Links in Youtube Videos for 2024\""
-date: 2024-07-29T20:57:54.196Z
-updated: 2024-07-30T20:57:54.196Z
+date: 2025-02-09T19:41:40.069Z
+updated: 2025-02-10T23:35:47.570Z
 tags:
   - ai video
   - ai youtube
@@ -32,9 +32,6 @@ YouTube Cards and Annotations are very useful if you want to encourage your view
 
 Do you want to make your YouTube video more attractive? [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a such video editing software designed for YouTube creator. It not only allows you cut, trim, crop, zoom, reverse, rotate the video clips, but also makes the advanced features like green screen, PIP, tilt-shift and mosaic easy like a piece of cake. With Wondershare Filmora, you can ignite your YouTube videos with over 300 effects like Fashion, Beauty, Block Buster, Travel, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -59,26 +56,29 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
 * Once you finish the subsequent information required click create card
 * Select the timeline for the playhead to appear which leads to the card slide
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to add YouTube annotations
 
 YouTube Annotation is addition of a text layer, link or hotspots over your video. They add interactive boxes which link to other websites or videos (any link you want).
@@ -87,19 +87,20 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * Click edit tab under the video screen shot you want to add the annotation on
 * Click on the "End screen & Annotation" tab
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -145,12 +146,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-comparing-aurora-and-competitors-dynamic-range-effects/"><u>[New] Comparing Aurora and Competitors' Dynamic Range Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[New] Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-spread-the-rhythm-sharing-playlists-in-minutes/"><u>[New] Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-youtube-exposure-in-156-characters-or-less/"><u>2024 Approved Maximize YouTube Exposure in 156 Characters or Less</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976816928-download-the-ftdi-ft232r-usb-to-uart-bridge-chip-drivers-fast/"><u>Download the FTDI FT232R USB-to-UART Bridge Chip Drivers Fast!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-novice-to-pro-mastering-the-art-of-youtube-shorts/"><u>In 2024, From Novice to Pro Mastering the Art of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-new-age-influencers-8-youtubes-swift-surge/"><u>In 2024, New-Age Influencers 8 YouTube's Swift Surge</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-the-income-framework-that-supports-tseries-youtube-success/"><u>In 2024, Understanding the Income Framework that Supports TSeries' Youtube Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-nokia-c210-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Nokia C210 Phone? Unlock It Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pioneering-teams-changing-vrs-course/"><u>Pioneering Teams Changing VR's Course</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-maintenance-world-what-comes-next-after-windows-781/"><u>Post-Maintenance World: What Comes Next After Windows 7/8.1?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-playback-quality-of-damaged-mov-files-on-macos/"><u>Restoring Playback Quality of Damaged MOV Files on macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-employment-in-an-ai-world-job-evolution-from-ai-trainers-to-ethical-experts-zdnet/"><u>The Future of Employment in an AI World: Job Evolution From AI Trainers to Ethical Experts | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-channels-image-a-pathway-to-more-subscribers-and-followers-for-2024/"><u>Transform Your Channels' Image A Pathway to More Subscribers and Followers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-cutting-edge-mkv-trimmers-for-mac-top-picks-2023-for-2024/"><u>Updated Cutting-Edge MKV Trimmers for Mac Top Picks 2023 for 2024</u></a></li>
+</ul></div>
 

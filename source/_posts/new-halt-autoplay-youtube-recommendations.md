@@ -1,7 +1,7 @@
 ---
 title: "[New] Halt Autoplay YouTube Recommendations"
-date: 2024-07-29T20:58:05.979Z
-updated: 2024-07-30T20:58:05.979Z
+date: 2025-02-04T17:35:54.879Z
+updated: 2025-02-10T22:37:15.942Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 # YouTube Recommended Videos - Block the Videos I Don't Like
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -42,14 +39,16 @@ Here’s what you can do about it:
 3. [**But Why Does It Recommend Stuff I Don’t Like?**](#butwhy)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manage Your Watch History
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Manage Watch History](https://images.wondershare.com/filmora/article-images/manage-watch-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Scroll to the bottom of any page on YouTube and you will see a button marked **History** with an hourglass icon. To access this feature using a mobile device, go to the **Account** tab and tap **History**.
 
@@ -58,14 +57,16 @@ You will be able to completely clear your watch history, remove specific videos 
 If you are being recommended more things you aren’t interested in than things you are, you might want to clear your history completely and start fresh. Maybe your tastes have changed since YouTube started keeping track of them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tell YouTube You Aren’t Interested
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Tell YouTube Not Interested](https://images.wondershare.com/filmora/article-images/tell-youtube-not-interested.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Based on your watch history, YouTube knows what you like. However, they have no way of automatically collecting data on what kinds of videos you’d rather not see.
 
@@ -74,6 +75,10 @@ What they do have is a system for you to flag recommendations you don’t like.
 Hover over the thumbnail of a video you don’t want to be recommended to you and a small icon that looks like three stacked dots will appear next to the title. Click on that, and then click **Not Interested**.
 
 When you tell YouTube you aren’t interested in certain videos they use that data to adjust what they recommend for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But Why Does It Recommend Stuff I Don’t Like?
 
@@ -87,9 +92,6 @@ The only way to stop certain types of videos from being recommended for you is t
 
  Are you usually happy with YouTube's recommended videos?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What video editing software did YouTube suggested videos are used?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -102,12 +104,25 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[New] Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-palette-perfection-unveiling-top-5-premium-color-tvs/"><u>[New] Palette Perfection Unveiling Top 5 Premium Color TVs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-techniques-for-creating-stellar-valorant-thumbnail-images/"><u>[New] Step-by-Step Techniques for Creating Stellar Valorant Thumbnail Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unleashing-the-magic-searching-for-photos-on-pexels/"><u>[Updated] 2024 Approved Unleashing the Magic Searching for Photos on Pexels</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>2024 Approved The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fifas-best-players-trendy-videos-on-youtube-for-2024/"><u>FIFA's Best Players Trendy Videos on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-ahead-of-tech-trends-secure-your-apple-watch-series-10-before-release-plus-top-tips-for-discount-savings/"><u>Get Ahead of Tech Trends: Secure Your Apple Watch Series 10 Before Release + Top Tips for Discount Savings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails-for-2024/"><u>Making a Splash with YouTube Ad Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-knowledge-acquisition-beyond-virtual-videos/"><u>Mastering Knowledge Acquisition Beyond Virtual Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smart-shopping-tips-economical-gopro-cameras-for-2024/"><u>Smart Shopping Tips Economical GoPro Cameras for 2024</u></a></li>
+</ul></div>
 

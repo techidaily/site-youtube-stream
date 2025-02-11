@@ -1,7 +1,7 @@
 ---
 title: God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC!
-date: 2025-01-28T18:58:13.944Z
-updated: 2025-01-29T18:33:33.732Z
+date: 2025-02-05T21:53:55.705Z
+updated: 2025-02-10T18:49:50.822Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ God of War
 
  If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix the game fps drops, stuttering, and other performance issues easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the God of War FPS drops for other PC players. You probably don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,6 +39,10 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,10 +50,6 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -85,7 +89,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -103,7 +107,7 @@ There are mainly two methods for you to update the graphics driver:
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -125,10 +129,6 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -153,14 +153,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -179,10 +175,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -193,8 +185,16 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -222,21 +222,18 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-charting-the-course-to-prodigy-status-for-ajey-carryminati-for-2024/"><u>[New] Charting the Course to Prodigy Status for Ajey (CarryMinati) for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-football-vids-premier-insights-into-youtube-tracks/"><u>[New] Football Vids Premier Insights Into YouTube Tracks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-full-facebook-call-archive-feature-guide/"><u>[New] Full-Facebook Call Archive Feature Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-guide-deleting-items-from-your-youtubeumbers-list/"><u>[New] Guide Deleting Items From Your YouTube'umbers List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[New] In 2024, Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[New] Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-creative-composition-ideal-apps-for-ios-and-android-for-2024/"><u>[Updated] Creative Composition Ideal Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-conquering-capture-a-detailed-walkthrough-for-ps4-recordings/"><u>2024 Approved Conquering Capture A Detailed Walkthrough for PS4 Recordings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leveraging-seo-for-youtube-popularity-a-budget-guide/"><u>2024 Approved Leveraging SEO for YouTube Popularity A Budget Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/googles-platform-unveiled-the-ultimate-guide-to-podcast-postings-for-2024/"><u>Google's Platform Unveiled The Ultimate Guide to Podcast Postings for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-unboxing-videos-your-comprehensive-strategy/"><u>In 2024, Mastering Unboxing Videos Your Comprehensive Strategy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/"><u>In 2024, Stepwise Strategy for Transforming Your YouTube Videos with iMovie</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mp3-streaming-simplified-youtube-upload-in-three-steps-for-2024/"><u>MP3 Streaming Simplified YouTube Upload in Three Steps for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-imovie-not-available-on-windows-10-try-these-excellent-alternatives-instead/"><u>Updated In 2024, IMovie Not Available on Windows 10? Try These Excellent Alternatives Instead</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-digital-canvas-exploring-the-8-outstanding-drawing-apps-for-iphones-for-2024/"><u>[New] Digital Canvas Exploring the 8 Outstanding Drawing Apps for iPhones for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mapping-out-instagram-departures/"><u>[New] Mapping Out Instagram Departures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-quick-fixes-adding-descriptive-texts-to-videos-via-photos-app-windows-11-for-2024/"><u>[New] Quick Fixes Adding Descriptive Texts to Videos via Photos App (Windows 11) for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sonic-shakers-the-ultimate-audio-rippers-list/"><u>[New] Sonic Shakers The Ultimate Audio Rippers List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-ig-music-companion-for-2024/"><u>[Updated] The Ultimate IG Music Companion for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>2024 Approved How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustainable-practices-greening-urban-landscapes/"><u>2024 Approved Sustainable Practices Greening Urban Landscapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-emotion-and-imagination-in-tiktok-creations/"><u>Elevate Emotion and Imagination in TikTok Creations</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-password-manager-security-expert-tips-and-techniques-zdnet/"><u>Enhancing Password Manager Security: Expert Tips & Techniques [ZDNet]</u></a></li>
+<li><a href="https://media-tips.techidaily.com/essential-guide-to-mastering-airplay-and-device-screen-mirroring-on-iphone-and-ipad/"><u>Essential Guide to Mastering AirPlay and Device Screen Mirroring on iPhone & iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>In 2024, Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>In 2024, How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
 </ul></div>
 

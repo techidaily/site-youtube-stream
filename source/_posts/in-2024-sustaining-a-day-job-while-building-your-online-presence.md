@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sustaining a Day Job While Building Your Online Presence"
-date: 2025-01-07T16:43:19.759Z
-updated: 2025-01-10T17:15:05.414Z
+date: 2025-02-03T19:18:40.709Z
+updated: 2025-02-10T22:05:11.923Z
 tags:
   - ai video
   - ai youtube
@@ -46,17 +46,9 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3. Check the weather forecast in advance
 
@@ -141,7 +133,7 @@ Just try it and create your own YouTube video!
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -178,10 +170,6 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
@@ -189,6 +177,10 @@ A notebook planner is essential for keeping my life organized and on track. When
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4. Create 3-5 videos in advance
 
@@ -207,10 +199,6 @@ Wondershare Filmora is one application that people prefer over any other video e
 Just try it and create your own YouTube video!
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -246,10 +234,6 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
@@ -263,7 +247,7 @@ When starting a YouTube channel, many YouTubers like myself don’t have the mon
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
@@ -281,7 +265,7 @@ Just try it and create your own YouTube video!
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -305,7 +289,7 @@ Follow @Richard Bennett
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## From Fresh to Famous: Elevating Your Channels Views & Youtube Subs
@@ -376,11 +360,19 @@ Regular research into your target market will help you to create the trendiest n
 
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Your Videos with High-Quality Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -454,6 +446,10 @@ Timing and luck are definitely two of the biggest factors in becoming a success 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -477,7 +473,7 @@ Jesse Ridgway is the owner of the vlog [McJuggerNuggets](https://www.youtube.com
 ![Case Study McJugger Nuggets](https://images.wondershare.com/filmora/article-images/case-study-mcjugger-nuggets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jesse was one of the earliest YouTubers. He started his channel on December 9, 2006\. Jesse never guessed that he would make enough money to live off of the videos he was creating. Here are some of the ways that he monetized his channel:
@@ -602,6 +598,10 @@ Regular research into your target market will help you to create the trendiest n
 
 Timing and luck are definitely two of the biggest factors in becoming a success on YouTube. If you are willing to keep working and don’t get discouraged you will eventually earn profits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Your Videos with High-Quality Video Editor
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -629,18 +629,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-innovators-amalgamating-photography-plus-music-into-videography/"><u>[New] In 2024, Innovators Amalgamating Photography + Music Into Videography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-professional-level-youtube-content-via-adobe-premiere/"><u>[New] Professional-Level YouTube Content via Adobe Premiere</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-top-tools-for-saving-insta-photos-and-videos-for-2024/"><u>[New] Top Tools for Saving Insta Photos & Videos for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mobilize-your-storytelling-crafting-content-with-a-phone/"><u>2024 Approved Mobilize Your Storytelling Crafting Content with a Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g23-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G23</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-premier-gamers-app-an-in-depth-look-at-kinemaster-for-2024/"><u>Android's Premier Gamer's App An In-Depth Look at KineMaster for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/te-your-youtube-content-seo-methods-revealed-for-2024/"><u>Elevate Your YouTube Content SEO Methods Revealed for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/freefall-into-success-top-hashtags-and-vlogging-techniques-for-2024/"><u>FreeFall Into Success Top Hashtags and Vlogging Techniques for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-basic-to-breakthrough-a-youtube-live-thumbnail-journey-for-2024/"><u>From Basic to Breakthrough A YouTube Live Thumbnail Journey for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>In 2024, Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-in-length-management-youtube-vids/"><u>In 2024, Masterclass in Length Management YouTube Vids</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-streamlining-creation-youtube-video-editor-insights/"><u>In 2024, Streamlining Creation YouTube Video Editor Insights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-whats-cooking-10-viral-food-scenes-on-tiktok/"><u>[New] 2024 Approved What's Cooking? 10 Viral Food Scenes on TikTok</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ease-down-mix-levels-with-fl/"><u>[New] Ease Down Mix Levels with FL</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sitcom-spotlight-15-hilarious-channels-for-relaxation/"><u>[New] Sitcom Spotlight 15 Hilarious Channels for Relaxation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-building-a-strong-network-how-to-form-effective-youtube-partner-relationships-for-2024/"><u>[Updated] Building a Strong Network How to Form Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-crafting-dynamic-luts/"><u>[Updated] In 2024, The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-get-royalty-free-music-for-your-youtube-videos/"><u>2024 Approved How To Get Royalty Free Music for Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-7-digital-photography-devices-for-high-quality-video-streams/"><u>2024 Approved Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-guide-effective-video-promotion-tools/"><u>2024 Approved Infographic Guide Effective Video Promotion Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-fair-use-and-infringement-on-youtube/"><u>2024 Approved Understanding Fair Use and Infringement on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-refund-a-game-on-steam/"><u>How to Refund a Game on Steam</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-animate-and-make-your-own-effects/"><u>In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-student-guide-to-best-history-videos-online/"><u>In 2024, Ultimate Student Guide to Best History Videos Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unraveling-your-yt-playlist-quick-methods-for-reversal/"><u>In 2024, Unraveling Your YT Playlist Quick Methods for Reversal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc-for-2024/"><u>The Art of Assembly Crafting Your Personalized 4K Video Editor PC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-artisans-approach-to-perfect-slide-printouts-from-powerpoint-in-windows/"><u>The Artisan's Approach to Perfect Slide Printouts From PowerPoint in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317834-9781781808573-the-game-of-life-and-how-to-play-it/"><u>The Game of Life and How to Play It | Free Book</u></a></li>
 </ul></div>
 

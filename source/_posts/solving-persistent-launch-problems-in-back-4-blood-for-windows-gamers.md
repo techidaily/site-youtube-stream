@@ -1,7 +1,7 @@
 ---
 title: Solving Persistent Launch Problems in Back 4 Blood for Windows Gamers
-date: 2025-01-26T00:29:43.569Z
-updated: 2025-01-29T22:03:09.302Z
+date: 2025-02-05T20:36:51.196Z
+updated: 2025-02-11T00:25:02.992Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Battlefield-IV-1200x703.jpg)
 
  Battlefield 4 is no doubt a popular video game since it was released. However, many gamers keep reporting that Battlefield 4 won’t launch on PC. If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-my-game-library.jpg)
 2. Right-click Battlefield 4 and select**Repair Game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-repair-game.jpg)
 3. Origin will automatically verify game files and download any replacement or missing files.
 
@@ -56,9 +56,17 @@ thumbnail: https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files.jpg)
 3. Wait a few minutes for Steam to verify the game’s files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Battlefield 4 to test if the launching issue is resolved.
 
 If the issue remains, check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,19 +84,11 @@ If the issue remains, check out the next solution.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with_full technical support_ . If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) **.**
 
  After updating your drivers, restart your computer and test if Battlefield 4 launches now.
 
  If updating the graphics driver doesn’t do the trick, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Battlefield 4 and Origin as administrator
 
@@ -99,12 +99,12 @@ If the issue remains, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
@@ -115,6 +115,10 @@ Check if Battlefield 4 launches properly.
 
  If this method doesn’t help you resolve the problem, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change game properties
 
  Many players have reported that they fixed the launching issue by changing game properties for Battlefield 4\. It can be done with a few simple clicks via the Origin client. Here’s how:
@@ -123,17 +127,25 @@ Check if Battlefield 4 launches properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-my-game-library.jpg)
 2. Right-click Battlefield 4 and select**Game Properties…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Repeat step1 and step 2, then change game properties back to**Battlefield 4™ (x64)** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer and check if you can launch Battlefield 4 successfully.
@@ -148,22 +160,14 @@ If this fix doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-offline.jpg)
 2. Run Battlefield 4 in this instance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Once the menu says you’re offline, switch windows to the Origin menu, then click**Go online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If Battlefield 4 is still not launching, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
@@ -173,10 +177,6 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 1. Run the Origin client and select**My Game Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/my-games-library-origin.jpg)
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
@@ -205,21 +205,20 @@ Check if Battlefield 4 could launch normally.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/omic-corner-best-funny-content-on-the-planet-web/"><u>[New] Comic Corner Best Funny Content on the Planet Web</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-skullduggery-scribblers-den/"><u>[Updated] 2024 Approved Skullduggery Scribbler's Den</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-digital-warriors-youtubes-top-ten-women/"><u>[Updated] Digital Warriors YouTube’s #Top Ten Women</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-seamlessly-transitioning-sounds-with-audacity-tips-for-2024/"><u>[Updated] Seamlessly Transitioning Sounds with Audacity Tips for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-9-free-logo-design-software-for-youtube-channels/"><u>2024 Approved Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>In 2024, From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-video-marketing-youtube-trailers-with-filmora/"><u>In 2024, Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-embedding-yt-videos-on-your-website/"><u>In 2024, Mastering the Art of Embedding YT Videos on Your Website</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-color-in-online-beauty-content/"><u>In 2024, The Art of Color in Online Beauty Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-earnings-achiever-in-the-streaming-world/"><u>In 2024, Top Earnings Achiever in the Streaming World</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s17t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S17t – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sizing-up-best-practices-for-instagram-videos-in-2eary-2023/"><u>[New] 2024 Approved Sizing Up Best Practices for Instagram Videos in 2Eary 2023</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[New] Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-to-past-facebook-stories-a-step-by-step-mobile-and-laptop-guide-for-2024/"><u>[New] Navigating to Past Facebook Stories A Step-by-Step Mobile & Laptop Guide for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-and-proficiently-implementing-cc-copyrights/"><u>[Updated] 2024 Approved Understanding and Proficiently Implementing CC Copyrights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamline-your-slide-share-experience-with-webcam/"><u>[Updated] Streamline Your Slide Share Experience with Webcam</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-into-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>2024 Approved Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-complete-youtube-traffic-and-monetization-guidebook/"><u>2024 Approved The Complete Youtube Traffic & Monetization Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-access-to-the-latest-amd-radeon-r5-driver-download-for-various-windows-versions/"><u>Direct Access to the Latest AMD Radeon R5 Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/excellent-7-dslrs-elevating-live-stream-cinematic-style-for-2024/"><u>Excellent 7 DSLRs Elevating Live-Stream Cinematic Style for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-thumbnail-tips-for-youtube-success/"><u>In 2024, Quick Thumbnail Tips for YouTube Success</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-share-a-spotify-playlist-simultaneously-with-someone-else/"><u>Is It Possible to Share a Spotify Playlist Simultaneously with Someone Else?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-secure-connection-couldnt-be-established-errors-in-mozilla-firefox/"><u>Resolving 'Secure Connection Couldn't Be Established' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-your-tivo-recordings-into-mp4-format/"><u>Step-by-Step Guide: Converting Your TiVo Recordings Into MP4 Format</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-income-on-youtube-adopting-sourav-joshis-methods/"><u>Unlocking Income on YouTube Adopting Sourav Joshi’s Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide to Softening YouTube Videos' Surroundings\""
-date: 2024-07-29T20:54:04.445Z
-updated: 2024-07-30T20:54:04.445Z
+date: 2025-02-04T21:24:53.262Z
+updated: 2025-02-10T23:25:35.049Z
 tags:
   - ai video
   - ai youtube
@@ -35,9 +35,6 @@ Even if your set is clean, there could be things like books behind you, which wi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
 
 Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
@@ -63,106 +60,9 @@ To get a shallow depth of field, make sure your aperture is wide. Do this by set
 
 Creating a bokeh effect is mostly the same, except that it works best when your subject/depth of field is very close to the camera, and you have a light source off in the background. Zoom Lenses do not usually have wide enough apertures to create bokeh backgrounds.
 
-## Blur Video Background in Post-Production with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
-
-If you need to blur the video background after shooting, you can use some video editing software to add the bokeh effect or the tilt-off effect in post-production. Here, I will show you how to do that in Filmora.
-
-Filmora is one of the most widely used video editing software among YouTubers. Its user-friendly interface and tutorial guide enables green-hands to start video editing quickly. Besides, you can find many free filters, effects, and elements pre-programmed, so you can use them directly without looking for presets and templates somewhere else.
-
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### 1\. Add Bokeh Filter to Video in Filmora
-
-There are about 20 bokeh effects available in filters and overlays. You can find them easily by typing bokeh in the search bar in Effects.
-
-Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
-
-![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
-
-Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### 2\. Use Tilt-Shift Circle/Linear Effect to Blur Video Background
-
-Filmora features two tilt effects, tilt-shift circle and tilt-shift linear, which allows you to highlight people in the video, blur, and conceal the video background.
-
-Go to the **Effects** tab and then switch to the **Utility** menu under **Included** category.
-
-![ Filmora Tilt-Shift effects ](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
-
-Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
-
-You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-A lot of YouTubers like to vlog in front of blurred backgrounds. [Blurring the background of your YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) is a fast way to make it look more professional – you stand out when you are entirely in focus, and everything behind you is blurry. Plus, it is an easy way to disguise the room you are vlogging from.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
-![how to blur01](https://images.wondershare.com/filmora/article-images/how-to-blur01.JPG)
-
-Even if your set is clean, there could be things like books behind you, which will distract viewers; they will be trying to read the spines. Blurring out the background of your shot makes your video look polished and keeps people's focus entirely on you.
-
-* [Part 1: Blur YouTube Video Background in Shooting Videos](#blur%5Fbackground%5Fin%5Fvideo%5Fshooting)
-* [Part 2: Add Tilt-Shift Effects to Video in Editing](#blur%5Fbackground%5Fin%5Fvideo%5Fediting)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
-
-Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
-
- **Aperture** refers to the hole in your lens which allows light into your camera. A narrow aperture lets in less light, and a wide aperture lets in more. The wider your aperture is, the shallower your depth of field will be. Widening your aperture also helps your camera perform better in low-light situations. Widening your aperture too much under the wrong circumstances can let in too much light and result in your footage being overexposed.
-
- **Depth of Field** is the area of your image that is in focus. If you have a large depth of field, then objects close to and far away from your camera will all be in focus. Only a select area will be focused and the rest will be blurred if you have a shallow depth of field.
-
- **F-Stops** are the measurement of an aperture's width. The higher your f-stop, the narrower your aperture will be. To create a blurred background or a bokeh effect, you need a wide aperture, and thus a small f-stop. F-stops are written like ‘f/1.4'. You need an f-stop of less than f/4 to blur your background, and less than f/2.8 for bokeh.
-
-#### 1\. Blurring and Bokeh
-
-Blurred backgrounds and bokeh are very closely related. A bokeh effect is essentially a blurred background that includes lights.  
-To achieve a blurred background or a bokeh effect, you need to have a shallow depth of field. That means a wide aperture and a low f-stop.
-
-#### 2\. How to Blur your Background
-
-Place your subject – in the case of a vlog, your subject is probably yourself – in a shallow depth of field, and they will remain sharply in focus while everything behind them is blurred.
-
-If the subject is yourself, you might need a helper to either operate your camera or stand in for you while you set up your camera. You will need to be able to check that the place you plan to stand or sit is in focus.
-
-To get a shallow depth of field, make sure your aperture is wide. Do this by setting a low f-stop. Ideally, your f-stop will be 2.8 or lower, but if your camera cannot go that low, then f/3 or f/4 can also work.
-
-Creating a bokeh effect is mostly the same, except that it works best when your subject/depth of field is very close to the camera, and you have a light source off in the background. Zoom Lenses do not usually have wide enough apertures to create bokeh backgrounds.
 
 ## Blur Video Background in Post-Production with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -176,16 +76,14 @@ There are about 20 bokeh effects available in filters and overlays. You can find
 
 Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use Tilt-Shift Circle/Linear Effect to Blur Video Background
 
 Filmora features two tilt effects, tilt-shift circle and tilt-shift linear, which allows you to highlight people in the video, blur, and conceal the video background.
@@ -194,15 +92,16 @@ Go to the **Effects** tab and then switch to the **Utility** menu under **Includ
 
 ![ Filmora Tilt-Shift effects ](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
 
 ![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
 
 You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -219,9 +118,6 @@ Follow @Richard Bennett
 
 A lot of YouTubers like to vlog in front of blurred backgrounds. [Blurring the background of your YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) is a fast way to make it look more professional – you stand out when you are entirely in focus, and everything behind you is blurry. Plus, it is an easy way to disguise the room you are vlogging from.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to blur01](https://images.wondershare.com/filmora/article-images/how-to-blur01.JPG)
 
 Even if your set is clean, there could be things like books behind you, which will distract viewers; they will be trying to read the spines. Blurring out the background of your shot makes your video look polished and keeps people's focus entirely on you.
@@ -268,9 +164,6 @@ There are about 20 bokeh effects available in filters and overlays. You can find
 
 Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
 
 Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
@@ -289,14 +182,8 @@ Here, I will select the **Tilt-Shift Circle** effect and drop it to the track ab
 
 You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -311,9 +198,6 @@ Follow @Richard Bennett
 
 A lot of YouTubers like to vlog in front of blurred backgrounds. [Blurring the background of your YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) is a fast way to make it look more professional – you stand out when you are entirely in focus, and everything behind you is blurry. Plus, it is an easy way to disguise the room you are vlogging from.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to blur01](https://images.wondershare.com/filmora/article-images/how-to-blur01.JPG)
 
 Even if your set is clean, there could be things like books behind you, which will distract viewers; they will be trying to read the spines. Blurring out the background of your shot makes your video look polished and keeps people's focus entirely on you.
@@ -323,9 +207,94 @@ Even if your set is clean, there could be things like books behind you, which wi
 
 ---
 
+## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
+
+Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
+
+ **Aperture** refers to the hole in your lens which allows light into your camera. A narrow aperture lets in less light, and a wide aperture lets in more. The wider your aperture is, the shallower your depth of field will be. Widening your aperture also helps your camera perform better in low-light situations. Widening your aperture too much under the wrong circumstances can let in too much light and result in your footage being overexposed.
+
+ **Depth of Field** is the area of your image that is in focus. If you have a large depth of field, then objects close to and far away from your camera will all be in focus. Only a select area will be focused and the rest will be blurred if you have a shallow depth of field.
+
+ **F-Stops** are the measurement of an aperture's width. The higher your f-stop, the narrower your aperture will be. To create a blurred background or a bokeh effect, you need a wide aperture, and thus a small f-stop. F-stops are written like ‘f/1.4'. You need an f-stop of less than f/4 to blur your background, and less than f/2.8 for bokeh.
+
+#### 1\. Blurring and Bokeh
+
+Blurred backgrounds and bokeh are very closely related. A bokeh effect is essentially a blurred background that includes lights.  
+To achieve a blurred background or a bokeh effect, you need to have a shallow depth of field. That means a wide aperture and a low f-stop.
+
+#### 2\. How to Blur your Background
+
+Place your subject – in the case of a vlog, your subject is probably yourself – in a shallow depth of field, and they will remain sharply in focus while everything behind them is blurred.
+
+If the subject is yourself, you might need a helper to either operate your camera or stand in for you while you set up your camera. You will need to be able to check that the place you plan to stand or sit is in focus.
+
+To get a shallow depth of field, make sure your aperture is wide. Do this by setting a low f-stop. Ideally, your f-stop will be 2.8 or lower, but if your camera cannot go that low, then f/3 or f/4 can also work.
+
+Creating a bokeh effect is mostly the same, except that it works best when your subject/depth of field is very close to the camera, and you have a light source off in the background. Zoom Lenses do not usually have wide enough apertures to create bokeh backgrounds.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Blur Video Background in Post-Production with [Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+
+If you need to blur the video background after shooting, you can use some video editing software to add the bokeh effect or the tilt-off effect in post-production. Here, I will show you how to do that in Filmora.
+
+Filmora is one of the most widely used video editing software among YouTubers. Its user-friendly interface and tutorial guide enables green-hands to start video editing quickly. Besides, you can find many free filters, effects, and elements pre-programmed, so you can use them directly without looking for presets and templates somewhere else.
+
+### 1\. Add Bokeh Filter to Video in Filmora
+
+There are about 20 bokeh effects available in filters and overlays. You can find them easily by typing bokeh in the search bar in Effects.
+
+Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
+
+![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
+
+Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
+
+### 2\. Use Tilt-Shift Circle/Linear Effect to Blur Video Background
+
+Filmora features two tilt effects, tilt-shift circle and tilt-shift linear, which allows you to highlight people in the video, blur, and conceal the video background.
+
+Go to the **Effects** tab and then switch to the **Utility** menu under **Included** category.
+
+![ Filmora Tilt-Shift effects ](https://images.wondershare.com/filmora/article-images/tilt-shift-effects.jpg)
+
+Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
+
+![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
+
+You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+A lot of YouTubers like to vlog in front of blurred backgrounds. [Blurring the background of your YouTube video](https://tools.techidaily.com/wondershare/filmora/download/) is a fast way to make it look more professional – you stand out when you are entirely in focus, and everything behind you is blurry. Plus, it is an easy way to disguise the room you are vlogging from.
+
+![how to blur01](https://images.wondershare.com/filmora/article-images/how-to-blur01.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Even if your set is clean, there could be things like books behind you, which will distract viewers; they will be trying to read the spines. Blurring out the background of your shot makes your video look polished and keeps people's focus entirely on you.
+
+* [Part 1: Blur YouTube Video Background in Shooting Videos](#blur%5Fbackground%5Fin%5Fvideo%5Fshooting)
+* [Part 2: Add Tilt-Shift Effects to Video in Editing](#blur%5Fbackground%5Fin%5Fvideo%5Fediting)
+
+---
+
 ## Part 1: How to Blur Background of Your YouTube Video in Shooting Videos
 
 Blurring your background is also how you create a beautiful bokeh lighting effect. Bokeh is when you blur lights in the background of your shot, creating halo-like circles of light. By attaching a filter with a shape cut out to the camera lens, you can even generate bokeh lights in other shapes, like hearts or stars.
@@ -363,20 +332,10 @@ There are about 20 bokeh effects available in filters and overlays. You can find
 
 Note: you should select **Included** to see all bokeh effects pre-programmed in Filmora. If you need more visual effects, just go to [the Filmstock](https://tools.techidaily.com/wondershare/filmora/download/) effects store.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ Filmora Bokeh effect ](https://images.wondershare.com/filmora/article-images/filmora9-bokeh-effect.jpg)
 
 Double click the bokeh effect to preview the result, and if you find the bokeh effect fits the video, just drop it to the track above the video. And the bokeh filter or overlay will be applied to the video automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### 2\. Use Tilt-Shift Circle/Linear Effect to Blur Video Background
 
 Filmora features two tilt effects, tilt-shift circle and tilt-shift linear, which allows you to highlight people in the video, blur, and conceal the video background.
@@ -387,18 +346,6 @@ Go to the **Effects** tab and then switch to the **Utility** menu under **Includ
 
 Here, I will select the **Tilt-Shift Circle** effect and drop it to the track above the video. Now, you can adjust the size, position, and intensity of the tilt-shift circle effect
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Filmora Tilt-Shift Circle effect](https://images.wondershare.com/filmora/article-images/apply-tilt-shift-circle-effect.jpg)
 
 You see, the video background is blurred, and the people are highlighted. Now it's your turn to download the Filmora video editor and try it yourself.
@@ -425,15 +372,16 @@ Follow @Richard Bennett
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Turning YouTube Shorts Into a Stream of Income
 
 # YouTube Shorts Monetization: How to Make Money on YouTube Shorts?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -560,10 +508,6 @@ The approaches discussed above can help you earn money with YouTube. Now that Yo
 
 Another positive aspect of this approach is, the number of views your short videos affects the overall analytics of your YouTube channel (in terms of view count and playback duration), and therefore play a vital role in meeting the minimum requirements as per YouTube policies to get your other, regular YouTube clips monetized.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Why did People See Less Revenue Than Regular YouTube Video?
 
 When you start publishing short videos on your YouTube channel, the views that those clips get also affect the total view count and the playback duration of your channel. Although this helps you reach the minimum threshold for the monetization services that the platform offers, because the short videos cannot be monetized, you may see some depreciation in the revenue generation over time.
@@ -584,6 +528,10 @@ The bottom line is, no matter what the current scenario of YouTube Shorts is, yo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -598,9 +546,6 @@ If you have access to YouTube, and you are able to sign in to the platform with 
 
 With that said, the following sections explain some of the practical methods to earn money from Google and YouTube and how YouTube Shorts contributes to the process.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make Money on YouTube Shorts? (Practical Way)
 
 The good news is, you are not solely dependent on YouTube Shorts to generate funds from the Internet. In fact, there are several other means that can help you with that. Some of the practical ways that YouTube and Google allow you to earn through include:
@@ -659,15 +604,13 @@ And the most optimistic part is, Google is still working on and exploring YouTub
 
 The bottom line is, no matter what the current scenario of YouTube Shorts is, you must ensure to [create engaging videos for YouTube Shorts](https://tools.techidaily.com/wondershare/filmora/download/) using any of the tools like Wondershare Filmora in order to attract more subscribers to increase your earnings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -684,8 +627,9 @@ If you have access to YouTube, and you are able to sign in to the platform with 
 With that said, the following sections explain some of the practical methods to earn money from Google and YouTube and how YouTube Shorts contributes to the process.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Make Money on YouTube Shorts? (Practical Way)
 
 The good news is, you are not solely dependent on YouTube Shorts to generate funds from the Internet. In fact, there are several other means that can help you with that. Some of the practical ways that YouTube and Google allow you to earn through include:
@@ -728,9 +672,6 @@ The approaches discussed above can help you earn money with YouTube. Now that Yo
 
 Another positive aspect of this approach is, the number of views your short videos affects the overall analytics of your YouTube channel (in terms of view count and playback duration), and therefore play a vital role in meeting the minimum requirements as per YouTube policies to get your other, regular YouTube clips monetized.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why did People See Less Revenue Than Regular YouTube Video?
 
 When you start publishing short videos on your YouTube channel, the views that those clips get also affect the total view count and the playback duration of your channel. Although this helps you reach the minimum threshold for the monetization services that the platform offers, because the short videos cannot be monetized, you may see some depreciation in the revenue generation over time.
@@ -747,14 +688,12 @@ And the most optimistic part is, Google is still working on and exploring YouTub
 
 The bottom line is, no matter what the current scenario of YouTube Shorts is, you must ensure to [create engaging videos for YouTube Shorts](https://tools.techidaily.com/wondershare/filmora/download/) using any of the tools like Wondershare Filmora in order to attract more subscribers to increase your earnings.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -776,5 +715,23 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-favorites-top-10-viral-music-videos-guide-for-2024/"><u>[New] Facebook's Favorites TOP 10 Viral Music Videos Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-embrace-laughter-and-sorrow-with-these-top-10-meme-igs/"><u>[New] In 2024, Embrace Laughter and Sorrow with These Top 10 Meme IGs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-producing-effective-corporate-webinar-videos/"><u>[New] Producing Effective Corporate Webinar Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-prodigious-platform-professionals/"><u>[Updated] 2024 Approved Prodigious Platform Professionals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-add-fun-filters-and-graphics-to-your-snapchat-story/"><u>[Updated] In 2024, Step-by-Step Guide to Add Fun Filters and Graphics to Your Snapchat Story</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-dream-makers-the-online-marvel-experience/"><u>2024 Approved Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>2024 Approved MP3 Upload Process Stream, Convert & Share on YouTube Quickly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securing-cash-through-youtube-content-sales/"><u>2024 Approved Securing Cash Through YouTube Content Sales</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>2024 Approved Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1728494499160-windows/"><u>如何将Windows上的实机转换为云计算平台</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bridging-reality-and-simulation/"><u>Bridging Reality and Simulation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-e-importar-archivos-dts-libremente-a-la-web-con-convertidor-de-archivos-gratuito-de-movavi/"><u>Descargar E Importar Archivos DTS Libremente a La Web Con Convertidor De Archivos Gratuito De Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-the-globe-top-10-travelers-youtube-guide/"><u>In 2024, Explore the Globe Top 10 Traveler's YouTube Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-gain-command-over-youtubes-video-playback-speed/"><u>In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-enriching-youtube-videos-with-harmonics/"><u>In 2024, The Ultimate Guide to Enriching YouTube Videos with Harmonics</u></a></li>
+</ul></div>
 

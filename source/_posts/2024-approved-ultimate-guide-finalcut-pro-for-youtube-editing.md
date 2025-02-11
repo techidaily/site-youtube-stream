@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Guide  FinalCut Pro for YouTube Editing\""
-date: 2025-01-08T16:56:01.061Z
-updated: 2025-01-10T16:07:03.957Z
+date: 2025-02-06T16:58:09.324Z
+updated: 2025-02-10T23:24:45.895Z
 tags:
   - ai video
   - ai youtube
@@ -64,19 +64,11 @@ That's the fun part. There are a few things that you can do with Final Cut Pro, 
 
 ![Upload video to YouTube from FCP](https://images.wondershare.com/filmora/article-images/upload-to-youtube-from-fcp.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This one is rather easy. Here is the sequence that you need to do. Go to File -> Share -> Master File -> Setting -> File -> Share -> YouTube. That's basically it. Then you need to sign in to your YouTube account and simply click on Next -> Publish and the entire thing is done. That's all you need to do in order to quickly and conveniently upload your video to YouTube directly from the FCP.
 
 Check this video tutorial to see how YouTube creators edit their YouTubes videos with Final Cut Pro
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -95,10 +87,6 @@ With its user friendly interface and versatile features, Fincal Cut Pro is defin
 Even though FCP is good software, there's no denying that it's pretty pricy and a little bit complicated for most beginners. [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is definitely better alternatives for Final Cut Pro. It's a lot more user-friendly and requires no previous experience in video editing. With Wondershare Filmora, you can ignite your YouTube videos with over [300 effects](https://tools.techidaily.com/wondershare/filmora/download/) like Fashion, Beauty, Block Buster, Travel, etc.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -182,10 +170,6 @@ That's the fun part. There are a few things that you can do with Final Cut Pro, 
 
 ![adjust youtube video scale and position](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You can also create previews when the video ends. In order to do so, you need to import your main clip, select a solid background color and place the preview video above it. You will then be able to trim and edit it conveniently. Adjust the scale and the position and you are good to go. Afterwards, you can also apply annotation on top of the preview.
 
 #### Step 3: Upload to YouTube from the software directly
@@ -199,7 +183,7 @@ Check this video tutorial to see how YouTube creators edit their YouTubes videos
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -219,6 +203,10 @@ With its user friendly interface and versatile features, Fincal Cut Pro is defin
 Even though FCP is good software, there's no denying that it's pretty pricy and a little bit complicated for most beginners. [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is definitely better alternatives for Final Cut Pro. It's a lot more user-friendly and requires no previous experience in video editing. With Wondershare Filmora, you can ignite your YouTube videos with over [300 effects](https://tools.techidaily.com/wondershare/filmora/download/) like Fashion, Beauty, Block Buster, Travel, etc.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -251,6 +239,10 @@ That's the fun part. There are a few things that you can do with Final Cut Pro, 
 #### Step 3: Upload to YouTube from the software directly
 
 ![Upload video to YouTube from FCP](https://images.wondershare.com/filmora/article-images/upload-to-youtube-from-fcp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This one is rather easy. Here is the sequence that you need to do. Go to File -> Share -> Master File -> Setting -> File -> Share -> YouTube. That's basically it. Then you need to sign in to your YouTube account and simply click on Next -> Publish and the entire thing is done. That's all you need to do in order to quickly and conveniently upload your video to YouTube directly from the FCP.
 
@@ -308,10 +300,6 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Add Shake Filters**
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
@@ -337,123 +325,7 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Method 2: Generate Animated Bouncing Texts Online
-
-If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
-
-Some most trusted websites to generate **bounce text** are listed below:
-
-#### 1\. ENGFTO
-
-Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
-
-![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
-
-You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
-
-**Step 1: Get to the Animated Bouncing Text Page**
-
-Launch your favorite web browser, and go to the link given above to get to the Engfto’s animated bouncing text page.
-
-**Step 2: Customize Text and Preferences**
-
-Modify the values in the fields under the **SIZE AREA** and **TEXT** sections to customize the text area, the text itself, its size, and font. Next, adjust the values in the fields under the **EFFECT PARAMETERS** section to get the required bounce effect. Also, use the fields under the **BACKGROUND** section to either change the background color, or pick a background image from your PC.
-
-**Step 3: Obtain the Animated Text**
-
-Click the **SAVE GIF ANIMATION** button from the lower section of the page to download the animated text to your PC.
-
-#### 2\. Loading.io
-
-The instructions given below explain how to use Loading.io to get animated **bounce text** effect for your footages:
-
-**Step 1: Get to the Loading.io Webpage**
-
-Launch your favorite web browser and go to <https://loading.io/animation/text/>.
-
-**Step 2: Customize the Text and Choose Animation Effect**
-
-![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
-
-Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
-
-**Step 3: Obtain the Text**
-
-Click your preferred option from next to the **Download As** section to download the animated text to your PC.
-
-**Note:** Regardless of the web solution you choose to generate and obtain animated **bounce text**, you will still need a post-production tool to add the downloaded text to your footage.
-
-**Conclusion**
-
-Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
-
-## Method 1: How to Create Bouncing Text in Filmora Video Editor?
-
-When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
-
-These pre-built templates not only make your task easier, they also save your decent amount of time that you would spend while working with After Effects or any other similar app that requires you to build things from scratch.
-
-You can follow the instructions given below to **add animated bounce text** to any of your video footages with Filmora:
-
-#### Step 1: Add a Footage to Timeline
-
-Launch Wondershare Filmora on your Windows or Mac PC. By default, the [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/) of the project is set to 16:9\. Click anywhere inside the **Media** window at the upper-left section, and select and import footage you want to add bounce text to.
-
-#### Step 2: Insert Text and Add Bounce Effect
-
-Click **Titles** from the standard toolbar at the top, and click and drag your preferred title template from the Library to the timeline. In case you don’t want any specific animation or style on the title, you can use the default title.
-
-In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
-
-![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
-
-**Step 3: Add Shake Filters**
-
-Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
-
-![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
-
-You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
-
-![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
-
-**Step 4: Export the Final Output**
-
-Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
-
-![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
-
-Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
-
-Double click the text track, go to the **Chroma Key** effect, select the **Color Picker** tool, and click anywhere in the Preview window to get things right. Finally, export the entire project to your preferred output format as explained in **Step 4**.
-
-As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -520,6 +392,130 @@ Follow @Liza Brown
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Method 1: How to Create Bouncing Text in Filmora Video Editor?
+
+When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
+
+These pre-built templates not only make your task easier, they also save your decent amount of time that you would spend while working with After Effects or any other similar app that requires you to build things from scratch.
+
+You can follow the instructions given below to **add animated bounce text** to any of your video footages with Filmora:
+
+#### Step 1: Add a Footage to Timeline
+
+Launch Wondershare Filmora on your Windows or Mac PC. By default, the [aspect ratio](https://tools.techidaily.com/wondershare/filmora/download/) of the project is set to 16:9\. Click anywhere inside the **Media** window at the upper-left section, and select and import footage you want to add bounce text to.
+
+#### Step 2: Insert Text and Add Bounce Effect
+
+Click **Titles** from the standard toolbar at the top, and click and drag your preferred title template from the Library to the timeline. In case you don’t want any specific animation or style on the title, you can use the default title.
+
+In the timeline, double-click the title you just added, use the upper-left section to edit the text, go to the **Animation** tab from the left pane, scroll down the list, and double-click the **Up Down 1** or **Up Down 2** preset to apply the bounce effect to the credits. Click **OK** to save the changes and to get back to the main window.
+
+![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
+
+**Step 3: Add Shake Filters**
+
+Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
+
+![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
+
+You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
+
+![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 4: Export the Final Output**
+
+Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
+
+![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
+
+Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
+
+Double click the text track, go to the **Chroma Key** effect, select the **Color Picker** tool, and click anywhere in the Preview window to get things right. Finally, export the entire project to your preferred output format as explained in **Step 4**.
+
+As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Method 2: Generate Animated Bouncing Texts Online
+
+If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
+
+Some most trusted websites to generate **bounce text** are listed below:
+
+#### 1\. ENGFTO
+
+Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
+
+![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
+
+You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
+
+**Step 1: Get to the Animated Bouncing Text Page**
+
+Launch your favorite web browser, and go to the link given above to get to the Engfto’s animated bouncing text page.
+
+**Step 2: Customize Text and Preferences**
+
+Modify the values in the fields under the **SIZE AREA** and **TEXT** sections to customize the text area, the text itself, its size, and font. Next, adjust the values in the fields under the **EFFECT PARAMETERS** section to get the required bounce effect. Also, use the fields under the **BACKGROUND** section to either change the background color, or pick a background image from your PC.
+
+**Step 3: Obtain the Animated Text**
+
+Click the **SAVE GIF ANIMATION** button from the lower section of the page to download the animated text to your PC.
+
+#### 2\. Loading.io
+
+The instructions given below explain how to use Loading.io to get animated **bounce text** effect for your footages:
+
+**Step 1: Get to the Loading.io Webpage**
+
+Launch your favorite web browser and go to <https://loading.io/animation/text/>.
+
+**Step 2: Customize the Text and Choose Animation Effect**
+
+![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
+
+**Step 3: Obtain the Text**
+
+Click your preferred option from next to the **Download As** section to download the animated text to your PC.
+
+**Note:** Regardless of the web solution you choose to generate and obtain animated **bounce text**, you will still need a post-production tool to add the downloaded text to your footage.
+
+**Conclusion**
+
+Generating **bounce text** effect is much simpler when you use Wondershare Filmora or any of the online solutions as explained in Method 2\. While the former gives you more flexibility when it comes to customizations, the latter doesn’t require any app to be installed on your PC. In addition, many times the web apps offer their services for free, and therefore they are preferred by the novice users who are not much into post-production processes.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -557,7 +553,7 @@ Click **EXPORT** from the top of the interface, go to the **Local** tab in the *
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
@@ -605,6 +601,10 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 **Step 2: Customize the Text and Choose Animation Effect**
 
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
@@ -749,17 +749,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-enhancing-visual-flow-effortless-fade-tricks/"><u>[New] 2024 Approved Enhancing Visual Flow Effortless Fade Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-advanced-data-analytics-methods-for-market-research-analysis-for-2024/"><u>[New] Advanced Data Analytics Methods for Market Research Analysis for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-freefire-gameplay-essential-youtube-tips/"><u>[New] Mastering FreeFire Gameplay Essential YouTube Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-professional-screen-capture-for-gotomeeting-users-for-2024/"><u>[New] Professional Screen Capture for GoToMeeting Users for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-strategies-to-rectify-non-displayed-thumbnails-on-shorts-videos/"><u>[New] Strategies to Rectify Non-Displayed Thumbnails on Shorts Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>[Updated] In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-adequate-lighting-in-youtube-videos/"><u>2024 Approved Strategies for Adequate Lighting in YouTube Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-beginners-guide-to-video-equipment-selection/"><u>2024 Approved The Beginner's Guide to Video Equipment Selection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/big-catch-bigger-views-top-5-aquatic-cameras/"><u>Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/how-necessary-is-it-to-set-up-antivirus-protection-on-your-pc-insights-by-yl-tech-solutions/"><u>How Necessary Is It to Set Up Antivirus Protection on Your PC? - Insights by YL Tech Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-get-premium-banners-no-cost-just-click/"><u>In 2024, Get Premium Banners - No Cost, Just Click</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-retrospective-viewing-inventive-approaches-for-backward-youtube-content/"><u>[New] Retrospective Viewing Inventive Approaches for Backward YouTube Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harnessing-the-power-of-supplemental-film-footage/"><u>[Updated] In 2024, Harnessing the Power of Supplemental Film Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-spectacular-scrutiny-and-variant-solutions/"><u>[Updated] Spectacular Scrutiny & Variant Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-view-count-responsibly-legal-avenues-to-a-million-fans/"><u>2024 Approved Maximize View Count Responsibly Legal Avenues to a Million Fans</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rookie-riches-economical-channels-for-monetization/"><u>2024 Approved Rookie Riches Economical Channels for Monetization</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/datasafe-experts-assessment-for-2024/"><u>DataSafe Experts Assessment for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/historical-insights-from-youtubes-top-10-vlogs-for-2024/"><u>Historical Insights From YouTube's Top 10 Vlogs for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-effective-is-the-netgear-ex3700-as-an-ac750-wi-fi-range-amplifier-our-in-depth-review/"><u>How Effective Is the Netgear EX3700 as an AC750 Wi-Fi Range Amplifier? Our In-Depth Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-c110-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia C110 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-3-beyond-youtube-innovative-videostreaming-communities/"><u>In 2024, Top 3 Beyond Youtube Innovative Videostreaming Communities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y56-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y56 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

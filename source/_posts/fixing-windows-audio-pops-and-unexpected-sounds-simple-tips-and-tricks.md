@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Audio Pops & Unexpected Sounds - Simple Tips & Tricks
-date: 2025-01-25T23:05:16.627Z
-updated: 2025-01-30T02:26:16.504Z
+date: 2025-02-06T16:05:17.263Z
+updated: 2025-02-10T16:24:34.707Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  When the above check is done, and you find the problem on your computer, please move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2, make sure the connection between your speakers and computer is good
 
  If the speakers work properly on a second device, make sure that the connection between your speakers and your computer is intact.
@@ -35,10 +39,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5314e30c21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 3, check the volume settings
 
  If your speakers are muted or their volume is set to too slow, the speakers would produce no sound. You can follow the steps below to check and ensure the volume is set correctly.
@@ -47,6 +47,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 2. Type control panel and click**OK** . This is to open Control Panel window.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a379fb55982a.png)
 3. In Control Panel, view by Category, click **Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/12/img_5a37a0193f08b.jpg)
 4. Under **Sound** , click **Adjust system volume** .  
@@ -59,10 +63,6 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
  If the problem still cannot be resolved, try solutions below. Sound setting issues or driver issues may also cause this problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Set Speakers as Default
 
  Your speakers won’t work if it’s not set as the default output. To resolve the problem, you can set the speaker as default. To do so:
@@ -71,14 +71,10 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b11f3def8f1.png)
 2. Highlight**Speakers** or**Speakers /Headphones** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/08/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see the speakers in the device list, it may be disabled. In this case, right-click on the blank area and select**Show disabled devices** on the context menu.
@@ -89,11 +85,11 @@ If your external speakers are not working on Windows 10, don’t worry, you’re
 
 ![enable speakers](https://images.drivereasy.com/wp-content/uploads/2016/08/enable-speakers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The problem also can be caused by outdated or missing audio drivers. So try to fix audio drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Uninstall the Audio Driver
 
@@ -105,18 +101,18 @@ Follow these steps:
 3. In Device Manager, double-click**Sound, video and game controllers** and right-click your sound card. A context menu will pop up. Then select**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_57355165cc4c9.png)
 4. Tick the box for**Delete the driver software for this device** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/05/img_573551f5c1434.png)
 5. Reboot your PC and check to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update the Audio Driver
 
@@ -128,6 +124,10 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -151,20 +151,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-11-auditorial-capture-devices-overview-for-2024/"><u>[New] Elite #11 Auditorial Capture Devices Overview for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>[Updated] Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ravenhill-resonance-essential-websites-to-download-hearing-heroes-tones/"><u>[Updated] In 2024, Ravenhill Resonance Essential Websites to Download Hearing Heroes' Tones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monthly-income-on-youtubes-revenue-model/"><u>2024 Approved Monthly Income on YouTube's Revenue Model?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>2024 Approved Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>2024 Approved Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-raw-video-to-engaging-youtube-videos-with-sony-vegas-tools/"><u>In 2024, From Raw Video to Engaging YouTube Videos with Sony Vegas Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-realme-c33-2023-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme C33 2023 FRP?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-zte-blade-a73-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On ZTE Blade A73 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-subscription-surge-entry-into-monetization-realm/"><u>In 2024, Subscription Surge Entry Into Monetization Realm</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-ten-must-watch-vr-scenes-on-youtube/"><u>In 2024, Top Ten Must-Watch VR Scenes on Youtube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>In 2024, Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pattern/"><u>Pattern</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stop-overlooking-crucial-emails-with-simple-gmail-notification-tweaks-expert-guide/"><u>Stop Overlooking Crucial Emails with Simple Gmail Notification Tweaks – Expert Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-selections-for-speedy-facebook-video-transfers-and-streams/"><u>[New] 2024 Approved Top Selections for Speedy Facebook Video Transfers and Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-makeup-tutorials-launching-your-glam-vlog/"><u>[New] Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-into-profitability-on-youtube-beginners-guide/"><u>[New] Step Into Profitability on YouTube - Beginner's Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-approach-to-crafting-youtube-content-headlines/"><u>[New] Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-for-elevating-your-youtube-feedback-with-emojis/"><u>2024 Approved Step-by-Step Guide for Elevating Your Youtube Feedback with Emojis</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-app-install-failure-on-microsofts-marketplace/"><u>Addressing App Install Failure on Microsoft's Marketplace</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-and-conquer-expert-techniques-to-tackle-stop-0x0000007b-blue-screen-dilemma/"><u>Decode and Conquer: Expert Techniques to Tackle Stop 0X0000007B Blue Screen Dilemma</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-install-your-epson-workforce-ds-30-printer-on-windows-windows-10-8-and-7/"><u>Easy Setup: Install Your Epson WorkForce DS-30 Printer on Windows (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effective-strategies-using-discounted-timers/"><u>Effective Strategies Using Discounted Timers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-in-social-media-understanding-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big Four in Social Media: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-visual-storyteller-youtube-cinematic-training/"><u>In 2024, Mastering the Visual Storyteller YouTube Cinematic Training</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/journey-beyond-reality-the-best-of-youtubes-virtual-worlds-for-2024/"><u>Journey Beyond Reality The Best of YouTube’s Virtual Worlds for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leveraging-youtubes-cc-for-high-quality-video-creation-for-2024/"><u>Leveraging YouTube’s CC for High-Quality Video Creation for 2024</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-10-best-free-professional-grade-video-editing-tools-without-watermarks/"><u>The Ultimate Guide to 10 Best Free, Professional-Grade Video Editing Tools Without Watermarks</u></a></li>
 </ul></div>
 

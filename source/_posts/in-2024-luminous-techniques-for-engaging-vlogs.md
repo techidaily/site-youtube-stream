@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Luminous Techniques for Engaging Vlogs"
-date: 2025-01-27T19:50:22.235Z
-updated: 2025-01-29T23:33:20.138Z
+date: 2025-02-06T17:19:23.774Z
+updated: 2025-02-10T16:28:38.655Z
 tags:
   - ai video
   - ai youtube
@@ -28,154 +28,10 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
-## Video Lighting Basics: Three Point Lighting
-
-![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
-
-The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
-
-The brightest source of light is also known as the **key light** which need to be high quality. A window will work, but if you do not have access to one where you are filming then consider an LED panel light or a softbox light like the ones used in portrait photography.
-
-This first light will create a dramatic shadow across half of your face. You want to reduce this shadow, but not get rid of it completely.
-
-Rather than setting up another light source on the opposite side of the camera, put up a reflector to bounce some light back onto your face. This reflector is called your **'Fill Light'**.
-
-The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
-
-The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
-
-### Watch Video! Top Lighting Tips for Vlogging
-
-## Lightning Tips for Aspiring YouTube Videographers
-
-Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
-
-#### 1\.  Focus Your Key Light
-
-Try to focus your Key Light so that it lights only you and not your background. Do this by mounting anything that can cast a shadow onto your Key Light to control the area where the light hits. If you are using a window for your Key Light then you can use a curtain. If you use a softbox light then your light will already be somewhat focused.
-
-#### 2\. Use Natural Lighting
-
-The light provided by the Sun is still the best light source, you can have in your video. The trouble is that natural light changes quickly, which makes it highly unpredictable. The best way to deal with this challenge is to come prepared to the set and to get the shot you want as quickly as you can.
-
-#### 3\.  Try DIY Lightning
-
-Literally, anything from candles to LED light bulbs can serve as a source of light in a shot. You just need to pay attention to the light temperature, because warmer light sources may highlight reds and yellows that can make your footage look less realistic.
-
-#### 4\. Use Lightning Kits
-
-This is by far the best option if you want to be in complete control of the light on your set. You can adjust the intensity of the lights, use filters, diffusers and all sorts of other accessories to create the light that flatters the subjects of your videos. The only downside is that you'll have to spend a considerable amount of money if you want to have a professional lighting kit.
-
-#### 5\.  Set up reflectors
-
-Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
-
-If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
-
-If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
-
-If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
-
-If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-One of the best things you can do for your video quality is to ensure you have great lighting. Viewers find poor lighting distracting and it's hard for them to see how great your content is if they are busy thinking about why your video is so dark. By creating a great lighting set up you can ensure that the people watching your videos are only thinking about how much they're enjoying them.
-
-Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
-
-## Video Lighting Basics: Three Point Lighting
-
-![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
-
-The brightest source of light is also known as the **key light** which need to be high quality. A window will work, but if you do not have access to one where you are filming then consider an LED panel light or a softbox light like the ones used in portrait photography.
-
-This first light will create a dramatic shadow across half of your face. You want to reduce this shadow, but not get rid of it completely.
-
-Rather than setting up another light source on the opposite side of the camera, put up a reflector to bounce some light back onto your face. This reflector is called your **'Fill Light'**.
-
-The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
-
-The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
-
-### Watch Video! Top Lighting Tips for Vlogging
-
-## Lightning Tips for Aspiring YouTube Videographers
-
-Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
-
-#### 1\.  Focus Your Key Light
-
-Try to focus your Key Light so that it lights only you and not your background. Do this by mounting anything that can cast a shadow onto your Key Light to control the area where the light hits. If you are using a window for your Key Light then you can use a curtain. If you use a softbox light then your light will already be somewhat focused.
-
-#### 2\. Use Natural Lighting
-
-The light provided by the Sun is still the best light source, you can have in your video. The trouble is that natural light changes quickly, which makes it highly unpredictable. The best way to deal with this challenge is to come prepared to the set and to get the shot you want as quickly as you can.
-
-#### 3\.  Try DIY Lightning
-
-Literally, anything from candles to LED light bulbs can serve as a source of light in a shot. You just need to pay attention to the light temperature, because warmer light sources may highlight reds and yellows that can make your footage look less realistic.
-
-#### 4\. Use Lightning Kits
-
-This is by far the best option if you want to be in complete control of the light on your set. You can adjust the intensity of the lights, use filters, diffusers and all sorts of other accessories to create the light that flatters the subjects of your videos. The only downside is that you'll have to spend a considerable amount of money if you want to have a professional lighting kit.
-
-#### 5\.  Set up reflectors
-
-Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
-
-If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
-
-If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
-
-![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
-
-If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
-
-If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-One of the best things you can do for your video quality is to ensure you have great lighting. Viewers find poor lighting distracting and it's hard for them to see how great your content is if they are busy thinking about why your video is so dark. By creating a great lighting set up you can ensure that the people watching your videos are only thinking about how much they're enjoying them.
-
-Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
-
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
@@ -221,7 +77,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -250,6 +106,10 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Lighting Basics: Three Point Lighting
 
 ![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
@@ -265,10 +125,6 @@ Rather than setting up another light source on the opposite side of the camera, 
 The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
@@ -298,9 +154,79 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
+If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
+
+If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
+
+![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
+
+If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
+
+If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+One of the best things you can do for your video quality is to ensure you have great lighting. Viewers find poor lighting distracting and it's hard for them to see how great your content is if they are busy thinking about why your video is so dark. By creating a great lighting set up you can ensure that the people watching your videos are only thinking about how much they're enjoying them.
+
+Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Video Lighting Basics: Three Point Lighting
+
+![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
+
+The brightest source of light is also known as the **key light** which need to be high quality. A window will work, but if you do not have access to one where you are filming then consider an LED panel light or a softbox light like the ones used in portrait photography.
+
+This first light will create a dramatic shadow across half of your face. You want to reduce this shadow, but not get rid of it completely.
+
+Rather than setting up another light source on the opposite side of the camera, put up a reflector to bounce some light back onto your face. This reflector is called your **'Fill Light'**.
+
+The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
+
+The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
+
+### Watch Video! Top Lighting Tips for Vlogging
+
+## Lightning Tips for Aspiring YouTube Videographers
+
+Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
+
+#### 1\.  Focus Your Key Light
+
+Try to focus your Key Light so that it lights only you and not your background. Do this by mounting anything that can cast a shadow onto your Key Light to control the area where the light hits. If you are using a window for your Key Light then you can use a curtain. If you use a softbox light then your light will already be somewhat focused.
+
+#### 2\. Use Natural Lighting
+
+The light provided by the Sun is still the best light source, you can have in your video. The trouble is that natural light changes quickly, which makes it highly unpredictable. The best way to deal with this challenge is to come prepared to the set and to get the shot you want as quickly as you can.
+
+#### 3\.  Try DIY Lightning
+
+Literally, anything from candles to LED light bulbs can serve as a source of light in a shot. You just need to pay attention to the light temperature, because warmer light sources may highlight reds and yellows that can make your footage look less realistic.
+
+#### 4\. Use Lightning Kits
+
+This is by far the best option if you want to be in complete control of the light on your set. You can adjust the intensity of the lights, use filters, diffusers and all sorts of other accessories to create the light that flatters the subjects of your videos. The only downside is that you'll have to spend a considerable amount of money if you want to have a professional lighting kit.
+
+#### 5\.  Set up reflectors
+
+Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
+
+![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
@@ -308,15 +234,89 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
+If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
+
+If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+One of the best things you can do for your video quality is to ensure you have great lighting. Viewers find poor lighting distracting and it's hard for them to see how great your content is if they are busy thinking about why your video is so dark. By creating a great lighting set up you can ensure that the people watching your videos are only thinking about how much they're enjoying them.
+
+Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
+
+## Video Lighting Basics: Three Point Lighting
+
+![ Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
+
+The brightest source of light is also known as the **key light** which need to be high quality. A window will work, but if you do not have access to one where you are filming then consider an LED panel light or a softbox light like the ones used in portrait photography.
+
+This first light will create a dramatic shadow across half of your face. You want to reduce this shadow, but not get rid of it completely.
+
+Rather than setting up another light source on the opposite side of the camera, put up a reflector to bounce some light back onto your face. This reflector is called your **'Fill Light'**.
+
+The **fill light** is less bright than the primary source of light and it is placed on the side opposite to the key light. Its purpose is to reduce shadows produced by the key light and the reflector will need to be mounted on a stand.
+
+The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
+
+### Watch Video! Top Lighting Tips for Vlogging
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lightning Tips for Aspiring YouTube Videographers
+
+Becoming the master of light will take some time and practice, so it is crucial to remain curious and anxious to learn new tricks throughout that process if you want to continually become better. These tips will help you make the first steps on that journey.
+
+#### 1\.  Focus Your Key Light
+
+Try to focus your Key Light so that it lights only you and not your background. Do this by mounting anything that can cast a shadow onto your Key Light to control the area where the light hits. If you are using a window for your Key Light then you can use a curtain. If you use a softbox light then your light will already be somewhat focused.
+
+#### 2\. Use Natural Lighting
+
+The light provided by the Sun is still the best light source, you can have in your video. The trouble is that natural light changes quickly, which makes it highly unpredictable. The best way to deal with this challenge is to come prepared to the set and to get the shot you want as quickly as you can.
+
+#### 3\.  Try DIY Lightning
+
+Literally, anything from candles to LED light bulbs can serve as a source of light in a shot. You just need to pay attention to the light temperature, because warmer light sources may highlight reds and yellows that can make your footage look less realistic.
+
+#### 4\. Use Lightning Kits
+
+This is by far the best option if you want to be in complete control of the light on your set. You can adjust the intensity of the lights, use filters, diffusers and all sorts of other accessories to create the light that flatters the subjects of your videos. The only downside is that you'll have to spend a considerable amount of money if you want to have a professional lighting kit.
+
+#### 5\.  Set up reflectors
+
+Sets of reflectors are often under $50, so they are fairly affordable. However, some vloggers choose to forgo purchasing reflectors and make their own out of tinfoil.
+
+![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
+
+If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
+
+If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
+
+![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -342,10 +342,6 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -373,7 +369,7 @@ Follow @Richard Bennett
 ![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Directly Upload MP3s to YouTube
@@ -381,57 +377,6 @@ Follow @Richard Bennett
  Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
 
 ![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
-**Tip:**
-Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
-
- See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- Latest survey shows that Google’s video streaming site Youtube has surpassed radio, as well as CDs to be the most popular way American adolescents listen to music. Almost 91% of the music fans would listen to the samples before they purchase a song on iTunes. “Watching” music is getting more and more popular with Youtube’s arising popularity among music fans.
-
- However, here comes the dilemma if you are trying to share your favorite music list with your friends on Youtube since Youtube is not designed to host files that are purely audio. Only video files are allowed to be uploaded to its server. Despite all this, is there a safe and easy solution to this issue? The answer if absolutely Yes! [Wondershare audio converter](https://tools.techidaily.com/wondershare/filmora/download/) let you upload an MP3 to Youtube by converting them to videos files first without losing any of its quality, helping you remove the barrier of uploading audio files to Youtube.
-
- With it, you can not only add pictures to your MP3 files but also retouch them with various fantastic effects. Now follow the steps below to check out how to achieve it.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Import Files to Audio Converter
-
- Before upload MP3 to YouTube, you can collect the relevant image, album cover or band picture to your music. Then run this MP3 to YouTube converter and choose 16:9 or 4:3 ratio according to your needs. After that, click “Import” to add the MP3 file and the pictures to the program. Then all the imported files will be displayed as thumbnails in the Media library.
-
-#### 2 Add Pictures to MP3 Files
-
- Drag and drop your MP3 file to the music layer, and the picture to the video layer. These will be located under the timeline bar. Then choose the picture and move your mouse to expand the picture exposure time frame exactly as long as your MP3 file. If less, the remaining part will be blacked out, while too long will create silence in the overextended portions of the video.
-
-![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
-
- If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
-
-![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
-
-#### 3 Directly Upload MP3s to YouTube
-
- Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
-
-![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Tip:**
 Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
@@ -489,6 +434,10 @@ Besides uploading to YouTube, you can also save your creation to various formats
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -527,9 +476,60 @@ Follow @Richard Bennett
 
 ![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
+**Tip:**
+Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
+
+ See, it’s easy convert MP3 to YouTube using this powerful video editing tool. Download and have a try now!
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ Latest survey shows that Google’s video streaming site Youtube has surpassed radio, as well as CDs to be the most popular way American adolescents listen to music. Almost 91% of the music fans would listen to the samples before they purchase a song on iTunes. “Watching” music is getting more and more popular with Youtube’s arising popularity among music fans.
+
+ However, here comes the dilemma if you are trying to share your favorite music list with your friends on Youtube since Youtube is not designed to host files that are purely audio. Only video files are allowed to be uploaded to its server. Despite all this, is there a safe and easy solution to this issue? The answer if absolutely Yes! [Wondershare audio converter](https://tools.techidaily.com/wondershare/filmora/download/) let you upload an MP3 to Youtube by converting them to videos files first without losing any of its quality, helping you remove the barrier of uploading audio files to Youtube.
+
+ With it, you can not only add pictures to your MP3 files but also retouch them with various fantastic effects. Now follow the steps below to check out how to achieve it.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 1 Import Files to Audio Converter
+
+ Before upload MP3 to YouTube, you can collect the relevant image, album cover or band picture to your music. Then run this MP3 to YouTube converter and choose 16:9 or 4:3 ratio according to your needs. After that, click “Import” to add the MP3 file and the pictures to the program. Then all the imported files will be displayed as thumbnails in the Media library.
+
+#### 2 Add Pictures to MP3 Files
+
+ Drag and drop your MP3 file to the music layer, and the picture to the video layer. These will be located under the timeline bar. Then choose the picture and move your mouse to expand the picture exposure time frame exactly as long as your MP3 file. If less, the remaining part will be blacked out, while too long will create silence in the overextended portions of the video.
+
+![MP3 to YouTube Converter](https://images.wondershare.com/images/multimedia/video-editor/add-picture-to-music.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If you want to add and show multiple pictures at a time for a single MP3 file, drag-n-drop them to the PIP layers. This MP3 to YouTube converter supports up to 10 pictures for the same MP3 file. Then adjust the position and size of each picture. You can also do more touch up to your creation. For example, you can right click and choose edit to add motion, mask and more effects as you like.
+
+![video-in-video](https://images.wondershare.com/images/multimedia/video-editor/video-in-video.jpg)
+
+#### 3 Directly Upload MP3s to YouTube
+
+ Watch and check the audio quality of your video. When you are satisfied, click “Create” and switch to the YouTube tab. Enter your YouTube Account, Password and related MP3 information to directly upload your works to YouTube.
+
+![add cover image to mp3](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 **Tip:**
 Besides uploading to YouTube, you can also save your creation to various formats and play on different devices or burn to DVD.
@@ -561,19 +561,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-pioneering-cross-social-content-share-youtube-videos-on-facebook/"><u>[New] Pioneering Cross-Social Content Share YouTube Videos on Facebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>[New] Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[New] Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-thriving-on-instagram-strategies-for-powerful-video-marketing/"><u>[Updated] 2024 Approved Thriving on Instagram Strategies for Powerful Video Marketing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>2024 Approved Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-disruption-a-guide-to-connect-your-airpods-with-the-dell-quest-3/"><u>Avoiding Disruption: A Guide to Connect Your AirPods with the Dell Quest 3</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ce-your-youtube-journey-with-analytic-know-how/"><u>Enhance Your YouTube Journey with Analytic Know-How</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-how-to-activate-intel-wireless-functionality/"><u>Essential Tips: How to Activate Intel Wireless Functionality</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y36i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y36i Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-historical-gems-art-unshackled-by-laws/"><u>In 2024, Historical Gems Art Unshackled by Laws</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pioneering-platforms-for-no-cost-media-downloads/"><u>In 2024, Pioneering Platforms for No-Cost Media Downloads</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-seize-visual-riches-from-four-premium-youtube-portals/"><u>In 2024, Seize Visual Riches From Four Premium YouTube Portals</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/war-thunder-continues-to-crash-essential-troubleshooting-steps/"><u>War Thunder Continues to Crash : Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-top-20-zero-copyright-pubg-screenshots-for-2024/"><u>[New] Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-privacy-share-exclusive-youtube-clips-through-gmail-for-2024/"><u>[New] Elevating Privacy Share Exclusive YouTube Clips Through Gmail for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[New] How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aster-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads-for-2024/"><u>[New] Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-spectacular-screen-collaborations-selecting-an-mcn/"><u>[New] Spectacular Screen Collaborations Selecting an MCN</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-breathe-life-into-lifeless-fb-posts-unveil-the-top-12-recovery-methods-in-23/"><u>2024 Approved Breathe Life Into Lifeless FB Posts - Unveil the Top 12 Recovery Methods in '23</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>2024 Approved Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-future-of-streaming-money-youtube-update/"><u>2024 Approved The Future of Streaming Money YouTube Update</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-steps-to-curate-youtube-music-selections/"><u>Essential Steps to Curate YouTube Music Selections</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators-for-2024/"><u>Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-the-ai-assistant-copilot-from-windows-11-easy-steps-inside/"><u>How to Remove the AI Assistant Copilot From Windows 11 - Easy Steps Inside!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exclusive-catalogue-free-to-use-stock-media-sites/"><u>In 2024, Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-in-depth-asmr-video-insights/"><u>In 2024, In-Depth ASMR Video Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-trailer-creation-for-enhanced-income/"><u>In 2024, Master the Art of Trailer Creation for Enhanced Income</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1728496536662-usb-windows-11/"><u>USB パーティションを Windows 11 にて効果的に削除する上級テクニック</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-11-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 11 Pro has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

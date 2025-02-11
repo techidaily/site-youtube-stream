@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Crashes in the Nioh 2 (Complete Edition) - A Comprehensive Tutorial
-date: 2025-01-25T02:32:07.568Z
-updated: 2025-01-29T22:09:55.233Z
+date: 2025-02-07T21:22:04.608Z
+updated: 2025-02-10T19:45:49.475Z
 tags:
   - win11
   - win10
@@ -46,10 +46,14 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -72,15 +76,11 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -95,10 +95,6 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
@@ -115,11 +111,15 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
@@ -128,10 +128,6 @@ There are mainly two ways you can update the graphics driver:
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -145,10 +141,14 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -175,20 +175,18 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-for-beginner-3d-lut-masters/"><u>[New] 2024 Approved Step-by-Step for Beginner 3D LUT Masters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[New] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-microsoft-teams-mic-not-working-on-windows-1110/"><u>[SOLVED] Microsoft Teams Mic Not Working on Windows 11/10</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-plating-perfection-30-unique-and-appealing-recipe-channels/"><u>2024 Approved Plating Perfection 30 Unique and Appealing Recipe Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-hidden-pathways-to-earning-on-youtube/"><u>2024 Approved Unveiling the Hidden Pathways to Earning on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-zte-nubia-flip-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your ZTE Nubia Flip 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/immersive-adventures-await-top-10-innovative-pc-vr-streamers-reviewed/"><u>Immersive Adventures Await Top 10 Innovative PC VR Streamers Reviewed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-clearsnap-for-windows-quick-and-clean-shots/"><u>In 2024, ClearSnap for Windows Quick & Clean Shots</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-key-screen-snapping-programs-for-content-sharing/"><u>In 2024, Key Screen-Snapping Programs for Content Sharing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-simple-strategies-for-establishing-successful-biz-youtubes/"><u>In 2024, Top 10 Simple Strategies for Establishing Successful Biz YouTubes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-traffic-into-cash-calculating-the-essential-youtube-number/"><u>In 2024, Turning Traffic Into Cash Calculating the Essential Youtube Number</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-depth-analysis-top-9-freeware-logo-designers-unveiled-for-2024/"><u>In-Depth Analysis Top 9 Freeware Logo Designers Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-customization-seamlessly-embedding-text-and-links-in-youtube-videos-for-2024/"><u>Mastering Customization Seamlessly Embedding Text & Links in Youtube Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-es5-slim-unveiled-find-out-about-its-price-tag-release-schedule-and-specs-now/"><u>PlayStation eS5 Slim Unveiled – Find Out About Its Price Tag, Release Schedule & Specs Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-enhance-your-speaking-skills-no-expense-just-free-tools/"><u>[New] 2024 Approved Enhance Your Speaking Skills – No Expense, Just Free Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-protect-privacy-with-fast-facial-masking-on-piscart/"><u>[New] 2024 Approved Protect Privacy with Fast Facial Masking on PiscArt</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[New] 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unleash-the-mixer-in-you-20-free-custom-luts-for-dji-minis-and-airs/"><u>[New] Unleash the Mixer in You 20 Free, Custom LUTs for DJI Minis & Airs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step/"><u>[Updated] 2024 Approved How to Download VLC Player for Free and Safe on Mac?[Step-by-Step]</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-integrating-annotations-for-enhanced-engagement/"><u>2024 Approved Integrating Annotations for Enhanced Engagement</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplify-tv-broadcasts-introducing-youtube-content-loops/"><u>2024 Approved Simplify TV Broadcasts Introducing YouTube Content Loops</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-spectacular-screen-synergy-the-perfect-partner-pairing-for-an-mcn/"><u>2024 Approved Spectacular Screen Synergy The Perfect Partner Pairing for an MCN</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>2024 Approved Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/audio-dimming-techniques-that-blend-perfectly-in-adobe-premiere-pro/"><u>Audio Dimming Techniques That Blend Perfectly in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/filmmaking-mastery-youtube-trailer-design-with-filmora-for-2024/"><u>Filmmaking Mastery YouTube Trailer Design with Filmora for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-14-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 14 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-bookshelf-speaker-reviews-and-picks-zdnets-expert-analysis/"><u>Top-Ranked Bookshelf Speaker Reviews and Picks - ZDNet's Expert Analysis</u></a></li>
 </ul></div>
 

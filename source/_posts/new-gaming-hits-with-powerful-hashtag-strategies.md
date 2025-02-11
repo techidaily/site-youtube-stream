@@ -1,7 +1,7 @@
 ---
 title: "[New] Gaming Hits with Powerful Hashtag Strategies"
-date: 2024-07-29T20:55:11.199Z
-updated: 2024-07-30T20:55:11.199Z
+date: 2025-02-09T16:27:11.407Z
+updated: 2025-02-10T22:13:00.787Z
 tags:
   - ai video
   - ai youtube
@@ -21,6 +21,10 @@ Hashtags are a great way to reach new viewers and subscribers interested in your
 That's why we've extensively researched you and compiled a list of the 30 **best tags/hashtags for YouTube gaming** videos. We've also included tools to help you generate or plan your hashtags effectively to grow your channel and boost your subscription.
 
 So, if you want to take your YouTube gaming channel to the next level, read on!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 30 Best YouTube Gaming Hashtags
 
@@ -75,9 +79,6 @@ As a vlogger, you should use hashtags every time you upload a video to help your
 
 Hence, apart from providing the list of popular gaming hashtags, we have created this list of **YouTube hashtag tools** to help you generate such tags.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Keyword Tool
 
 The Keyword Tool is a popular YouTube hashtags generator that can help you find popular gaming hashtags to use on YouTube. You can understand what keywords your audience is searching for with this tool.
@@ -88,15 +89,12 @@ The Keyword tool offers categories for each social platform and search engine wh
 
 To use Keyword Tool, enter a topic into the search bar. You will then see a list of popular gaming hashtags related to your keyword. You can then use them to help promote your videos and get more views.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![keyword tool for youtube gaming hashtags](https://images.wondershare.com/filmora/article-images/2023/03/keyword-tool-for-youtube-gaming-hashtags.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Tube Ranker](https://tuberanker.com/)
 
 Tube Ranker is another excellent tool for ranking your videos on YouTube. This **YouTube hashtag generator** is fast, easy to use, and effective at getting your videos to the top of search results in no time.
@@ -107,9 +105,6 @@ Therefore, if you want more views and engagement on your YouTube gaming videos, 
 
 As to the price, TubeBuddy comes with a Pro version for $7.20/month, a Star version for $15.20/month, and a Legend version for $39.20/month in addition to the free version.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tube ranker tool for youtube gaming hashtags](https://images.wondershare.com/filmora/article-images/2023/03/tube-ranker-tool-for-youtube-gaming-hashtags.png)
 
 ### [SEO Book](http://www.seobook.com/)
@@ -118,15 +113,13 @@ SEOBook is an excellent website for learning about search engine optimization (S
 
 The tool can help you generate relevant hashtags for your YouTube gaming videos and make your content more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![seobook for youtube gaming hashtags](https://images.wondershare.com/filmora/article-images/2023/03/seobook-for-youtube-gaming-hashtags.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** _If you want to optimize your YouTube gaming videos' descriptions, tags and titles,_ [_click here to learn how!_](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -206,6 +199,10 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Ordinary Videos Into Viral Hits with Innovative Thumbnails
 
 # How to Make Video Thumbnails for YouTube
@@ -230,14 +227,8 @@ Here are 5 easy tips for creating thumbnails that get views.
 
  _Contest now closed._
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Edit Your Videos Before Creating Video Thumbnails
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## 1\. Have a Consistent Layout
@@ -246,23 +237,14 @@ Your thumbnails all must look like part of the same set. You want viewers to rec
 
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **2\. Use Your Face**
 
 People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -285,9 +267,80 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
+
+Here are 5 easy tips for creating thumbnails that get views.
+
+1. **[Have a Consistent Layout](#one)**
+2. **[Use Your Face](#two)**
+3. **[Use Graphics/Emojis That is On Topic](#three)**
+4. **[Make Your Text Huge](#four)**
+5. **[Keep It Clutter-Free!](#five)**
+
+ _Contest now closed._
+
+## Edit Your Videos Before Creating Video Thumbnails
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 1\. Have a Consistent Layout
+
+Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
+
+An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
+
+![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## **2\. Use Your Face**
+
+People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
+
+## 3\. Use Graphics/Emojis that are On Topic
+
+Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
+
+Make sure the images you choose are relevant to the topic of your video.
+
+## 4\. Make Your Text Huge
+
+If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
+
+Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+## 5\. Keep it Clutter-Free
+
+It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
+
+A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
+
+ [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -344,6 +397,10 @@ If you use text in your thumbnail (you don’t have to) then it should be to add
 
 Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Keep it Clutter-Free
 
 It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
@@ -354,9 +411,6 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -388,114 +442,26 @@ Here are 5 easy tips for creating thumbnails that get views.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Have a Consistent Layout
 
 Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
 
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **2\. Use Your Face**
 
 People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-## 3\. Use Graphics/Emojis that are On Topic
-
-Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
-
-Make sure the images you choose are relevant to the topic of your video.
-
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## 4\. Make Your Text Huge
-
-If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
-
-Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
-
-## 5\. Keep it Clutter-Free
-
-It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
-
-A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
-
- [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
-
-Here are 5 easy tips for creating thumbnails that get views.
-
-1. **[Have a Consistent Layout](#one)**
-2. **[Use Your Face](#two)**
-3. **[Use Graphics/Emojis That is On Topic](#three)**
-4. **[Make Your Text Huge](#four)**
-5. **[Keep It Clutter-Free!](#five)**
-
- _Contest now closed._
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Edit Your Videos Before Creating Video Thumbnails
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
-## 1\. Have a Consistent Layout
-
-Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
-
-An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
-![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## **2\. Use Your Face**
-
-People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
 ## 3\. Use Graphics/Emojis that are On Topic
 
@@ -508,6 +474,10 @@ Make sure the images you choose are relevant to the topic of your video.
 If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
 
 Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Keep it Clutter-Free
 
@@ -540,5 +510,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-broadcast-elegance-gamers-guide-to-using-obs/"><u>[New] 2024 Approved Broadcast Elegance Gamers' Guide to Using OBS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[New] In 2024, Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategies-for-full-time-workers-who-create-videos/"><u>[New] Strategies for Full-Time Workers Who Create Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-free-skype-mp3-logger-101-guide/"><u>[Updated] 2024 Approved Free Skype Mp3 Logger 101 Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>2024 Approved Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-6-lite-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-use-youtube-cards-and-annotations-in-2024/"><u>How to Use YouTube Cards and Annotations, In 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-efficiently-delete-unwanted-video-feedback/"><u>In 2024, How to Efficiently Delete Unwanted Video Feedback</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Bootloader Easily</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-popcorn-predictions-apples-no1-free-and-paid-film-watchers-guide/"><u>In 2024, Popcorn Predictions Apple's No.1, Free & Paid Film Watchers Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revamp-your-channels-smart-tips-for-yt-profiles/"><u>In 2024, Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-the-world-of-hashtags-to-boost-your-gaming-video-yields-for-2024/"><u>Navigating the World of Hashtags to Boost Your Gaming Video Yields for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrice-the-sound-delight-discover-why-i-love-my-bluetooth-speakers-so-much/"><u>Thrice the Sound Delight - Discover Why I Love My Bluetooth Speakers So Much</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Monetization Mastery  How AJay Achieves Wealth Online\""
-date: 2025-01-23T22:27:56.860Z
-updated: 2025-01-29T17:35:34.362Z
+date: 2025-02-08T16:30:43.850Z
+updated: 2025-02-10T23:19:56.629Z
 tags:
   - ai video
   - ai youtube
@@ -27,7 +27,7 @@ You may wonder who this simple-looking, young boy is, right?
 ![ajay nagar aka carryminati](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yes, he is one of the India’s biggest YouTuber- Ajey Nagar. He shared a shoulder with Tom Cruise while promoting Mission Impossible 6 in Paris.
@@ -68,10 +68,6 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Why is Carry Minati trending on YouTube?
 
 Just like the statistics, the facts related to CarryMinati’s popularity are equally interesting. Every YouTube channel or an influencer who is popular and trending have their own uniqueness and when it comes to CarrayMinati aka Ajay Nagar, there are several factors that makes him a sensation. Shortlisted some of them are as below.
@@ -116,10 +112,6 @@ This video is about the Indian Film Industry and the awards given to the stars. 
 
 It is an interesting video of around 17 minutes where Ajay Nagar has acted along with other people to create a fun plot based of PUBG game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tip: How to be a YouTuber and Make Videos like Carryminati
 
 We have learned that CarryMinati has become the name it is, all because of the excellent videos it creates. Though it may sound simple, video creation requires a lot of skills, patience, and the help of expert tools.
@@ -151,10 +143,6 @@ Step1 Launch the installed software on your system and add the media file to the
 Step2 Next, go to Effects > Ai Portrait, and the options of the features can be checked here. Click on the thumbnail and the feature can be viewed in the preview window.
 
 ![wondershare filmora ai portrait 2](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Drag the selected Portrait to the timeline and from the pop-up window choose to Purchase the additional module. You can check the result by playing the video. If needed multiple AI Portraits can be added to the video.
 
@@ -215,6 +203,10 @@ A major part of Ajay Nagar’s income comes from YouTube videos and in addition 
 
 The statistics related to the views and income about CarryMinati are quite interesting and this makes everyone curious about what makes the channel and this person so popular on YouTube. If you too have been curious about the same, head to our next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Why is Carry Minati trending on YouTube?
 
 Just like the statistics, the facts related to CarryMinati’s popularity are equally interesting. Every YouTube channel or an influencer who is popular and trending have their own uniqueness and when it comes to CarrayMinati aka Ajay Nagar, there are several factors that makes him a sensation. Shortlisted some of them are as below.
@@ -246,6 +238,10 @@ Though almost all videos by CarryMinati gain popularity, listed below are the to
 The End (The video was uploaded on 8th May 2020 and had over 65 million views with 8 lacs comments and over 10 million likes.) This was a roasting video by CarryMinati that gained immense popularity, but was later pulled down by YouTube stating it to be against the harassment policy of YouTube and for violating the guidelines of the community.
 
 ![youtube vs tiktok the end](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Film the Flare](https://www.youtube.com/watch?v=GOFQN8otiYs)
 
@@ -295,13 +291,13 @@ Step3 Drag the selected Portrait to the timeline and from the pop-up window choo
 
 ![wondershare filmora ai portrait 3](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 If further customization is needed, you can even adjust the AI Portrait settings.
 
 ![wondershare filmora ai portrait 4](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-07.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 When finally, all the settings are done, click on the Export button to save the file.
 
@@ -325,6 +321,14 @@ Carry Minati has interviewed popular actors like Tom Cruise, Tessa Thompson, Hen
 
 ![carryminati with tom cruise](https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization-carryminati-youtube-income-2022-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Gone are the days when only high posts at big-shot companies can bring in money and proving this right is CarryMinati who is not only earning big but has also earned worldwide fans and has created a name for himself. With his comic skits and engaging videos, this popular YouTube influencer is growing and stretching his wings.
@@ -347,11 +351,19 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Seamless Visual Storytelling Through Advanced Chroma Techniques
 
 The world of video-making owes much of its magic to small leaps of innovation. One of these leaps is the use of the **chroma key background**, which most people know by the more colloquial term—green screen.
 
 ![clipper in front of green screen](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Chroma key, also known as green screen or blue screen, is a cool hack for seamless visual storytelling, allowing content creators to replace backgrounds with any image or video they want. This technique is widely embraced in film, television, and online content, and has opened the door to limitless creative possibilities. Aside from its ability to maximize creativity, it is also cheap to employ and convenient to set up, which has made it a staple for everyone who works with visuals.
 
@@ -366,10 +378,6 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 ## **How Does Chroma Key Work?**
 
 ![green screen shooting](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Chroma Keying is done by singling out a specific color (usually green or blue) from the foreground, removing it, and replacing it with a different background (for example, a sunset). This process typically follows a series of steps:
 
@@ -415,10 +423,6 @@ Wardrobe and Set Design
 
 Bright green occurs less naturally in costumes and set designs than other colors, making green the optimal choice for reducing the likelihood of color spill and keying issues. However, if you know your scene will have lots of green, it is probably best to film with a blue screen, so there’s less risk of color spill and less post-production work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setting up Your Own Chroma Key Studio
 
 Setting up your chroma key is convenient and straightforward, but there are some key factors to consider while setting up to ensure maximal performance.
@@ -436,6 +440,10 @@ Positioning/Camera
 Proper subject and camera placement are necessary to ensure an even color-keying process during post-production. To prevent shadow interference, the green screen should be smooth, tense, and without wrinkles or shadows.
 
 High-quality cameras are essential every time, especially for chroma keying. Images with better definition are easier to key, so camera quality significantly affects the outcome. Even if your camera isn’t the best, merely shooting well can ensure a clean color-keying process during editing, resulting in professional-looking visuals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recording Tips for Chroma Key
 
@@ -488,7 +496,7 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 ![green screen shooting](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Chroma Keying is done by singling out a specific color (usually green or blue) from the foreground, removing it, and replacing it with a different background (for example, a sunset). This process typically follows a series of steps:
@@ -508,10 +516,6 @@ This involves filming the subject against the **live chroma key background**. Du
 * Post-Processing:
 
 In post-production processing, the editor takes the keyed-out color and replaces it with the new background of their choice. This step creates the illusion that the subject is in a different setting or environment. The transparent areas become filled with the chosen background which, if done right, results in a cohesive and visually appealing composition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Green?
 
@@ -538,10 +542,6 @@ Digital Sensors
 Wardrobe and Set Design
 
 Bright green occurs less naturally in costumes and set designs than other colors, making green the optimal choice for reducing the likelihood of color spill and keying issues. However, if you know your scene will have lots of green, it is probably best to film with a blue screen, so there’s less risk of color spill and less post-production work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Setting up Your Own Chroma Key Studio
 
@@ -612,20 +612,18 @@ Green screen photography produces excellent results, and its ease of use makes i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-much-money-does-mr-beast-make/"><u>[New] How Much Money Does Mr. Beast Make</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] In 2024, Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-ranking-the-top-value-video-resources-online/"><u>[New] Ranking the Top Value Video Resources Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-profit-sharing-in-youtube-short-creation/"><u>2024 Approved Exploring Profit Sharing in YouTube Short Creation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-youtube-manages-content-post-upload/"><u>2024 Approved How YouTube Manages Content Post-Upload</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube/"><u>2024 Approved Unlocking the Potential of Edu-Vids Strategies for Captivating Your Viewers on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chromebook-revolution-zdnet-reviews-the-latest-5-advanced-ai-functionalities-introduced-by-google-this-week/"><u>Chromebook Revolution: ZDNet Reviews the Latest 5 Advanced AI Functionalities Introduced by Google This Week</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>In 2024, Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-review-comprehensive-look-at-videoshow-in-24/"><u>In 2024, Full Review - Comprehensive Look at VideoShow in '24</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-most-reliable-platforms-to-gather-video-intro-templates/"><u>In 2024, Most Reliable Platforms to Gather Video Intro Templates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/instagrams-role-in-distributing-your-podcast-episodes-for-2024/"><u>Instagram's Role in Distributing Your Podcast Episodes for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/moment-in-time-windows-108-screenshots-explained/"><u>Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-drones-best-prices-now-for-2024/"><u>Prime Drones, Best Prices Now for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/saving-gifs-on-your-iphone-a-step-by-step-approach/"><u>Saving GIFs on Your iPhone - A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-video-showdown-comparing-success-on-youtubes-vs-tiktok/"><u>Short Video Showdown Comparing Success on YouTubes Vs. TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-what-you-need-to-know-about-macos-big-sur/"><u>[New] 2024 Approved What You Need to Know About MacOS Big Sur</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>[New] In 2024, Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] 2024 Approved Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-instant-youtube-playlists-shared-tutorial/"><u>2024 Approved Instant YouTube Playlists Shared Tutorial</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-around-youtubes-restrictions/"><u>2024 Approved Navigating Around Youtube's Restrictions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-online-tutorial-adding-youtube-playlists-to-your-site/"><u>2024 Approved Online Tutorial Adding YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>2024 Approved Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-5-video-marketing-effective-tagging-techniques/"><u>2024 Approved Top 5 Video Marketing Effective Tagging Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo Y100 5G?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhance-your-mp4-files-with-srt-the-complete-guide/"><u>In 2024, Enhance Your MP4 Files with SRT – The Complete Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-teachers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>In 2024, Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco C50 | Dr.fone</u></a></li>
 </ul></div>
 

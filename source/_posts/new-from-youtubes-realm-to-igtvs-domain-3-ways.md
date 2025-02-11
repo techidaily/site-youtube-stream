@@ -1,7 +1,7 @@
 ---
 title: "[New] From YouTube's Realm to IGTV's Domain (3 Ways)"
-date: 2025-01-23T19:46:45.520Z
-updated: 2025-01-29T22:00:56.968Z
+date: 2025-02-04T17:47:51.602Z
+updated: 2025-02-10T23:26:48.998Z
 tags:
   - ai video
   - ai youtube
@@ -38,19 +38,11 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you don’t already have the original file of the video you’d like to upload to your IGTV channel, you can [download a video from YouTube](https://tools.techidaily.com/wondershare/filmora/download/), but keep in mind that you can’t use any content without permission from its owner.
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
 
@@ -58,13 +50,13 @@ Go to the **Effects tab** and click on the **Background Blur** submenu if you wa
 
 ![Filmora  convert YouTube to IGTV](https://images.wondershare.com/filmora/article-images/filmora-convert-youtube-video-igtv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case you are working with a video that already has a 16:9 aspect ratio, you can create a project that has the same aspect ratio, and then just use **the Rotate slider in the Transform menu**, to change turn a landscape video into a portrait video. The scaling tool is helpful to enlarge the frames in a vertical aspect ratio.
 
 ![Filmora  convert YouTube to IGTV with transform](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-to-convert-youtube-igtv.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Filmora lets you create vertical videos in just a few quick steps, which makes it a perfect choice for influencers and marketers who want to share video content on YouTube and IGTV.
 
@@ -72,13 +64,13 @@ Latest News: In Filmora V10.5 and later versions, there is a new feature called 
 
 ![Filmora  Auto-Reframe YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/auto-reframe-youtube-video-to-vertical-igtv-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can watch the video below to find out more information about the Auto-Reframe tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Use Kapwing to Convert YouTube to IGTV Online
 
@@ -92,12 +84,16 @@ Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose
 
 ![Kapwing  Rotate YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-convert-to-igtv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A growing number of IGTV users choose to rotate their videos, instead of resizing them, so if you already have a YouTube video with a 16:9 aspect ratio you can just rotate it and get a video with a 9:16 aspect ratio. Click on the **Rotate**  option and then rotate it **90 degrees clockwise or counterclockwise** and click on the **Create button**. If you opt for this method of creating a vertical video for IGTV, your video will remain the same size, but the viewers will have to hold their phones horizontally in order to view it properly.
 
 **You may also like:** [ How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Changing the Aspect Ratio of a YouTube Video with Final Cut Pro
@@ -114,6 +110,10 @@ Posting YouTube videos on your IGTV channel is still a somewhat complicated proc
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -129,21 +129,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>[New] 2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-integrate-youtube-playlists-into-your-site/"><u>[New] 2024 Approved How to Integrate YouTube Playlists Into Your Site</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unraveling-tiktoks-pfp-the-ultimate-explanation/"><u>[Updated] 2024 Approved Unraveling TikTok's PFP The Ultimate Explanation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-streaming-experience-via-youtubes-av1-feature/"><u>2024 Approved Transform Your Streaming Experience via YouTube's AV1 Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-ethical-ai-navigation/"><u>Charting the Course for Ethical AI Navigation</u></a></li>
-<li><a href="https://facebook.techidaily.com/differentiating-yourself-as-a-brand-choosing-between-personal-and-business-pages/"><u>Differentiating Yourself as a Brand: Choosing Between Personal and Business Pages</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expert-advice-on-free-youtube-events-without-extra-cost-for-2024/"><u>Expert Advice on Free Youtube Events without Extra Cost for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fresh-film-views-ranked-alternatives-1-7-for-2024/"><u>Fresh Film Views Ranked Alternatives #1-7 for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-frames-to-fun-youtube-gifs-creation-made-simple-for-2024/"><u>From Frames to Fun YouTube GIFs Creation Made Simple for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-most-recent-hp-envy-7536e7546d-deskjet-printer-drivers-secure-installation-guide/"><u>How to Get the Most Recent HP Envy 7536E/7546d Deskjet Printer Drivers - Secure Installation Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-instantaneity-in-playlist-dissemination-webby/"><u>In 2024, Instantaneity in Playlist Dissemination Webby</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-v29e-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo V29e with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-crafting-igtv-cover-photos/"><u>In 2024, Step-by-Step Guide to Crafting IGTV Cover Photos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-list-top-10-free-game-download-sites-for-pc-and-android-devices/"><u>In 2024, The Ultimate List Top 10 Free Game Download Sites for PC and Android Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovative-thumbnail-tips-for-mac-users-youtube-for-2024/"><u>Innovative Thumbnail Tips for Mac Users - YouTube for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/joshis-success-youtube-earnings-strategy-for-2024/"><u>Joshi's Success YouTube Earnings Strategy for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>[New] ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>[Updated] 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[Updated] 2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-boosting-youtube-rankings-with-top-seo-practices-1-11-for-2024/"><u>[Updated] Boosting YouTube Rankings with Top SEO Practices (1-11) for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leverage-these-top-12-tactics-to-surge-your-youtube-views/"><u>2024 Approved Leverage These Top 12 Tactics to Surge Your YouTube Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sharestream-downloader-fb-edition/"><u>2024 Approved ShareStream Downloader, FB Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-income-tracking-essential-steps-in-gauging-youtube-earnings/"><u>2024 Approved Streamline Income Tracking Essential Steps in Gauging YouTube Earnings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>2024 Approved Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/easy-guide-successfully-opening-mpg-videos-in-windows-10-and-11/"><u>Easy Guide: Successfully Opening MPG Videos in Windows 10 and 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hacking-the-meme-game-master-kinemaster-skills/"><u>Hacking the Meme Game Master KineMaster Skills</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimizing-your-music-library-transitioning-from-spotify-to-youtube-music/"><u>In 2024, Optimizing Your Music Library Transitioning From Spotify To YouTube Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/room-and-pc-prep-for-immersive-vr-experience-for-2024/"><u>Room & PC Prep for Immersive VR Experience for 2024</u></a></li>
 </ul></div>
 

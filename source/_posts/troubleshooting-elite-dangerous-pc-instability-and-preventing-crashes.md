@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Elite Dangerous PC Instability and Preventing Crashes
-date: 2025-01-23T23:41:58.238Z
-updated: 2025-01-30T02:18:59.868Z
+date: 2025-02-08T20:07:45.677Z
+updated: 2025-02-10T19:19:56.835Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
@@ -61,7 +65,15 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements, read on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Restart your computer**
 
@@ -82,7 +94,7 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Yes** .
@@ -93,10 +105,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -105,16 +113,12 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
@@ -125,10 +129,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
@@ -138,6 +138,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -157,10 +161,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -172,7 +172,7 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Relaunch and play Oxygen Not Included.
@@ -235,7 +235,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
@@ -250,13 +250,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer.
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall the game
 
@@ -275,7 +275,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
@@ -307,19 +307,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-forging-strong-connections-building-youtube-backlinks-right/"><u>[New] Forging Strong Connections Building YouTube Backlinks Right</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pioneering-youtube-success-stories-via-tubebuddy/"><u>[New] Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-avoiding-pitfalls-in-angled-and-merged-video-manipulation-android/"><u>[Updated] In 2024, Avoiding Pitfalls in Angled & Merged Video Manipulation (Android)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-decoding-whatsapps-audio-transmission-techniques/"><u>[Updated] In 2024, Decoding WhatsApp's Audio Transmission Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[Updated] Unleashing Creativity in iPhone Videography 8 Best Practices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfecting-iphoneipad-screenshots-a-youtube-guide/"><u>2024 Approved Perfecting iPhone/iPad Screenshots A YouTube Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tutorial-unmask-your-youtube-audience/"><u>2024 Approved Tutorial Unmask Your YouTube Audience</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revenue-rationale-calculating-your-average-earning-from-adsense-per-k-views/"><u>In 2024, Revenue Rationale Calculating Your Average Earning From AdSense per K Views</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-crafting-engaging-youtube-screen-closures-for-2024/"><u>Mastering the Art of Crafting Engaging YouTube Screen Closures for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/solving-your-keyboard-woes-with-simple-fixes-a-guide-by-yl-software-professionals/"><u>Solving Your Keyboard Woes with Simple Fixes: A Guide by YL Software Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-aax-audio-files-to-mp3-on-windows-10-and-11-a-step-by-step-guide/"><u>Transforming AAX Audio Files to MP3 on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-universal-audio-drivers-download/"><u>Yamaha Steinberg Universal Audio Drivers Download</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-steps-for-capturing-hd-content-on-fb/"><u>[New] Steps for Capturing HD Content on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>[New] The Best Aviation Start Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-breaking-down-snapchats-new-highlight-functionality/"><u>[Updated] Breaking Down Snapchat's New Highlight Functionality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-impact-5-secrets-for-increasing-your-video-writes/"><u>[Updated] Maximizing Impact 5 Secrets for Increasing Your Video' Writes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-forging-strong-connections-building-youtube-backlinks-right/"><u>2024 Approved Forging Strong Connections Building YouTube Backlinks Right</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>2024 Approved Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-v30t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme V30T by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile-for-2024/"><u>Efficient Revenue Streams The Guide to Making Money From YouTube Mobile for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hitching-your-video-trailers-to-youtube-success-for-2024/"><u>Hitching Your Video Trailers to YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-features-to-improve-visuals/"><u>In 2024, Leveraging YouTube's Features to Improve Visuals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-magic-5-lite-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Magic 5 Lite with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators/"><u>In 2024, Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/lyrical-explanation-designer-for-2024/"><u>Lyrical Explanation Designer for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-vpn-providers-the-ultimate-selection/"><u>Top-Ranking VPN Providers: The Ultimate Selection</u></a></li>
 </ul></div>
 
