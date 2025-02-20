@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS\""
-date: 2025-02-07T16:38:08.319Z
-updated: 2025-02-10T20:30:02.810Z
+date: 2025-02-19T15:05:09.835Z
+updated: 2025-02-20T08:48:43.938Z
 tags:
   - ai video
   - ai youtube
@@ -57,6 +57,10 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
 
 ![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
@@ -64,6 +68,10 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 **Step 8:** You can monetize your ads as per need.
 
 ![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 9:** It also provides options to add cards.
 
@@ -127,165 +135,12 @@ Live stream is little different from Stream Now platform as it allows users to s
 
 ![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 4:** Users can turn monetization On or Off as per their preferences.
-
-![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
-
-**Step 5:** As soon as you finish all above settings then simply click on the create event option.
-
-![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
-
-**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
-
-![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
-
-![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
-
-**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
-
-![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
-
-**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
-
-![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
-
-## Video tutorial
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-* [Part1\. Stream Now set up](#part1)
-* [Part2. Set up Your Live Streaming Encoder](#part2)
-* [Part3\. Youtube Events set up](#part3)
-* [Part4\. Video tutorial](#part4)
-
-## 1\. Stream Now set up
-
-Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
-
-**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
-
-![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
-
-**Step 2:** Choose the Video Manager option from top most toolbar.
-
-![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
-
-**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
-
-![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
-
-**Step 4:** Now hot the steam now option on your screen.
-
-![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
-
-**Step 5:** Change or Upload your thumbnail as per need.
-
-![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
-
-**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
-
-![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
-
-**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
-
-![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
-
-**Step 8:** You can monetize your ads as per need.
-
-![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
-
-**Step 9:** It also provides options to add cards.
-
-![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
-
-**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
-
-![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
-
-**Step 11:** Now you can set your live chat option as per your requirement.
-
-![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
-
-**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
-
-![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
-
-**Step 13:** Stream health can be monitored directly.
-
-![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
-
-**Step 14:** One can also use the social media button for live shares.
-
-![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2.Set up Your Live Streaming Encoder
-
-As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
-
-**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
-
-**Step 2:** Now launch OBS on your device and directly go to settings option.
-
-![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
-
-**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
-
-![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
-
-**Step 4:** Users can now add their sources and scenes.
-
-![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
-
-**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
-
-![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
-
-## 3\. Youtube Events set up
-
-Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
-
-**Step 1:** Simply click on the schedule event option on screen.
-
-![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
-
-**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
-
-![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
-
-**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
-
-![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
-
 **Step 4:** Users can turn monetization On or Off as per their preferences.
 
 ![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** As soon as you finish all above settings then simply click on the create event option.
@@ -383,10 +238,6 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 
 ![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 14:** One can also use the social media button for live shares.
 
 ![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
@@ -408,6 +259,10 @@ As soon as you have completed the above set up then next task is to adjust setti
 **Step 4:** Users can now add their sources and scenes.
 
 ![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
 
@@ -433,10 +288,6 @@ Live stream is little different from Stream Now platform as it allows users to s
 
 ![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** As soon as you finish all above settings then simply click on the create event option.
 
 ![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
@@ -456,10 +307,6 @@ Live stream is little different from Stream Now platform as it allows users to s
 **Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
 
 ![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Video tutorial
 
@@ -499,72 +346,217 @@ Follow these steps to live stream your impressive videos to YouTube using Stream
 **Step 4:** Now hot the steam now option on your screen.
 
 ![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
-
-**Step 5:** Change or Upload your thumbnail as per need.
-
-![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
-
-**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
-
-![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
-
-**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
-
-![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
-
-**Step 8:** You can monetize your ads as per need.
-
-![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
-
-**Step 9:** It also provides options to add cards.
-
-![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
-
-**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
-
-![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
-
-**Step 11:** Now you can set your live chat option as per your requirement.
-
-![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
-
-**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
-
-![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
-
-**Step 13:** Stream health can be monitored directly.
-
-![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 14:** One can also use the social media button for live shares.
-
-![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
-
-## 2.Set up Your Live Streaming Encoder
-
-As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
-
-**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
-
-**Step 2:** Now launch OBS on your device and directly go to settings option.
-
-![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+**Step 5:** Change or Upload your thumbnail as per need.
+
+![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
+
+**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
+
+![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
+
+**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
+
+![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
+
+**Step 8:** You can monetize your ads as per need.
+
+![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+
+**Step 9:** It also provides options to add cards.
+
+![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
+
+**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
+
+![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
+
+**Step 11:** Now you can set your live chat option as per your requirement.
+
+![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+
+**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
+
+![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
+
+**Step 13:** Stream health can be monitored directly.
+
+![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
+
+**Step 14:** One can also use the social media button for live shares.
+
+![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
+
+## 2.Set up Your Live Streaming Encoder
+
+As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
+
+**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
+
+**Step 2:** Now launch OBS on your device and directly go to settings option.
+
+![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+
 **Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
 
 ![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
 
+**Step 4:** Users can now add their sources and scenes.
+
+![add you scenes ](https://images.wondershare.com/filmora/article-images/add-you-scenes.jpg)
+
+**Step 5:** Once all these settings are done then you can simply hit the option for start streaming and it will bring your content to YouTube directly.
+
+![ click start streaming](https://images.wondershare.com/filmora/article-images/click-start-streaming.jpg)
+
+## 3\. Youtube Events set up
+
+Live stream is little different from Stream Now platform as it allows users to schedule the streams as well as a connectivity to Google Hangouts is provided. These easy to follow steps will assist you to handle all settings for your events using Live Stream tool:
+
+**Step 1:** Simply click on the schedule event option on screen.
+
+![schedule ](https://images.wondershare.com/filmora/article-images/schedule.jpg)
+
+**Step 2:** It is much easier to make settings for basic information as well as audience type. Make some desired changes to SNS platform. If you select the Quick type then it will directly select your webcam and you need not to make additional complicated settings whereas the custom type option provides easy set up options with OBS.
+
+![set the basic ](https://images.wondershare.com/filmora/article-images/set-the-basic.jpg)
+
+**Step 3:** The advance settings option works same as that of stream now features and users can adjust most of these settings as per their streaming needs.
+
+![ advance setting](https://images.wondershare.com/filmora/article-images/advance-setting.jpg)
+
+**Step 4:** Users can turn monetization On or Off as per their preferences.
+
+![ monetization](https://images.wondershare.com/filmora/article-images/monetization.jpg)
+
+**Step 5:** As soon as you finish all above settings then simply click on the create event option.
+
+![click create event](https://images.wondershare.com/filmora/article-images/click-create-event.jpg)
+
+**Step 6:** One more window will appear on your screen and here you can make adjustment for preferred bit rate. Also put your dedicated stream key with encoder.
+
+![ your bitrate](https://images.wondershare.com/filmora/article-images/your-bitrate.jpg)
+
+**Step 7:** When all above steps are completed then you need to hit the option for save changes so that your tool can act accordingly.
+
+![save changes ](https://images.wondershare.com/filmora/article-images/save-changes.jpg)
+
+**Step 8:** Now click on events and here you will be able to find your event. Move to live control room if you want to access complete details about this event and you can easily delete it.
+
+![live control room ](https://images.wondershare.com/filmora/article-images/live-control-room.jpg)
+
+**Step 9:** Users can set privacy terms or simple delete the event that is currently in action.
+
+![set the privacy ](https://images.wondershare.com/filmora/article-images/set-the-privacy.jpg)
+
+## Video tutorial
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1\. Stream Now set up](#part1)
+* [Part2. Set up Your Live Streaming Encoder](#part2)
+* [Part3\. Youtube Events set up](#part3)
+* [Part4\. Video tutorial](#part4)
+
+## 1\. Stream Now set up
+
+Follow these steps to live stream your impressive videos to YouTube using Stream Now tool:
+
+**Step 1:** First of all you need to login with your account and then move to Creator Studio option directly.
+
+![ creator studio](https://images.wondershare.com/filmora/article-images/creator-studio.jpg)
+
+**Step 2:** Choose the Video Manager option from top most toolbar.
+
+![video manager ](https://images.wondershare.com/filmora/article-images/video-manager.jpg)
+
+**Step 3:** From the drop down menu, simply select Live Streaming option to begin with.
+
+![live streaming ](https://images.wondershare.com/filmora/article-images/live-streaming.jpg)
+
+**Step 4:** Now hot the steam now option on your screen.
+
+![stream now ](https://images.wondershare.com/filmora/article-images/stream-now.jpg)
+
+**Step 5:** Change or Upload your thumbnail as per need.
+
+![thumbnail ](https://images.wondershare.com/filmora/article-images/thumbnail.jpg)
+
+**Step 6:** It is time to provide an eye catching title to your video, add description and finally choose category from the drop down menu.
+
+![  category](https://images.wondershare.com/filmora/article-images/category.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 7:** While using stream option, never forget to click on ‘make archive unlisted when complete’ option so that you can save as well as watch your content on YouTube at later stage.
+
+![make archive ](https://images.wondershare.com/filmora/article-images/make-archive.jpg)
+
+**Step 8:** You can monetize your ads as per need.
+
+![Monetizae you ](https://images.wondershare.com/filmora/article-images/monetizae-you.jpg)
+
+**Step 9:** It also provides options to add cards.
+
+![add your cards ](https://images.wondershare.com/filmora/article-images/add-your-cards.jpg)
+
+**Step 10:** Now move to encoder setup and then simply copy and paste these details to your streaming software.
+
+![ encoder setup](https://images.wondershare.com/filmora/article-images/encoder-setup.jpg)
+
+**Step 11:** Now you can set your live chat option as per your requirement.
+
+![ chat accordingly](https://images.wondershare.com/filmora/article-images/chat-accordingly.jpg)
+
+**Step 12:** The analysis window will help you to know about how many viewers are connected to your video as well as the message updates will be reflected.
+
+![watching and messages ](https://images.wondershare.com/filmora/article-images/watching-and-messages.jpg)
+
+**Step 13:** Stream health can be monitored directly.
+
+![stream health ](https://images.wondershare.com/filmora/article-images/stream-health.jpg)
+
+**Step 14:** One can also use the social media button for live shares.
+
+![ share via](https://images.wondershare.com/filmora/article-images/share-via.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2.Set up Your Live Streaming Encoder
+
+As soon as you have completed the above set up then next task is to adjust settings of your streaming encoder. It is possible to make easy selection out of wide range of live streaming encoders. The details below are provided with reference to OBS too that is open source type free to access software.
+
+**Step 1:** First of all you need to visit official website of OBS and get your software tool installed on your system.
+
+**Step 2:** Now launch OBS on your device and directly go to settings option.
+
+![ Go to setting](https://images.wondershare.com/filmora/article-images/go-to-setting.jpg)
+
+**Step 3:** It is time to copy the stream key from YouTube and then paste it directly in the specified field of OBS.
+
+![youtube to OBS ](https://images.wondershare.com/filmora/article-images/youtube-to-obs.jpg)
 
 **Step 4:** Users can now add their sources and scenes.
 
@@ -641,6 +633,10 @@ Follow @Richard Bennett
 # 10 YouTube Video Ideas for Sharing Your Personal Story
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Richard Bennett
 
@@ -771,6 +767,10 @@ Narrated Autobiopic videos are a great way to share your story or advice in a ci
 ### 9\.  25 Facts About Me Tag
 
 This is probably one of the easiest ways to share things about yourself when starting as a YouTuber or even if you’re a veteran. Viewers are always looking to learn more interesting things about you so you are more relatable. I’ve been a fan of Vasseur Beauty for a few years now and was surprised by many of the things she shared about herself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\.  YouTube Live/Webinar
 
@@ -949,22 +949,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-thread-to-thrill-sewing-secrets-on-tiktok/"><u>[New] From Thread to Thrill Sewing Secrets on TikTok</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-memorize-mastery-galaxy-phone-gameplay-archive-for-2024/"><u>[New] Memorize Mastery Galaxy Phone Gameplay Archive for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-time-the-finest-history-youtube-sources-for-students/"><u>[New] Navigating Through Time The Finest History YouTube Sources for Students</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-ranked-the-fastest-growing-youtube-platforms-for-encouragement/"><u>[New] Ranked The Fastest Growing YouTube Platforms for Encouragement</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>2024 Approved The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-xml-mastery-taking-your-editing-skills-to-the-next-level/"><u>FCPX XML Mastery Taking Your Editing Skills to the Next Level</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-grasp-the-art-of-steadiness-in-photography/"><u>In 2024, Grasp the Art of Steadiness in Photography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-making-an-impact-professional-thumbnail-design-for-youtube/"><u>In 2024, Making an Impact Professional Thumbnail Design for YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-playlist-on-a-page-embedding-yt-videos-online/"><u>In 2024, Playlist on a Page Embedding YT Videos Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-precise-codex-of-conduct-in-the-digital-realm/"><u>In 2024, Precise Codex of Conduct in the Digital Realm</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-trimming-tactics-for-time-strapped-youtubers/"><u>In 2024, Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-list-highest-rated-4k-blu-ray-player-models/"><u>Master List Highest Rated 4K Blu-Ray Player Models</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mobilize-your-storytelling-crafting-content-with-a-phone-for-2024/"><u>Mobilize Your Storytelling Crafting Content with a Phone for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-the-ultimate-all-in-one-language-solution/"><u>Mondly: The Ultimate, All-in-One Language Solution</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-online-video-making-with-wevideo/"><u>New In 2024, Unleash Your Creativity Online Video Making with WeVideo</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-c53-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme C53 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transform-imagination-to-reality-top-10-graphic-designers-on-android/"><u>Transform Imagination to Reality Top 10 Graphic Designers on Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-professional-footage-with-top-tier-stabilizers/"><u>[New] Professional Footage with Top-Tier Stabilizers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhance-clear-speech-on-skype-calls/"><u>[Updated] 2024 Approved Enhance Clear Speech on Skype Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>[Updated] 2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-demystifying-whatsapp-voice-chat-functionality/"><u>2024 Approved Demystifying WhatsApp Voice Chat Functionality</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-much-do-youtube-clips-pay-per-view/"><u>2024 Approved How Much Do YouTube Clips Pay Per View?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-magic-of-watching-nba-online-unveiling-the-best-15-strategies/"><u>2024 Approved The Magic of Watching NBA Online - Unveiling the Best 15 Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-viewers-into-vendors-ajey-nagars-earnings-excellence-on-youtube/"><u>2024 Approved Transforming Viewers Into Vendors Ajey Nagar’s Earnings Excellence on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-histories-student-favored-youtubes-on-historic-events/"><u>2024 Approved Uncovering Histories Student-Favored YouTubes on Historic Events</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-update-with-intel-hd520-drivers/"><u>Efficient Update with Intel HD520 Drivers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/stunning-alpine-panoramas-in-ultra-hd-download-exclusive-walls-and-backgrounds-from-yl-software/"><u>Stunning Alpine Panoramas in Ultra-HD – Download Exclusive Walls and Backgrounds From YL Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unboxing-t5s-capability-as-a-sports-recorder/"><u>Unboxing T5's Capability as a Sports Recorder</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-dec-is-a-pivotal-month-for-instagrams-chats/"><u>Why Dec Is a Pivotal Month for Instagram's Chats</u></a></li>
 </ul></div>
 
